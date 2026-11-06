@@ -1,0 +1,38 @@
+{
+  "13": {
+    "name": "2 roues",
+    "slug": "2-roues"
+  },
+  "10": {
+    "name": "Accessoire | équipement",
+    "slug": "accessoire-equipement"
+  },
+  "4": {
+    "name": "Achat & Occasion",
+    "slug": "achat-voiture"
+  },
+  "8": {
+    "name": "conduite",
+    "slug": "conduite"
+  },
+  "7": {
+    "name": "covering |racing",
+    "slug": "covering-racing"
+  },
+  "6": {
+    "name": "Entretien & Mecanique",
+    "slug": "entretien"
+  },
+  "5": {
+    "name": "Essence vs diesel",
+    "slug": "essence-vs-diesel"
+  },
+  "1": {
+    "name": "Général",
+    "slug": "general"
+  },
+  "12": {
+    "name": "voiture electrique",
+    "slug": "voiture-electrique"
+  }
+}

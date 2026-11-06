@@ -1,0 +1,227 @@
+Starting WordPress to Astro migration...
+
+1. Fetching posts...
+Fetched posts page 1: 100 posts (total so far: 100)
+Fetched posts page 2: 88 posts (total so far: 188)
+ERROR fetching https://modeme-automobiles.com/wp-json/wp/v2/posts?per_page=100&status=publish&_embed&page=3: HTTP Error 400: Bad Request
+   Total posts: 188
+
+2. Fetching pages...
+   Total pages: 2
+
+3. Fetching categories...
+   Total categories: 9
+
+4. Processing posts...
+Processing post 3313: duree-de-vie-du-liquide-de-frein-combien-de-temps-avant-de-le-changer
+Processing post 3327: accessoire-voiture-les-indispensables-pour-preparer-son-vehicule-a-lautomne
+Processing post 3297: covering-interieur-la-nouvelle-tendance-2026-pour-une-personnalisation-haut-de-gamme
+Processing post 3294: covering-tableau-de-bord-maitriser-les-risques-et-reussir-sa-pose-avec-les-bonnes-astuces
+Processing post 3278: covering-cameleon-voiture-la-metamorphose-esthetique-qui-sublime-2026
+Processing post 3409: film-anti-gravillons-voiture-une-protection-vraiment-utile-sur-autoroute-lete
+Processing post 3276: comment-proteger-efficacement-sa-voiture-de-la-chaleur-estivale
+Processing post 3206: bien-poser-son-covering-en-ete-guide-complet-pour-une-application-sans-defauts
+Processing post 3203: film-solaire-ceramique-ou-teinte-standard-le-guide-ultime-pour-choisir-la-meilleure-protection-de-vitres
+Processing post 3201: fatigue-conducteur-en-ete-adopter-les-bons-reflexes-pour-des-vacances-en-toute-securite
+Processing post 3196: borne-de-recharge-rapide-en-france-ou-recharger-a-quel-prix-et-comment-optimiser-votre-mobilite-electrique-en-2026
+Processing post 3194: accessoires-voiture-ete-le-guide-complet-pour-des-vacances-reussies-sur-la-route
+Processing post 3150: les-outils-indispensables-pour-une-pose-de-covering-reussie
+Processing post 3148: lavage-sans-eau-mode-demploi-et-selection-de-kits-ecologiques-pour-lete
+Processing post 3146: micro-rayures-voiture-comment-les-eviter-et-proteger-votre-carrosserie-durablement
+Processing post 3144: ppf-ou-covering-quelle-solution-choisir-pour-proteger-et-personnaliser-la-carrosserie
+Processing post 3141: check-voiture-vacances-reussir-la-preparation-de-son-vehicule-pour-un-road-trip-estival-en-toute-securite
+Processing post 3139: voiture-decote-lente-bien-choisir-en-2026-pour-limiter-la-perte-de-valeur
+Processing post 3050: vinyle-coule-vs-calandre-comprendre-les-differences-pour-un-covering-auto-reussi
+Processing post 3048: comment-bien-preparer-sa-voiture-pour-lete-guide-complet-avant-le-depart-en-vacances
+   Processed 20/188 posts...
+Processing post 3045: comment-reussir-la-pose-dun-covering-voiture-soi-meme-guide-pratique-pour-passionnes
+Processing post 3043: film-solaire-voiture-comparatif-et-guide-pour-choisir-le-bon-modele
+Processing post 3041: duree-de-vie-moteur-prolonger-la-longevite-de-votre-voiture-au-quotidien
+Processing post 3039: comprendre-le-cout-de-la-recharge-dune-voiture-electrique-a-quoi-sattendre-en-2024
+Processing post 3022: tout-savoir-sur-lepaisseur-des-films-covering-guide-technique-et-conseils-pratiques-pour-un-choix-optimal
+Processing post 3020: nettoyage-de-printemps-voiture-reussir-lentretien-saisonnier-pas-a-pas
+Processing post 3017: reduire-sa-consommation-dessence-pratiques-efficaces-pour-les-automobilistes
+Processing post 3014: reprise-voiture-astuces-incontournables-pour-maximiser-la-valeur-de-votre-vehicule
+Processing post 3012: produits-detailing-dangereux-comment-eviter-les-erreurs-courantes-en-entretien-automobile
+Processing post 3010: le-covering-blanc-perle-lelegance-au-service-de-la-personnalisation-automobile
+Processing post 2998: covering-mat-ou-brillant-le-duel-des-styles-pour-votre-voiture
+Processing post 3321: equipement-obligatoire-voiture-hiver-ce-que-la-loi-impose-et-ce-quil-faut-vraiment-prevoir
+Processing post 3315: preparer-sa-voiture-pour-lhiver-la-checklist-complete-pour-rouler-en-toute-securite
+Processing post 2994: mettre-sa-voiture-a-labri-du-printemps-guide-passionne-pour-une-protection-carrosserie-efficace
+Processing post 2992: voiture-compacte-2026-quel-modele-choisir-a-moins-de-20-000-e
+Processing post 2990: lavage-voiture-conseils-mode-demploi-pour-un-resultat-sans-rayure
+Processing post 2988: covering-carbone-voiture-lelegance-sculpturale-reinventee-en-2026
+Processing post 2941: quels-accessoires-pour-une-pose-de-covering-reussie
+Processing post 2938: peinture-ou-covering-le-duel-ultime-pour-sublimer-et-proteger-votre-carrosserie
+Processing post 2936: moteur-fatigue-8-signes-a-surveiller-pour-eviter-la-panne-fatale
+   Processed 40/188 posts...
+Processing post 2933: les-5-pires-produits-detailing-a-eviter-selon-les-pros
+Processing post 2929: voiture-neuve-ou-doccasion-que-choisir-en-2026
+Processing post 2889: comment-poser-un-film-ppf-soi-meme-guide-expert-pour-reussir-la-protection-de-votre-carrosserie
+Processing post 2887: voiture-electrique-doccasion-guide-2026-pour-bien-acheter
+Processing post 2885: eviter-la-buee-dans-la-voiture-methodes-pratiques-pour-un-pare-brise-toujours-clair
+Processing post 2883: entretien-du-covering-en-hiver-le-guide-ultime-pour-une-protection-parfaite
+Processing post 2881: les-10-accessoires-hiver-auto-a-avoir-absolument-pour-passer-lhiver-en-toute-securite
+Processing post 2879: batterie-voiture-comment-survivre-a-lhiver-sans-tomber-en-panne
+Processing post 2832: affrontez-lhiver-5-protections-incontournables-contre-le-sel-et-le-froid
+Processing post 2829: conduire-sur-neige-astuces-et-equipements-a-prevoir-pour-rouler-en-toute-securite
+Processing post 2827: les-coloris-de-covering-les-plus-populaires-cet-hiver-tendances-inspirations-et-finitions-pour-transformer-votre-voiture
+Processing post 2821: les-entretiens-a-ne-jamais-negliger-avant-lhiver-pour-votre-voiture
+Processing post 2738: 7-accessoires-indispensables-pour-proteger-sa-carrosserie-et-garder-votre-voiture-comme-neuve
+Processing post 2750: voiture-electrique-ou-hybride-quel-choix-privilegier-en-2025-pour-optimiser-cout-dentretien-fiscalite-et-usage
+Processing post 2734: le-top-10-des-voitures-les-plus-fiables-pour-un-premier-achat-en-2025
+Processing post 2745: film-de-protection-carrosserie-utile-ou-gadget-pour-lautomobiliste-moderne
+Processing post 2662: top-5-des-antivols-pour-motos-chaines
+Processing post 2657: comparatif-des-meilleurs-casques-modulables-et-integraux-trouver-lequilibre-entre-securite-et-confort
+Processing post 2652: comparer-achat-leasing-et-location-longue-duree-pour-voitures-electriques-que-choisir
+Processing post 2646: suv-electriques-et-berlines-comment-choisir-selon-son-usage-et-son-budget-en-2025
+   Processed 60/188 posts...
+Processing post 2634: accessoires-auto-connectes-bien-choisir-entre-chargeurs-usb-intercom-bluetooth-et-diagnostics-obd
+Processing post 2605: covering-racing-et-homologation-ce-quil-faut-savoir-avant-de-transformer-son-vehicule
+Processing post 2599: quels-sont-les-meilleurs-films-pour-un-covering-racing-comparatif-des-marques
+Processing post 2592: comment-choisir-la-frequence-ideale-de-vidange-pour-votre-voiture
+Processing post 2584: guide-complet-quand-remplacer-les-plaquettes-de-frein
+Processing post 2452: entretien-des-deux-roues-electriques-conseils-pour-prolonger-la-duree-de-vie-de-votre-vehicule
+Processing post 2427: organisez-votre-coffre-solutions-de-rangement-pratiques-et-esthetiques
+Processing post 2415: guide-complet-des-motos-electriques-en-2025-modeles-performances-et-autonomie
+Processing post 2406: top-5-des-offres-de-leasing-pour-voitures-electriques-a-moins-de-150-e-mois-en-2025
+Processing post 2374: accessoire-voiture-indispensable-comment-optimiser-son-equipement-auto
+Processing post 2363: les-2-roues-electriques-une-revolution-dans-la-mobilite-urbaine
+Processing post 2352: les-voitures-electriques-accessibles-a-100-euros-par-mois
+Processing post 2328: eclairage-led-ameliorer-la-visibilite-lors-des-nuits-hivernales
+Processing post 2311: entretien-des-motos-yamaha-les-points-cles-a-verifier-regulierement
+Processing post 2295: limpact-de-la-transition-energetique-sur-le-marche-automobile
+Processing post 2278: choisir-les-meilleures-chaines-a-neige-pour-votre-vehicule
+Processing post 2264: guide-dachat-choisir-sa-premiere-moto-yamaha-selon-son-style-de-conduite
+Processing post 2250: equipements-essentiels-pour-la-conduite-en-neige-ce-quil-faut-savoir
+Processing post 2231: decouverte-de-lunivers-des-motos-yamaha-une-reference-incontournable
+Processing post 2223: les-avantages-fiscaux-pour-lachat-dun-vehicule-electrique-en-2025
+   Processed 80/188 posts...
+Processing post 2199: organiseurs-de-voiture-solutions-pratiques-pour-un-habitacle-bien-range
+Processing post 2168: les-meilleurs-supports-pour-smartphones-securite-et-accessibilite-en-conduite
+Processing post 2106: accessoire-voiture-homme-les-indispensables-pour-un-voyage-plus-confortable-et-style
+Processing post 2092: voitures-electriques-et-long-trajets-conseils-pour-voyager-sereinement
+Processing post 2063: inspection-technique-moto-les-equipements-dafy-pour-une-moto-au-top
+Processing post 2036: les-meilleures-applications-pour-localiser-les-stations-de-recharge-en-france
+Processing post 2028: gants-bottes-protections-le-guide-complet-des-equipements-dafy-moto
+Processing post 2003: personnaliser-leclairage-interieur-de-votre-voiture-astuces-et-conseils
+Processing post 1980: dafy-moto-un-incontournable-pour-les-passionnes-de-deux-roues
+Processing post 1960: les-meilleurs-gadgets-technologiques-pour-moderniser-votre-voiture
+Processing post 1940: guide-complet-pour-linstallation-dune-borne-de-recharge-a-domicile-pour-vehicule-electrique
+Processing post 1904: les-accessoires-incontournables-pour-personnaliser-sa-voiture-au-feminin
+Processing post 1881: les-defis-de-lentretien-des-vehicules-electriques-face-a-la-fin-du-diesel
+Processing post 1855: comment-choisir-les-meilleures-housses-de-siege-pour-votre-vehicule
+Processing post 1822: les-indispensables-accessoires-exterieurs-pour-proteger-votre-voiture
+Processing post 1807: tout-savoir-sur-les-meilleures-voitures-electriques
+Processing post 1765: accessoire-voiture-interieur-ameliorez-votre-confort-au-quotidien
+Processing post 1736: inspection-technique-des-deux-roues-les-points-de-controle-essentiels
+Processing post 1727: comparatif-des-meilleures-citadines-electriques-en-2025
+Processing post 1720: comprendre-les-sanctions-liees-au-non-respect-du-controle-technique-moto
+   Processed 100/188 posts...
+Processing post 1693: tout-savoir-sur-le-controle-technique-des-2-roues-en-france
+Processing post 1685: les-meilleures-pratiques-pour-prolonger-la-duree-de-vie-des-batteries-de-voitures-electriques
+Processing post 1672: guide-des-tailles-comment-mesurer-votre-tete-pour-un-casque-moto-adapte
+Processing post 1657: les-voitures-electriques-une-revolution-silencieuse-sur-nos-routes
+Processing post 1640: comment-recharger-le-gaz-refrigerant-de-votre-climatisation-auto-en-toute-securite
+Processing post 1627: voyager-en-moto-les-10-accessoires-indispensables-pour-un-confort-optimal
+Processing post 1604: limpact-dune-climatisation-mal-entretenue-sur-la-consommation-de-carburant
+Processing post 1564: comment-eviter-les-pieges-lors-de-lachat-daccessoires-auto-en-ligne
+Processing post 1547: comprendre-les-differences-entre-les-cartes-de-recharge-pour-voiture-electrique-et-les-cartes-bancaires
+Processing post 1528: comprendre-la-distance-de-securite-a-moto-pour-une-conduite-sure
+Processing post 1500: tout-savoir-sur-lentretien-des-vehicules-electriques-avantages-et-inconvenients
+Processing post 1477: top-5-des-accessoires-de-voiture-a-posseder-pour-une-reparation-diy
+Processing post 1462: tout-savoir-sur-lentretien-de-la-climatisation-de-votre-voiture
+Processing post 1436: les-revisions-automobiles-incontournables-pour-une-conduite-sans-souci
+Processing post 1417: vehicules-doccasion-limportance-dun-carnet-dentretien-complet
+Processing post 1376: covering-voiture-camouflage-tout-ce-que-vous-devez-savoir
+Processing post 1332: carnet-dentretien-un-allie-indispensable-pour-la-longevite-de-votre-voiture
+Processing post 1315: peinture-traditionnelle-ou-covering-racing-quel-choix-faire
+Processing post 1306: impact-du-covering-racing-sur-la-valeur-de-revente-de-votre-vehicule
+Processing post 1276: les-avantages-du-nettoyage-moteur-pourquoi-et-quand-le-realiser
+   Processed 120/188 posts...
+Processing post 1269: combien-coute-un-covering-voiture-guide-complet-sur-les-tarifs-et-options
+Processing post 1255: proteger-votre-moto-de-la-corrosion-en-hiver-conseils-essentiels-pour-eviter-les-ravages-du-sel
+Processing post 1184: les-regions-ou-les-voitures-diesel-sont-encore-privilegiees-en-france
+Processing post 1179: les-incitations-gouvernementales-pour-passer-du-diesel-a-lelectrique
+Processing post 1171: les-couleurs-les-plus-populaires-pour-le-covering-des-voitures-de-course-en-2025
+Processing post 1148: lavenir-des-voitures-diesel-jusqua-quand-seront-elles-sur-nos-routes
+Processing post 1133: les-differents-types-de-films-de-covering-lequel-choisir-pour-votre-projet
+Processing post 1097: les-outils-indispensables-pour-reparer-une-vitre-laterale-soi-meme
+Processing post 1069: voiture-diesel-qui-consomme-le-moins-guide-complet-pour-faire-le-bon-choix
+Processing post 1060: comment-le-nettoyage-du-systeme-dadmission-ameliore-les-performances-moteur
+Processing post 1045: comparatif-les-meilleures-alternatives-essence-aux-vehicules-diesel-interdits-en-2024
+Processing post 1032: comment-proteger-votre-voiture-des-intemperies-astuces-et-conseils-pratiques
+Processing post 1025: linterdiction-du-diesel-en-2024-un-tournant-pour-les-vehicules-essence-sur-le-marche-de-loccasion
+Processing post 1013: linterdiction-des-voitures-diesel-en-2024-ce-quil-faut-savoir
+Processing post 1004: les-mysteres-des-systemes-de-direction-assistee-devoiles
+Processing post 992: les-meilleures-voitures-essence-automatiques-pour-remplacer-votre-diesel
+Processing post 969: voiture-essence-automatique-un-guide-complet
+Processing post 960: les-consequences-dun-mauvais-entretien-des-liquides-automobiles-sur-la-securite-routiere
+Processing post 946: entretien-des-moteurs-essence-conseils-pour-une-longevite-optimale
+Processing post 932: les-vehicules-essence-les-plus-economiques-en-carburant
+   Processed 140/188 posts...
+Processing post 916: quelle-est-la-voiture-essence-la-plus-fiable
+Processing post 866: les-meilleures-voitures-essence-qui-consomment-le-moins
+Processing post 858: voitures-doccasion-comment-acheter-intelligemment-avec-la-centrale
+Processing post 840: verifier-une-voiture-doccasion-sur-le-bon-coin-les-points-de-controle-incontournables
+Processing post 829: le-bon-coin-comment-denicher-une-voiture-doccasion-au-meilleur-prix
+Processing post 819: voiture-doccasion-sur-le-bon-coin-astuces-et-conseils-pour-acheter-sereinement
+Processing post 803: comment-verifier-lhistorique-dun-vehicule-avant-lachat-en-allemagne
+Processing post 797: les-meilleures-periodes-de-lannee-pour-acheter-une-voiture-en-allemagne
+Processing post 787: achat-voiture-en-allemagne-un-guide-complet-pour-limportation
+Processing post 684: les-meilleures-astuces-pour-negocier-le-prix-dune-kia-doccasion
+Processing post 670: comparatif-acheter-une-voiture-doccasion-chez-un-concessionnaire-vs-un-particulier
+Processing post 654: les-services-additionnels-a-considerer-dans-un-contrat-de-location-longue-duree
+Processing post 633: les-impacts-du-kilometrage-sur-les-couts-dentretien-futurs-dun-vehicule-doccasion
+Processing post 613: guide-dachat-comment-choisir-la-voiture-ideale-pour-un-chauffeur-de-taxi
+Processing post 584: acheter-une-voiture-doccasion-faut-il-privilegier-les-concessions-ou-les-particuliers
+Processing post 541: revision-complete-de-votre-voiture-pourquoi-opter-pour-un-centre-auto-plutot-quun-garage
+Processing post 516: comment-appliquer-un-film-ppf-comme-un-pro-avec-gyeon-q%c2%b2m-ppf-slip
+Processing post 479: nettoyer-et-entretenir-le-film-de-covering-de-votre-vehicule
+Processing post 460: le-guide-complet-pour-acheter-une-voiture-doccasion-pas-chere
+Processing post 434: naviguez-vers-le-succes-les-10-meilleurs-automobiles-moderne-pour-dompter-les-rues-en-tant-que-chauffeur-de-taxi
+   Processed 160/188 posts...
+Processing post 429: lentretien-dune-voiture-electrique-est-il-moins-couteux-que-celui-dun-vehicule-thermique
+Processing post 425: comment-reparer-votre-carrosserie-de-voiture-avec-la-resine-epoxy
+Processing post 415: les-bonnes-pratiques-pour-circuler-a-moto
+Processing post 412: voyager-a-moto-quels-avantages-et-quelles-astuces-pour-reussir-laventure
+Processing post 406: le-kilometrage-dune-voiture-doccasion-son-impact-reel
+Processing post 389: boutique-daccessoires-auto-et-tuning-comment-bien-la-choisir
+Processing post 384: comment-choisir-votre-casque-de-moto
+Processing post 380: changement-dampoule-sur-une-voiture-quelques-elements-a-prendre-en-compte
+Processing post 373: vehicules-en-location-longue-duree-ce-quil-faut-savoir-avant-de-sauter-le-pas
+Processing post 367: comment-conserver-laspect-neuf-de-votre-voiture
+Processing post 359: achetez-votre-vehicule-doccasion-chez-un-concessionnaire
+Processing post 355: 4-bonnes-raisons-de-faire-nettoyer-votre-moteur
+Processing post 347: que-faire-si-une-vitre-laterale-de-votre-voiture-est-cassee
+Processing post 325: pourquoi-acheter-une-kia-doccasion
+Processing post 321: que-faut-il-savoir-sur-les-cartes-de-recharges-electriques
+WARNING: Could not download image https://modeme-automobiles.com/wp-content/uploads/2022/09/Que-faut-il-savoir-sur-les-cartes-de-recharges-electriques .jpeg: 'ascii' codec can't encode character '\u2009' in position 90: ordinal not in range(128)
+Processing post 294: la-voiture-electrique-comment-lutiliser-de-la-maniere-la-plus-propre
+Processing post 235: quelles-sont-les-bonnes-astuces-pour-ameliorer-linterieur-de-son-automobile
+Processing post 185: quel-est-le-cout-de-limmatriculation-de-votre-nouvelle-voiture
+Processing post 145: pieces-detachees-automobiles-voici-5-raisons-de-les-acheter-en-ligne
+Processing post 139: les-bonnes-raisons-pour-acheter-une-voiture-doccasion
+   Processed 180/188 posts...
+Processing post 131: ampoules-led-pour-voitures-motos-et-camions-pourquoi-choisir-next-tech
+Processing post 106: 10-choses-a-verifier-lors-de-lachat-dune-voiture-doccasion
+Processing post 48: poser-le-covering-voiture-soi-meme-comment-proceder
+Processing post 45: combien-de-temps-dure-un-covering-voiture
+Processing post 43: quest-ce-que-le-covering-voiture
+Processing post 26: quel-sont-les-entretiens-a-effectuer-pour-une-voiture
+Processing post 14: quel-est-le-kilometrage-maximum-pour-une-voiture-doccasion
+Processing post 18: quand-changer-de-voiture
+
+5. Processing pages...
+Processing post 230: politique-de-confidentialite
+Processing post 34: contact
+
+============================================================
+MIGRATION SUMMARY
+============================================================
+Posts/Pages processed successfully: 190
+Posts/Pages failed: 0
+Images downloaded: 457
+Images failed: 0
+Output directory: /home/hermes-yannick-seo/modeme-automobiles-web/src/content/posts
+============================================================

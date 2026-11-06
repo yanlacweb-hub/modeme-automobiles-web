@@ -1,0 +1,710 @@
+---
+// src/layouts/BaseLayout.astro
+import { getCollection } from 'astro:content';
+import { categorySlug } from '../utils/categories';
+
+interface Props {
+  title: string;
+  description?: string;
+  canonical?: string;
+}
+
+const { title, description = '', canonical } = Astro.props;
+
+// Only list categories that actually have at least one post, to avoid dead nav links.
+const allPosts = await getCollection('posts');
+const categoryCounts = new Map<string, number>();
+allPosts.forEach((post) => {
+  (post.data.categories || []).forEach((cat: string) => {
+    categoryCounts.set(cat, (categoryCounts.get(cat) || 0) + 1);
+  });
+});
+const categories = Array.from(categoryCounts.keys()).sort();
+---
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{title}</title>
+  {description && <meta name="description" content={description}>}
+  {canonical && <link rel="canonical" href={canonical}>}
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  
+  <!-- Google Fonts: Manrope (modern, light sans headlines) + DM Sans (clean body) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <style is:global>
+    :root {
+      /* Warm Off-white / Cream Background */
+      --color-cream: #fdfbf7;
+      --color-cream-light: #faf6f0;
+      
+      /* Vivid Amber / Orange Accent */
+      --color-amber: #e8821a;
+      --color-amber-light: #f5a638;
+      --color-amber-dark: #d4721a;
+      
+      /* Warm Text Colors */
+      --color-text-primary: #1c1a17;
+      --color-text-secondary: #4a4340;
+      --color-text-light: #6b6260;
+      
+      /* Header / Footer */
+      --color-dark-header: #2a2520;
+      
+      /* Typography */
+      --font-display: 'Manrope', sans-serif;
+      --font-body: 'DM Sans', sans-serif;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--font-body);
+      line-height: 1.6;
+      color: var(--color-text-primary);
+      background-color: var(--color-cream);
+      letter-spacing: -0.2px;
+    }
+
+    a {
+      color: var(--color-amber);
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    a:hover {
+      color: var(--color-amber-dark);
+    }
+
+    /* Header & Navigation */
+    header {
+      background: var(--color-dark-header);
+      backdrop-filter: saturate(180%) blur(20px);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      border-bottom: 2px solid var(--color-amber);
+    }
+
+    .header-content {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 2rem;
+      height: 56px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .logo {
+      font-family: var(--font-display);
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: var(--color-cream);
+      letter-spacing: -0.5px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .logo a {
+      color: var(--color-cream);
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      transition: color 0.2s ease;
+    }
+
+    .logo a:hover {
+      color: var(--color-amber);
+    }
+
+    /* Custom logo mark: small rounded-square icon before text */
+    .logo-mark {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 32px;
+      height: 32px;
+      background: var(--color-amber);
+      border-radius: 7px;
+      color: var(--color-cream);
+      flex-shrink: 0;
+      font-weight: 800;
+      font-size: 1.2rem;
+    }
+
+    .logo-mark svg {
+      width: 18px;
+      height: 18px;
+    }
+
+    /* Accent dot after wordmark */
+    .logo-dot {
+      display: inline-block;
+      width: 5px;
+      height: 5px;
+      background: var(--color-amber);
+      border-radius: 50%;
+      margin-left: 0.3rem;
+    }
+
+    /* Navigation Container — just the "Accueil" link + search icon + mobile toggle up top;
+       the categories themselves live in the always-visible .subnav bar below. */
+    .nav-wrapper {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      margin-left: auto;
+    }
+
+    .nav-wrapper a.home-link {
+      font-size: 0.95rem;
+      color: rgba(255, 255, 255, 0.85);
+      font-weight: 500;
+      white-space: nowrap;
+    }
+
+    .nav-wrapper a.home-link:hover {
+      color: var(--color-amber);
+    }
+
+    .search-icon-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 36px;
+      height: 36px;
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      color: var(--color-cream);
+      cursor: pointer;
+      border-radius: 6px;
+      transition: all 0.2s ease;
+      padding: 0;
+      font-size: 0;
+    }
+
+    .search-icon-btn:hover {
+      background: rgba(255, 255, 255, 0.12);
+      color: var(--color-amber);
+    }
+
+    .mobile-menu-btn {
+      display: none;
+      align-items: center;
+      justify-content: center;
+      width: 36px;
+      height: 36px;
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      color: var(--color-cream);
+      cursor: pointer;
+      border-radius: 6px;
+      transition: all 0.2s ease;
+      padding: 0;
+    }
+
+    .mobile-menu-btn svg {
+      width: 20px;
+      height: 20px;
+    }
+
+    .mobile-menu-btn:hover {
+      background: rgba(255, 255, 255, 0.12);
+      color: var(--color-amber);
+    }
+
+    .mobile-menu-panel {
+      display: none;
+      flex-direction: column;
+      background: var(--color-dark-header);
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+      padding: 0.5rem 1rem 1rem;
+    }
+
+    .mobile-menu-panel.open {
+      display: flex;
+    }
+
+    .mobile-menu-panel a {
+      color: var(--color-cream);
+      padding: 0.85rem 0.25rem;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      font-size: 0.95rem;
+    }
+
+    .mobile-menu-panel a:last-child {
+      border-bottom: none;
+    }
+
+    .mobile-menu-panel a:hover {
+      color: var(--color-amber);
+    }
+
+    .search-icon-btn svg {
+      width: 18px;
+      height: 18px;
+      stroke: currentColor;
+      stroke-width: 2;
+    }
+
+    .menu-toggle {
+      display: none;
+      align-items: center;
+      gap: 0.4rem;
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      color: var(--color-cream);
+      font-family: var(--font-body);
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      padding: 0.45rem 0.8rem;
+      border-radius: 6px;
+    }
+
+    .menu-toggle .chevron {
+      font-size: 0.65rem;
+      transition: transform 0.2s ease;
+    }
+
+    .menu-toggle[aria-expanded="true"] .chevron {
+      transform: rotate(180deg);
+    }
+
+    /* Always-visible category sub-bar: full width, wraps cleanly to a 2nd
+       line at narrow widths instead of overflowing/cutting off. */
+    .subnav {
+      background: rgba(0, 0, 0, 0.18);
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .subnav-inner {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0.6rem 2rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem 1.5rem;
+    }
+
+    .subnav-inner a {
+      font-size: 0.85rem;
+      color: rgba(255, 255, 255, 0.75);
+      font-weight: 500;
+      white-space: nowrap;
+      padding: 0.2rem 0;
+      border-bottom: 2px solid transparent;
+    }
+
+    .subnav-inner a:hover {
+      color: var(--color-amber);
+      border-bottom-color: var(--color-amber);
+    }
+
+    /* Main content */
+    main {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 3rem 2rem;
+    }
+
+    /* Footer */
+    footer {
+      background: var(--color-dark-header);
+      color: var(--color-cream);
+      margin-top: 6rem;
+      padding: 4rem 2rem;
+      font-size: 0.9rem;
+      border-top: 2px solid var(--color-amber);
+    }
+
+    .footer-content {
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .footer-top {
+      display: grid;
+      grid-template-columns: 1.5fr 1fr 1fr;
+      gap: 3rem;
+      margin-bottom: 3rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .footer-brand {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .footer-logo {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 1.2rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+    }
+
+    .footer-logo-mark {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 28px;
+      height: 28px;
+      background: var(--color-amber);
+      border-radius: 6px;
+      color: var(--color-dark-header);
+      font-weight: 800;
+      font-size: 1rem;
+    }
+
+    .footer-description {
+      color: rgba(255, 255, 255, 0.7);
+      font-size: 0.85rem;
+      line-height: 1.5;
+    }
+
+    .footer-column {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .footer-column h4 {
+      font-family: var(--font-display);
+      font-size: 0.95rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--color-amber);
+      margin: 0;
+    }
+
+    .footer-column a {
+      color: rgba(255, 255, 255, 0.7);
+      font-size: 0.85rem;
+      transition: all 0.2s ease;
+    }
+
+    .footer-column a:hover {
+      color: var(--color-amber);
+      padding-left: 2px;
+    }
+
+    .footer-social {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+
+    .footer-social-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 36px;
+      height: 36px;
+      background: rgba(232, 130, 26, 0.2);
+      border: 1px solid rgba(232, 130, 26, 0.4);
+      color: var(--color-amber);
+      border-radius: 6px;
+      transition: all 0.2s ease;
+      cursor: pointer;
+      font-size: 0;
+    }
+
+    .footer-social-btn:hover {
+      background: var(--color-amber);
+      color: white;
+      border-color: var(--color-amber);
+    }
+
+    .footer-social-btn svg {
+      width: 16px;
+      height: 16px;
+    }
+
+    .footer-bottom {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 2rem;
+    }
+
+    .footer-copyright {
+      color: rgba(255, 255, 255, 0.7);
+      font-size: 0.85rem;
+    }
+
+    .footer-legal-links {
+      display: flex;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+    }
+
+    .footer-legal-links a {
+      color: rgba(255, 255, 255, 0.7);
+      font-size: 0.85rem;
+      transition: all 0.2s ease;
+    }
+
+    .footer-legal-links a:hover {
+      color: var(--color-amber);
+    }
+
+    .placeholder-note {
+      color: rgba(232, 130, 26, 0.8);
+      font-size: 0.75rem;
+      margin-top: 0.25rem;
+      font-style: italic;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .header-content {
+        padding: 0 1.5rem;
+      }
+
+      .logo {
+        font-size: 1.2rem;
+      }
+
+      .logo-mark {
+        width: 24px;
+        height: 24px;
+        font-size: 0.8rem;
+      }
+
+      .nav-wrapper {
+        gap: 0.75rem;
+      }
+
+      .mobile-menu-btn {
+        display: flex;
+      }
+
+      .search-icon-btn {
+        width: 32px;
+        height: 32px;
+      }
+
+      .subnav-inner {
+        padding: 0.5rem 1.5rem;
+        gap: 0.3rem 1rem;
+      }
+
+      .subnav-inner a {
+        font-size: 0.8rem;
+      }
+
+      main {
+        padding: 2rem 1.5rem;
+      }
+
+      footer {
+        padding: 3rem 1.5rem;
+      }
+
+      .footer-top {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+        margin-bottom: 2rem;
+        padding-bottom: 1.5rem;
+      }
+
+      .footer-bottom {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1.5rem;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .header-content {
+        padding: 0 1rem;
+        height: 52px;
+      }
+
+      .logo {
+        font-size: 1rem;
+      }
+
+      .logo-mark {
+        width: 22px;
+        height: 22px;
+        font-size: 0.75rem;
+      }
+
+      .nav-wrapper a.home-link {
+        display: none;
+      }
+
+      .subnav-inner {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        padding: 0.5rem 1rem;
+        gap: 1.25rem;
+      }
+
+      .subnav-inner::-webkit-scrollbar {
+        display: none;
+      }
+
+      .subnav-inner a {
+        white-space: nowrap;
+      }
+
+      main {
+        padding: 1.5rem 1rem;
+      }
+
+      footer {
+        padding: 2rem 1rem;
+      }
+
+      .footer-top {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+      }
+
+      .footer-legal-links {
+        flex-direction: column;
+        gap: 0.75rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <div class="logo">
+        <a href="/">
+          <span class="logo-mark">M</span>
+          <span>Modeme Automobiles</span>
+          <span class="logo-dot"></span>
+        </a>
+      </div>
+      <div class="nav-wrapper">
+        <a href="/" class="home-link">Accueil</a>
+        <button class="search-icon-btn" title="Rechercher" aria-label="Rechercher">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        </button>
+        <button class="mobile-menu-btn" title="Menu" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="mobile-menu-panel">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        </button>
+      </div>
+    </div>
+    <div class="subnav">
+      <nav class="subnav-inner">
+        {categories.map(cat => (
+          <a href={`/categories/${categorySlug(cat)}/`}>{cat}</a>
+        ))}
+      </nav>
+    </div>
+    <nav class="mobile-menu-panel" id="mobile-menu-panel">
+      <a href="/">Accueil</a>
+      {categories.map(cat => (
+        <a href={`/categories/${categorySlug(cat)}/`}>{cat}</a>
+      ))}
+      <a href="/contact/">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <slot />
+  </main>
+
+  <footer>
+    <div class="footer-content">
+      <div class="footer-top">
+        {/* Brand Section */}
+        <div class="footer-brand">
+          <div class="footer-logo">
+            <span class="footer-logo-mark">M</span>
+            <span>Modeme Automobiles</span>
+          </div>
+          <p class="footer-description">Votre guide complet pour tout ce qui concerne l'automobile, l'entretien, les accessoires et bien plus.</p>
+        </div>
+
+        {/* Categories Column */}
+        <div class="footer-column">
+          <h4>Catégories</h4>
+          {categories.map(cat => (
+            <a href={`/categories/${categorySlug(cat)}/`}>{cat}</a>
+          ))}
+        </div>
+
+        {/* Social Column */}
+        <div class="footer-column">
+          <h4>Suivez-nous</h4>
+          <div class="footer-social">
+            <a href="#" class="footer-social-btn" title="YouTube" aria-label="YouTube">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"/><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"/></svg>
+            </a>
+            <a href="#" class="footer-social-btn" title="Instagram" aria-label="Instagram">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><circle cx="17.5" cy="6.5" r="1.5"/></svg>
+            </a>
+            <a href="#" class="footer-social-btn" title="Facebook" aria-label="Facebook">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 2h-3a6 6 0 0 0-6 6v3H7v4h2v8h4v-8h3l1-4h-4V8a1 1 0 0 1 1-1h3z"/></svg>
+            </a>
+            <a href="#" class="footer-social-btn" title="X (Twitter)" aria-label="X">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2s9 5 20 5a9.5 9.5 0 0 0-9-5.5c4.75 2.25 7-7 7-7"/></svg>
+            </a>
+          </div>
+          <p class="placeholder-note">⚠ Les liens sociaux sont actuellement des placeholders.</p>
+        </div>
+      </div>
+
+      {/* Bottom Bar */}
+      <div class="footer-bottom">
+        <p class="footer-copyright">&copy; 2026 Modeme Automobiles. Tous droits réservés.</p>
+        <div class="footer-legal-links">
+          <a href="/politique-de-confidentialite/">Politique de confidentialité</a>
+          <a href="/contact/">Contact</a>
+        </div>
+        <p class="placeholder-note">⚠ Pas de page "Mentions légales" distincte sur le site d'origine (contenu hébergeur déjà inclus dans la Politique de confidentialité) ; le formulaire de contact n'est pas branché (ex-Contact Form 7, sans backend ici).</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Placeholder search button (no real search implemented)
+    const searchBtn = document.querySelector('.search-icon-btn');
+    if (searchBtn) {
+      searchBtn.addEventListener('click', () => {
+        alert('La fonctionnalité de recherche est en cours de développement.');
+      });
+    }
+
+    // Mobile hamburger menu toggle
+    const menuBtn = document.querySelector('.mobile-menu-btn');
+    const menuPanel = document.getElementById('mobile-menu-panel');
+    if (menuBtn && menuPanel) {
+      menuBtn.addEventListener('click', () => {
+        const isOpen = menuPanel.classList.toggle('open');
+        menuBtn.setAttribute('aria-expanded', String(isOpen));
+      });
+    }
+  </script>
+</body>
+</html>

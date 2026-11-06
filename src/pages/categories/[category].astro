@@ -1,0 +1,574 @@
+---
+// src/pages/categories/[category].astro
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { categorySlug } from '../../utils/categories';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  const categories = new Set<string>();
+
+  posts.forEach(post => {
+    if (post.data.categories) {
+      post.data.categories.forEach((cat: string) => {
+        categories.add(cat);
+      });
+    }
+  });
+
+  return Array.from(categories).map(category => ({
+    params: { category: categorySlug(category) },
+    props: { category },
+  }));
+}
+
+interface Props {
+  category: string;
+}
+
+const { category } = Astro.props;
+const posts = await getCollection('posts');
+
+const categoryPosts = posts
+  .filter(post => post.data.categories && post.data.categories.some(
+    (cat: string) => categorySlug(cat) === categorySlug(category)
+  ))
+  .filter(post => post.data.pubDate)
+  .sort((a, b) => {
+    const dateA = new Date(a.data.pubDate || '');
+    const dateB = new Date(b.data.pubDate || '');
+    return dateB.getTime() - dateA.getTime();
+  });
+
+// Find the most recent post for this category to use as hero background image
+const mostRecentPost = categoryPosts[0];
+
+// Convert absolute og:image URL to local relative path for display
+const getLocalImagePath = (imageUrl?: string) => {
+  if (!imageUrl) return null;
+  if (imageUrl.startsWith('/')) return imageUrl;
+  return imageUrl.replace('https://modeme-automobiles.com', '');
+};
+
+// Category descriptions: honest, one-line topical descriptions
+const categoryDescriptions: Record<string, string> = {
+  '2 roues': "Conseils et guides pratiques pour l'entretien et l'équipement de vos motos et scooters.",
+  'Accessoire | équipement': "Sélection et conseils d'installation pour les meilleurs accessoires automobiles.",
+  'Achat & Occasion': "Guide complet pour bien acheter votre voiture neuve ou d'occasion.",
+  'conduite': "Techniques et conseils pour une conduite sûre et confortable dans toutes les conditions.",
+  'covering |racing': "Solutions de personnalisation et de protection avec le covering automobile.",
+  'Entretien & Mecanique': "Conseils pratiques pour l'entretien régulier et la maintenance de votre véhicule.",
+  'Essence vs diesel': "Comparaison complète pour comprendre les différences et choisir le bon carburant.",
+  'Général': "Articles généraux et actualités du monde de l'automobile.",
+  'voiture electrique': "Guide de l'automobile électrique : technologie, autonomie et bonnes pratiques.",
+};
+
+const heroDescription = categoryDescriptions[category] || 'Articles et guides relatifs à cette catégorie.';
+const heroImage = mostRecentPost ? getLocalImagePath(mostRecentPost.data['og:image']) : null;
+---
+
+<BaseLayout 
+  title={`${category} - Modeme Automobiles`}
+  description={`Tous les articles sur ${category}`}
+>
+  <div class="category-archive">
+    {/* Breadcrumb Navigation */}
+    <nav class="breadcrumb" aria-label="Fil d'ariane">
+      <ol class="breadcrumb-list">
+        <li class="breadcrumb-item">
+          <a href="/">Accueil</a>
+        </li>
+        <li class="breadcrumb-separator">
+          <span>></span>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="/">Catégories</a>
+        </li>
+        <li class="breadcrumb-separator">
+          <span>></span>
+        </li>
+        <li class="breadcrumb-item active">
+          <span class="current-category">{category}</span>
+        </li>
+      </ol>
+    </nav>
+
+    {/* Category Hero Card */}
+    <div class="hero-card-wrapper">
+      {heroImage && (
+        <img src={heroImage} alt={category} class="hero-bg-image" />
+      )}
+      <div class="hero-overlay"></div>
+      <div class="hero-card-content">
+        <div class="hero-eyebrow">CATÉGORIE</div>
+        <h1 class="hero-title">{category}</h1>
+        <p class="hero-description">{heroDescription}</p>
+        <div class="hero-meta">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="doc-icon"><path d="M14 2v6h6"/><path d="M4 2h10l6 6v14a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z"/></svg>
+          <span>{categoryPosts.length} article{categoryPosts.length !== 1 ? 's' : ''}</span>
+        </div>
+      </div>
+    </div>
+
+    {/* Posts Grid */}
+    {categoryPosts.length > 0 ? (
+      <div class="posts-grid">
+        {categoryPosts.map(post => {
+          const heroImage = getLocalImagePath(post.data['og:image']);
+          return (
+            <article class="post-card">
+              {heroImage && (
+                <div class="post-image-wrapper">
+                  <img src={heroImage} alt={post.data.title} class="post-image" />
+                  {post.data.categories && post.data.categories.length > 0 && (
+                    <span class="post-image-tag">{post.data.categories[0]}</span>
+                  )}
+                </div>
+              )}
+              <div class="post-content">
+                <h2>
+                  <a href={`/${post.data.postSlug}/`}>{post.data.title}</a>
+                </h2>
+                {post.data.description && (
+                  <p class="post-excerpt">{post.data.description.substring(0, 130)}...</p>
+                )}
+                <div class="post-footer">
+                  <div class="post-meta">
+                    {post.data.pubDate && (
+                      <time>{new Date(post.data.pubDate).toLocaleDateString('fr-FR', {
+                        year: 'numeric',
+                        month: 'short',
+                        day: 'numeric'
+                      })}</time>
+                    )}
+                  </div>
+                  <a href={`/${post.data.postSlug}/`} class="read-more">Lire →</a>
+                </div>
+              </div>
+            </article>
+          );
+        })}
+      </div>
+    ) : (
+      <div class="no-posts">
+        <p>Aucun article trouvé dans cette catégorie.</p>
+        <a href="/" class="back-link">← Retour à l'accueil</a>
+      </div>
+    )}
+  </div>
+
+  <style>
+    .category-archive {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    /* ===== BREADCRUMB ===== */
+    .breadcrumb {
+      margin-bottom: 2.5rem;
+    }
+
+    .breadcrumb-list {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      list-style: none;
+    }
+
+    .breadcrumb-item a,
+    .breadcrumb-item .current-category {
+      font-size: 0.9rem;
+      font-weight: 500;
+      color: var(--color-text-light);
+      transition: color 0.2s ease;
+      letter-spacing: -0.2px;
+    }
+
+    .breadcrumb-item a:hover {
+      color: var(--color-amber);
+    }
+
+    .breadcrumb-item.active .current-category {
+      color: var(--color-amber);
+      font-weight: 600;
+    }
+
+    .breadcrumb-separator span {
+      color: var(--color-text-light);
+      font-size: 0.85rem;
+      display: inline-block;
+      margin: 0 0.3rem;
+    }
+
+    /* ===== HERO CARD ===== */
+    .hero-card-wrapper {
+      position: relative;
+      border-radius: 20px;
+      overflow: hidden;
+      background: var(--color-dark-header);
+      margin-bottom: 3rem;
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+      min-height: 320px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-bg-image {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      z-index: 1;
+    }
+
+    .hero-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(135deg, rgba(42, 37, 32, 0.7) 0%, rgba(28, 26, 23, 0.85) 100%);
+      z-index: 2;
+    }
+
+    .hero-card-content {
+      position: relative;
+      z-index: 3;
+      padding: 3rem;
+      max-width: 800px;
+      color: var(--color-cream);
+    }
+
+    .hero-eyebrow {
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+      color: var(--color-amber);
+      margin-bottom: 1rem;
+      font-family: var(--font-body);
+    }
+
+    .hero-title {
+      font-family: var(--font-display);
+      font-size: 2.8rem;
+      font-weight: 800;
+      line-height: 1.1;
+      margin-bottom: 1rem;
+      letter-spacing: -0.6px;
+      color: var(--color-cream);
+    }
+
+    .hero-description {
+      font-size: 1.05rem;
+      line-height: 1.6;
+      margin-bottom: 1.5rem;
+      color: rgba(255, 255, 255, 0.9);
+      letter-spacing: -0.2px;
+    }
+
+    .hero-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      font-size: 0.95rem;
+      color: rgba(255, 255, 255, 0.85);
+      font-weight: 500;
+      letter-spacing: -0.2px;
+    }
+
+    .doc-icon {
+      width: 18px;
+      height: 18px;
+      color: var(--color-amber);
+      flex-shrink: 0;
+    }
+
+    /* ===== POSTS GRID ===== */
+    .posts-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 2.5rem;
+      margin-top: 2rem;
+    }
+
+    /* Post Card with image-overlay category tag */
+    .post-card {
+      background: var(--color-cream);
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+      border: 1px solid rgba(232, 130, 26, 0.1);
+      transition: all 0.3s ease;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .post-card:hover {
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+      transform: translateY(-4px);
+      border-color: var(--color-amber);
+    }
+
+    .post-image-wrapper {
+      position: relative;
+      width: 100%;
+      height: 240px;
+      overflow: hidden;
+      background: var(--color-cream-light);
+    }
+
+    .post-image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.3s ease;
+    }
+
+    .post-card:hover .post-image {
+      transform: scale(1.05);
+    }
+
+    .post-image-tag {
+      position: absolute;
+      bottom: 1rem;
+      left: 1rem;
+      padding: 0.5rem 1rem;
+      background: var(--color-amber);
+      color: white;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+      z-index: 2;
+    }
+
+    .post-content {
+      padding: 1.75rem;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+    }
+
+    .post-card h2 {
+      font-family: var(--font-display);
+      margin: 0 0 0.75rem 0;
+      font-size: 1.35rem;
+      font-weight: 700;
+      line-height: 1.25;
+      color: var(--color-text-primary);
+      flex-grow: 1;
+      letter-spacing: -0.3px;
+    }
+
+    .post-card h2 a {
+      color: var(--color-text-primary);
+      transition: color 0.2s ease;
+    }
+
+    .post-card h2 a:hover {
+      color: var(--color-amber);
+    }
+
+    .post-excerpt {
+      color: var(--color-text-secondary);
+      font-size: 0.95rem;
+      line-height: 1.6;
+      margin-bottom: 1.25rem;
+      flex-grow: 1;
+      letter-spacing: -0.2px;
+    }
+
+    .post-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 1rem;
+      border-top: 1px solid rgba(232, 130, 26, 0.15);
+    }
+
+    .post-meta {
+      font-size: 0.85rem;
+      color: var(--color-text-light);
+      font-weight: 500;
+      letter-spacing: -0.2px;
+    }
+
+    .read-more {
+      display: inline-block;
+      font-weight: 700;
+      color: var(--color-amber);
+      transition: all 0.2s ease;
+      font-size: 0.95rem;
+      letter-spacing: -0.2px;
+    }
+
+    .read-more:hover {
+      color: var(--color-amber-dark);
+      transform: translateX(3px);
+    }
+
+    /* Empty State */
+    .no-posts {
+      text-align: center;
+      padding: 3rem 1rem;
+      background: var(--color-cream-light);
+      border-radius: 12px;
+      margin-top: 2rem;
+      border: 2px solid var(--color-amber-light);
+    }
+
+    .no-posts p {
+      color: var(--color-text-secondary);
+      font-size: 1.1rem;
+      margin-bottom: 1.5rem;
+      letter-spacing: -0.2px;
+    }
+
+    .back-link {
+      display: inline-block;
+      padding: 0.75rem 1.75rem;
+      background: var(--color-amber);
+      color: var(--color-cream);
+      border-radius: 8px;
+      font-weight: 700;
+      transition: all 0.2s ease;
+      letter-spacing: -0.2px;
+    }
+
+    .back-link:hover {
+      color: var(--color-cream);
+      background: var(--color-amber-dark);
+      transform: translateY(-2px);
+    }
+
+    /* Responsive */
+    @media (max-width: 1024px) {
+      .posts-grid {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 2rem;
+      }
+
+      .hero-title {
+        font-size: 2.2rem;
+      }
+
+      .hero-card-content {
+        padding: 2.5rem;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .breadcrumb {
+        margin-bottom: 2rem;
+      }
+
+      .breadcrumb-item a,
+      .breadcrumb-item .current-category {
+        font-size: 0.85rem;
+      }
+
+      .hero-card-wrapper {
+        min-height: 280px;
+      }
+
+      .hero-card-content {
+        padding: 2rem;
+      }
+
+      .hero-title {
+        font-size: 1.8rem;
+        margin-bottom: 0.75rem;
+      }
+
+      .hero-description {
+        font-size: 0.95rem;
+        margin-bottom: 1rem;
+      }
+
+      .posts-grid {
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 1.5rem;
+      }
+
+      .post-image-wrapper {
+        height: 200px;
+      }
+
+      .post-content {
+        padding: 1.5rem;
+      }
+
+      .post-card h2 {
+        font-size: 1.2rem;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .breadcrumb-item a,
+      .breadcrumb-item .current-category {
+        font-size: 0.8rem;
+      }
+
+      .breadcrumb-separator span {
+        margin: 0 0.2rem;
+      }
+
+      .hero-card-wrapper {
+        min-height: 260px;
+        margin-bottom: 2.5rem;
+      }
+
+      .hero-card-content {
+        padding: 1.5rem;
+      }
+
+      .hero-title {
+        font-size: 1.5rem;
+        margin-bottom: 0.5rem;
+      }
+
+      .hero-description {
+        font-size: 0.9rem;
+        margin-bottom: 0.75rem;
+      }
+
+      .hero-eyebrow {
+        font-size: 0.75rem;
+        margin-bottom: 0.75rem;
+      }
+
+      .hero-meta {
+        font-size: 0.9rem;
+      }
+
+      .posts-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+      }
+
+      .post-image-wrapper {
+        height: 180px;
+      }
+
+      .post-content {
+        padding: 1.25rem;
+      }
+
+      .post-card h2 {
+        font-size: 1.1rem;
+        margin-bottom: 0.5rem;
+      }
+
+      .post-excerpt {
+        font-size: 0.9rem;
+      }
+    }
+  </style>
+</BaseLayout>

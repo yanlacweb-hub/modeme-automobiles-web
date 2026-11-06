@@ -1,0 +1,1635 @@
+---
+// src/pages/index.astro
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { categorySlug } from '../utils/categories';
+
+const posts = await getCollection('posts');
+
+// Sort by date descending, newest first
+const sortedPosts = posts
+  .filter(post => post.data.pubDate) // Only posts with dates (exclude static pages)
+  .sort((a, b) => {
+    const dateA = new Date(a.data.pubDate || '');
+    const dateB = new Date(b.data.pubDate || '');
+    return dateB.getTime() - dateA.getTime();
+  })
+  .slice(0, 20); // Show latest 20 posts on homepage
+
+// Hero carousel: use 3 most recent posts
+const carouselPosts = sortedPosts.slice(0, 3);
+
+// Featured section posts: posts 4-6 (to avoid duplication with carousel)
+const featuredSectionPosts = sortedPosts.slice(3, 6);
+
+// Other posts for "Articles récents" section: skip the first 6 already used
+const otherPosts = sortedPosts.slice(6);
+
+// Convert absolute og:image URL to local relative path for display
+const getLocalImagePath = (imageUrl?: string) => {
+  if (!imageUrl) return null;
+  if (imageUrl.startsWith('/')) return imageUrl;
+  return imageUrl.replace('https://modeme-automobiles.com', '');
+};
+
+// Get all categories with their details for the browse section
+const allPosts = await getCollection('posts');
+const categoryCounts = new Map<string, number>();
+const categoryPosts = new Map<string, any>();
+
+allPosts.forEach((post) => {
+  (post.data.categories || []).forEach((cat: string) => {
+    categoryCounts.set(cat, (categoryCounts.get(cat) || 0) + 1);
+    // Store the most recent post for each category
+    if (!categoryPosts.has(cat) || new Date(post.data.pubDate || '') > new Date(categoryPosts.get(cat).data.pubDate || '')) {
+      categoryPosts.set(cat, post);
+    }
+  });
+});
+
+const categories = Array.from(categoryCounts.keys()).sort();
+
+// Category icons mapping — clean line icons (Lucide), not emoji
+const categoryIconSvg: Record<string, string> = {
+  'Accessoire | équipement': `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v10a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z"/><path d="M8 10h8"/><path d="M8 18h8"/><path d="M8 22v-6a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v6"/><path d="M9 6V4a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2"/></svg>`,
+  'Achat & Occasion': `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 17h2c.6 0 1-.4 1-1v-3c0-.9-.7-1.7-1.5-1.9C18.7 10.6 16 10 16 10s-1.3-1.4-2.2-2.3c-.5-.4-1.1-.7-1.8-.7H5c-.6 0-1.1.4-1.4.9l-1.4 2.9A3.7 3.7 0 0 0 2 12v4c0 .6.4 1 1 1h2"/><circle cx="7" cy="17" r="2"/><path d="M9 17h6"/><circle cx="17" cy="17" r="2"/></svg>`,
+  'conduite': `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.106 5.553a2 2 0 0 0 1.788 0l3.659-1.83A1 1 0 0 1 21 4.619v12.764a1 1 0 0 1-.553.894l-4.553 2.277a2 2 0 0 1-1.788 0l-4.212-2.106a2 2 0 0 0-1.788 0l-3.659 1.83A1 1 0 0 1 3 19.381V6.618a1 1 0 0 1 .553-.894l4.553-2.277a2 2 0 0 1 1.788 0z"/><path d="M15 5.764v15"/><path d="M9 3.236v15"/></svg>`,
+  'covering |racing': `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z"/><path d="M20 2v4"/><path d="M22 4h-4"/><circle cx="4" cy="20" r="2"/></svg>`,
+  'Entretien & Mecanique': `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.106-3.105c.32-.322.863-.22.983.218a6 6 0 0 1-8.259 7.057l-7.91 7.91a1 1 0 0 1-2.999-3l7.91-7.91a6 6 0 0 1 7.057-8.259c.438.12.54.662.219.984z"/></svg>`,
+  'Essence vs diesel': `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 13h2a2 2 0 0 1 2 2v2a2 2 0 0 0 4 0v-6.998a2 2 0 0 0-.59-1.42L18 5"/><path d="M14 21V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v16"/><path d="M2 21h13"/><path d="M3 9h11"/></svg>`,
+  'Général': `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v16"/><path d="M20.001 19A2 2 0 0022 17V5a2 2 0 00-1.999-2L16 3.002A5 5 0 0012 5a5 5 0 00-4-2H4a2 2 0 00-2 2v12a2 2 0 001.999 2H8a5 5 0 014 2 5 5 0 014-2z"/></svg>`,
+  'voiture electrique': `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15.914 4a1.5 1.5 0 00-2.474-1.561l-9 9A1.5 1.5 0 005.5 14h4.002a.5.5 0 01.471.666L8.086 20a1.5 1.5 0 002.475 1.56l9-9A1.5 1.5 0 0018.5 10h-3.997a.5.5 0 01-.472-.667z"/></svg>`,
+  '2 roues': `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18.5" cy="17.5" r="3.5"/><circle cx="5.5" cy="17.5" r="3.5"/><circle cx="15" cy="5" r="1"/><path d="M12 17.5V14l-3-3 4-3 2 3h2"/></svg>`,
+};
+const defaultIconSvg = categoryIconSvg['Général'];
+---
+
+<BaseLayout title="Modeme Automobiles - Blog automobiles" description="Découvrez nos guides complets sur l'automobile, l'entretien, les accessoires et bien plus.">
+  <div class="homepage">
+    {/* HERO CAROUSEL SECTION */}
+    {carouselPosts.length > 0 && (
+      <section class="hero-section">
+        <div class="hero-carousel-wrapper">
+          <div class="hero-carousel-container">
+            {carouselPosts.map((post, idx) => {
+              const heroImage = getLocalImagePath(post.data['og:image']);
+              return (
+                <div class="hero-slide" data-slide-index={idx}>
+                  {heroImage && (
+                    <img src={heroImage} alt={post.data.title} class="hero-featured-image" />
+                  )}
+                  <div class="hero-overlay"></div>
+                  <div class="hero-content">
+                    <div class="hero-label">
+                      <span class="hero-dash">—</span> {post.data.categories?.[0] ? post.data.categories[0].toUpperCase() : 'GUIDE'}
+                    </div>
+                    <h1>
+                      {post.data.title.split(' ').map((word: string, wIdx: number) => {
+                        const words = post.data.title.split(' ');
+                        const highlightStart = Math.max(0, words.length - 2);
+                        return wIdx >= highlightStart ? <span class="hero-highlight">{word} </span> : `${word} `;
+                      })}
+                    </h1>
+                    {post.data.description && (
+                      <p class="hero-excerpt">{post.data.description.substring(0, 160)}...</p>
+                    )}
+                    <a href={`/${post.data.postSlug}/`} class="hero-cta">Lire l'article complet →</a>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+
+          {/* Carousel Controls */}
+          <button class="carousel-arrow carousel-arrow-prev" aria-label="Previous slide">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+          </button>
+          <button class="carousel-arrow carousel-arrow-next" aria-label="Next slide">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
+          </button>
+
+          {/* Slide Indicators */}
+          <div class="carousel-indicators">
+            {carouselPosts.map((_, idx) => (
+              <button 
+                class="carousel-dot" 
+                data-slide-index={idx}
+                aria-label={`Go to slide ${idx + 1}`}
+              ></button>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    {/* Browse by Category Section — full photo cards per category */}
+    {categories.length > 0 && (
+      <section class="category-browse-section">
+        <div class="section-header">
+          <div class="section-eyebrow"><span class="eyebrow-line"></span>Explorer nos guides<span class="eyebrow-line"></span></div>
+          <h2>Toutes nos catégories</h2>
+          <p>Guides, conseils et actualités pour passionnés d'automobile</p>
+        </div>
+        <div class="category-badges-grid">
+          {categories.map(cat => {
+            const postCount = categoryCounts.get(cat) || 0;
+            const icon = categoryIconSvg[cat] || defaultIconSvg;
+            const catPost = categoryPosts.get(cat);
+            const catImage = catPost ? getLocalImagePath(catPost.data['og:image']) : null;
+            return (
+              <a href={`/categories/${categorySlug(cat)}/`} class="category-badge-card">
+                {catImage && <img src={catImage} alt={cat} class="badge-bg-image" />}
+                <div class="badge-overlay"></div>
+                <div class="badge-icon-wrapper">
+                  <div class="badge-icon" set:html={icon}></div>
+                </div>
+                <div class="badge-content">
+                  <div class="badge-label">DÉCOUVRIR</div>
+                  <h3>{cat}</h3>
+                  <p class="badge-count">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2v6h6"/><path d="M4 2h10l6 6v14a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z"/></svg>
+                    {postCount} article{postCount > 1 ? 's' : ''}
+                  </p>
+                </div>
+                <div class="badge-arrow">→</div>
+              </a>
+            );
+          })}
+        </div>
+      </section>
+    )}
+
+    {/* NEW: "À la une cette semaine" Featured Section */}
+    {featuredSectionPosts.length > 0 && (
+      <section class="featured-this-week-section">
+        <h2>À la une cette semaine</h2>
+        <div class="featured-layout">
+          {/* Large featured card on the left */}
+          {featuredSectionPosts[0] && (
+            <div class="featured-large-card">
+              {(() => {
+                const post = featuredSectionPosts[0];
+                const heroImage = getLocalImagePath(post.data['og:image']);
+                return (
+                  <>
+                    {heroImage && (
+                      <img src={heroImage} alt={post.data.title} class="featured-image" />
+                    )}
+                    <div class="featured-large-content">
+                      {post.data.categories && post.data.categories.length > 0 && (
+                        <span class="featured-category-tag">{post.data.categories[0]}</span>
+                      )}
+                      <h3>{post.data.title}</h3>
+                      {post.data.description && (
+                        <p class="featured-excerpt">{post.data.description.substring(0, 140)}</p>
+                      )}
+                      <a href={`/${post.data.postSlug}/`} class="featured-read-more">Lire l'article →</a>
+                    </div>
+                  </>
+                );
+              })()}
+            </div>
+          )}
+
+          {/* Right side: 2 smaller featured items stacked vertically */}
+          <div class="featured-small-items">
+            {featuredSectionPosts.slice(1, 3).map(post => {
+              const heroImage = getLocalImagePath(post.data['og:image']);
+              return (
+                <div class="featured-small-card">
+                  {heroImage && (
+                    <img src={heroImage} alt={post.data.title} class="featured-small-image" />
+                  )}
+                  <div class="featured-small-content">
+                    {post.data.categories && post.data.categories.length > 0 && (
+                      <span class="featured-small-category-tag">{post.data.categories[0]}</span>
+                    )}
+                    <h4>{post.data.title}</h4>
+                    <div class="featured-small-meta">
+                      <span class="featured-small-date">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2v6h6"/><path d="M4 2h10l6 6v14a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z"/></svg>
+                        {post.data.pubDate && new Date(post.data.pubDate).toLocaleDateString('fr-FR', { year: 'numeric', month: 'short', day: 'numeric' })}
+                      </span>
+                      <a href={`/${post.data.postSlug}/`} class="featured-small-arrow">→</a>
+                    </div>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+    )}
+
+    {/* Recent Posts Section with updated card style */}
+    {otherPosts.length > 0 && (
+      <section class="recent-posts">
+        <div class="recent-posts-header">
+          <h2>Articles récents</h2>
+          <a href="/articles/" class="view-all-link">Voir tous les articles →</a>
+        </div>
+        <div class="posts-grid">
+          {otherPosts.map(post => {
+            const heroImage = getLocalImagePath(post.data['og:image']);
+            return (
+              <article class="post-card">
+                {heroImage && (
+                  <div class="post-image-wrapper">
+                    <img src={heroImage} alt={post.data.title} class="post-image" />
+                    {post.data.categories && post.data.categories.length > 0 && (
+                      <span class="post-image-tag">{post.data.categories[0]}</span>
+                    )}
+                  </div>
+                )}
+                <div class="post-content">
+                  <h3>
+                    <a href={`/${post.data.postSlug}/`}>{post.data.title}</a>
+                  </h3>
+                  {post.data.description && (
+                    <p class="post-excerpt">{post.data.description.substring(0, 130)}...</p>
+                  )}
+                  <div class="post-footer">
+                    <div class="post-meta">
+                      {post.data.pubDate && (
+                        <time>{new Date(post.data.pubDate).toLocaleDateString('fr-FR', {
+                          year: 'numeric',
+                          month: 'short',
+                          day: 'numeric'
+                        })}</time>
+                      )}
+                    </div>
+                    <a href={`/${post.data.postSlug}/`} class="read-more">Lire →</a>
+                  </div>
+                </div>
+              </article>
+            );
+          })}
+        </div>
+      </section>
+    )}
+
+    {/* NEW: Trust/Features Bar */}
+    <section class="trust-features-bar">
+      <div class="trust-item">
+        <div class="trust-icon" set:html={`<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>`}></div>
+        <div class="trust-content">
+          <div class="trust-label">Guides fiables</div>
+          <p>Vérifiés et mis à jour régulièrement</p>
+        </div>
+      </div>
+
+      <div class="trust-item">
+        <div class="trust-icon" set:html={`<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="1"/><path d="M19.07 4.93a10 10 0 0 0-14.14 0M2 12a10 10 0 0 0 11.08 9.99M22 12a10 10 0 0 0-11.08-9.99M9.09 9a3 3 0 0 1 5.82 0"/><path d="M12 17v.01"/></svg>`}></div>
+        <div class="trust-content">
+          <div class="trust-label">Conseils pratiques</div>
+          <p>Pour économiser et entretenir votre auto</p>
+        </div>
+      </div>
+
+      <div class="trust-item">
+        <div class="trust-icon" set:html={`<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>`}></div>
+        <div class="trust-content">
+          <div class="trust-label">Comparatifs clairs</div>
+          <p>Tous les avis sur les meilleurs produits</p>
+        </div>
+      </div>
+
+      <div class="trust-item">
+        <div class="trust-icon" set:html={`<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>`}></div>
+        <div class="trust-content">
+          <div class="trust-label">Actu automobile</div>
+          <p>Les dernières tendances du secteur</p>
+        </div>
+      </div>
+    </section>
+
+    {/* NEW: Newsletter Signup Section (PLACEHOLDER - NOT FUNCTIONAL) */}
+    <section class="newsletter-section">
+      <div class="newsletter-content">
+        <div class="newsletter-image">
+          {otherPosts.length > 0 && (() => {
+            const heroImage = getLocalImagePath(otherPosts[0].data['og:image']);
+            if (heroImage) {
+              return <img src={heroImage} alt="Newsletter" />;
+            }
+            return null;
+          })()}
+        </div>
+        <div class="newsletter-form">
+          <div class="newsletter-icon" set:html={`<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>`}></div>
+          <h3>Restez informé de l'actualité auto</h3>
+          <p>Recevez nos derniers guides et conseils directement dans votre boîte mail</p>
+          <div class="newsletter-input-group">
+            <input type="email" placeholder="Votre adresse e-mail" class="newsletter-input" disabled />
+            <button class="newsletter-button" disabled>S'inscrire →</button>
+          </div>
+          <p class="newsletter-note">⚠ Cette fonction est actuellement un placeholder visuel et n'est pas fonctionnelle.</p>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <style>
+    .homepage {
+      margin-bottom: 4rem;
+    }
+
+    /* ===== HERO CAROUSEL SECTION ===== */
+    .hero-section {
+      margin: 0 0 6rem 0;
+    }
+
+    .hero-carousel-wrapper {
+      position: relative;
+      margin: 0 -2rem 0 -2rem;
+      margin-bottom: 4rem;
+    }
+
+    .hero-carousel-container {
+      position: relative;
+      height: 460px;
+      border-radius: 20px;
+      overflow: hidden;
+      background: #1c1a17;
+      margin: 2rem 2rem 0 2rem;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+    }
+
+    .hero-slide {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: flex-end;
+      opacity: 0;
+      transition: opacity 0.6s ease;
+      z-index: 1;
+    }
+
+    .hero-slide.active {
+      opacity: 1;
+      z-index: 2;
+    }
+
+    .hero-featured-image {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      z-index: 1;
+    }
+
+    .hero-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.4) 40%, rgba(0, 0, 0, 0.8) 100%);
+      z-index: 2;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 3;
+      padding: 3rem 2rem;
+      max-width: 900px;
+      margin: 0 auto;
+      width: 100%;
+      color: var(--color-cream);
+    }
+
+    .hero-label {
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      color: var(--color-amber);
+      margin-bottom: 1.25rem;
+      font-family: var(--font-body);
+    }
+
+    .hero-dash {
+      margin-right: 0.5rem;
+    }
+
+    .hero-slide h1 {
+      font-family: var(--font-display);
+      font-size: 3.2rem;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 1.25rem;
+      letter-spacing: -0.8px;
+      text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+      color: var(--color-cream);
+    }
+
+    .hero-highlight {
+      color: var(--color-amber);
+    }
+
+    .hero-excerpt {
+      font-size: 1.15rem;
+      line-height: 1.6;
+      margin-bottom: 2rem;
+      color: rgba(255, 255, 255, 0.95);
+      text-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    .hero-cta {
+      display: inline-block;
+      padding: 0.75rem 1.75rem;
+      background: var(--color-amber);
+      color: var(--color-cream);
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 0.95rem;
+      transition: all 0.2s ease;
+      letter-spacing: -0.2px;
+    }
+
+    .hero-cta:hover {
+      background: var(--color-amber-dark);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(232, 130, 26, 0.3);
+    }
+
+    /* Carousel Controls */
+    .carousel-arrow {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 10;
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.5);
+      border: none;
+      color: white;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s ease;
+      margin: 0;
+      padding: 0;
+      font-size: 0;
+    }
+
+    .carousel-arrow:hover {
+      background: rgba(0, 0, 0, 0.7);
+    }
+
+    .carousel-arrow svg {
+      width: 20px;
+      height: 20px;
+      stroke: white;
+      stroke-width: 2.5;
+    }
+
+    .carousel-arrow-prev {
+      left: 2rem;
+    }
+
+    .carousel-arrow-next {
+      right: 2rem;
+    }
+
+    /* Carousel Indicators */
+    .carousel-indicators {
+      position: absolute;
+      bottom: 2rem;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 10;
+      display: flex;
+      gap: 0.6rem;
+    }
+
+    .carousel-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.5);
+      border: none;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      padding: 0;
+      font-size: 0;
+    }
+
+    .carousel-dot.active {
+      background: white;
+      width: 24px;
+      border-radius: 5px;
+    }
+
+    .carousel-dot:hover {
+      background: rgba(255, 255, 255, 0.8);
+    }
+
+    /* ===== CATEGORY BROWSE SECTION (unchanged - DO NOT MODIFY) ===== */
+    .category-browse-section {
+      margin: 6rem 0 5rem 0;
+      padding: 0;
+    }
+
+    .section-header {
+      margin-bottom: 3rem;
+      text-align: center;
+    }
+
+    .section-eyebrow {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--color-amber);
+      margin-bottom: 1rem;
+    }
+
+    .eyebrow-line {
+      display: inline-block;
+      width: 32px;
+      height: 1px;
+      background: var(--color-amber);
+    }
+
+    .section-header h2 {
+      font-family: var(--font-display);
+      font-size: 2.4rem;
+      font-weight: 800;
+      color: var(--color-text-primary);
+      margin-bottom: 0.75rem;
+      letter-spacing: -0.5px;
+    }
+
+    .section-header p {
+      font-size: 1.05rem;
+      color: var(--color-text-secondary);
+      letter-spacing: -0.2px;
+    }
+
+    .category-badges-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 1.5rem;
+      margin-top: 2.5rem;
+    }
+
+    .category-badge-card {
+      position: relative;
+      height: 190px;
+      border-radius: 12px;
+      overflow: hidden;
+      display: block;
+      text-decoration: none;
+      color: inherit;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+    }
+
+    .badge-bg-image {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.4s ease;
+    }
+
+    .badge-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(135deg, rgba(28, 26, 23, 0.55) 0%, rgba(28, 26, 23, 0.85) 100%);
+    }
+
+    .category-badge-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 0 0 2px var(--color-amber), 0 12px 32px rgba(0, 0, 0, 0.25);
+    }
+
+    .category-badge-card:hover .badge-bg-image {
+      transform: scale(1.08);
+    }
+
+    .badge-icon-wrapper {
+      position: absolute;
+      top: 1.1rem;
+      left: 1.1rem;
+      z-index: 2;
+    }
+
+    .badge-icon {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 40px;
+      height: 40px;
+      background: var(--color-cream);
+      border-radius: 9px;
+      color: var(--color-amber);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    }
+
+    .badge-icon svg {
+      width: 20px;
+      height: 20px;
+    }
+
+    .badge-content {
+      position: absolute;
+      left: 1.1rem;
+      bottom: 1.1rem;
+      right: 3.5rem;
+      z-index: 2;
+    }
+
+    .badge-label {
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.6px;
+      color: var(--color-amber-light);
+      margin-bottom: 0.3rem;
+    }
+
+    .category-badge-card h3 {
+      font-family: var(--font-display);
+      font-size: 1.15rem;
+      font-weight: 800;
+      color: #fff;
+      margin: 0 0 0.4rem 0;
+      line-height: 1.2;
+      letter-spacing: -0.3px;
+    }
+
+    .badge-count {
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+      font-size: 0.8rem;
+      color: rgba(255, 255, 255, 0.8);
+      margin: 0;
+    }
+
+    .badge-arrow {
+      position: absolute;
+      right: 1.1rem;
+      bottom: 1.1rem;
+      z-index: 2;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 36px;
+      height: 36px;
+      background: var(--color-amber);
+      color: #fff;
+      border-radius: 50%;
+      font-size: 1.1rem;
+      font-weight: 700;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+      transition: transform 0.2s ease;
+      border: none;
+      cursor: pointer;
+    }
+
+    .category-badge-card:hover .badge-arrow {
+      transform: translateX(3px);
+    }
+
+    /* ===== NEW: FEATURED THIS WEEK SECTION ===== */
+    .featured-this-week-section {
+      margin: 5rem 0;
+    }
+
+    .featured-this-week-section h2 {
+      font-family: var(--font-display);
+      font-size: 2.2rem;
+      font-weight: 700;
+      color: var(--color-text-primary);
+      margin-bottom: 2.5rem;
+      letter-spacing: -0.5px;
+    }
+
+    .featured-layout {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+    }
+
+    .featured-large-card {
+      position: relative;
+      border-radius: 12px;
+      overflow: hidden;
+      background: var(--color-cream);
+    }
+
+    .featured-image {
+      width: 100%;
+      height: 300px;
+      object-fit: cover;
+      display: block;
+    }
+
+    .featured-large-content {
+      padding: 2rem;
+      position: relative;
+    }
+
+    .featured-category-tag {
+      display: inline-block;
+      position: absolute;
+      bottom: auto;
+      top: -12px;
+      left: 2rem;
+      padding: 0.5rem 1rem;
+      background: var(--color-amber);
+      color: white;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+    }
+
+    .featured-large-card h3 {
+      font-family: var(--font-display);
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--color-text-primary);
+      margin: 1rem 0 0.75rem 0;
+      line-height: 1.3;
+      letter-spacing: -0.3px;
+    }
+
+    .featured-excerpt {
+      font-size: 0.95rem;
+      color: var(--color-text-secondary);
+      line-height: 1.6;
+      margin-bottom: 1.25rem;
+    }
+
+    .featured-read-more {
+      display: inline-block;
+      color: var(--color-amber);
+      font-weight: 700;
+      transition: all 0.2s ease;
+      font-size: 0.95rem;
+    }
+
+    .featured-read-more:hover {
+      color: var(--color-amber-dark);
+      transform: translateX(3px);
+    }
+
+    .featured-small-items {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .featured-small-card {
+      display: flex;
+      gap: 1.25rem;
+      background: var(--color-cream);
+      border-radius: 12px;
+      padding: 1.5rem;
+      transition: all 0.3s ease;
+      border: 1px solid rgba(232, 130, 26, 0.1);
+    }
+
+    .featured-small-card:hover {
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+      border-color: var(--color-amber);
+    }
+
+    .featured-small-image {
+      width: 80px;
+      height: 80px;
+      border-radius: 8px;
+      object-fit: cover;
+      flex-shrink: 0;
+    }
+
+    .featured-small-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+
+    .featured-small-category-tag {
+      display: inline-block;
+      padding: 0.3rem 0.7rem;
+      background: var(--color-amber);
+      color: white;
+      border-radius: 3px;
+      font-size: 0.65rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.2px;
+      width: fit-content;
+      margin-bottom: 0.4rem;
+    }
+
+    .featured-small-card h4 {
+      font-family: var(--font-display);
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--color-text-primary);
+      margin: 0 0 0.5rem 0;
+      line-height: 1.3;
+      letter-spacing: -0.2px;
+    }
+
+    .featured-small-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: auto;
+      font-size: 0.85rem;
+    }
+
+    .featured-small-date {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      color: var(--color-text-light);
+    }
+
+    .featured-small-date svg {
+      width: 12px;
+      height: 12px;
+    }
+
+    .featured-small-arrow {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 24px;
+      height: 24px;
+      background: var(--color-amber);
+      color: white;
+      border-radius: 50%;
+      font-size: 0.9rem;
+      font-weight: 700;
+      transition: transform 0.2s ease;
+    }
+
+    .featured-small-arrow:hover {
+      transform: translateX(2px);
+    }
+
+    /* ===== RECENT POSTS SECTION (updated) ===== */
+    .recent-posts {
+      margin: 4rem 0;
+    }
+
+    .recent-posts-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 2.5rem;
+    }
+
+    .recent-posts-header h2 {
+      font-family: var(--font-display);
+      font-size: 2.2rem;
+      color: var(--color-text-primary);
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      margin: 0;
+    }
+
+    .view-all-link {
+      color: var(--color-amber);
+      font-weight: 700;
+      font-size: 0.95rem;
+      transition: all 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .view-all-link:hover {
+      color: var(--color-amber-dark);
+      transform: translateX(3px);
+    }
+
+    .posts-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 2.5rem;
+      margin-top: 2rem;
+    }
+
+    /* Post Card with image-overlay category tag */
+    .post-card {
+      background: var(--color-cream);
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+      border: 1px solid rgba(232, 130, 26, 0.1);
+      transition: all 0.3s ease;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .post-card:hover {
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+      transform: translateY(-4px);
+      border-color: var(--color-amber);
+    }
+
+    .post-image-wrapper {
+      position: relative;
+      width: 100%;
+      height: 240px;
+      overflow: hidden;
+      background: var(--color-cream-light);
+    }
+
+    .post-image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.3s ease;
+    }
+
+    .post-card:hover .post-image {
+      transform: scale(1.05);
+    }
+
+    .post-image-tag {
+      position: absolute;
+      bottom: 1rem;
+      left: 1rem;
+      padding: 0.5rem 1rem;
+      background: var(--color-amber);
+      color: white;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+      z-index: 2;
+    }
+
+    .post-content {
+      padding: 1.75rem;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+    }
+
+    .post-card h3 {
+      font-family: var(--font-display);
+      margin: 0 0 0.75rem 0;
+      font-size: 1.35rem;
+      font-weight: 700;
+      line-height: 1.25;
+      color: var(--color-text-primary);
+      flex-grow: 1;
+      letter-spacing: -0.3px;
+    }
+
+    .post-card h3 a {
+      color: var(--color-text-primary);
+      transition: color 0.2s ease;
+    }
+
+    .post-card h3 a:hover {
+      color: var(--color-amber);
+    }
+
+    .post-excerpt {
+      color: var(--color-text-secondary);
+      font-size: 0.95rem;
+      line-height: 1.6;
+      margin-bottom: 1.25rem;
+      flex-grow: 1;
+      letter-spacing: -0.2px;
+    }
+
+    .post-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 1rem;
+      border-top: 1px solid rgba(232, 130, 26, 0.15);
+    }
+
+    .post-meta {
+      font-size: 0.85rem;
+      color: var(--color-text-light);
+      font-weight: 500;
+      letter-spacing: -0.2px;
+    }
+
+    .read-more {
+      display: inline-block;
+      font-weight: 700;
+      color: var(--color-amber);
+      transition: all 0.2s ease;
+      font-size: 0.95rem;
+      letter-spacing: -0.2px;
+    }
+
+    .read-more:hover {
+      color: var(--color-amber-dark);
+      transform: translateX(3px);
+    }
+
+    /* ===== NEW: TRUST/FEATURES BAR ===== */
+    .trust-features-bar {
+      background: rgba(232, 130, 26, 0.06);
+      border-radius: 12px;
+      padding: 3rem 2rem;
+      margin: 5rem 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 2rem;
+    }
+
+    .trust-item {
+      display: flex;
+      gap: 1rem;
+      align-items: flex-start;
+    }
+
+    .trust-icon {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 44px;
+      height: 44px;
+      background: var(--color-amber);
+      border-radius: 8px;
+      color: white;
+      flex-shrink: 0;
+    }
+
+    .trust-icon svg {
+      width: 22px;
+      height: 22px;
+    }
+
+    .trust-content {
+      flex: 1;
+    }
+
+    .trust-label {
+      font-family: var(--font-display);
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--color-text-primary);
+      margin-bottom: 0.25rem;
+      letter-spacing: -0.2px;
+    }
+
+    .trust-item p {
+      font-size: 0.9rem;
+      color: var(--color-text-secondary);
+      margin: 0;
+      line-height: 1.5;
+      letter-spacing: -0.2px;
+    }
+
+    /* ===== NEW: NEWSLETTER SECTION (PLACEHOLDER) ===== */
+    .newsletter-section {
+      background: var(--color-dark-header);
+      border-radius: 16px;
+      overflow: hidden;
+      margin: 5rem 0;
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    }
+
+    .newsletter-content {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+    }
+
+    .newsletter-image {
+      height: 300px;
+      overflow: hidden;
+      background: var(--color-text-primary);
+    }
+
+    .newsletter-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .newsletter-form {
+      padding: 3rem;
+      color: var(--color-cream);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .newsletter-icon {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 48px;
+      height: 48px;
+      background: var(--color-amber);
+      border-radius: 8px;
+      margin-bottom: 1.5rem;
+      color: white;
+    }
+
+    .newsletter-icon svg {
+      width: 24px;
+      height: 24px;
+    }
+
+    .newsletter-form h3 {
+      font-family: var(--font-display);
+      font-size: 1.8rem;
+      font-weight: 700;
+      margin: 0 0 0.75rem 0;
+      letter-spacing: -0.3px;
+    }
+
+    .newsletter-form p {
+      color: rgba(255, 255, 255, 0.85);
+      margin: 0 0 1.5rem 0;
+      font-size: 0.95rem;
+      line-height: 1.6;
+    }
+
+    .newsletter-input-group {
+      display: flex;
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+    }
+
+    .newsletter-input {
+      flex: 1;
+      padding: 0.75rem 1.25rem;
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 8px;
+      color: white;
+      font-size: 0.95rem;
+      font-family: var(--font-body);
+    }
+
+    .newsletter-input::placeholder {
+      color: rgba(255, 255, 255, 0.6);
+    }
+
+    .newsletter-button {
+      padding: 0.75rem 1.75rem;
+      background: var(--color-amber);
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 0.95rem;
+      cursor: not-allowed;
+      transition: all 0.2s ease;
+      font-family: var(--font-body);
+      letter-spacing: -0.2px;
+    }
+
+    .newsletter-button:hover {
+      background: var(--color-amber-dark);
+    }
+
+    .newsletter-note {
+      font-size: 0.75rem;
+      color: rgba(255, 255, 255, 0.7);
+      margin: 0;
+    }
+
+    /* Responsive */
+    @media (max-width: 1024px) {
+      .posts-grid {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 2rem;
+      }
+
+      .category-badges-grid {
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+        gap: 1.5rem;
+      }
+
+      .featured-layout {
+        grid-template-columns: 1fr;
+      }
+
+      .featured-small-items {
+        flex-direction: row;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .hero-carousel-container {
+        height: 380px;
+        margin: 1.5rem 1.5rem 2rem 1.5rem;
+      }
+
+      .hero-carousel-wrapper {
+        margin: 0 -1.5rem 0 -1.5rem;
+      }
+
+      .hero-content {
+        padding: 2rem 3.25rem;
+      }
+
+      .hero-slide h1 {
+        font-size: 2.2rem;
+      }
+
+      .hero-excerpt {
+        font-size: 1rem;
+        margin-bottom: 1.5rem;
+      }
+
+      .carousel-arrow-prev {
+        left: 1.5rem;
+      }
+
+      .carousel-arrow-next {
+        right: 1.5rem;
+      }
+
+      .section-header h2 {
+        font-size: 1.8rem;
+        margin-bottom: 0.5rem;
+      }
+
+      .category-badges-grid {
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+        gap: 1.25rem;
+      }
+
+      .category-badge-card {
+        height: 170px;
+      }
+
+      .badge-icon {
+        width: 36px;
+        height: 36px;
+      }
+
+      .badge-icon svg {
+        width: 18px;
+        height: 18px;
+      }
+
+      .category-badge-card h3 {
+        font-size: 1.05rem;
+      }
+
+      .recent-posts h2 {
+        font-size: 1.8rem;
+        margin-bottom: 2rem;
+      }
+
+      .posts-grid {
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 1.5rem;
+      }
+
+      .post-image-wrapper {
+        height: 200px;
+      }
+
+      .post-content {
+        padding: 1.5rem;
+      }
+
+      .post-card h3 {
+        font-size: 1.2rem;
+      }
+
+      .featured-layout {
+        grid-template-columns: 1fr;
+      }
+
+      .featured-small-items {
+        flex-direction: column;
+      }
+
+      .featured-large-card {
+        order: 2;
+      }
+
+      .featured-small-items {
+        order: 1;
+      }
+
+      .newsletter-content {
+        grid-template-columns: 1fr;
+      }
+
+      .newsletter-image {
+        height: 200px;
+        order: -1;
+      }
+
+      .newsletter-form {
+        padding: 2rem;
+      }
+
+      .trust-features-bar {
+        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+        gap: 1.5rem;
+        padding: 2rem;
+      }
+
+      .recent-posts-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .hero-carousel-container {
+        height: 360px;
+        margin: 1rem 1rem 1.5rem 1rem;
+        border-radius: 12px;
+      }
+
+      .hero-carousel-wrapper {
+        margin: 0 -1rem 0 -1rem;
+      }
+
+      .hero-content {
+        padding: 1.25rem 2.75rem;
+      }
+
+      .hero-excerpt {
+        display: none;
+      }
+
+      .hero-slide h1 {
+        font-size: 1.6rem;
+        margin-bottom: 1rem;
+      }
+
+      .hero-label {
+        font-size: 0.7rem;
+        margin-bottom: 0.75rem;
+      }
+
+      .hero-excerpt {
+        font-size: 0.95rem;
+        margin-bottom: 1.25rem;
+      }
+
+      .carousel-arrow-prev {
+        left: 1rem;
+      }
+
+      .carousel-arrow-next {
+        right: 1rem;
+      }
+
+      .carousel-arrow {
+        width: 36px;
+        height: 36px;
+      }
+
+      .section-header h2 {
+        font-size: 1.5rem;
+        margin-bottom: 0.5rem;
+      }
+
+      .section-header p {
+        font-size: 0.95rem;
+      }
+
+      .category-browse-section {
+        margin: 4rem 0 3rem 0;
+      }
+
+      .category-badges-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.75rem;
+      }
+
+      .category-badge-card {
+        height: 130px;
+        border-radius: 10px;
+      }
+
+      .badge-icon {
+        width: 30px;
+        height: 30px;
+        top: 0.6rem;
+        left: 0.6rem;
+      }
+
+      .badge-icon svg {
+        width: 16px;
+        height: 16px;
+      }
+
+      .category-badge-card h3 {
+        font-size: 0.85rem;
+        margin-bottom: 0.15rem;
+      }
+
+      .category-badge-card .badge-label {
+        font-size: 0.6rem;
+      }
+
+      .category-badge-card .badge-count {
+        font-size: 0.7rem;
+      }
+
+      .badge-arrow {
+        width: 26px;
+        height: 26px;
+        bottom: 0.6rem;
+        right: 0.6rem;
+        font-size: 0.85rem;
+      }
+
+      .badge-arrow svg {
+        width: 12px;
+        height: 12px;
+      }
+
+      .recent-posts h2 {
+        font-size: 1.5rem;
+        margin-bottom: 1.5rem;
+      }
+
+      .posts-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+      }
+
+      .post-image-wrapper {
+        height: 180px;
+      }
+
+      .post-content {
+        padding: 1.25rem;
+      }
+
+      .post-card h3 {
+        font-size: 1.1rem;
+      }
+
+      .post-excerpt {
+        font-size: 0.9rem;
+      }
+
+      .featured-this-week-section h2 {
+        font-size: 1.5rem;
+        margin-bottom: 1.5rem;
+      }
+
+      .featured-layout {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+      }
+
+      .featured-image {
+        height: 200px;
+      }
+
+      .featured-large-content {
+        padding: 1.5rem;
+      }
+
+      .featured-large-card h3 {
+        font-size: 1.25rem;
+        margin-top: 0.75rem;
+      }
+
+      .featured-small-items {
+        flex-direction: column;
+      }
+
+      .featured-small-card {
+        flex-direction: column;
+      }
+
+      .featured-small-image {
+        width: 100%;
+        height: 150px;
+      }
+
+      .trust-features-bar {
+        grid-template-columns: 1fr;
+        gap: 1.25rem;
+        padding: 1.5rem;
+      }
+
+      .newsletter-content {
+        grid-template-columns: 1fr;
+      }
+
+      .newsletter-image {
+        height: 150px;
+      }
+
+      .newsletter-form {
+        padding: 1.5rem;
+      }
+
+      .newsletter-form h3 {
+        font-size: 1.5rem;
+      }
+
+      .newsletter-input-group {
+        flex-direction: column;
+      }
+
+      .newsletter-button {
+        width: 100%;
+      }
+    }
+  </style>
+
+  <script>
+    // Hero carousel functionality
+    const initCarousel = () => {
+      const slides = document.querySelectorAll('.hero-slide');
+      const dots = document.querySelectorAll('.carousel-dot');
+      const prevBtn = document.querySelector('.carousel-arrow-prev');
+      const nextBtn = document.querySelector('.carousel-arrow-next');
+      
+      if (slides.length === 0) return;
+
+      let currentSlide = 0;
+      let autoPlayInterval: number | null = null;
+
+      const showSlide = (n: number) => {
+        slides.forEach(slide => slide.classList.remove('active'));
+        dots.forEach(dot => dot.classList.remove('active'));
+        
+        slides[n].classList.add('active');
+        dots[n].classList.add('active');
+      };
+
+      const nextSlide = () => {
+        currentSlide = (currentSlide + 1) % slides.length;
+        showSlide(currentSlide);
+        resetAutoPlay();
+      };
+
+      const prevSlide = () => {
+        currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+        showSlide(currentSlide);
+        resetAutoPlay();
+      };
+
+      const goToSlide = (n: number) => {
+        currentSlide = n;
+        showSlide(currentSlide);
+        resetAutoPlay();
+      };
+
+      const resetAutoPlay = () => {
+        if (autoPlayInterval !== null) {
+          clearInterval(autoPlayInterval);
+        }
+        startAutoPlay();
+      };
+
+      const startAutoPlay = () => {
+        autoPlayInterval = window.setInterval(nextSlide, 6000);
+      };
+
+      // Event listeners
+      prevBtn?.addEventListener('click', prevSlide);
+      nextBtn?.addEventListener('click', nextSlide);
+      
+      dots.forEach((dot, idx) => {
+        dot.addEventListener('click', () => goToSlide(idx));
+      });
+
+      // Initialize
+      showSlide(0);
+      startAutoPlay();
+    };
+
+    // Run on page load
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initCarousel);
+    } else {
+      initCarousel();
+    }
+  </script>
+</BaseLayout>
