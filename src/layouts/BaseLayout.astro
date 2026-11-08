@@ -617,14 +617,14 @@ const categories = Array.from(categoryCounts.keys()).sort();
     <div class="subnav">
       <nav class="subnav-inner">
         {categories.map(cat => (
-          <a href={`/categories/${categorySlug(cat)}/`}>{cat}</a>
+          <a href={`/category/${categorySlug(cat)}/`}>{cat}</a>
         ))}
       </nav>
     </div>
     <nav class="mobile-menu-panel" id="mobile-menu-panel">
       <a href="/">Accueil</a>
       {categories.map(cat => (
-        <a href={`/categories/${categorySlug(cat)}/`}>{cat}</a>
+        <a href={`/category/${categorySlug(cat)}/`}>{cat}</a>
       ))}
       <a href="/contact/">Contact</a>
     </nav>
@@ -650,7 +650,7 @@ const categories = Array.from(categoryCounts.keys()).sort();
         <div class="footer-column">
           <h4>Catégories</h4>
           {categories.map(cat => (
-            <a href={`/categories/${categorySlug(cat)}/`}>{cat}</a>
+            <a href={`/category/${categorySlug(cat)}/`}>{cat}</a>
           ))}
         </div>
 

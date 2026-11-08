@@ -137,7 +137,7 @@ const defaultIconSvg = categoryIconSvg['Général'];
             const catPost = categoryPosts.get(cat);
             const catImage = catPost ? getLocalImagePath(catPost.data['og:image']) : null;
             return (
-              <a href={`/categories/${categorySlug(cat)}/`} class="category-badge-card">
+              <a href={`/category/${categorySlug(cat)}/`} class="category-badge-card">
                 {catImage && <img src={catImage} alt={cat} class="badge-bg-image" />}
                 <div class="badge-overlay"></div>
                 <div class="badge-icon-wrapper">

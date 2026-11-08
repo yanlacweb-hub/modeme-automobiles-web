@@ -149,7 +149,7 @@ const truncateTitle = (str: string, maxLen: number = 50): string => {
             <span>></span>
           </li>
           <li class="breadcrumb-item">
-            <a href={`/categories/${categorySlug(primaryCategory)}/`}>{primaryCategory}</a>
+            <a href={`/category/${categorySlug(primaryCategory)}/`}>{primaryCategory}</a>
           </li>
           <li class="breadcrumb-separator">
             <span>></span>
@@ -190,7 +190,7 @@ const truncateTitle = (str: string, maxLen: number = 50): string => {
         {categories.length > 0 && (
           <div class="categories-list">
             {categories.map(cat => (
-              <a href={`/categories/${categorySlug(cat)}/`} class="category-tag">
+              <a href={`/category/${categorySlug(cat)}/`} class="category-tag">
                 {cat}
               </a>
             ))}
@@ -294,7 +294,7 @@ const truncateTitle = (str: string, maxLen: number = 50): string => {
           </div>
           {primaryCategory && (
             <div class="view-all-link">
-              <a href={`/categories/${categorySlug(primaryCategory)}/`}>Voir tous les articles →</a>
+              <a href={`/category/${categorySlug(primaryCategory)}/`}>Voir tous les articles →</a>
             </div>
           )}
         </div>
