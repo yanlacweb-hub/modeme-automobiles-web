@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://modeme-automobiles-web.local/sitemap-index.xml
+Sitemap: https://modeme-automobiles.com/sitemap-index.xml
