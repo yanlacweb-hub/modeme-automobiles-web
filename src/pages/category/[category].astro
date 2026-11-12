@@ -65,6 +65,55 @@ const categoryDescriptions: Record<string, string> = {
 
 const heroDescription = categoryDescriptions[category] || 'Articles et guides relatifs à cette catégorie.';
 const heroImage = mostRecentPost ? getLocalImagePath(mostRecentPost.data['og:image']) : null;
+
+// Category pillar text (bottom of page) — long-form intro for topical authority
+const categoryBottomTexts: Record<string, string> = {
+  'Achat & Occasion': `
+    <h2>Bien acheter sa voiture, sans se faire avoir</h2>
+    <p>Acheter une voiture, c'est souvent la deuxième plus grosse dépense d'une vie après le logement — alors autant éviter les pièges classiques. Avant de signer quoi que ce soit, il y a des vérifications qui ne devraient jamais être sautées : état mécanique réel, historique du véhicule, cohérence du kilométrage affiché avec l'usure visible. On couvre tout ça en détail dans notre <a href="/10-choses-a-verifier-lors-de-lachat-dune-voiture-doccasion/">checklist d'achat d'occasion</a>.</p>
+    <p>Certains profils d'achat demandent une attention particulière : <a href="/achat-voiture-en-allemagne-un-guide-complet-pour-limportation/">importer un véhicule depuis l'Allemagne</a> implique des démarches spécifiques, et choisir une voiture pour un usage intensif comme <a href="/guide-dachat-comment-choisir-la-voiture-ideale-pour-un-chauffeur-de-taxi/">le métier de chauffeur de taxi</a> répond à des critères de fiabilité très différents d'un achat classique.</p>
+    <p>Vous trouverez ici aussi des repères sur <a href="/le-top-10-des-voitures-les-plus-fiables-pour-un-premier-achat-en-2025/">les modèles qui tiennent le mieux leur valeur pour un premier achat</a>, pour éviter de vous lancer à l'aveugle sur un budget serré.</p>
+  `,
+  'Entretien & Mecanique': `
+    <h2>L'entretien qui compte vraiment pour faire durer sa voiture</h2>
+    <p>Toutes les opérations d'entretien ne se valent pas : certaines sont vitales, d'autres relèvent plus du confort. Ici, on fait le tri — à commencer par <a href="/comment-choisir-la-frequence-ideale-de-vidange-pour-votre-voiture/">la fréquence idéale de vidange</a>, qui dépend de votre moteur et de votre usage, pas d'un chiffre unique.</p>
+    <p>On couvre aussi les points souvent négligés : comment <a href="/batterie-voiture-comment-survivre-a-lhiver-sans-tomber-en-panne/">survivre à l'hiver sans tomber en panne de batterie</a>, pourquoi <a href="/comment-le-nettoyage-du-systeme-dadmission-ameliore-les-performances-moteur/">le nettoyage du système d'admission</a> a un vrai impact, et comment <a href="/carnet-dentretien-un-allie-indispensable-pour-la-longevite-de-votre-voiture/">un carnet d'entretien bien tenu</a> peut faire la différence à la revente.</p>
+    <p>L'idée : vous donner de quoi distinguer un entretien réellement nécessaire d'un devis gonflé par un garage qui en profite.</p>
+  `,
+  'Essence vs diesel': `
+    <h2>Essence ou diesel : quel choix selon votre usage ?</h2>
+    <p>La question n'a plus de réponse universelle depuis les restrictions de circulation diesel en ville. Ici, on compare les deux motorisations sur des critères concrets : pour qui roule beaucoup sur autoroute, le diesel garde des arguments solides ; pour un usage urbain, <a href="/les-meilleures-voitures-essence-automatiques-pour-remplacer-votre-diesel/">les modèles essence automatiques modernes</a> rattrapent une bonne partie de l'écart.</p>
+    <p>On aborde aussi la question qui inquiète beaucoup de propriétaires : <a href="/lavenir-des-voitures-diesel-jusqua-quand-seront-elles-sur-nos-routes/">faut-il encore acheter un diesel</a> et que deviennent les véhicules diesel existants sur le marché de l'occasion.</p>
+  `,
+  'voiture electrique': `
+    <h2>Voiture électrique : lever les vrais freins avant de se décider</h2>
+    <p>Autonomie réelle, coût de recharge, durée de vie de la batterie : trois questions qui bloquent encore la plupart des acheteurs hésitants. Côté recharge, on couvre <a href="/guide-complet-pour-linstallation-dune-borne-de-recharge-a-domicile-pour-vehicule-electrique/">s'équiper d'une borne à domicile</a> et <a href="/borne-de-recharge-rapide-en-france-ou-recharger-a-quel-prix-et-comment-optimiser-votre-mobilite-electrique-en-2026/">trouver où recharger rapidement en déplacement</a>, avec le détail de <a href="/comprendre-le-cout-de-la-recharge-dune-voiture-electrique-a-quoi-sattendre-en-2024/">comment est calculé le coût d'une recharge</a>.</p>
+    <p>Enfin, parce que le budget reste le frein numéro un, on fait le point sur les aides disponibles et sur <a href="/lentretien-dune-voiture-electrique-est-il-moins-couteux-que-celui-dun-vehicule-thermique/">une comparaison honnête des coûts d'entretien entre électrique et thermique</a>.</p>
+  `,
+  'conduite': `
+    <h2>Conduire en sécurité, dans toutes les conditions</h2>
+    <p>Cette rubrique réunit des conseils pratiques pour les moments où la conduite demande une vigilance particulière. Avant un départ, une préparation rapide du véhicule évite la grande majorité des pannes évitables : on détaille une <a href="/check-voiture-vacances-reussir-la-preparation-de-son-vehicule-pour-un-road-trip-estival-en-toute-securite/">checklist concrète avant un road-trip</a>, et comment reconnaître <a href="/fatigue-conducteur-en-ete-adopter-les-bons-reflexes-pour-des-vacances-en-toute-securite/">les signes de fatigue au volant</a> avant qu'il ne soit trop tard.</p>
+    <p>On aborde aussi <a href="/moteur-fatigue-8-signes-a-surveiller-pour-eviter-la-panne-fatale/">les signaux d'un moteur fatigué</a> qui doivent alerter, et des pratiques simples pour <a href="/reduire-sa-consommation-dessence-pratiques-efficaces-pour-les-automobilistes/">réduire sa consommation d'essence</a> au quotidien.</p>
+  `,
+  'covering |racing': `
+    <h2>Covering : transformez le look de votre voiture</h2>
+    <p>Le covering, c'est la façon la plus flexible de changer complètement le style d'une voiture sans toucher à la peinture d'origine. Avant de se lancer, tout savoir sur <a href="/quest-ce-que-le-covering-voiture/">les finitions, le vrai budget à prévoir et les couleurs tendance</a> change radicalement le résultat final.</p>
+    <p>Pour les plus bricoleurs, on couvre <a href="/comment-reussir-la-pose-dun-covering-voiture-soi-meme-guide-pratique-pour-passionnes/">la pose soi-même étape par étape</a>, et <a href="/bien-poser-son-covering-en-ete-guide-complet-pour-une-application-sans-defauts/">les meilleures conditions pour une pose sans défaut</a>.</p>
+    <p>On parle aussi protection, pas seulement esthétique : <a href="/comment-appliquer-un-film-ppf-comme-un-pro-avec-gyeon-q²m-ppf-slip/">le film PPF protège la carrosserie des impacts et des UV</a>, une option de plus en plus choisie en complément d'un covering décoratif.</p>
+  `,
+  'Accessoire | équipement': `
+    <h2>Les accessoires qui valent vraiment le coup</h2>
+    <p>Entre les gadgets qui finissent au fond d'un tiroir et les vrais indispensables, il y a un monde. Pour le confort, on couvre <a href="/accessoire-voiture-interieur-ameliorez-votre-confort-au-quotidien/">les accessoires d'intérieur qui changent vraiment l'expérience de conduite</a>. Côté technologie, on détaille <a href="/accessoires-auto-connectes-bien-choisir-entre-chargeurs-usb-intercom-bluetooth-et-diagnostics-obd/">comment choisir entre chargeurs USB, intercoms Bluetooth et boîtiers OBD</a>.</p>
+    <p>Pour la carrosserie, on a identifié <a href="/7-accessoires-indispensables-pour-proteger-sa-carrosserie-et-garder-votre-voiture-comme-neuve/">les accessoires qui offrent une vraie protection</a> contre les impacts du quotidien — pas juste un argument marketing.</p>
+  `,
+  '2 roues': `
+    <h2>Moto et 2 roues électriques : entretien, sécurité et personnalisation</h2>
+    <p>Deux-roues thermiques ou électriques, l'entretien et la sécurité n'ont rien d'accessoire. Côté sécurité : bien comprendre <a href="/comprendre-la-distance-de-securite-a-moto-pour-une-conduite-sure/">la distance de sécurité à moto</a>, choisir <a href="/comparatif-des-meilleurs-casques-modulables-et-integraux-trouver-lequilibre-entre-securite-et-confort/">un casque modulable ou intégral adapté</a>, et connaître <a href="/comprendre-les-sanctions-liees-au-non-respect-du-controle-technique-moto/">les sanctions réelles en cas de contrôle technique non respecté</a>.</p>
+    <p>Les <a href="/entretien-des-deux-roues-electriques-conseils-pour-prolonger-la-duree-de-vie-de-votre-vehicule/">2 roues électriques ont leurs propres règles d'entretien</a>, différentes des motos thermiques classiques — on les détaille pour rouler en sécurité sans sacrifier l'esthétique.</p>
+  `,
+};
+
+const categoryBottomText = categoryBottomTexts[category] || null;
 ---
 
 <BaseLayout 
@@ -155,9 +204,35 @@ const heroImage = mostRecentPost ? getLocalImagePath(mostRecentPost.data['og:ima
         <a href="/" class="back-link">← Retour à l'accueil</a>
       </div>
     )}
+
+    {/* Category pillar text - bottom of page */}
+    {categoryBottomText && (
+      <div class="category-pillar-text" set:html={categoryBottomText} />
+    )}
   </div>
 
   <style>
+    /* ===== CATEGORY PILLAR TEXT (bottom) ===== */
+    .category-pillar-text {
+      max-width: 800px;
+      margin: 4rem auto 2rem;
+      padding-top: 2.5rem;
+      border-top: 1px solid var(--color-border, #e5e5e5);
+    }
+    .category-pillar-text h2 {
+      font-size: 1.4rem;
+      margin-bottom: 1rem;
+    }
+    .category-pillar-text p {
+      line-height: 1.7;
+      margin-bottom: 1rem;
+      color: var(--color-text-light, #555);
+    }
+    .category-pillar-text a {
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+    }
+
     .category-archive {
       max-width: 1200px;
       margin: 0 auto;

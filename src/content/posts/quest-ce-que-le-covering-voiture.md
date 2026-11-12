@@ -922,6 +922,60 @@ categories: ["covering |racing"]
 
       <p><strong>Arlon</strong> complète le podium des marques premium, avec une gamme orientée vers les applications exigeantes et les longues durées de vie.</p>
 
+      <h3>Quelles couleurs de covering choisir en 2026 ?</h3>
+
+      <p>Une fois la finition choisie, reste la question qui fait vraiment la différence sur le résultat final : la couleur. Les rapports de tendances <strong>BASF Coatings</strong> et <strong>Eckart Automotive</strong> identifient pour 2026 trois teintes qu&rsquo;ils situent en progression — à prendre comme une indication de tendance, pas comme une vérité absolue : le marché évolue vite et varie aussi selon les régions.</p>
+
+      <div class="price-table-wrap">
+        <table class="price-table">
+          <thead>
+            <tr>
+              <th>Coloris</th>
+              <th>Finition conseillée</th>
+              <th>Effet visuel</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Noir mat</td>
+              <td>Mat</td>
+              <td>Furtif, musclé, intemporel</td>
+            </tr>
+            <tr>
+              <td>Gris Nardo</td>
+              <td>Satiné</td>
+              <td>Moderne, sobre, premium</td>
+            </tr>
+            <tr>
+              <td>Bleu marine</td>
+              <td>Satiné</td>
+              <td>Noble, élégant, hivernal</td>
+            </tr>
+            <tr>
+              <td>Blanc nacré <span class="price-badge">★ 2026</span></td>
+              <td>Métallisé / irisé</td>
+              <td>Reflets subtils, prisé sur les véhicules électriques</td>
+            </tr>
+            <tr>
+              <td>Bleu glacier <span class="price-badge">★ 2026</span></td>
+              <td>Satiné / métallisé</td>
+              <td>Futuriste, technologique</td>
+            </tr>
+            <tr>
+              <td>Cuivre / rose-gold <span class="price-badge">★ 2026</span></td>
+              <td>Métallisé</td>
+              <td>Chaleureux, premium, audacieux</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p>Le <strong>noir mat</strong> et le <strong>gris Nardo</strong> restent des valeurs sûres — intemporelles, elles ne se démodent pas et conviennent à quasiment toutes les carrosseries. Mais ce qui bouge vraiment cette année, ce sont les trois nouvelles teintes marquées ★ : le <strong>blanc nacré</strong> et le <strong>bleu glacier</strong> surfent sur l&rsquo;image technologique des véhicules électriques, tandis que le <strong>cuivre/rose-gold</strong> s&rsquo;impose comme l&rsquo;option chaleureuse et premium du moment.</p>
+
+      <p>Sur circuit, la logique change : le covering racing mise sur des couleurs vives et des néons (rouge brillant, vert éclatant, jaune fluo) pour la visibilité, et sur des motifs géométriques pour l&rsquo;identité visuelle — un style qui inspire de plus en plus les véhicules de route, même en dehors de la compétition.</p>
+
+      <p><strong>Avant de vous décider</strong>, demandez toujours un échantillon du film et regardez-le en extérieur, au soleil puis à l&rsquo;ombre — un bleu glacier peut virer presque au gris sous un ciel couvert, tandis qu&rsquo;un cuivre métallisé devient beaucoup plus intense en pleine lumière. La teinte, le grain et les reflets varient aussi d&rsquo;un fabricant à l&rsquo;autre : un même nom de coloris ne rend pas forcément de façon identique chez 3M, Avery Dennison ou KPMF.</p>
+
       <!-- CTA FLEASTING 2 -->
       <div class="callout-fleasting">
         <div class="callout-eyebrow">Boutique officielle</div>
