@@ -1,6 +1,6 @@
 ---
 postSlug: "revision-complete-de-votre-voiture-pourquoi-opter-pour-un-centre-auto-plutot-quun-garage"
-title: "Révision complète de votre voiture : Pourquoi opter pour un centre auto plutôt qu’un garage ?"
+title: "Entretien et révision complète de votre voiture : centre auto ou garage ?"
 description: "Découvrez pourquoi opter pour un centre auto est la meilleure solution pour la révision complète de votre voiture. Comparez les tarifs avec les garages traditionnels et bénéficiez d'un service rapide et économique."
 pubDate: "2024-10-20T15:46:41"
 updatedDate: "2026-03-06T08:39:01"
@@ -101,7 +101,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<h2 class="wp-block-heading"> 2.Une expertise qui ne se limite pas à une seule marque</h2>
+<h2 class="wp-block-heading">Une expertise qui ne se limite pas à une seule marque</h2>
 
 
 

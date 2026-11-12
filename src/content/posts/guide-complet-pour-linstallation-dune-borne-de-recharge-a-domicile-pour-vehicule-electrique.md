@@ -1,6 +1,6 @@
 ---
 postSlug: "guide-complet-pour-linstallation-dune-borne-de-recharge-a-domicile-pour-vehicule-electrique"
-title: "Borne de recharge à domicile : le guide complet pour bien s’équiper en 2026"
+title: "Borne de recharge à domicile : installation, carte RFID et guide complet 2026"
 description: "Découvrez notre guide complet pour l'installation d'une borne de recharge à domicile pour véhicule électrique. Conseils, aides et sécurité inclus."
 pubDate: "2025-03-26T07:22:44"
 updatedDate: "2026-03-13T09:23:51"
