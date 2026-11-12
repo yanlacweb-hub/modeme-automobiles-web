@@ -72,7 +72,7 @@ categories: ["voiture electrique"]
 
 
 <ul class="wp-block-list">
-<li>Est-ce qu&rsquo;une application spécifique peut aider ? Oui, des applications comme ChargeMap ou PlugShare recensent et localisent les bornes ainsi que leurs disponibilités. Vous pouvez également consulter cette ressource utile pour découvrir les meilleures applications en France : <a class="" href="https://modeme-automobiles.com/les-meilleures-applications-pour-localiser-les-stations-de-recharge-en-france/">https://modeme-automobiles.com/les-meilleures-applications-pour-localiser-les-stations-de-recharge-en-france/</a>.</li>
+<li>Est-ce qu&rsquo;une application spécifique peut aider ? Oui, des applications comme ChargeMap ou PlugShare recensent et localisent les bornes ainsi que leurs disponibilités. Vous pouvez également consulter notre guide sur <a class="" href="https://modeme-automobiles.com/borne-de-recharge-rapide-en-france-ou-recharger-a-quel-prix-et-comment-optimiser-votre-mobilite-electrique-en-2026/">les bornes de recharge rapide en France : où recharger et à quel prix</a>.</li>
 
 
 
@@ -149,7 +149,7 @@ categories: ["voiture electrique"]
 
 
 
-<p class="wp-block-paragraph">Pour en savoir plus sur les tendances actuelles et les évolutions des voitures électriques, consultez cet article : <a class="" href="https://modeme-automobiles.com/voitures-electriques-2023-tendances-et-evolutions/">https://modeme-automobiles.com/voitures-electriques-2023-tendances-et-evolutions/</a>.</p>
+<p class="wp-block-paragraph">Pour en savoir plus sur l'ensemble du marché des voitures électriques, consultez cet article : <a class="" href="https://modeme-automobiles.com/tout-savoir-sur-les-meilleures-voitures-electriques/">tout savoir sur les meilleures voitures électriques</a>.</p>
 
 
 

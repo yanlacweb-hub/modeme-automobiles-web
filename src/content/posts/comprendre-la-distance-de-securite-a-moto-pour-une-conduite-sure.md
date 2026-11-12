@@ -73,7 +73,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Il est aussi important de se préparer pour les conditions hivernales, pour cela, consultez cet article sur <a href="https://modeme-automobiles.com/equipements-moto-pour-lhiver-bien-sequiper-pour-affronter-la-saison-froide/">l’équipement moto pour l’hiver</a>.</p>
+<p class="wp-block-paragraph">Il est aussi important de se préparer pour les conditions hivernales, pour cela, consultez cet article sur <a href="https://modeme-automobiles.com/proteger-votre-moto-de-la-corrosion-en-hiver-conseils-essentiels-pour-eviter-les-ravages-du-sel/">la protection de votre moto contre la corrosion en hiver</a>.</p>
 
 
 

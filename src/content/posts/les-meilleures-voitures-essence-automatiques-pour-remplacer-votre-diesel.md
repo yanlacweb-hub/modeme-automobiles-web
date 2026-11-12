@@ -51,7 +51,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph"><br>➡️ Pour une analyse plus détaillée de la consommation entre <strong>voitures essence automatiques et diesel</strong>, consultez cet article : <a href="https://modeme-automobiles.com/comparatif-consommation-des-voitures-essence-automatiques-vs-diesel/">Comparatif consommation essence automatique vs diesel</a>.</p>
+<p class="wp-block-paragraph"><br>➡️ Pour une analyse plus détaillée de la consommation entre <strong>voitures essence automatiques et diesel</strong>, consultez cet article : <a href="https://modeme-automobiles.com/les-vehicules-essence-les-plus-economiques-en-carburant/">les véhicules essence les plus économiques en carburant</a>.</p>
 
 
 <div class="wp-block-image">

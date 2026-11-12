@@ -69,7 +69,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">💡 <strong>Vous souhaitez découvrir les modèles essence les plus durables ? Retrouvez notre analyse détaillée ici :</strong> <a href="https://modeme-automobiles.com/quelle-est-la-voiture-essence-la-plus-fiable/">Quelle est la voiture essence la plus fiable ?</a></p>
+<p class="wp-block-paragraph">💡 <strong>Vous vous interrogez sur l'avenir du diesel face à l'essence ? Retrouvez notre analyse détaillée ici :</strong> <a href="https://modeme-automobiles.com/lavenir-des-voitures-diesel-jusqua-quand-seront-elles-sur-nos-routes/">L'avenir des voitures diesel : jusqu'à quand seront-elles sur nos routes ?</a></p>
 
 
 
