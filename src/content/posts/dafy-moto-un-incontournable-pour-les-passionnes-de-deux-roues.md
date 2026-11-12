@@ -195,6 +195,8 @@ categories: ["2 roues"]
 
 <h3 class="wp-block-heading"><strong>Quel équipement trouve-t-on chez Dafy Moto ?</strong></h3>
 
+<p class="wp-block-paragraph">👉 Pour préparer votre contrôle technique moto, consultez aussi <a href="https://modeme-automobiles.com/inspection-technique-moto-les-equipements-dafy-pour-une-moto-au-top/">notre guide sur les équipements Dafy pour une moto au top</a>.</p>
+
 
 
 <p class="wp-block-paragraph"><strong>Dafy</strong> propose tout :<br>✔️ <strong>Blouson moto</strong>, <strong>gants moto</strong>, <strong>bottes moto</strong>, <strong>bagagerie</strong>, <strong>casques homologués</strong><br>✔️ Tenues <strong>trail</strong>, <strong>motocross</strong>, et <strong>permis moto</strong><br>✔️ Produits adaptés à tous types de <strong>trajets</strong> et de <strong>cm3</strong></p>

@@ -435,6 +435,8 @@ categories: ["Achat & Occasion"]
 
 
 
+<p class="wp-block-paragraph">👉 Si vous envisagez une importation depuis l'étranger, consultez aussi <a href="https://modeme-automobiles.com/achat-voiture-en-allemagne-un-guide-complet-pour-limportation/">notre guide complet pour l'achat et l'importation d'une voiture en Allemagne</a>.</p>
+
 <h2 class="wp-block-heading">FAQ — Kilométrage maximum voiture d&rsquo;occasion</h2>
 
 

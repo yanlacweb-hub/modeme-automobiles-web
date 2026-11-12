@@ -319,6 +319,8 @@ categories: ["covering |racing"]
 
 <h3 class="wp-block-heading">Quel budget prévoir pour les démarches d&rsquo;homologation d&rsquo;un covering complet ?</h3>
 
+<p class="wp-block-paragraph">👉 Avant de vous lancer, pensez aussi à vérifier <a href="https://modeme-automobiles.com/impact-du-covering-racing-sur-la-valeur-de-revente-de-votre-vehicule/">l'impact du covering racing sur la valeur de revente de votre véhicule</a>.</p>
+
 
 
 <p class="wp-block-paragraph">Les frais de mise à jour du certificat d&rsquo;immatriculation s&rsquo;élèvent à environ&nbsp;<strong>13,76 €</strong>&nbsp;en 2026 (redevance d&rsquo;acheminement + frais de gestion ANTS). Si vous passez par un professionnel habilité, des honoraires supplémentaires s&rsquo;ajoutent selon la prestation. Ces frais administratifs sont entièrement indépendants du coût de pose du covering lui-même.</p>

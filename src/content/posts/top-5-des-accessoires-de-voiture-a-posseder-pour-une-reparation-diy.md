@@ -189,6 +189,8 @@ categories: ["Accessoire | équipement"]
 
 <h3 class="wp-block-heading">Comment choisir un bon compresseur d&rsquo;air pour l&rsquo;entretien automobile ?</h3>
 
+<p class="wp-block-paragraph">👉 Pour des réparations de carrosserie plus spécifiques, consultez aussi <a href="https://modeme-automobiles.com/comment-reparer-votre-carrosserie-de-voiture-avec-la-resine-epoxy/">notre guide pour réparer votre carrosserie avec la résine époxy</a>.</p>
+
 
 
 <p class="wp-block-paragraph">Choisir un <strong>compresseur d&rsquo;air</strong> pour l&rsquo;entretien auto implique de prendre en compte :</p>

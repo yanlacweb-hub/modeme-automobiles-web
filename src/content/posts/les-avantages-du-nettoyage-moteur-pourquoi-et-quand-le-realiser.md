@@ -253,6 +253,8 @@ categories: ["Entretien & Mecanique"]
 </div>
 
 
+<p class="wp-block-paragraph">👉 Pour un focus spécifique sur le système d'admission (décalaminage, injecteurs), consultez aussi <a href="https://modeme-automobiles.com/comment-le-nettoyage-du-systeme-dadmission-ameliore-les-performances-moteur/">notre guide détaillé sur le nettoyage du système d'admission</a>.</p>
+
 <h2 class="wp-block-heading">FAQ sur le nettoyage moteur automobile</h2>
 
 

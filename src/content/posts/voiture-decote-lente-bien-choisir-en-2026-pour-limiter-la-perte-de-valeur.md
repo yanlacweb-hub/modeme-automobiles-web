@@ -167,6 +167,8 @@ categories: ["Achat & Occasion"]
 
 
 
+<p class="wp-block-paragraph">👉 Pour un budget serré, découvrez aussi <a href="https://modeme-automobiles.com/voiture-compacte-2026-quel-modele-choisir-a-moins-de-20-000-e/">notre sélection des meilleures voitures compactes à moins de 20 000 €</a>.</p>
+
 <h2 class="wp-block-heading">Questions fréquentes sur la décote automobile</h2>
 
 

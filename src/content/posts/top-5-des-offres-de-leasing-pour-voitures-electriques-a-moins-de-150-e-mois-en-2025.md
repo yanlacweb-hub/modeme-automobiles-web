@@ -148,6 +148,8 @@ categories: ["voiture electrique"]
 
 <h2 class="wp-block-heading">Conclusion</h2>
 
+<p class="wp-block-paragraph">👉 Si vous êtes éligible, le leasing social gouvernemental peut être encore plus avantageux : consultez aussi <a href="https://modeme-automobiles.com/les-voitures-electriques-accessibles-a-100-euros-par-mois/">notre guide sur les voitures électriques accessibles à 100 euros par mois</a>.</p>
+
 
 
 <p class="wp-block-paragraph">Au vu des options présentées autour du thème « moins de 150 €/mois », voici quelques <strong>conseils clés</strong> pour bien choisir :</p>

@@ -255,6 +255,8 @@ categories: ["covering |racing"]
 
 <h3 class="wp-block-heading"><strong>Où choisir et acheter mon covering mat ou brillant ?</strong></h3>
 
+<p class="wp-block-paragraph">👉 Pour une option plus originale, découvrez aussi <a href="https://modeme-automobiles.com/covering-voiture-camouflage-tout-ce-que-vous-devez-savoir/">notre guide sur le covering camouflage</a>.</p>
+
 
 
 <p class="wp-block-paragraph">Pour garantir un résultat professionnel, tournez-vous vers un <strong>site expert</strong> proposant </p>

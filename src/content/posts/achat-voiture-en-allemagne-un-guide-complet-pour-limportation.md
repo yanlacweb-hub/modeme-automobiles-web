@@ -293,6 +293,8 @@ categories: ["Achat & Occasion"]
 </div>
 
 
+<p class="wp-block-paragraph">👉 Avant de vous décider, vérifiez aussi <a href="https://modeme-automobiles.com/quel-est-le-kilometrage-maximum-pour-une-voiture-doccasion/">le kilométrage maximum à ne pas dépasser pour une voiture d'occasion</a>.</p>
+
 <h2 class="wp-block-heading"><strong>FAQ — Questions fréquentes sur l&rsquo;achat d&rsquo;une voiture en Allemagne</strong></h2>
 
 

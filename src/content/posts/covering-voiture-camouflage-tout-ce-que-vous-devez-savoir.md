@@ -249,6 +249,8 @@ categories: ["covering |racing"]
 
 <h3 class="wp-block-heading">Le covering camouflage affecte-t-il la garantie constructeur ?</h3>
 
+<p class="wp-block-paragraph">👉 Pour un style plus classique, consultez aussi <a href="https://modeme-automobiles.com/covering-mat-ou-brillant-le-duel-des-styles-pour-votre-voiture/">notre comparatif covering mat ou brillant</a>.</p>
+
 
 
 <p class="wp-block-paragraph">Dans la grande majorité des cas, non. Cependant, il est conseillé de vérifier auprès du constructeur ou du concessionnaire les éventuelles restrictions concernant les modifications extérieures, en particulier pour les films appliqués sur les vitres ou les zones de capteurs.</p>

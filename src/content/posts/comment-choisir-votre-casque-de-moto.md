@@ -135,6 +135,8 @@ categories: ["Accessoire | équipement"]
 
 <h3 class="wp-block-heading">Casque adapté à chaque style de conduite</h3>
 
+<p class="wp-block-paragraph">👉 Une fois le modèle choisi, pensez aussi à bien vérifier <a href="https://modeme-automobiles.com/guide-des-tailles-comment-mesurer-votre-tete-pour-un-casque-moto-adapte/">la taille de votre casque moto avec notre guide de mesure</a>.</p>
+
 
 
 <p class="wp-block-paragraph">Les motards roulant sur des motos sportives type <strong>racer</strong>, ou pratiquant le <strong>tout-terrain</strong> ou le <strong>moto-cross</strong>, devraient privilégier un <strong>casque moto cross</strong> homologué, léger, et offrant une ventilation efficace. À l’inverse, les adeptes de <strong>moto vintage</strong> peuvent préférer un <strong>casque moto jet</strong>, idéal pour une conduite urbaine ou rétro mais généralement plus <strong>bruyant</strong> à haute vitesse.</p>

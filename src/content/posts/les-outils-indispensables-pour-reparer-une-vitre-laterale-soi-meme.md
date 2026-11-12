@@ -143,6 +143,8 @@ categories: ["Entretien & Mecanique"]
 </div>
 
 
+<p class="wp-block-paragraph">👉 Si vous préférez passer par un professionnel ou faire valoir votre assurance, consultez aussi <a href="https://modeme-automobiles.com/que-faire-si-une-vitre-laterale-de-votre-voiture-est-cassee/">notre guide sur que faire si une vitre latérale est cassée</a>.</p>
+
 <h2 class="wp-block-heading">Foire aux questions sur la réparation de vitres latérales</h2>
 
 

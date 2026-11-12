@@ -1346,6 +1346,8 @@ footer a { color: var(--ambre); text-decoration: none; }
 <!-- FAQ -->
 <div class="article-body">
   <section class="faq-section" id="faq">
+<p class="wp-block-paragraph">👉 Si le véhicule qui vous intéresse est électrique, pensez aussi à consulter <a href="https://modeme-automobiles.com/voiture-electrique-doccasion-guide-2026-pour-bien-acheter/">notre guide spécifique pour bien acheter une voiture électrique d'occasion</a>.</p>
+
     <span class="section-label" style="display:block;padding-top:60px;">FAQ</span>
     <h2>Vos questions fréquentes sur l&rsquo;achat d&rsquo;une voiture d&rsquo;occasion</h2>
 

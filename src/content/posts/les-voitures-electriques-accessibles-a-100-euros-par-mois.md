@@ -163,6 +163,8 @@ categories: ["voiture electrique"]
 
 <h2 class="wp-block-heading">FAQ sur le leasing social et les voitures électriques à 100 euros par mois</h2>
 
+<p class="wp-block-paragraph">👉 Pour comparer avec les offres commerciales classiques, consultez aussi <a href="https://modeme-automobiles.com/top-5-des-offres-de-leasing-pour-voitures-electriques-a-moins-de-150-e-mois-en-2025/">notre top 5 des offres de leasing pour voitures électriques à moins de 150 €/mois</a>.</p>
+
 
 
 <p class="wp-block-paragraph"><strong>Quels documents sont nécessaires pour faire une demande de leasing social ?</strong></p>

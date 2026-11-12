@@ -155,6 +155,8 @@ categories: ["Accessoire | équipement"]
 
 <h3 class="wp-block-heading">Existe-t-il des tailles spéciales pour les casques motocross par rapport aux casques de route ?</h3>
 
+<p class="wp-block-paragraph">👉 Pour choisir le bon modèle avant de vérifier la taille, consultez aussi <a href="https://modeme-automobiles.com/comment-choisir-votre-casque-de-moto/">notre guide pour bien choisir votre casque de moto</a>.</p>
+
 
 
 <p class="wp-block-paragraph">Bien que les fabricants proposent des casques aux <strong>coupes</strong> spécifiques pour le motocross (adaptés généralement <strong>pour les hommes</strong> et <strong>pour les femmes</strong>), les tailles standards restent généralement cohérentes. Cependant, consultez systématiquement la <strong>correspondance des tailles</strong> propre au modèle afin de choisir la <strong>taille exacte</strong> qui assurera un maintien parfaitement <strong>ajusté</strong>, comparable à celui attendu d’un <strong>shirt</strong> ou d’un <strong>T-shirt</strong> bien coupé.</p>
