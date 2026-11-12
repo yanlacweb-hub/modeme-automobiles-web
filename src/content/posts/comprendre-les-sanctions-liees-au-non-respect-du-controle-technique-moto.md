@@ -143,6 +143,8 @@ categories: ["2 roues"]
 
 
 
+<p class="wp-block-paragraph">👉 Pour bien préparer votre contrôle technique, consultez aussi <a href="https://modeme-automobiles.com/inspection-technique-moto-les-equipements-dafy-pour-une-moto-au-top/">notre guide des équipements Dafy pour une moto au top</a>.</p>
+
 <h2 class="wp-block-heading">FAQ : comprendre les conséquences du non-respect du contrôle technique moto</h2>
 
 

@@ -67,6 +67,8 @@ categories: ["voiture electrique"]
 
 <h3 class="wp-block-heading">FAQ : Planification et recharges</h3>
 
+<p class="wp-block-paragraph">👉 Pour une vue d&rsquo;ensemble de toute l&rsquo;offre électrique, consultez aussi <a href="https://modeme-automobiles.com/tout-savoir-sur-les-meilleures-voitures-electriques/">notre guide complet des meilleures voitures électriques</a>.</p>
+
 
 
 <ul class="wp-block-list">

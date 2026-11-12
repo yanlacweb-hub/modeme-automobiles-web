@@ -191,6 +191,8 @@ categories: ["Essence vs diesel"]
 </div>
 
 
+<p class="wp-block-paragraph">👉 Pour aller plus loin sur les alternatives possibles, <a href="https://modeme-automobiles.com/les-meilleures-voitures-essence-automatiques-pour-remplacer-votre-diesel/">découvrez notre sélection de voitures essence automatiques pour remplacer votre diesel</a>.</p>
+
 <h2 class="wp-block-heading">FAQ sur les véhicules essence économiques</h2>
 
 

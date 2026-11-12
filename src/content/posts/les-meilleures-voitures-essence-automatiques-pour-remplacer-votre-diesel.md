@@ -125,6 +125,8 @@ categories: ["Essence vs diesel"]
 
 
 
+<p class="wp-block-paragraph">👉 Si vous hésitez encore entre garder le diesel ou passer à l&rsquo;essence, <a href="https://modeme-automobiles.com/lavenir-des-voitures-diesel-jusqua-quand-seront-elles-sur-nos-routes/">notre analyse sur l&rsquo;avenir des voitures diesel</a> peut vous aider à trancher.</p>
+
 <h2 class="wp-block-heading">Questions fréquemment posées sur le remplacement d&rsquo;un diesel par une essence</h2>
 
 

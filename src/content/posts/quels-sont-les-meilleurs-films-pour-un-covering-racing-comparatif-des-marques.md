@@ -233,6 +233,8 @@ categories: ["covering |racing"]
 
 
 
+<p class="wp-block-paragraph">👉 Pour une vue d&rsquo;ensemble de tous les types de films disponibles (pas seulement racing), consultez aussi <a href="https://modeme-automobiles.com/les-differents-types-de-films-de-covering-lequel-choisir-pour-votre-projet/">notre guide des différents types de films de covering</a>.</p>
+
 <h2 class="wp-block-heading">Questions fréquentes sur le choix d’un film covering auto pour le racing</h2>
 
 

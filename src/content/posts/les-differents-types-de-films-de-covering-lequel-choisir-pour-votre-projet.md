@@ -149,6 +149,8 @@ categories: ["covering |racing"]
 </div>
 
 
+<p class="wp-block-paragraph">👉 Pour un usage plus sportif, comparez aussi <a href="https://modeme-automobiles.com/quels-sont-les-meilleurs-films-pour-un-covering-racing-comparatif-des-marques/">les meilleurs films pour un covering racing</a>.</p>
+
 <h2 class="wp-block-heading">FAQ sur le choix des films de covering</h2>
 
 

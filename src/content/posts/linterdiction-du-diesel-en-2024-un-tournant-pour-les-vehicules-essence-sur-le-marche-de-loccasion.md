@@ -145,6 +145,8 @@ categories: ["Essence vs diesel"]
 </div>
 
 
+<p class="wp-block-paragraph">👉 Pour comprendre tout le contexte de ces restrictions, lisez aussi <a href="https://modeme-automobiles.com/les-vehicules-essence-les-plus-economiques-en-carburant/">notre sélection des véhicules essence les plus économiques</a>.</p>
+
 <h2 class="wp-block-heading">Questions fréquentes sur l&rsquo;interdiction du diesel et les opportunités pour les véhicules essence</h2>
 
 

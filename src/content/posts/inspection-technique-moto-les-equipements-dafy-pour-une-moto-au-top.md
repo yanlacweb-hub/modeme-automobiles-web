@@ -153,6 +153,8 @@ categories: ["2 roues"]
 
 
 
+<p class="wp-block-paragraph">👉 Pour connaître les risques en cas de contrôle technique non respecté, lisez aussi <a href="https://modeme-automobiles.com/comprendre-les-sanctions-liees-au-non-respect-du-controle-technique-moto/">notre article sur les sanctions liées au contrôle technique moto</a>.</p>
+
 <h2 class="wp-block-heading">Questions fréquentes sur les équipements Dafy et l&rsquo;inspection technique</h2>
 
 
