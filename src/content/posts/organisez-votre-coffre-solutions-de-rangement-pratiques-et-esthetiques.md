@@ -113,7 +113,7 @@ categories: ["Accessoire | équipement"]
 
 
 
-<p class="wp-block-paragraph">Pour les familles avec enfants, explorez <a class="" href="https://modeme-automobiles.com/accessoires-pour-enfants-securite-et-divertissement-a-bord/">ces accessoires dédiés à la sécurité et au divertissement à bord</a>.</p>
+<p class="wp-block-paragraph">Pour les familles avec enfants, explorez ces accessoires dédiés à la sécurité et au divertissement à bord.</p>
 
 
 

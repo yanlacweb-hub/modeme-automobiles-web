@@ -181,4 +181,4 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Pour une vue plus détaillée des entretiens nécessaires pour prolonger la durée de vie de votre voiture, n&rsquo;hésitez pas à consulter notre guide dédié : <a href="https://modeme-automobiles.com/quel-sont-les-entretiens-a-effectuer-pour-une-voiture/">les entretiens à effectuer pour une voiture</a>.</p>
+<p class="wp-block-paragraph">Pour une vue plus détaillée des entretiens nécessaires pour prolonger la durée de vie de votre voiture, n&rsquo;hésitez pas à consulter notre guide dédié : les entretiens à effectuer pour une voiture.</p>

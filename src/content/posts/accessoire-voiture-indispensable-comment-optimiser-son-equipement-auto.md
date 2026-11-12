@@ -51,7 +51,7 @@ categories: ["Accessoire | équipement"]
 
 
 
-<p class="wp-block-paragraph">Pour compléter votre équipement avec des accessoires adaptés aux enfants, consultez cet article : <a class="" href="https://modeme-automobiles.com/accessoires-pour-enfants-securite-et-divertissement-a-bord/">Accessoires pour enfants : sécurité et divertissement à bord</a>.</p>
+<p class="wp-block-paragraph">Pour compléter votre équipement avec des accessoires adaptés aux enfants, consultez cet article : Accessoires pour enfants : sécurité et divertissement à bord.</p>
 
 
 

@@ -39,7 +39,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Pour plus d’informations sur l&rsquo;équipement essentiel pour affronter l’hiver à moto, consultez cet article : <a href="https://modeme-automobiles.com/equipements-moto-pour-lhiver-bien-sequiper-pour-affronter-la-saison-froide/">Équipements moto pour l’hiver : bien s’équiper pour affronter la saison froide</a>.</p>
+<p class="wp-block-paragraph">Pour plus d’informations sur l&rsquo;équipement essentiel pour affronter l’hiver à moto, consultez cet article : <a href="https://modeme-automobiles.com/proteger-votre-moto-de-la-corrosion-en-hiver-conseils-essentiels-pour-eviter-les-ravages-du-sel/">Équipements moto pour l’hiver : bien s’équiper pour affronter la saison froide</a>.</p>
 
 
 

@@ -137,7 +137,7 @@ categories: ["Accessoire | équipement"]
 
 
 
-<p class="wp-block-paragraph">👉 En complément, vous pouvez consulter cet article sur <a href="https://modeme-automobiles.com/les-indispensables-accessoires-exterieurs-pour-proteger-votre-voiture/">les indispensables accessoires extérieurs pour protéger votre voiture</a> et prolonger la durée de vie de votre carrosserie au quotidien.</p>
+<p class="wp-block-paragraph">👉 En complément, vous pouvez consulter cet article sur les indispensables accessoires extérieurs pour protéger votre voiture et prolonger la durée de vie de votre carrosserie au quotidien.</p>
 
 
 

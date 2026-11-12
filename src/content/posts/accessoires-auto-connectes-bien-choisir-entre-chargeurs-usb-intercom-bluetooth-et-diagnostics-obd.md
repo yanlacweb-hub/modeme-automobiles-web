@@ -153,7 +153,7 @@ categories: ["Accessoire | équipement"]
 
 
 
-<p class="wp-block-paragraph">Pour découvrir d&rsquo;autres équipements qui améliorent à la fois la sécurité et le confort de <strong>votre bébé</strong> lors des trajets en voiture — comme les intercoms, miroirs, pare-soleil ou housses — consultez notre guide complet des <a class="" href="https://modeme-automobiles.com/accessoires-indispensables-pour-parents-optimiser-la-securite-et-le-confort-bebe-en-voiture/">accessoires indispensables pour parents</a>.</p>
+<p class="wp-block-paragraph">Pour découvrir d&rsquo;autres équipements qui améliorent à la fois la sécurité et le confort de <strong>votre bébé</strong> lors des trajets en voiture — comme les intercoms, miroirs, pare-soleil ou housses — consultez notre guide complet des accessoires indispensables pour parents.</p>
 
 
 <div class="wp-block-image">
