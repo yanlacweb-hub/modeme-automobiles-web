@@ -173,6 +173,8 @@ categories: ["Accessoire | équipement"]
 
 
 
+<p class="wp-block-paragraph">👉 Envie d&rsquo;aller plus loin sur le rangement ? Consultez aussi <a href="https://modeme-automobiles.com/organisez-votre-coffre-solutions-de-rangement-pratiques-et-esthetiques/">notre guide pour organiser votre coffre</a>, complémentaire à l&rsquo;organisation de l&rsquo;habitacle.</p>
+
 <h2 class="wp-block-heading">Questions fréquentes sur l&rsquo;organisation de voiture</h2>
 
 
