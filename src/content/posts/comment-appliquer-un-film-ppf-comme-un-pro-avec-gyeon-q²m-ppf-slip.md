@@ -221,7 +221,7 @@ categories: ["covering |racing"]
 
 
 
-<p class="wp-block-paragraph">Pour en savoir plus sur les tarifs et options de covering, consultez cet <a href="https://modeme-automobiles.com/combien-coute-un-covering-voiture-guide-complet-sur-les-tarifs-et-options/"><strong>article complet sur les prix et les options de covering</strong></a>.</p>
+<p class="wp-block-paragraph">Pour en savoir plus sur les tarifs et options de covering, consultez cet <a href="https://modeme-automobiles.com/quest-ce-que-le-covering-voiture/"><strong>article complet sur les prix et les options de covering</strong></a>.</p>
 
 
 

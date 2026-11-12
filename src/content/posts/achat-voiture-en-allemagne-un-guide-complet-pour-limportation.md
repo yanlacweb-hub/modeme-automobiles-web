@@ -99,7 +99,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph"><strong>Essence ou diesel : quelle motorisation choisir ? — </strong>Avant de sélectionner votre véhicule sur le marché allemand, faites le bon choix de motorisation selon votre usage : <a href="https://modeme-automobiles.com/essence-ou-diesel-quelle-voiture-acheter/"><strong>Essence ou diesel : quelle voiture acheter ?</strong></a></p>
+<p class="wp-block-paragraph"><strong>Essence ou diesel : quelle motorisation choisir ? — </strong>Avant de sélectionner votre véhicule sur le marché allemand, faites le bon choix de motorisation selon votre usage : <a href="https://modeme-automobiles.com/les-meilleures-voitures-essence-automatiques-pour-remplacer-votre-diesel/"><strong>Essence ou diesel : quelle voiture acheter ?</strong></a></p>
 
 
 
