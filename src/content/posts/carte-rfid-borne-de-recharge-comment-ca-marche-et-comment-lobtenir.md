@@ -7,18 +7,22 @@ updatedDate: "2026-11-13T09:00:00"
 canonical: "https://modeme-automobiles.com/carte-rfid-borne-de-recharge-comment-ca-marche-et-comment-lobtenir/"
 og:title: "Carte RFID borne de recharge : comment ça marche ?"
 og:description: "Fonctionnement, obtention, et différence entre badge public et carte locale pour recharger votre voiture électrique."
-og:image: "https://modeme-automobiles.com/wp-content/uploads/2025/03/voiture-electrique-en-charge-a-domicile-1024x683.jpg"
+og:image: "https://modeme-automobiles.com/images/articles/carte-rfid/carte-rfid-tap-borne.jpg"
 og:url: "https://modeme-automobiles.com/carte-rfid-borne-de-recharge-comment-ca-marche-et-comment-lobtenir/"
 og:type: "article"
 twitter:card: "summary_large_image"
 twitter:title: "Carte RFID borne de recharge : comment ça marche ?"
 twitter:description: "Fonctionnement, obtention, et différence entre badge public et carte locale pour recharger votre voiture électrique."
-twitter:image: "https://modeme-automobiles.com/wp-content/uploads/2025/03/voiture-electrique-en-charge-a-domicile-1024x683.jpg"
+twitter:image: "https://modeme-automobiles.com/images/articles/carte-rfid/carte-rfid-tap-borne.jpg"
 schema: {"@context": "https://schema.org", "@graph": [{"@type": ["Person", "Organization"], "@id": "https://modeme-automobiles.com/#person", "name": "admin-m4qY"}, {"@type": "WebSite", "@id": "https://modeme-automobiles.com/#website", "url": "https://modeme-automobiles.com", "name": "admin-m4qY", "publisher": {"@id": "https://modeme-automobiles.com/#person"}, "inLanguage": "fr-FR"}, {"@type": "WebPage", "@id": "https://modeme-automobiles.com/carte-rfid-borne-de-recharge-comment-ca-marche-et-comment-lobtenir/#webpage", "url": "https://modeme-automobiles.com/carte-rfid-borne-de-recharge-comment-ca-marche-et-comment-lobtenir/", "name": "Carte RFID borne de recharge : comment ça marche et comment l'obtenir ?", "datePublished": "2026-11-13T09:00:00+01:00", "dateModified": "2026-11-13T09:00:00+01:00", "isPartOf": {"@id": "https://modeme-automobiles.com/#website"}, "inLanguage": "fr-FR"}, {"@type": "Person", "@id": "https://modeme-automobiles.com/author/nala/", "name": "Thomas Bernard", "url": "https://modeme-automobiles.com/author/nala/"}, {"@type": "BlogPosting", "headline": "Carte RFID borne de recharge : comment ça marche et comment l'obtenir ?", "datePublished": "2026-11-13T09:00:00+01:00", "dateModified": "2026-11-13T09:00:00+01:00", "articleSection": "voiture electrique", "author": {"@id": "https://modeme-automobiles.com/author/nala/", "name": "Thomas Bernard"}, "publisher": {"@id": "https://modeme-automobiles.com/#person"}, "description": "Carte RFID pour borne de recharge : fonctionnement, CPO et eMSP, principales cartes en France.", "name": "Carte RFID borne de recharge : comment ça marche et comment l'obtenir ?", "@id": "https://modeme-automobiles.com/carte-rfid-borne-de-recharge-comment-ca-marche-et-comment-lobtenir/#richSnippet", "isPartOf": {"@id": "https://modeme-automobiles.com/carte-rfid-borne-de-recharge-comment-ca-marche-et-comment-lobtenir/#webpage"}, "inLanguage": "fr-FR", "mainEntityOfPage": {"@id": "https://modeme-automobiles.com/carte-rfid-borne-de-recharge-comment-ca-marche-et-comment-lobtenir/#webpage"}}]}
 categories: ["voiture electrique"]
 ---
 
 <p class="wp-block-paragraph">Une borne publique peut être activée par une carte RFID, une application, un paiement par carte bancaire ou, sur certains réseaux, par QR code. La carte RFID reste pourtant le moyen le plus courant. Simple une fois comprise, elle reste source de confusion pour beaucoup de nouveaux conducteurs. Ce guide répond aux questions concrètes : comment ça marche, comment l'obtenir, et dans quels cas elle n'est pas le bon outil.</p>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1200" height="800" src="/images/articles/carte-rfid/carte-rfid-tap-borne.jpg" alt="Main approchant une carte RFID du lecteur sans contact d'une borne de recharge pour véhicule électrique" /></figure>
+</div>
 
 <h2 class="wp-block-heading">Qu'est-ce qu'une carte RFID pour borne de recharge ?</h2>
 
@@ -51,6 +55,10 @@ categories: ["voiture electrique"]
 
 <p class="wp-block-paragraph">Selon l'opérateur et la borne, l'application associée peut afficher l'état de la session, l'énergie délivrée, sa durée et une estimation du coût — ce n'est toutefois pas garanti sur chaque réseau en itinérance.</p>
 
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1200" height="800" src="/images/articles/carte-rfid/voiture-electrique-charge-publique.jpg" alt="Voiture électrique branchée sur une borne de recharge publique en extérieur" /></figure>
+</div>
+
 <h2 class="wp-block-heading">Comment obtenir et activer une carte RFID ?</h2>
 
 <p class="wp-block-paragraph">Vous pouvez commander un badge sur le site ou l'application d'un eMSP (Chargemap, Shell Recharge, Izivia, Freshmile...), en passant par le constructeur de votre véhicule qui propose parfois un badge partenaire, ou directement auprès de l'exploitant si vous rechargez presque toujours au même endroit. Dans tous les cas, le badge doit généralement être <strong>activé et rattaché à un moyen de paiement</strong> depuis l'application avant sa première utilisation — une carte reçue par courrier ne fonctionne pas automatiquement dès réception.</p>
@@ -70,6 +78,10 @@ categories: ["voiture electrique"]
 
 <p class="wp-block-paragraph">Les tarifs, frais de service et conditions d'abonnement varient selon le fournisseur et évoluent régulièrement : vérifiez les conditions actuelles directement sur le site de l'eMSP avant de commander, plutôt que de vous fier à un prix annoncé ailleurs. Dans les faits, beaucoup de conducteurs réguliers possèdent plusieurs cartes, car aucun badge ne garantit une compatibilité universelle.</p>
 
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1200" height="800" src="/images/articles/carte-rfid/plusieurs-cartes-rfid.jpg" alt="Plusieurs cartes RFID de recharge tenues en main, illustrant qu'un conducteur peut posséder plusieurs badges d'opérateurs différents" /></figure>
+</div>
+
 <h2 class="wp-block-heading">Carte RFID, carte bancaire, QR code : quels moyens de paiement sur les bornes publiques ?</h2>
 
 <p class="wp-block-paragraph">Depuis le 13 avril 2024, le règlement européen AFIR impose une règle aux nouvelles bornes publiques. Elles doivent accepter au moins un moyen de paiement sans abonnement préalable : carte bancaire, lecteur sans contact, ou paiement sécurisé par QR code pour les bornes de moins de 50 kW. Pour les bornes rapides de 50 kW et plus installées depuis cette date, un terminal de paiement par carte bancaire ou un lecteur sans contact est obligatoire. Les bornes rapides déjà existantes sur le réseau routier européen devront se mettre en conformité d'ici le 1er janvier 2027.</p>
@@ -77,6 +89,10 @@ categories: ["voiture electrique"]
 <p class="wp-block-paragraph">Concrètement, la carte bancaire progresse sur les bornes récentes. Mais les deux moyens restent complémentaires plutôt que substituables : un badge eMSP donne accès à un réseau plus large via l'itinérance et centralise la facturation sur un seul compte. La carte bancaire ou le QR code dépannent sur une borne isolée, sans création de compte préalable. Pour un usage régulier du réseau public, garder les deux solutions disponibles reste la meilleure option.</p>
 
 <h2 class="wp-block-heading">Carte RFID pour les flottes d'entreprise</h2>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1200" height="675" src="/images/articles/carte-rfid/flotte-entreprise-recharge.jpg" alt="Flotte de véhicules électriques d'entreprise en charge simultanée sur un parking professionnel" /></figure>
+</div>
 
 <p class="wp-block-paragraph">Les entreprises disposant d'une flotte électrique utilisent aussi des cartes RFID. L'enjeu principal est la gestion centralisée plutôt que la mobilité individuelle : attribuer une carte par salarié ou par véhicule, suivre les sessions, et regrouper la facturation plutôt que de rembourser des notes de frais. Plusieurs eMSP proposent des offres pensées pour les flottes, avec des règles qui varient selon le fournisseur : plafonds d'usage, export comptable, et parfois prise en charge de la recharge effectuée au domicile du salarié moyennant un dispositif de suivi spécifique. Les modalités précises (tableau de bord, rattachement au conducteur ou au véhicule) dépendent de l'offre choisie — à vérifier auprès du fournisseur avant de s'engager.</p>
 
