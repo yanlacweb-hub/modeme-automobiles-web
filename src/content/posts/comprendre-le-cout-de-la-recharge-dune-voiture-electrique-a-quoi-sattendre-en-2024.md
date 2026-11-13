@@ -283,6 +283,8 @@ categories: ["voiture electrique"]
 
 <h3 class="wp-block-heading"><strong>Le rôle de l’autoroute : un tarif structurellement plus élevé</strong></h3>
 
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1200" height="675" src="/images/articles/cout-recharge/borne-rapide-autoroute.jpg" alt="Voiture électrique en recharge rapide sur une station DC en bordure d'autoroute" class="wp-image-cout-recharge-1" /></figure>
+
 
 
 <p class="wp-block-paragraph">Les bornes implantées sur autoroute sont soumises à des contraintes spécifiques. Elles nécessitent des installations robustes, des travaux de raccordement lourds et des coûts de concession élevés. Cette réalité se reflète dans le tarif final, presque toujours supérieur à celui d’une recharge réalisée en milieu urbain. Une même recharge peut coûter 20 à 40 % plus cher lorsqu’elle est effectuée sur une aire autoroutière. Cette différence structurelle persistera tant que les opérateurs devront amortir des installations conçues pour maintenir une haute disponibilité et résister à de très fortes sollicitations lors des périodes de départs massifs.</p>
@@ -356,6 +358,8 @@ categories: ["voiture electrique"]
 
 
 <h3 class="wp-block-heading"><strong>Recharger en heures creuses : l’effet direct sur le coût réel</strong></h3>
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1200" height="675" src="/images/articles/cout-recharge/recharge-domicile-nuit.jpg" alt="Voiture électrique rechargeant à domicile sur une wallbox pendant la nuit" class="wp-image-cout-recharge-2" /></figure>
 
 
 
