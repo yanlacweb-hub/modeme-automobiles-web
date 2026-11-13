@@ -213,3 +213,5 @@ categories: ["voiture electrique"]
 
 
 <p class="wp-block-paragraph">Tout à fait ! Les&nbsp;<strong>bonus écologiques</strong>&nbsp;s&rsquo;appliquent souvent aux contrats de leasing, réduisant ainsi considérablement le coût global de location. Vérifiez l&rsquo;éligibilité auprès du fournisseur lors de l&rsquo;élaboration du contrat pour maximiser cet avantage financier dédié à encourager l’achat de véhicules verts.</p>
+
+<p class="wp-block-paragraph">👉 Pour connaître les dispositifs d'aide disponibles au-delà du leasing, consultez <a href="/les-avantages-fiscaux-pour-lachat-dun-vehicule-electrique-en-2025/">notre guide des aides à l'achat d'un véhicule électrique</a>.</p>

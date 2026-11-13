@@ -273,4 +273,4 @@ categories: ["voiture electrique"]
 
 
 
-<p class="wp-block-paragraph">Pour aller plus loin et découvrir quel modèle vous correspond, consultez notre page dédiée à la&nbsp;<a href="https://tool.textbulker.com/voiture-electrique" target="_blank" rel="noopener">voiture électrique</a>.</p>
+<p class="wp-block-paragraph">Pour aller plus loin et découvrir quel modèle vous correspond, consultez notre page dédiée à la&nbsp;<a href="/category/voiture-electrique/">voiture électrique</a>, et pour vos trajets longue distance, <a href="/voitures-electriques-et-long-trajets-conseils-pour-voyager-sereinement/">nos conseils pour voyager sereinement en électrique</a>.</p>

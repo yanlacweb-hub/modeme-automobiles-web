@@ -290,3 +290,5 @@ categories: ["voiture electrique"]
 
 
 <p class="wp-block-paragraph"><strong>En résumé</strong>, choisir entre un <strong>suv électrique</strong> et une <strong>berline électrique</strong> en 2026 implique d’identifier précisément ses besoins, son usage quotidien, et de mettre en balance le <strong>rapport qualité-prix</strong> de chaque catégorie. Prenez le temps d’essayer plusieurs modèles, comparez les équipements et estimez les coûts globaux pour faire un choix pertinent et durable. Pour tout projet, privilégiez la réflexion sur l’usage réel et n’hésitez pas à solliciter l’avis d’un professionnel pour sécuriser votre investissement automobile.</p>
+
+<p class="wp-block-paragraph">👉 Pour prendre soin de la batterie sur la durée : <a href="/les-meilleures-pratiques-pour-prolonger-la-duree-de-vie-des-batteries-de-voitures-electriques/">nos conseils pour prolonger la durée de vie de la batterie</a>.</p>
