@@ -784,7 +784,7 @@ categories: ["covering |racing"]
 <main class="article-body">
 
 <!-- INTRO -->
-<p>Le covering voiture, c&rsquo;est l&rsquo;art de transformer l&rsquo;apparence d&rsquo;un véhicule sans toucher à sa peinture d&rsquo;origine. Concrètement, il s&rsquo;agit d&rsquo;appliquer un film adhésif vinyle sur tout ou partie de la carrosserie — pour changer de couleur, protéger la peinture, ou personnaliser son véhicule à moindre coût.</p>
+<p>Le covering voiture — aussi appelé <strong>covering auto</strong> ou <strong>covering automobile</strong> — c&rsquo;est l&rsquo;art de transformer l&rsquo;apparence d&rsquo;un véhicule sans toucher à sa peinture d&rsquo;origine. Concrètement, il s&rsquo;agit d&rsquo;appliquer un film adhésif vinyle sur tout ou partie de la carrosserie — pour changer de couleur, protéger la peinture, ou personnaliser son véhicule à moindre coût.</p>
 
 <p>Technique longtemps réservée aux flottes d&rsquo;entreprise et aux voitures de compétition, le covering s&rsquo;est démocratisé ces dernières années auprès des particuliers. Aujourd&rsquo;hui, il séduit autant les passionnés de tuning que les automobilistes qui cherchent simplement une alternative à la peinture classique.</p>
 
@@ -793,7 +793,7 @@ categories: ["covering |racing"]
 <!-- SECTION 1 -->
 <h2 id="definition">Qu&rsquo;est-ce que le covering voiture ? Définition et principe</h2>
 
-<p>Le covering voiture — aussi appelé <strong>wrapping ou pelliculage</strong> — désigne la technique qui consiste à recouvrir la carrosserie d&rsquo;un véhicule avec un film vinyle adhésif. Ce film, fin et souple, épouse les formes de la carrosserie grâce à la chaleur, et se retire sans laisser de trace sur la peinture d&rsquo;origine.</p>
+<p>Le covering voiture — aussi appelé <strong>wrapping ou pelliculage</strong>, et parfois simplement <strong>covering auto</strong> ou <strong>covering automobile</strong> dans le langage courant — désigne la technique qui consiste à recouvrir la carrosserie d&rsquo;un véhicule avec un film vinyle adhésif. Ce film, fin et souple, épouse les formes de la carrosserie grâce à la chaleur, et se retire sans laisser de trace sur la peinture d&rsquo;origine.</p>
 
 <p>C&rsquo;est une <strong>solution de personnalisation réversible</strong> : contrairement à une peinture, le covering ne modifie pas définitivement le véhicule. On peut le poser, le garder plusieurs années, puis le retirer — et retrouver la carrosserie dans l&rsquo;état où on l&rsquo;avait laissée.</p>
 
