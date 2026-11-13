@@ -159,6 +159,20 @@ const defaultIconSvg = categoryIconSvg['Général'];
       </section>
     )}
 
+    {/* Partenaire : bannière publicitaire Fleasting (films covering) */}
+    <section class="ad-banner-section">
+      <a href="https://fleasting.com/" target="_blank" rel="noopener sponsored" class="ad-banner">
+        <img src="/ads/fleasting-porsche.webp" alt="Fleasting - Films de covering premium" class="ad-banner-image" />
+        <div class="ad-banner-overlay"></div>
+        <div class="ad-banner-content">
+          <span class="ad-banner-tag">Partenaire</span>
+          <h3><span class="ad-banner-highlight">Sublimez</span> votre véhicule avec un covering pro</h3>
+          <p>Films vinyle premium pour voiture, moto, bateau — pose facile, rendu haut de gamme.</p>
+          <span class="ad-banner-cta">Découvrir Fleasting →</span>
+        </div>
+      </a>
+    </section>
+
     {/* NEW: "À la une cette semaine" Featured Section */}
     {featuredSectionPosts.length > 0 && (
       <section class="featured-this-week-section">
@@ -330,6 +344,124 @@ const defaultIconSvg = categoryIconSvg['Général'];
   </div>
 
   <style>
+    .ad-banner-section {
+      margin: 2.5rem 0;
+    }
+
+    .ad-banner {
+      position: relative;
+      display: block;
+      border-radius: 16px;
+      overflow: hidden;
+      text-decoration: none;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.3);
+      transition: box-shadow 0.25s ease, transform 0.25s ease;
+      height: 260px;
+    }
+
+    .ad-banner:hover {
+      box-shadow: 0 16px 36px rgba(0, 0, 0, 0.4);
+      transform: translateY(-2px);
+    }
+
+    .ad-banner-image {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: right center;
+    }
+
+    .ad-banner-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(90deg, rgba(10, 9, 8, 0.95) 0%, rgba(10, 9, 8, 0.75) 45%, rgba(10, 9, 8, 0.1) 75%, transparent 100%);
+    }
+
+    .ad-banner-content {
+      position: relative;
+      z-index: 2;
+      height: 100%;
+      padding: 1.75rem 2rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 0.6rem;
+      max-width: 60%;
+    }
+
+    .ad-banner-tag {
+      display: inline-block;
+      width: fit-content;
+      background: var(--color-amber);
+      color: var(--color-dark-header);
+      font-size: 0.65rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      padding: 0.2rem 0.6rem;
+      border-radius: 999px;
+    }
+
+    .ad-banner-content h3 {
+      font-family: var(--font-display);
+      font-size: 1.5rem;
+      font-weight: 800;
+      color: var(--color-cream);
+      margin: 0;
+      line-height: 1.2;
+    }
+
+    .ad-banner-highlight {
+      color: var(--color-amber);
+    }
+
+    .ad-banner-content p {
+      color: rgba(255, 255, 255, 0.85);
+      margin: 0;
+      font-size: 0.95rem;
+    }
+
+    .ad-banner-cta {
+      display: inline-block;
+      width: fit-content;
+      background: var(--color-amber);
+      color: var(--color-dark-header);
+      font-weight: 800;
+      font-size: 0.95rem;
+      padding: 0.65rem 1.25rem;
+      border-radius: 8px;
+      margin-top: 0.4rem;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .ad-banner:hover .ad-banner-cta {
+      background: var(--color-cream);
+      transform: translateX(3px);
+    }
+
+    @media (max-width: 768px) {
+      .ad-banner {
+        height: auto;
+        min-height: 280px;
+      }
+
+      .ad-banner-overlay {
+        background: linear-gradient(180deg, rgba(10, 9, 8, 0.4) 0%, rgba(10, 9, 8, 0.92) 55%, rgba(10, 9, 8, 0.97) 100%);
+      }
+
+      .ad-banner-content {
+        max-width: 100%;
+        padding: 1.5rem;
+        justify-content: flex-end;
+      }
+
+      .ad-banner-content h3 {
+        font-size: 1.25rem;
+      }
+    }
+
     .homepage {
       margin-bottom: 4rem;
     }
