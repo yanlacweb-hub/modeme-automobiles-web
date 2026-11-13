@@ -83,13 +83,23 @@ const defaultIconSvg = categoryIconSvg['Général'];
                     <div class="hero-label">
                       <span class="hero-dash">—</span> {post.data.categories?.[0] ? post.data.categories[0].toUpperCase() : 'GUIDE'}
                     </div>
-                    <h1>
-                      {post.data.title.split(' ').map((word: string, wIdx: number) => {
-                        const words = post.data.title.split(' ');
-                        const highlightStart = Math.max(0, words.length - 2);
-                        return wIdx >= highlightStart ? <span class="hero-highlight">{word} </span> : `${word} `;
-                      })}
-                    </h1>
+                    {idx === 0 ? (
+                      <h1 class="hero-title">
+                        {post.data.title.split(' ').map((word: string, wIdx: number) => {
+                          const words = post.data.title.split(' ');
+                          const highlightStart = Math.max(0, words.length - 2);
+                          return wIdx >= highlightStart ? <span class="hero-highlight">{word} </span> : `${word} `;
+                        })}
+                      </h1>
+                    ) : (
+                      <h2 class="hero-title">
+                        {post.data.title.split(' ').map((word: string, wIdx: number) => {
+                          const words = post.data.title.split(' ');
+                          const highlightStart = Math.max(0, words.length - 2);
+                          return wIdx >= highlightStart ? <span class="hero-highlight">{word} </span> : `${word} `;
+                        })}
+                      </h2>
+                    )}
                     {post.data.description && (
                       <p class="hero-excerpt">{post.data.description.substring(0, 160)}...</p>
                     )}
@@ -417,7 +427,7 @@ const defaultIconSvg = categoryIconSvg['Général'];
       margin-right: 0.5rem;
     }
 
-    .hero-slide h1 {
+    .hero-slide .hero-title {
       font-family: var(--font-display);
       font-size: 3.2rem;
       font-weight: 700;
@@ -1251,7 +1261,7 @@ const defaultIconSvg = categoryIconSvg['Général'];
         padding: 2rem 3.25rem;
       }
 
-      .hero-slide h1 {
+      .hero-slide .hero-title {
         font-size: 2.2rem;
       }
 
@@ -1379,7 +1389,7 @@ const defaultIconSvg = categoryIconSvg['Général'];
         display: none;
       }
 
-      .hero-slide h1 {
+      .hero-slide .hero-title {
         font-size: 1.6rem;
         margin-bottom: 1rem;
       }
