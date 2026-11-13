@@ -634,13 +634,21 @@ const truncateTitle = (str: string, maxLen: number = 50): string => {
       letter-spacing: -0.2px;
     }
 
-    .article-body :global(table) {
+    .article-body :global(.wp-block-table) {
       width: 100%;
-      border-collapse: collapse;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
       margin: 2rem 0;
       border-radius: 8px;
-      overflow: hidden;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .article-body :global(table) {
+      width: 100%;
+      min-width: 480px;
+      border-collapse: collapse;
+      border-radius: 8px;
+      overflow: hidden;
     }
 
     .article-body :global(th, td) {
@@ -969,6 +977,15 @@ const truncateTitle = (str: string, maxLen: number = 50): string => {
         margin-top: 1.5rem;
       }
 
+      .article-body :global(th, td) {
+        padding: 0.6rem 0.75rem;
+        font-size: 0.9rem;
+      }
+
+      .article-body :global(table) {
+        min-width: 420px;
+      }
+
       .related-title {
         font-size: 1.6rem;
       }
@@ -1071,6 +1088,15 @@ const truncateTitle = (str: string, maxLen: number = 50): string => {
 
       .article-body :global(h3) {
         font-size: 1.1rem;
+      }
+
+      .article-body :global(th, td) {
+        padding: 0.5rem 0.6rem;
+        font-size: 0.82rem;
+      }
+
+      .article-body :global(table) {
+        min-width: 380px;
       }
 
       .article-body :global(blockquote) {
