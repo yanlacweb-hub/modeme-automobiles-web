@@ -51,7 +51,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph"><br>➡️ Pour une analyse plus détaillée de la consommation entre <strong>voitures essence automatiques et diesel</strong>, consultez cet article : <a href="https://modeme-automobiles.com/comparatif-consommation-des-voitures-essence-automatiques-vs-diesel/">Comparatif consommation essence automatique vs diesel</a>.</p>
+<p class="wp-block-paragraph"><br>➡️ Pour une analyse plus détaillée de la consommation entre <strong>voitures essence automatiques et diesel</strong>, consultez cet article : <a href="https://modeme-automobiles.com/les-vehicules-essence-les-plus-economiques-en-carburant/">les véhicules essence les plus économiques en carburant</a>.</p>
 
 
 <div class="wp-block-image">
@@ -124,6 +124,8 @@ categories: ["Essence vs diesel"]
 <p class="wp-block-paragraph">Au-delà de l&rsquo;environnement, il existe une certaine image associée à conduire un <strong>véhicule électrique</strong> ou un modèle <strong>hybride</strong> , conforme aux nouvelles normes écologiques. Pour certains, cela améliore la perception qu&rsquo;ont les autres à leur égard, montrant ainsi leur engagement envers un <strong>parc automobile</strong> plus respectueux de la planète et une réduction des impacts liés aux <strong>carburants</strong> fossiles comme l&rsquo; <strong>essence</strong> et le <strong>sans-plomb</strong> .</p>
 
 
+
+<p class="wp-block-paragraph">👉 Si vous hésitez encore entre garder le diesel ou passer à l&rsquo;essence, <a href="https://modeme-automobiles.com/lavenir-des-voitures-diesel-jusqua-quand-seront-elles-sur-nos-routes/">notre analyse sur l&rsquo;avenir des voitures diesel</a> peut vous aider à trancher.</p>
 
 <h2 class="wp-block-heading">Questions fréquemment posées sur le remplacement d&rsquo;un diesel par une essence</h2>
 

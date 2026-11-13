@@ -209,6 +209,8 @@ categories: ["voiture electrique"]
 
 <h3 class="wp-block-heading">Comment profiter pleinement des aides fiscales et de la prime à l&rsquo;achat en 2026?</h3>
 
+<p class="wp-block-paragraph">👉 Pour une comparaison détaillée des coûts d'entretien, consultez aussi <a href="https://modeme-automobiles.com/lentretien-dune-voiture-electrique-est-il-moins-couteux-que-celui-dun-vehicule-thermique/">notre analyse électrique vs thermique</a>.</p>
+
 
 
 <p class="wp-block-paragraph">Les véhicules <strong>zéro émission</strong> comme les <strong>voitures tout électriques</strong> profitent encore d’aides substantielles : <strong>prime à l’achat</strong>, <strong>exonération de carte grise</strong>, voire <strong>stationnement gratuit</strong> dans certaines communes. Ces dispositifs s’appliquent aussi bien en achat neuf qu’en <strong>leasing</strong>.</p>

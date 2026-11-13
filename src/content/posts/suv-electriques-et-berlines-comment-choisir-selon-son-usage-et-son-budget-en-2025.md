@@ -149,7 +149,7 @@ categories: ["voiture electrique"]
 
 
 
-<p class="wp-block-paragraph">👉 Pour affiner votre stratégie d’achat, consultez ce <a class="" href="https://modeme-automobiles.com/comparer-achat-leasing-et-location-longue-duree-pour-voitures-electriques-que-choisir/">comparatif achat, leasing et location longue durée pour voitures électriques</a> afin de choisir la formule la plus rentable selon votre profil.</p>
+<p class="wp-block-paragraph">👉 Pour affiner votre stratégie d’achat, consultez ce <a class="" href="https://modeme-automobiles.com/vehicules-en-location-longue-duree-ce-quil-faut-savoir-avant-de-sauter-le-pas/">comparatif achat, leasing et location longue durée pour voitures électriques</a> afin de choisir la formule la plus rentable selon votre profil.</p>
 
 
 
@@ -290,3 +290,5 @@ categories: ["voiture electrique"]
 
 
 <p class="wp-block-paragraph"><strong>En résumé</strong>, choisir entre un <strong>suv électrique</strong> et une <strong>berline électrique</strong> en 2026 implique d’identifier précisément ses besoins, son usage quotidien, et de mettre en balance le <strong>rapport qualité-prix</strong> de chaque catégorie. Prenez le temps d’essayer plusieurs modèles, comparez les équipements et estimez les coûts globaux pour faire un choix pertinent et durable. Pour tout projet, privilégiez la réflexion sur l’usage réel et n’hésitez pas à solliciter l’avis d’un professionnel pour sécuriser votre investissement automobile.</p>
+
+<p class="wp-block-paragraph">👉 Pour prendre soin de la batterie sur la durée : <a href="/les-meilleures-pratiques-pour-prolonger-la-duree-de-vie-des-batteries-de-voitures-electriques/">nos conseils pour prolonger la durée de vie de la batterie</a>.</p>

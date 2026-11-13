@@ -117,7 +117,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Vous hésitez encore entre essence et diesel pour votre prochain achat ? Consultez notre guide complet :&nbsp;<a href="https://modeme-automobiles.com/essence-ou-diesel-quelle-voiture-acheter/">Essence ou diesel : quelle voiture acheter ? — Modeme Automobiles</a></p>
+<p class="wp-block-paragraph">Vous hésitez encore entre essence et diesel pour votre prochain achat ? Consultez notre guide complet :&nbsp;<a href="https://modeme-automobiles.com/les-meilleures-voitures-essence-automatiques-pour-remplacer-votre-diesel/">Essence ou diesel : quelle voiture acheter ? — Modeme Automobiles</a></p>
 
 
 
@@ -183,7 +183,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Ces seuils sont indicatifs et varient selon les constructeurs, les motorisations et les conditions d&rsquo;utilisation. L&rsquo;essentiel est de ne jamais acheter un véhicule sans connaître son&nbsp;<strong>historique d&rsquo;entretien complet</strong>. Pour ne rien oublier lors de votre démarche, consultez également notre&nbsp;<a href="https://modeme-automobiles.com/10-choses-a-verifier-avant-achat-vehicule-occasion/">liste des 10 choses à vérifier avant l&rsquo;achat d&rsquo;un véhicule d&rsquo;occasion</a>.</p>
+<p class="wp-block-paragraph">Ces seuils sont indicatifs et varient selon les constructeurs, les motorisations et les conditions d&rsquo;utilisation. L&rsquo;essentiel est de ne jamais acheter un véhicule sans connaître son&nbsp;<strong>historique d&rsquo;entretien complet</strong>. Pour ne rien oublier lors de votre démarche, consultez également notre&nbsp;<a href="https://modeme-automobiles.com/10-choses-a-verifier-lors-de-lachat-dune-voiture-doccasion/">liste des 10 choses à vérifier avant l&rsquo;achat d&rsquo;un véhicule d&rsquo;occasion</a>.</p>
 
 
 
@@ -435,6 +435,8 @@ categories: ["Achat & Occasion"]
 
 
 
+<p class="wp-block-paragraph">👉 Si vous envisagez une importation depuis l'étranger, consultez aussi <a href="https://modeme-automobiles.com/achat-voiture-en-allemagne-un-guide-complet-pour-limportation/">notre guide complet pour l'achat et l'importation d'une voiture en Allemagne</a>.</p>
+
 <h2 class="wp-block-heading">FAQ — Kilométrage maximum voiture d&rsquo;occasion</h2>
 
 
@@ -499,4 +501,4 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Un&nbsp;<strong>entretien préventif rigoureux</strong>&nbsp;prolonge significativement la durée de vie de votre investissement. Pour affiner votre choix de motorisation, retrouvez notre guide complet&nbsp;<a href="https://modeme-automobiles.com/essence-ou-diesel-quelle-voiture-acheter/">essence ou diesel : quelle voiture acheter ?</a>&nbsp;afin de choisir la motorisation la mieux adaptée à votre usage et votre budget.</p>
+<p class="wp-block-paragraph">Un&nbsp;<strong>entretien préventif rigoureux</strong>&nbsp;prolonge significativement la durée de vie de votre investissement. Pour affiner votre choix de motorisation, retrouvez notre guide complet&nbsp;<a href="https://modeme-automobiles.com/les-meilleures-voitures-essence-automatiques-pour-remplacer-votre-diesel/">essence ou diesel : quelle voiture acheter ?</a>&nbsp;afin de choisir la motorisation la mieux adaptée à votre usage et votre budget.</p>

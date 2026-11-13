@@ -175,6 +175,8 @@ categories: ["Entretien & Mecanique"]
 </div>
 
 
+<p class="wp-block-paragraph">👉 Pour un entretien moteur plus global (FAP, filtre à air, vanne EGR), consultez aussi <a href="https://modeme-automobiles.com/les-avantages-du-nettoyage-moteur-pourquoi-et-quand-le-realiser/">notre guide sur le nettoyage moteur : pourquoi, quand et comment le faire</a>.</p>
+
 <h2 class="wp-block-heading"><strong>Questions fréquentes sur le nettoyage du système d&rsquo;admission</strong></h2>
 
 

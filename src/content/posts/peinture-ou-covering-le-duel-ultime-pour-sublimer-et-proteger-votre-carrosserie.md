@@ -82,6 +82,8 @@ categories: ["Achat & Occasion"]
 <ul class="wp-block-list">
 <li><strong>Rendu profond et durable&nbsp;:</strong> le vernis offre une brillance naturelle et une profondeur que les films n’atteignent pas. La peinture peut durer plus de dix ans si elle est entretenue.</li>
 
+<li><strong>Finition renforcée contre la rouille&nbsp;:</strong> une couche de finition en époxy ou en polyuréthane peut être ajoutée pour renforcer la résistance contre la rouille et les fissures, en complément du vernis classique.</li>
+
 
 
 <li><strong>Personnalisation complète&nbsp;:</strong> toutes les couleurs du nuancier constructeur ou des teintes sur mesure sont disponibles, avec des effets métallisés, nacrés ou mats. Les pigments et résines modernes permettent des effets variés.</li>

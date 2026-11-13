@@ -1162,6 +1162,7 @@ tbody td:first-child { color: var(--text); font-size: 14px; font-weight: 400; }
 
     <div class="prose fade-up">
       <p>L&rsquo;approche modulaire de ces innovations permet à chaque conducteur de profiter des avancées technologiques à son propre rythme. Un simple essai sur route suffit souvent à convaincre les plus hésitants que la fusion entre numérique et motorisation propre est non seulement possible, mais déjà bien réelle.</p>
+      <p>👉 Budget serré ? Découvrez aussi <a href="https://modeme-automobiles.com/les-voitures-electriques-accessibles-a-100-euros-par-mois/">notre sélection de voitures électriques accessibles dès 100&nbsp;€/mois en leasing social</a>.</p>
     </div>
   </div>
 </section>

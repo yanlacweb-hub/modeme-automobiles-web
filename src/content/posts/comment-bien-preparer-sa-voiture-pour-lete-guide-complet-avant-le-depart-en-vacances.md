@@ -342,3 +342,5 @@ categories: ["conduite"]
 
 
 <p class="wp-block-paragraph">Prendre le temps de&nbsp;<strong>préparer sa voiture pour l’été</strong>&nbsp;est le meilleur moyen d’aborder les vacances en toute sérénité. Chaque point de contrôle, du&nbsp;<strong>contrôle technique</strong>&nbsp;à l’<strong>entretien des équipements de sécurité</strong>, participe à la réussite de vos trajets. Un véhicule fiable, propre et bien équipé permet de voyager confortablement, d’éviter les imprévus et d’assurer la sécurité de toute la famille. N’attendez pas la veille du départ : anticipez, cochez chaque étape de votre checklist, et profitez pleinement de vos escapades estivales en toute confiance.</p>
+
+<p class="wp-block-paragraph">👉 Autre geste simple avant le départ : <a href="/reduire-sa-consommation-dessence-pratiques-efficaces-pour-les-automobilistes/">adopter des pratiques efficaces pour réduire sa consommation d'essence</a> sur la route des vacances.</p>

@@ -1889,7 +1889,11 @@ categories: ["Accessoire | équipement"]
 ═══════════════════════════════════════════ -->
 <section id="faq">
   <div class="section-label">Section 12</div>
-  <h2>Questions fréquentes sur<br>la protection carrosserie 2026</h2>
+  <p class="wp-block-paragraph">👉 Envie de confort et de style en plus de la protection ? Consultez aussi <a href="https://modeme-automobiles.com/accessoire-voiture-homme-les-indispensables-pour-un-voyage-plus-confortable-et-style/">notre sélection d&rsquo;accessoires indispensables pour voyager confortablement</a>.</p>
+
+<p class="wp-block-paragraph">👉 Si votre carrosserie a déjà subi des dommages (rayures, petits impacts), découvrez aussi <a href="https://modeme-automobiles.com/comment-reparer-votre-carrosserie-de-voiture-avec-la-resine-epoxy/">comment réparer votre carrosserie avec la résine époxy</a>.</p>
+
+<h2>Questions fréquentes sur<br>la protection carrosserie 2026</h2>
 
   <div class="faq-list">
     <div class="faq-item">

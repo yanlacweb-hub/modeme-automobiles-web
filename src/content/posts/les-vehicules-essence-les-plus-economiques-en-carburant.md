@@ -69,7 +69,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">💡 <strong>Vous souhaitez découvrir les modèles essence les plus durables ? Retrouvez notre analyse détaillée ici :</strong> <a href="https://modeme-automobiles.com/quelle-est-la-voiture-essence-la-plus-fiable/">Quelle est la voiture essence la plus fiable ?</a></p>
+<p class="wp-block-paragraph">💡 <strong>Vous vous interrogez sur l'avenir du diesel face à l'essence ? Retrouvez notre analyse détaillée ici :</strong> <a href="https://modeme-automobiles.com/lavenir-des-voitures-diesel-jusqua-quand-seront-elles-sur-nos-routes/">L'avenir des voitures diesel : jusqu'à quand seront-elles sur nos routes ?</a></p>
 
 
 
@@ -190,6 +190,8 @@ categories: ["Essence vs diesel"]
 <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/02/pompe-a-essence-1-1024x683.jpg" alt="pompe à essence" class="wp-image-935" title="" srcset="/wp-content/uploads/2025/02/pompe-a-essence-1-1024x683.jpg 1024w, /wp-content/uploads/2025/02/pompe-a-essence-1-300x200.jpg 300w, /wp-content/uploads/2025/02/pompe-a-essence-1-768x512.jpg 768w, /wp-content/uploads/2025/02/pompe-a-essence-1-1536x1024.jpg 1536w, /wp-content/uploads/2025/02/pompe-a-essence-1-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 </div>
 
+
+<p class="wp-block-paragraph">👉 Pour aller plus loin sur les alternatives possibles, <a href="https://modeme-automobiles.com/les-meilleures-voitures-essence-automatiques-pour-remplacer-votre-diesel/">découvrez notre sélection de voitures essence automatiques pour remplacer votre diesel</a>.</p>
 
 <h2 class="wp-block-heading">FAQ sur les véhicules essence économiques</h2>
 

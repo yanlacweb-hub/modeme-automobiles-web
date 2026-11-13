@@ -97,7 +97,7 @@ categories: ["Accessoire | équipement"]
 
 
 
-<p class="wp-block-paragraph">Concernant le style, plusieurs possibilités s&rsquo;offrent à vous : sportif, classique, vintage, urbain ou encore un design audacieux tel que le <strong>noir mat</strong> très prisé par les <strong>motards</strong> urbains. Vous pouvez également choisir un <strong>casque cross</strong> ou <strong>enduro</strong> si vous pratiquez des activités sportives en dehors des routes conventionnelles. Quel que soit le design, assurez-vous que votre casque soit parfaitement adapté à votre pratique en <strong>deux-roues</strong>, qu&rsquo;il possède une bonne <strong>homologation</strong>, ainsi que des équipements optionnels pratiques comme un <strong>écran solaire</strong> intégré ou un kit <strong>Bluetooth</strong> homologué. Pensez également à protéger efficacement votre casque en utilisant une <a href="https://modeme-automobiles.com/la-housse-de-casque-moto-est-un-accessoire-qui-permet-de-proteger-les-casques-a-linterieur-ou-a-lexterieur-elle-permet-aussi-davoir-le-casque-a-portee-de-soi-en-tout-moment/">housse de casque moto</a>, un accessoire pratique pour préserver votre équipement en bon état et toujours à portée de main.</p>
+<p class="wp-block-paragraph">Concernant le style, plusieurs possibilités s&rsquo;offrent à vous : sportif, classique, vintage, urbain ou encore un design audacieux tel que le <strong>noir mat</strong> très prisé par les <strong>motards</strong> urbains. Vous pouvez également choisir un <strong>casque cross</strong> ou <strong>enduro</strong> si vous pratiquez des activités sportives en dehors des routes conventionnelles. Quel que soit le design, assurez-vous que votre casque soit parfaitement adapté à votre pratique en <strong>deux-roues</strong>, qu&rsquo;il possède une bonne <strong>homologation</strong>, ainsi que des équipements optionnels pratiques comme un <strong>écran solaire</strong> intégré ou un kit <strong>Bluetooth</strong> homologué. Pensez également à protéger efficacement votre casque en utilisant une housse de casque moto, un accessoire pratique pour préserver votre équipement en bon état et toujours à portée de main.</p>
 
 
 
@@ -134,6 +134,8 @@ categories: ["Accessoire | équipement"]
 
 
 <h3 class="wp-block-heading">Casque adapté à chaque style de conduite</h3>
+
+<p class="wp-block-paragraph">👉 Une fois le modèle choisi, pensez aussi à bien vérifier <a href="https://modeme-automobiles.com/guide-des-tailles-comment-mesurer-votre-tete-pour-un-casque-moto-adapte/">la taille de votre casque moto avec notre guide de mesure</a>.</p>
 
 
 

@@ -205,7 +205,7 @@ categories: ["voiture electrique"]
 
 
 
-<p class="wp-block-paragraph">Malgré ces incitations, certaines régions françaises continuent de privilégier le diesel en raison de facteurs économiques et géographiques. Pour mieux comprendre cette tendance, vous pouvez consulter cet article sur <a href="https://modeme-automobiles.com/les-regions-ou-les-voitures-diesel-sont-encore-privilegiees-en-france/">les régions où les voitures diesel sont encore privilégiées en France</a>.</p>
+<p class="wp-block-paragraph">Malgré ces incitations, certaines régions françaises continuent de privilégier le diesel en raison de facteurs économiques et géographiques. Pour mieux comprendre cette tendance, vous pouvez consulter cet article sur les régions où les voitures diesel sont encore privilégiées en France.</p>
 
 
 <div class="wp-block-image">
@@ -342,7 +342,7 @@ categories: ["voiture electrique"]
 
 
 
-<p class="wp-block-paragraph">Pour mieux comprendre les enjeux globaux de cette mutation :&nbsp;<a href="https://modeme-automobiles.com/limpact-de-la-transition-energetique-sur-le-marche-automobile/">L’impact de la transition énergétique sur le marché automobile</a>.</p>
+<p class="wp-block-paragraph">Pour mieux comprendre les enjeux globaux de cette mutation :&nbsp;L’impact de la transition énergétique sur le marché automobile.</p>
 
 
 

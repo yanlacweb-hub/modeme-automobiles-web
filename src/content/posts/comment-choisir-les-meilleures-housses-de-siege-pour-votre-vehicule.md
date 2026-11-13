@@ -115,7 +115,7 @@ categories: ["Accessoire | équipement"]
 
 
 
-<p class="wp-block-paragraph">👉 Pour une protection complète, pensez également aux <a href="https://modeme-automobiles.com/les-indispensables-accessoires-exterieurs-pour-proteger-votre-voiture/">accessoires extérieurs indispensables pour préserver votre carrosserie</a>, surtout en cas de stationnement prolongé ou d’intempéries.</p>
+<p class="wp-block-paragraph">👉 Pour une protection complète, pensez également aux accessoires extérieurs indispensables pour préserver votre carrosserie, surtout en cas de stationnement prolongé ou d’intempéries.</p>
 
 
 

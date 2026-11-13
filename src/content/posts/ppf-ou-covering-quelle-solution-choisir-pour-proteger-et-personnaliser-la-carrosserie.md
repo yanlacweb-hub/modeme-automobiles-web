@@ -242,3 +242,5 @@ categories: ["covering |racing"]
 
 <li><strong>Covering</strong> : nettoyage délicat, inspection des bords régulière</li>
 </ul>
+
+<p class="wp-block-paragraph">👉 Une fois posé, <a href="/entretien-du-covering-en-hiver-le-guide-ultime-pour-une-protection-parfaite/">le covering demande une attention particulière en hiver</a> pour conserver son aspect d'origine.</p>

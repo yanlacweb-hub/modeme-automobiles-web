@@ -240,3 +240,5 @@ categories: ["Essence vs diesel"]
 
 
 <p class="wp-block-paragraph">💡 <strong>Conseil</strong> : Un essai sur différents types de routes permet de mieux apprécier le comportement du <strong>levier de vitesses</strong> , la fluidité du <strong>frein moteur</strong> , et la réactivité de la transmission en <strong>marche-arrière</strong> .</p>
+
+<p class="wp-block-paragraph">👉 Pour aller plus loin : <a href="/entretien-des-moteurs-essence-conseils-pour-une-longevite-optimale/">nos conseils pour une longévité optimale des moteurs essence</a>, et sur le débat diesel : <a href="/linterdiction-des-voitures-diesel-en-2024-ce-quil-faut-savoir/">l'interdiction des voitures diesel en 2024, ce qu'il faut savoir</a>.</p>

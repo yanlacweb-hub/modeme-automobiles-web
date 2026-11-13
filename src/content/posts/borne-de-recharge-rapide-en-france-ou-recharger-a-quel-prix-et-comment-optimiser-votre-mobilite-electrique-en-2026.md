@@ -255,6 +255,8 @@ categories: ["voiture electrique"]
 
 <h3 class="wp-block-heading">Quelle différence entre borne rapide et ultra-rapide&nbsp;?</h3>
 
+<p class="wp-block-paragraph">👉 Pour installer votre propre borne à domicile, consultez aussi <a href="https://modeme-automobiles.com/guide-complet-pour-linstallation-dune-borne-de-recharge-a-domicile-pour-vehicule-electrique/">notre guide complet pour l'installation d'une borne de recharge à domicile</a>.</p>
+
 
 
 <ul class="wp-block-list">
@@ -271,4 +273,4 @@ categories: ["voiture electrique"]
 
 
 
-<p class="wp-block-paragraph">Pour aller plus loin et découvrir quel modèle vous correspond, consultez notre page dédiée à la&nbsp;<a href="https://tool.textbulker.com/voiture-electrique" target="_blank" rel="noopener">voiture électrique</a>.</p>
+<p class="wp-block-paragraph">Pour aller plus loin et découvrir quel modèle vous correspond, consultez notre page dédiée à la&nbsp;<a href="/category/voiture-electrique/">voiture électrique</a>, et pour vos trajets longue distance, <a href="/voitures-electriques-et-long-trajets-conseils-pour-voyager-sereinement/">nos conseils pour voyager sereinement en électrique</a>.</p>

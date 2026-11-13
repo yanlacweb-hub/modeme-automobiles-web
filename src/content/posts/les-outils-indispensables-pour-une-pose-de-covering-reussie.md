@@ -209,6 +209,16 @@ categories: ["Accessoire | équipement"]
 
 
 
+<h2 class="wp-block-heading">Techniques avancées : fil de découpe, pose humide et finitions</h2>
+
+<p class="wp-block-paragraph">Au-delà des outils de base, quelques techniques professionnelles font la différence sur un covering complet. Le <strong>fil de découpe (knifeless tape)</strong> est un ruban spécial contenant un filament fin : il permet d'obtenir une coupe nette simplement en tirant dessus, sans risquer de rayer la peinture avec un cutter — particulièrement utile pour les motifs incurvés ou les finitions près des joints et des vitres.</p>
+
+<p class="wp-block-paragraph">Pour les grandes surfaces planes, la <strong>pose humide</strong> consiste à pulvériser de l'eau légèrement savonneuse entre la carrosserie et le film : ce lubrifiant temporaire facilite le repositionnement et limite la formation de bulles, avant de sécher l'excès avec la raclette. Un <strong>outil anti-bulles à aiguille</strong> (air release tool) permet ensuite de crever les éventuelles bulles résiduelles, notamment sur les surfaces rivetées ou les coins difficiles.</p>
+
+<p class="wp-block-paragraph">Côté chauffe, respectez des plages précises : <strong>40 à 60&nbsp;°C</strong> pour assouplir et former le film sur les courbes, puis un passage à <strong>90&nbsp;°C environ</strong> (post-heat) sur les zones étirées pour stabiliser le vinyle et éviter tout retrait ultérieur. Un thermomètre infrarouge aide à contrôler précisément ces températures.</p>
+
+<p class="wp-block-paragraph">Une fois la pose terminée, laissez reposer le véhicule <strong>24 heures à l'abri du soleil</strong> pour que l'adhésif prenne complètement, puis attendez au moins <strong>7 jours avant le premier lavage</strong>, avec un shampooing au pH neutre.</p>
+
 <h2 class="wp-block-heading">Où trouver les meilleurs outils pose covering ?</h2>
 
 

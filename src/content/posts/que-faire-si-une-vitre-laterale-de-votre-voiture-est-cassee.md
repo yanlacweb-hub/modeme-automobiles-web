@@ -131,6 +131,8 @@ categories: ["Entretien & Mecanique"]
 
 <h2 class="wp-block-heading">Protégez votre voiture après une vitre cassée</h2>
 
+<p class="wp-block-paragraph">👉 Si vous préférez réparer vous-même plutôt que de passer par un professionnel, consultez aussi <a href="https://modeme-automobiles.com/les-outils-indispensables-pour-reparer-une-vitre-laterale-soi-meme/">notre guide des outils indispensables pour réparer une vitre latérale soi-même</a>.</p>
+
 
 
 <p class="wp-block-paragraph">Après le <strong>bris d&rsquo;une vitre latérale</strong> , il est essentiel de sécuriser rapidement votre véhicule pour éviter tout <strong>vol</strong> , toute <strong>tentative d&rsquo;effraction</strong> ou d&rsquo;autres <strong>dommages causés</strong> . En attendant les <strong>réparations</strong> , vous pouvez installer une protection temporaire en utilisant un film plastique épais ou une bâche spécifique pour <strong>vitrage</strong> automobile, solidement fixée avec du ruban adhésif. Cela permet de limiter les infiltrations d&rsquo;eau et de préserver l&rsquo;intérieur du véhicule des intempéries.</p>

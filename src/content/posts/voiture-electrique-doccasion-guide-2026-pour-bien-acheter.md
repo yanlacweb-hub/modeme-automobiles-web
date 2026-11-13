@@ -197,6 +197,8 @@ categories: ["Achat & Occasion"]
 
 
 
+<p class="wp-block-paragraph">👉 Pour la checklist complète applicable à tout achat d'occasion (pas seulement électrique), consultez aussi <a href="https://modeme-automobiles.com/10-choses-a-verifier-lors-de-lachat-dune-voiture-doccasion/">notre guide des 10 choses à vérifier avant d'acheter une voiture d'occasion</a>.</p>
+
 <h2 class="wp-block-heading">Questions fréquentes sur la voiture électrique d’occasion</h2>
 
 

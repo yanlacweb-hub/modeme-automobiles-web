@@ -99,7 +99,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph"><strong>Essence ou diesel : quelle motorisation choisir ? — </strong>Avant de sélectionner votre véhicule sur le marché allemand, faites le bon choix de motorisation selon votre usage : <a href="https://modeme-automobiles.com/essence-ou-diesel-quelle-voiture-acheter/"><strong>Essence ou diesel : quelle voiture acheter ?</strong></a></p>
+<p class="wp-block-paragraph"><strong>Essence ou diesel : quelle motorisation choisir ? — </strong>Avant de sélectionner votre véhicule sur le marché allemand, faites le bon choix de motorisation selon votre usage : <a href="https://modeme-automobiles.com/les-meilleures-voitures-essence-automatiques-pour-remplacer-votre-diesel/"><strong>Essence ou diesel : quelle voiture acheter ?</strong></a></p>
 
 
 
@@ -293,6 +293,8 @@ categories: ["Achat & Occasion"]
 </div>
 
 
+<p class="wp-block-paragraph">👉 Avant de vous décider, vérifiez aussi <a href="https://modeme-automobiles.com/quel-est-le-kilometrage-maximum-pour-une-voiture-doccasion/">le kilométrage maximum à ne pas dépasser pour une voiture d'occasion</a>.</p>
+
 <h2 class="wp-block-heading"><strong>FAQ — Questions fréquentes sur l&rsquo;achat d&rsquo;une voiture en Allemagne</strong></h2>
 
 
@@ -342,3 +344,5 @@ categories: ["Achat & Occasion"]
 
 
 <p class="wp-block-paragraph">Le <strong>mandataire automobile</strong> sert d&rsquo;intermédiaire entre l&rsquo;<strong>acquéreur</strong> et les <strong>concessionnaires</strong> ou vendeurs en Allemagne. Il prend en charge les démarches administratives, la négociation des <strong>prix d&rsquo;achat</strong> avec les <strong>concessions</strong>, et parfois le transport du <strong>véhicule neuf</strong> ou <strong>d&rsquo;occasion</strong> vers la France. Ses honoraires se situent entre 800 et 1 500 €.</p>
+
+<p class="wp-block-paragraph">👉 Une fois le véhicule importé, pensez aussi à anticiper <a href="/quel-est-le-cout-de-limmatriculation-de-votre-nouvelle-voiture/">le coût de l'immatriculation de votre nouvelle voiture</a>.</p>

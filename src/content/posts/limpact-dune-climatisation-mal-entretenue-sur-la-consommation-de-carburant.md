@@ -417,11 +417,11 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">👉&nbsp;<a href="https://modeme-automobiles.com/tout-savoir-sur-lentretien-de-la-climatisation-de-votre-voiture/">Tout savoir sur l&rsquo;entretien de la climatisation de votre voiture</a></p>
+<p class="wp-block-paragraph">👉&nbsp;Tout savoir sur l&rsquo;entretien de la climatisation de votre voiture</p>
 
 
 
-<p class="wp-block-paragraph">👉&nbsp;<a href="https://modeme-automobiles.com/comment-recharger-le-gaz-refrigerant-de-votre-climatisation-auto-en-toute-securite/">Comment recharger le gaz réfrigérant de votre climatisation auto en toute sécurité</a></p>
+<p class="wp-block-paragraph">👉&nbsp;Comment recharger le gaz réfrigérant de votre climatisation auto en toute sécurité</p>
 
 
 

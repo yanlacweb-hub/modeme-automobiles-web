@@ -215,6 +215,8 @@ categories: ["Entretien & Mecanique"]
 
 
 
+<p class="wp-block-paragraph">👉 Ces conseils valent pour les intempéries en général ; si la chaleur estivale est votre préoccupation principale, consultez aussi <a href="https://modeme-automobiles.com/comment-proteger-efficacement-sa-voiture-de-la-chaleur-estivale/">notre guide dédié à la protection contre la chaleur</a>.</p>
+
 <h2 class="wp-block-heading">FAQ : Réponses communes pour protéger votre voiture des intempéries</h2>
 
 
