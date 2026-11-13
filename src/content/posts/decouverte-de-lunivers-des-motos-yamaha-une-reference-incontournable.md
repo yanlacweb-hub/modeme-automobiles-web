@@ -19,7 +19,7 @@ categories: ["2 roues"]
 ---
 
 
-<p class="wp-block-paragraph"><strong>Yamaha</strong>, un constructeur reconnu pour sa puissance et son innovation, séduit autant les passionnés que les débutants. Connue pour ses motos, <strong>voitures neuves</strong> en partenariat avec certains <strong>constructeurs</strong>, ses scooters et même ses véhicules marins, la marque offre une diversité impressionnante. Cet article vous guide à travers ses modèles, ses services (dont le <strong>crédit auto</strong>, la <strong>location</strong>, ou la <strong>revente</strong>), ainsi que les avantages à <strong>acheter une voiture</strong> ou un deux-roues dans une <strong>concession</strong> Yamaha.</p>
+<p class="wp-block-paragraph">Yamaha, un constructeur reconnu pour sa puissance et son innovation, séduit autant les passionnés que les débutants. Connue pour ses motos, <strong>voitures neuves</strong> en partenariat avec certains constructeurs, ses scooters et même ses véhicules marins, la marque offre une diversité impressionnante. Cet article vous guide à travers ses modèles, ses services (dont le crédit auto, la location, ou la revente), ainsi que les avantages à <strong>acheter une voiture</strong> ou un deux-roues dans une concession Yamaha.</p>
 
 
 
@@ -31,19 +31,19 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph"><strong>Yamaha</strong> propose une large gamme allant des <strong>véhicules neufs</strong> aux <strong>véhicules d’occasion</strong>, toujours avec un souci de <strong>motorisation</strong> performante et fiable. Que vous cherchiez une <strong>citadine</strong>, un <strong>SUV</strong>, une <strong>berline</strong>, ou même un <strong>quad</strong>, Yamaha offre des solutions adaptées à <strong>votre budget</strong>.</p>
+<p class="wp-block-paragraph">Yamaha propose une large gamme allant des <strong>véhicules neufs</strong> aux <strong>véhicules d’occasion</strong>, toujours avec un souci de motorisation performante et fiable. Que vous cherchiez une citadine, un SUV, une berline, ou même un quad, Yamaha offre des solutions adaptées à votre budget.</p>
 
 
 
-<p class="wp-block-paragraph">Les modèles comme la YZF-R1 pour les amateurs de sensations fortes ou la MT-09 pour les amateurs de polyvalence démontrent la capacité de la marque à satisfaire toutes les envies. Ces véhicules sont disponibles dans les <strong>concessions</strong> Yamaha, où vous pouvez aussi consulter les offres sur les <strong>voitures neuves</strong> ou <strong>voiture d’occasion</strong> de <strong>toutes les marques</strong>, y compris <strong>Ford</strong>, <strong>Kia</strong> ou <strong>Dacia</strong>.</p>
+<p class="wp-block-paragraph">Les modèles comme la YZF-R1 pour les amateurs de sensations fortes ou la MT-09 pour les amateurs de polyvalence démontrent la capacité de la marque à satisfaire toutes les envies. Ces véhicules sont disponibles dans les concessions Yamaha, où vous pouvez aussi consulter les offres sur les voitures neuves ou <strong>voiture d’occasion</strong> de <strong>toutes les marques</strong>, y compris Ford, Kia ou Dacia.</p>
 
 
 
-<h3 class="wp-block-heading">Scooters Yamaha : solution idéale pour la ville</h3>
+<h3 class="wp-block-heading">Scooters Yamaha: solution idéale pour la ville</h3>
 
 
 
-<p class="wp-block-paragraph">Les scooters Yamaha sont idéaux pour circuler en ville. Agiles et efficaces, ils sont parfaits pour ceux qui souhaitent limiter le <strong>kilométrage</strong> sans compromettre le confort. Le XMAX, par exemple, est très apprécié des conducteurs urbains. En plus, ces modèles peuvent être assurés via des formules <strong>tous les risques</strong>, souvent proposées directement en <strong>concession</strong> ou par le biais d’un <strong>mandataire</strong>.</p>
+<p class="wp-block-paragraph">Les scooters Yamaha sont idéaux pour circuler en ville. Agiles et efficaces, ils sont parfaits pour ceux qui souhaitent limiter le <strong>kilométrage</strong> sans compromettre le confort. Le XMAX, par exemple, est très apprécié des conducteurs urbains. En plus, ces modèles peuvent être assurés via des formules <strong>tous les risques</strong>, souvent proposées directement en concession ou par le biais d’un mandataire.</p>
 
 
 
@@ -51,15 +51,15 @@ categories: ["2 roues"]
 
 
 
-<h2 class="wp-block-heading">Des solutions pour tous : financement, immatriculation et accessoires</h2>
+<h2 class="wp-block-heading">Des solutions pour tous: financement, immatriculation et accessoires</h2>
 
 
 
-<p class="wp-block-paragraph">Vous souhaitez <strong>acheter une voiture</strong> ou une moto Yamaha ? Grâce au <strong>crédit auto</strong>, au <strong>leasing</strong> ou à la <strong>location avec option d&rsquo;achat</strong>, les <strong>mandataires</strong> Yamaha vous accompagnent dans l’<strong>achat d’une voiture</strong> ou d’un deux-roues. Des solutions simples sont disponibles avec des offres adaptées à <strong>votre budget</strong>, que ce soit pour un <strong>véhicule neuf</strong> ou un modèle <strong>grise</strong> (d’occasion).</p>
+<p class="wp-block-paragraph">Vous souhaitez <strong>acheter une voiture</strong> ou une moto Yamaha ? Grâce au crédit auto, au leasing ou à la <strong>location avec option d&rsquo;achat</strong>, les mandataires Yamaha vous accompagnent dans l’achat d’une voiture ou d’un deux-roues. Des solutions simples sont disponibles avec des offres adaptées à votre budget, que ce soit pour un véhicule neuf ou un modèle grise (d’occasion).</p>
 
 
 
-<p class="wp-block-paragraph">Les <strong>accessoires</strong> Yamaha permettent de personnaliser votre moto tout en respectant les normes de sécurité (freinage <strong>ABS</strong>, équipements techniques, etc.). Tous les véhicules sont livrés avec une <strong>carte grise</strong> en règle et, pour les modèles d’occasion, un <strong>contrôle technique</strong> est toujours effectué avant la <strong>revente</strong>. Afin de satisfaire les passionnés les plus exigeants, ces accessoires passent par des contrôles stricts de qualité. Investir dans des&nbsp;<strong>accessoires Yamaha</strong>, c&rsquo;est avoir l&rsquo;assurance de combiner esthétique, durabilité et fonctionnalité. L&rsquo;offre disponible répond aux différents segments du marché; ainsi, chaque propriétaire de véhicule Yamaha peut créer une configuration répondant parfaitement à ses exigences personnelles.</p>
+<p class="wp-block-paragraph">Les accessoires Yamaha permettent de personnaliser votre moto tout en respectant les normes de sécurité (freinage ABS, équipements techniques, etc.). Tous les véhicules sont livrés avec une carte grise en règle et, pour les modèles d’occasion, un <strong>contrôle technique</strong> est toujours effectué avant la revente. Afin de satisfaire les passionnés les plus exigeants, ces accessoires passent par des contrôles stricts de qualité. Investir dans des&nbsp;<strong>accessoires Yamaha</strong>, c&rsquo;est avoir l&rsquo;assurance de combiner esthétique, durabilité et fonctionnalité. L&rsquo;offre disponible répond aux différents segments du marché; ainsi, chaque propriétaire de véhicule Yamaha peut créer une configuration répondant parfaitement à ses exigences personnelles.</p>
 
 
 <div class="wp-block-image">
@@ -67,7 +67,7 @@ categories: ["2 roues"]
 </div>
 
 
-<h2 class="wp-block-heading">Au-delà des deux roues : véhicules marins Yamaha</h2>
+<h2 class="wp-block-heading">Au-delà des deux roues: véhicules marins Yamaha</h2>
 
 
 
@@ -84,7 +84,7 @@ categories: ["2 roues"]
 </div>
 
 
-<h2 class="wp-block-heading">Concessionnaires Yamaha : un réseau solide</h2>
+<h2 class="wp-block-heading">Concessionnaires Yamaha: un réseau solide</h2>
 
 
 
@@ -100,7 +100,7 @@ categories: ["2 roues"]
 
 
 
-<h3 class="wp-block-heading">Services diversifiés : financement et location Yamaha</h3>
+<h3 class="wp-block-heading">Services diversifiés: financement et location Yamaha</h3>
 
 
 
@@ -112,7 +112,7 @@ categories: ["2 roues"]
 
 
 
-<h2 class="wp-block-heading">Motos d&rsquo;occasion : dénicher la perle rare</h2>
+<h2 class="wp-block-heading">Motos d&rsquo;occasion: dénicher la perle rare</h2>
 
 
 
@@ -138,23 +138,23 @@ categories: ["2 roues"]
 
 
 
-<h3 class="wp-block-heading">Quels types de motos Yamaha sont disponibles ?</h3>
+<h3 class="wp-block-heading">Quels types de motos Yamaha sont disponibles?</h3>
 
 
 
-<p class="wp-block-paragraph">Yamaha propose des modèles sportifs, tout-terrain, touring et naked, neufs ou en <strong>véhicule d’occasion</strong>, souvent couverts par une <strong>garantie constructeur</strong>. L’<strong>achat d’une moto neuve</strong> peut se faire en <strong>concession</strong> ou via un <strong>mandataire auto</strong>.</p>
+<p class="wp-block-paragraph">Yamaha propose des modèles sportifs, tout-terrain, touring et naked, neufs ou en véhicule d’occasion, souvent couverts par une <strong>garantie constructeur</strong>. L’<strong>achat d’une moto neuve</strong> peut se faire en concession ou via un mandataire auto.</p>
 
 
 
-<h3 class="wp-block-heading">Yamaha vend-il autre chose que des motos ?</h3>
+<h3 class="wp-block-heading">Yamaha vend-il autre chose que des motos?</h3>
 
 
 
-<p class="wp-block-paragraph">Oui. En plus des bateaux et moteurs marins, certains partenaires Yamaha proposent la <strong>vente de voiture</strong>, neuve ou d’occasion : <strong>Captur</strong>, <strong>Scénic</strong>, <strong>Mégane</strong>, <strong>Sandero</strong>, <strong>monospace</strong>, <strong>cabriolet</strong>, etc.</p>
+<p class="wp-block-paragraph">Oui. En plus des bateaux et moteurs marins, certains partenaires Yamaha proposent la <strong>vente de voiture</strong>, neuve ou d’occasion: Captur, Scénic, Mégane, Sandero, <strong>monospace</strong>, cabriolet, etc.</p>
 
 
 
-<h3 class="wp-block-heading">Quelles solutions pour financer un véhicule ?</h3>
+<h3 class="wp-block-heading">Quelles solutions pour financer un véhicule?</h3>
 
 
 
@@ -176,16 +176,16 @@ categories: ["2 roues"]
 
 
 
-<h3 class="wp-block-heading">Quels types de motorisations sont disponibles ?</h3>
+<h3 class="wp-block-heading">Quels types de motorisations sont disponibles?</h3>
 
 
 
-<p class="wp-block-paragraph">Essence : <strong>Tce</strong>, <strong>Puretech</strong><br>Diesel : <strong>TDI</strong>, <strong>Dci</strong>, <strong>BlueHDI</strong> avec <strong>FAP</strong><br>Hybride : selon les modèles<br>Tous disponibles en <strong>voiture neuve</strong> ou <strong>voitures d’occasion</strong></p>
+<p class="wp-block-paragraph">Essence: Tce, Puretech<br>Diesel: TDI, Dci, BlueHDI avec FAP<br>Hybride: selon les modèles<br>Tous disponibles en <strong>voiture neuve</strong> ou <strong>voitures d’occasion</strong></p>
 
 
 
-<h3 class="wp-block-heading">Quels documents prévoir pour l’achat ?</h3>
+<h3 class="wp-block-heading">Quels documents prévoir pour l’achat?</h3>
 
 
 
-<p class="wp-block-paragraph">Un <strong>certificat d’immatriculation</strong>, la <strong>mise en circulation</strong>, et parfois un <strong>malus</strong> écologique selon le modèle. Ces démarches sont souvent prises en charge par le vendeur.</p>
+<p class="wp-block-paragraph">Un <strong>certificat d’immatriculation</strong>, la <strong>mise en circulation</strong>, et parfois un malus écologique selon le modèle. Ces démarches sont souvent prises en charge par le vendeur.</p>

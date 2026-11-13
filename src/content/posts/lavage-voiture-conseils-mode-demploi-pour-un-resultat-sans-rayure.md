@@ -19,7 +19,7 @@ categories: ["Entretien & Mecanique"]
 ---
 
 
-<p class="wp-block-paragraph">Entretenir une voiture, c’est préserver bien plus qu’un simple moyen de locomotion.&nbsp;<strong>La peinture brille, la carrosserie respire</strong>&nbsp;et chaque trajet prolonge cette alchimie rare qui fait vibrer le passionné comme l’automobiliste du quotidien. Pourtant, trop souvent, le&nbsp;<strong>lavage extérieur de voiture</strong>&nbsp;tourne au désastre par maladresse ou négligence. Qu’on roule en compacte urbaine, en break familial ou en sportive affûtée, quels sont les&nbsp;<strong>bons gestes pour un nettoyage efficace</strong>, rapide et sans risque pour la carrosserie ? Suivez ce guide détaillé – précis, pédagogique et concret – inspiré des meilleures pratiques et truffé d’astuces terrain, car chaque détail compte quand il s’agit de bichonner son auto.</p>
+<p class="wp-block-paragraph">Entretenir une voiture, c’est préserver bien plus qu’un simple moyen de locomotion.&nbsp;<strong>La peinture brille, la carrosserie respire</strong>&nbsp;et chaque trajet prolonge cette alchimie rare qui fait vibrer le passionné comme l’automobiliste du quotidien. Pourtant, trop souvent, le&nbsp;lavage extérieur de voiture&nbsp;tourne au désastre par maladresse ou négligence. Qu’on roule en compacte urbaine, en break familial ou en sportive affûtée, quels sont les&nbsp;<strong>bons gestes pour un nettoyage efficace</strong>, rapide et sans risque pour la carrosserie ? Suivez ce guide détaillé – précis, pédagogique et concret – inspiré des meilleures pratiques et truffé d’astuces terrain, car chaque détail compte quand il s’agit de bichonner son auto.</p>
 
 
 
@@ -73,7 +73,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">La star incontestée, c’est la&nbsp;<strong>microfibre</strong>. Douce, absorbante, elle retient les impuretés au lieu de les frotter contre le vernis. Exit le vieux chiffon râpeux ! Privilégiez également un&nbsp;<strong>seau muni de séparateur de boue</strong>, afin que le gant de lavage ne replonge jamais dans un bain contaminé de gravillons. Combiné à un&nbsp;<strong>shampoing auto au pH neutre</strong>, le&nbsp;<strong>lavage manuel</strong>&nbsp;évite toute agression chimique sur la carrosserie.</p>
+<p class="wp-block-paragraph">La star incontestée, c’est la&nbsp;microfibre. Douce, absorbante, elle retient les impuretés au lieu de les frotter contre le vernis. Exit le vieux chiffon râpeux ! Privilégiez également un&nbsp;<strong>seau muni de séparateur de boue</strong>, afin que le gant de lavage ne replonge jamais dans un bain contaminé de gravillons. Combiné à un&nbsp;<strong>shampoing auto au pH neutre</strong>, le&nbsp;lavage manuel&nbsp;évite toute agression chimique sur la carrosserie.</p>
 
 
 
@@ -89,7 +89,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Le&nbsp;<strong>prélavage</strong>&nbsp;constitue le socle d’un&nbsp;<strong>lavage extérieur de voiture</strong>&nbsp;digne de ce nom. Lancez une passe généreuse au jet ou mieux, optez pour un&nbsp;<strong>lavage à haute pression</strong>&nbsp;en station. Cette action détache l’essentiel du film routier. Inutile de s’y attarder : un bon rinçage suffit pour préparer la surface au vrai travail manuel. Évitez toute brosse rotative, souvent synonyme de micro-rayures.</p>
+<p class="wp-block-paragraph">Le&nbsp;prélavage&nbsp;constitue le socle d’un&nbsp;<strong>lavage extérieur de voiture</strong>&nbsp;digne de ce nom. Lancez une passe généreuse au jet ou mieux, optez pour un&nbsp;<strong>lavage à haute pression</strong>&nbsp;en station. Cette action détache l’essentiel du film routier. Inutile de s’y attarder: un bon rinçage suffit pour préparer la surface au vrai travail manuel. Évitez toute brosse rotative, souvent synonyme de micro-rayures.</p>
 
 
 
@@ -101,7 +101,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">La logique du&nbsp;<strong>double seau</strong>&nbsp;fusionne rigueur et efficacité&nbsp;: dans un seau, le mélange eau/<strong>shampoing auto</strong>&nbsp;; dans l’autre, eau claire pour rincer systématiquement le&nbsp;<strong>gant microfibre</strong>&nbsp;entre chaque passage sur la carrosserie. Plus question de rapatrier les contaminants collectés sur la surface propre.</p>
+<p class="wp-block-paragraph">La logique du&nbsp;double seau&nbsp;fusionne rigueur et efficacité&nbsp;: dans un seau, le mélange eau/<strong>shampoing auto</strong>&nbsp;; dans l’autre, eau claire pour rincer systématiquement le&nbsp;<strong>gant microfibre</strong>&nbsp;entre chaque passage sur la carrosserie. Plus question de rapatrier les contaminants collectés sur la surface propre.</p>
 
 
 
@@ -273,4 +273,4 @@ categories: ["Entretien & Mecanique"]
 
 <p class="wp-block-paragraph">En conclusion, laver sa voiture sans rayure n’est ni une affaire de chance ni de gadgets hors de prix, mais de&nbsp;<strong>méthode, de patience et de respect des bons outils</strong>. Rien n’égale la satisfaction d’observer le reflet parfait d’une carrosserie entretenue dans le détail, ni le plaisir de rouler dans un habitacle sain. Adoptez ces conseils, investissez dans quelques microfibres de qualité, bannissez les mauvaises habitudes, et vous constaterez que le lavage devient un vrai moment de plaisir autant qu’un atout pour la longévité de votre auto. Besoin d’aller plus loin ? Découvrez notre rubrique&nbsp;<a href="/category/entretien/">Entretien &amp; Mécanique</a>&nbsp;pour maîtriser chaque aspect du soin automobile.</p>
 
-<p class="wp-block-paragraph">👉 Pour compléter votre routine d'entretien : <a href="/eviter-la-buee-dans-la-voiture-methodes-pratiques-pour-un-pare-brise-toujours-clair/">éviter la buée sur le pare-brise</a>, <a href="/les-mysteres-des-systemes-de-direction-assistee-devoiles/">comprendre le système de direction assistée</a>, et <a href="/les-consequences-dun-mauvais-entretien-des-liquides-automobiles-sur-la-securite-routiere/">les conséquences d'un mauvais entretien des liquides automobiles</a>.</p>
+<p class="wp-block-paragraph">👉 Pour compléter votre routine d'entretien: <a href="/eviter-la-buee-dans-la-voiture-methodes-pratiques-pour-un-pare-brise-toujours-clair/">éviter la buée sur le pare-brise</a>, <a href="/les-mysteres-des-systemes-de-direction-assistee-devoiles/">comprendre le système de direction assistée</a>, et <a href="/les-consequences-dun-mauvais-entretien-des-liquides-automobiles-sur-la-securite-routiere/">les conséquences d'un mauvais entretien des liquides automobiles</a>.</p>

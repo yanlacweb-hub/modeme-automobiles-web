@@ -19,7 +19,7 @@ categories: ["2 roues"]
 ---
 
 
-<p class="wp-block-paragraph">Que vous soyez un pilote aguerri ou un motard du dimanche, l’univers de la <strong>moto ou scooter</strong> en France regorge d’options pour vous équiper, entretenir votre <strong>bike</strong>, ou simplement vivre votre passion <strong>en toute sécurité</strong>. Parmi les acteurs incontournables du secteur, <strong>Dafy Moto</strong> se distingue largement. Ce <strong>concessionnaire</strong> propose une vaste gamme de produits et services liés à la <strong>vente moto</strong>, aux <strong>pièces détachées</strong>, à l’<strong>équipement motard</strong> ou encore aux accessoires pour <strong>scooters</strong>, <strong>quads</strong>, <strong>roadsters</strong>, <strong>routières</strong> ou <strong>moto-cross</strong>. Que vous rouliez en <strong>cross</strong>, en <strong>enduro</strong>, en mode <strong>touring</strong> ou avec une <strong>Vespa</strong>, Dafy couvre <strong>toutes les marques</strong>, des <strong>grandes marques</strong> aux modèles plus accessibles, pour vous permettre de rouler <strong>en toute sécurité</strong>, seul ou avec <strong>passager</strong>.</p>
+<p class="wp-block-paragraph">Que vous soyez un pilote aguerri ou un motard du dimanche, l’univers de la moto ou scooter en France regorge d’options pour vous équiper, entretenir votre bike, ou simplement vivre votre passion <strong>en toute sécurité</strong>. Parmi les acteurs incontournables du secteur, Dafy Moto se distingue largement. Ce concessionnaire propose une vaste gamme de produits et services liés à la vente moto, aux pièces détachées, à l’équipement motard ou encore aux accessoires pour scooters, quads, roadsters, routières ou moto-cross. Que vous rouliez en cross, en enduro, en mode touring ou avec une Vespa, Dafy couvre <strong>toutes les marques</strong>, des grandes marques aux modèles plus accessibles, pour vous permettre de rouler en toute sécurité, seul ou avec passager.</p>
 
 
 
@@ -31,11 +31,11 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Lorsqu’il s’agit de choisir son <strong>équipement motard</strong>, le choix est crucial pour allier <strong>confort</strong>, <strong>protection</strong> et <strong>style</strong>. <strong>Dafy Moto</strong> propose une sélection impressionnante allant du <strong>casque moto</strong> aux combinaisons, en passant par les bottes, les <strong>blousons</strong> et les gants. Que ce soit pour rouler en <strong>routière</strong>, en <strong>touring</strong>, ou s’attaquer à un terrain <strong>tout-terrain</strong>, chaque motard peut trouver l’équipement adapté parmi les <strong>grandes marques</strong>.</p>
+<p class="wp-block-paragraph">Lorsqu’il s’agit de choisir son <strong>équipement motard</strong>, le choix est crucial pour allier confort, protection et style. Dafy Moto propose une sélection impressionnante allant du casque moto aux combinaisons, en passant par les bottes, les blousons et les gants. Que ce soit pour rouler en routière, en touring, ou s’attaquer à un terrain tout-terrain, chaque motard peut trouver l’équipement adapté parmi les <strong>grandes marques</strong>.</p>
 
 
 
-<p class="wp-block-paragraph">Les <strong>casques moto</strong> proposés respectent les normes de sécurité les plus strictes, souvent dotés de systèmes <strong>ABS</strong> et d’options <strong>airbag</strong> intégrées. Leur diversité – des modèles sobres aux designs <strong>racer</strong> ou <strong>cross</strong> – permet à chacun de trouver le style qui correspond à sa vision du parfait pilote, que ce soit en <strong>Vespa</strong>, <strong>roadster</strong>, ou <strong>Harley Davidson</strong>.</p>
+<p class="wp-block-paragraph">Les <strong>casques moto</strong> proposés respectent les normes de sécurité les plus strictes, souvent dotés de systèmes ABS et d’options airbag intégrées. Leur diversité – des modèles sobres aux designs racer ou cross – permet à chacun de trouver le style qui correspond à sa vision du parfait pilote, que ce soit en Vespa, roadster, ou <strong>Harley Davidson</strong>.</p>
 
 
 
@@ -47,15 +47,15 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Au-delà de l’habillement, les <strong>accessoires moto</strong> jouent un rôle clé dans l’optimisation de la conduite <strong>en toute sécurité</strong>. Chez <strong>Dafy Moto</strong>, vous trouverez une large collection d’éléments indispensables : <strong>top-case</strong>, <strong>antivol</strong>, <strong>guidon</strong>, <strong>échappement</strong> performant, sacs à dos adaptés au transport sécurisé, et bien plus encore.</p>
+<p class="wp-block-paragraph">Au-delà de l’habillement, les <strong>accessoires moto</strong> jouent un rôle clé dans l’optimisation de la conduite <strong>en toute sécurité</strong>. Chez Dafy Moto, vous trouverez une large collection d’éléments indispensables: top-case, antivol, guidon, échappement performant, sacs à dos adaptés au transport sécurisé, et bien plus encore.</p>
 
 
 
-<p class="wp-block-paragraph">Les accessoires sont conçus pour s’adapter à <strong>toutes les marques</strong> de <strong>moto ou scooter</strong>, qu’il s’agisse d’un usage urbain, <strong>scooter</strong>, <strong>quad</strong>, <strong>enduro</strong> ou <strong>touring</strong>. De plus, le magasin met régulièrement en avant des <strong>promotions</strong> attractives, permettant aux passionnés de s’équiper sans compromettre leur budget.</p>
+<p class="wp-block-paragraph">Les accessoires sont conçus pour s’adapter à <strong>toutes les marques</strong> de <strong>moto ou scooter</strong>, qu’il s’agisse d’un usage urbain, scooter, quad, enduro ou touring. De plus, le magasin met régulièrement en avant des promotions attractives, permettant aux passionnés de s’équiper sans compromettre leur budget.</p>
 
 
 
-<p class="wp-block-paragraph">Un simple passage en boutique ou sur le site suffit pour repérer des offres intéressantes, que ce soit pour compléter un ensemble <strong>blouson + casque</strong>, renouveler des <strong>pièces détachées</strong>, ou améliorer le confort du <strong>passager</strong>.</p>
+<p class="wp-block-paragraph">Un simple passage en boutique ou sur le site suffit pour repérer des offres intéressantes, que ce soit pour compléter un ensemble <strong>blouson + casque</strong>, renouveler des <strong>pièces détachées</strong>, ou améliorer le confort du passager.</p>
 
 
 
@@ -69,11 +69,11 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph"><strong>Dafy Moto</strong> ne se contente pas d’être un simple revendeur : son vaste réseau de magasins répartis dans toute la <strong>France</strong> forme un <strong>maillage stratégique</strong>, facilitant l’accès à l’<strong>équipement motard</strong>, aux <strong>pièces détachées</strong>, et à la <strong>vente moto</strong>. Grâce à ses centaines de <strong>franchisés</strong>, l’enseigne renforce sa proximité avec les motards, qu’ils roulent en <strong>scooter</strong>, en <strong>moto-cross</strong>, en <strong>quad</strong>, en <strong>routière</strong> ou en <strong>cross</strong>, en leur garantissant des conseils personnalisés et adaptés aux particularités locales.</p>
+<p class="wp-block-paragraph">Dafy Moto ne se contente pas d’être un simple revendeur: son vaste réseau de magasins répartis dans toute la France forme un <strong>maillage stratégique</strong>, facilitant l’accès à l’<strong>équipement motard</strong>, aux pièces détachées, et à la vente moto. Grâce à ses centaines de franchisés, l’enseigne renforce sa proximité avec les motards, qu’ils roulent en scooter, en moto-cross, en quad, en routière ou en cross, en leur garantissant des conseils personnalisés et adaptés aux particularités locales.</p>
 
 
 
-<p class="wp-block-paragraph">Ce réseau permet aussi de profiter d’un <strong>service après-vente</strong> fiable, rapide et disponible partout. Les <strong>avis clients</strong> témoignent régulièrement de la qualité de l’accueil et de l’assistance, qu’il s’agisse d’un remplacement de <strong>blouson</strong>, d’un changement de <strong>guidon</strong>, ou d’une recherche de <strong>top-case</strong> spécifique.</p>
+<p class="wp-block-paragraph">Ce réseau permet aussi de profiter d’un <strong>service après-vente</strong> fiable, rapide et disponible partout. Les <strong>avis clients</strong> témoignent régulièrement de la qualité de l’accueil et de l’assistance, qu’il s’agisse d’un remplacement de blouson, d’un changement de guidon, ou d’une recherche de top-case spécifique.</p>
 
 
 
@@ -81,11 +81,11 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Le modèle de <strong>franchise</strong> adopté par <strong>Dafy Moto</strong> a permis une forte <strong>croissance nationale</strong>, tout en maintenant un <strong>ancrage local</strong> fort. Chaque boutique dispose d’un large choix de produits pour <strong>toutes les marques</strong> de <strong>moto ou scooter</strong>, incluant des accessoires comme l’<strong>antivol</strong>, l’<strong>airbag</strong>, des kits <strong>échappement</strong>, ou encore des casques pour <strong>racer</strong> et <strong>touring</strong>.</p>
+<p class="wp-block-paragraph">Le modèle de franchise adopté par Dafy Moto a permis une forte <strong>croissance nationale</strong>, tout en maintenant un ancrage local fort. Chaque boutique dispose d’un large choix de produits pour <strong>toutes les marques</strong> de moto ou scooter, incluant des accessoires comme l’antivol, l’airbag, des kits échappement, ou encore des casques pour racer et touring.</p>
 
 
 
-<p class="wp-block-paragraph">Les <strong>équipes</strong> en boutique sont formées régulièrement et animées par la passion du deux-roues. Elles incarnent parfaitement l’esprit <strong>Dafy</strong> : expertise, disponibilité, et service sur mesure, pour une expérience client toujours optimale – que vous rouliez en <strong>Vespa</strong>, en <strong>Davidson</strong>, ou sur un <strong>bike</strong> sportif.</p>
+<p class="wp-block-paragraph">Les <strong>équipes</strong> en boutique sont formées régulièrement et animées par la passion du deux-roues. Elles incarnent parfaitement l’esprit Dafy: expertise, disponibilité, et service sur mesure, pour une expérience client toujours optimale – que vous rouliez en Vespa, en <strong>Davidson</strong>, ou sur un bike sportif.</p>
 
 
 
@@ -93,11 +93,11 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">En complément de l’<strong>équipement motard</strong>, Dafy Moto propose un service de <strong>vente moto</strong> d’occasion. C’est une excellente alternative pour accéder à l’univers de la moto sans se ruiner. Les <strong>concessionnaires</strong> affiliés proposent des modèles soigneusement inspectés, parfaits pour les débutants ou les passionnés à la recherche d’un nouveau modèle.</p>
+<p class="wp-block-paragraph">En complément de l’<strong>équipement motard</strong>, Dafy Moto propose un service de vente moto d’occasion. C’est une excellente alternative pour accéder à l’univers de la moto sans se ruiner. Les <strong>concessionnaires</strong> affiliés proposent des modèles soigneusement inspectés, parfaits pour les débutants ou les passionnés à la recherche d’un nouveau modèle.</p>
 
 
 
-<p class="wp-block-paragraph">Ces motos, parfois issues de <strong>roadsters</strong>, de <strong>tout-terrain</strong> ou de <strong>scooters</strong>, sont testées et reconditionnées selon des critères rigoureux. C’est l’opportunité idéale de découvrir de nouvelles sensations, que ce soit pour un usage urbain ou <strong>enduro</strong>.</p>
+<p class="wp-block-paragraph">Ces motos, parfois issues de <strong>roadsters</strong>, de <strong>tout-terrain</strong> ou de scooters, sont testées et reconditionnées selon des critères rigoureux. C’est l’opportunité idéale de découvrir de nouvelles sensations, que ce soit pour un usage urbain ou enduro.</p>
 
 
 
@@ -105,11 +105,11 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Pour sécuriser chaque <strong>achat d’occasion</strong>, Dafy Moto applique des contrôles mécaniques poussés, assurant l’absence de vices cachés. Cette rigueur s’accompagne de <strong>garanties</strong> spécifiques, permettant de rouler <strong>en toute sécurité</strong> dès la remise des clés.</p>
+<p class="wp-block-paragraph">Pour sécuriser chaque <strong>achat d’occasion</strong>, Dafy Moto applique des contrôles mécaniques poussés, assurant l’absence de vices cachés. Cette rigueur s’accompagne de garanties spécifiques, permettant de rouler <strong>en toute sécurité</strong> dès la remise des clés.</p>
 
 
 
-<p class="wp-block-paragraph">Ces garanties rassurent autant les <strong>jeunes conducteurs</strong> que les motards aguerris, renforçant la <strong>crédibilité</strong> de l’enseigne dans le secteur de la <strong>vente moto</strong>. Que ce soit pour un <strong>casque moto</strong>, un <strong>blouson</strong>, un <strong>échappement</strong>, ou une <strong>moto d’occasion</strong>, l’objectif reste le même : offrir une expérience sûre, performante et passionnante.</p>
+<p class="wp-block-paragraph">Ces garanties rassurent autant les <strong>jeunes conducteurs</strong> que les motards aguerris, renforçant la crédibilité de l’enseigne dans le secteur de la vente moto. Que ce soit pour un casque moto, un blouson, un échappement, ou une <strong>moto d’occasion</strong>, l’objectif reste le même: offrir une expérience sûre, performante et passionnante.</p>
 
 
 <div class="wp-block-image">
@@ -117,15 +117,15 @@ categories: ["2 roues"]
 </div>
 
 
-<h2 class="wp-block-heading">Service après-vente : un atout majeur</h2>
+<h2 class="wp-block-heading">Service après-vente: un atout majeur</h2>
 
 
 
-<p class="wp-block-paragraph">Dans l’univers <strong>motorisé</strong>, la longévité d’un <strong>bike</strong>, d’un <strong>scooter</strong> ou d’une <strong>routière</strong> repose sur un <strong>entretien</strong> rigoureux et personnalisé. <strong>Dafy Moto</strong> a su bâtir un <strong>service après-vente</strong> performant, pensé pour assurer à chaque client un suivi fiable de son véhicule, qu’il roule en <strong>quad</strong>, en <strong>moto-cross</strong>, ou en <strong>roadster</strong>. Grâce à des <strong>équipes techniques</strong> qualifiées, il est possible d’obtenir des programmations d’entretien sur mesure selon l’usage : <strong>cross</strong>, <strong>touring</strong>, <strong>enduro</strong>, etc.</p>
+<p class="wp-block-paragraph">Dans l’univers motorisé, la longévité d’un bike, d’un scooter ou d’une routière repose sur un entretien rigoureux et personnalisé. Dafy Moto a su bâtir un <strong>service après-vente</strong> performant, pensé pour assurer à chaque client un suivi fiable de son véhicule, qu’il roule en quad, en moto-cross, ou en roadster. Grâce à des <strong>équipes techniques</strong> qualifiées, il est possible d’obtenir des programmations d’entretien sur mesure selon l’usage: cross, touring, enduro, etc.</p>
 
 
 
-<p class="wp-block-paragraph">Ce service s’appuie sur une veille constante des <strong>innovations technologiques</strong> dans le secteur deux-roues. Pour maintenir un niveau d’excellence, <strong>Dafy</strong> mise sur la <strong>formation continue</strong> de ses techniciens, leur permettant d&rsquo;intervenir sur des pièces complexes comme l’<strong>ABS</strong>, les systèmes d’<strong>échappement</strong>, ou encore les accessoires connectés tels que <strong>top-case</strong>, <strong>airbag</strong> ou <strong>antivol</strong> intelligents.</p>
+<p class="wp-block-paragraph">Ce service s’appuie sur une veille constante des <strong>innovations technologiques</strong> dans le secteur deux-roues. Pour maintenir un niveau d’excellence, Dafy mise sur la <strong>formation continue</strong> de ses techniciens, leur permettant d&rsquo;intervenir sur des pièces complexes comme l’ABS, les systèmes d’échappement, ou encore les accessoires connectés tels que top-case, airbag ou antivol intelligents.</p>
 
 
 
@@ -133,11 +133,11 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Les <strong>mécaniciens</strong> Dafy bénéficient de sessions régulières de formation, couvrant les dernières méthodes de réparation et de diagnostic, que ce soit sur une <strong>Vespa</strong>, une <strong>Harley Davidson</strong>, ou tout autre modèle issu des <strong>grandes marques</strong>. Cet engagement garantit des interventions rapides, précises et alignées avec les exigences techniques de <strong>toutes les marques</strong>.</p>
+<p class="wp-block-paragraph">Les mécaniciens Dafy bénéficient de sessions régulières de formation, couvrant les dernières méthodes de réparation et de diagnostic, que ce soit sur une Vespa, une <strong>Harley Davidson</strong>, ou tout autre modèle issu des grandes marques. Cet engagement garantit des interventions rapides, précises et alignées avec les exigences techniques de <strong>toutes les marques</strong>.</p>
 
 
 
-<p class="wp-block-paragraph">Ce professionnalisme permet aux clients de limiter les coûts liés aux pannes et de réduire le temps d&rsquo;immobilisation de leur <strong>moto ou scooter</strong>, renforçant une <strong>relation de confiance</strong> durable entre le <strong>concessionnaire</strong> et le pilote.</p>
+<p class="wp-block-paragraph">Ce professionnalisme permet aux clients de limiter les coûts liés aux pannes et de réduire le temps d&rsquo;immobilisation de leur <strong>moto ou scooter</strong>, renforçant une <strong>relation de confiance</strong> durable entre le concessionnaire et le pilote.</p>
 
 
 
@@ -145,7 +145,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Toujours à l’écoute de sa <strong>communauté de motards</strong>, <strong>Dafy Moto</strong> met en place des <strong>promotions</strong> tout au long de l’année :<br>✔️ <strong>Remises</strong> sur l’<strong>équipement motard</strong> (ex. <strong>blousons</strong>, <strong>casques moto</strong>, <strong>guidons</strong>)<br>✔️ Réductions sur les prestations de <strong>maintenance</strong> et d’entretien<br>✔️ Offres exceptionnelles sur la <strong>vente moto</strong> d’occasion<br>✔️ Système de <strong>points fidélité</strong> échangeables contre des accessoires ou <strong>pièces détachées</strong></p>
+<p class="wp-block-paragraph">Toujours à l’écoute de sa <strong>communauté de motards</strong>, Dafy Moto met en place des promotions tout au long de l’année:<br>✔️ Remises sur l’<strong>équipement motard</strong> (ex. blousons, casques moto, guidons)<br>✔️ Réductions sur les prestations de maintenance et d’entretien<br>✔️ Offres exceptionnelles sur la vente moto d’occasion<br>✔️ Système de points fidélité échangeables contre des accessoires ou pièces détachées</p>
 
 
 
@@ -157,7 +157,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Les <strong>avis clients</strong> collectés au fil des années font souvent ressortir les mêmes compliments : “<strong>accueil chaleureux</strong>”, “<strong>conseils personnalisés</strong>”, “<strong>service rapide et efficace</strong>”. Ces témoignages confirment la place de <strong>Dafy Moto</strong> comme référence pour tous ceux qui recherchent un expert de l’<strong>équipement motard</strong> et un partenaire fiable pour rouler <strong>en toute sécurité</strong>.</p>
+<p class="wp-block-paragraph">Les avis clients collectés au fil des années font souvent ressortir les mêmes compliments: “accueil chaleureux”, “<strong>conseils personnalisés</strong>”, “<strong>service rapide et efficace</strong>”. Ces témoignages confirment la place de Dafy Moto comme référence pour tous ceux qui recherchent un expert de l’équipement motard et un partenaire fiable pour rouler en toute sécurité.</p>
 
 
 
@@ -169,37 +169,37 @@ categories: ["2 roues"]
 
 
 
-<h3 class="wp-block-heading"><strong>Quel service après-vente propose Dafy Moto ?</strong></h3>
+<h3 class="wp-block-heading"><strong>Quel service après-vente propose Dafy Moto?</strong></h3>
 
 
 
-<p class="wp-block-paragraph"><strong>Dafy Moto</strong>, référence du <strong>magasin moto</strong>, offre un <strong>service après-vente</strong> complet : entretien, diagnostic, montage de <strong>pneu</strong>, remplacement de <strong>pièces moto</strong> (ex. <strong>fourche</strong>, <strong>selle</strong>, <strong>carénage</strong>) et ajustement d’<strong>équipements moto</strong> comme les <strong>blousons moto</strong>, <strong>gants moto</strong> ou <strong>bottes moto</strong>. Les techniciens sont formés en continu pour répondre à toutes les <strong>cylindrées</strong> et marques (<strong>Triumph</strong>, <strong>Scorpion</strong>, etc.).</p>
+<p class="wp-block-paragraph">Dafy Moto, référence du magasin moto, offre un <strong>service après-vente</strong> complet: entretien, diagnostic, montage de pneu, remplacement de pièces moto (ex. fourche, selle, carénage) et ajustement d’<strong>équipements moto</strong> comme les blousons moto, gants moto ou bottes moto. Les techniciens sont formés en continu pour répondre à toutes les cylindrées et marques (Triumph, Scorpion, etc.).</p>
 
 
 
-<h3 class="wp-block-heading"><strong>Quelles sont les offres de promotions ?</strong></h3>
+<h3 class="wp-block-heading"><strong>Quelles sont les offres de promotions?</strong></h3>
 
 
 
-<p class="wp-block-paragraph">Des <strong>top ventes</strong> sont disponibles toute l’année : réductions sur les <strong>casques de moto</strong> (<strong>intégral</strong>, <strong>modulable</strong>, <strong>Shark</strong>), <strong>blouson cuir</strong>, <strong>vestes fluo</strong>, <strong>bagagerie</strong> et <strong>vêtements moto</strong> homologués. Le programme fidélité permet de gagner des points convertibles en bons d’achat.</p>
+<p class="wp-block-paragraph">Des top ventes sont disponibles toute l’année: réductions sur les <strong>casques de moto</strong> (intégral, modulable, Shark), blouson cuir, vestes fluo, bagagerie et <strong>vêtements moto</strong> homologués. Le programme fidélité permet de gagner des points convertibles en bons d’achat.</p>
 
 
 
-<h3 class="wp-block-heading"><strong>Quels avantages offre la franchise Dafy ?</strong></h3>
+<h3 class="wp-block-heading"><strong>Quels avantages offre la franchise Dafy?</strong></h3>
 
 
 
-<p class="wp-block-paragraph">Chaque <strong>concession</strong> Dafy Moto propose un service local avec conseils sur mesure, large stock, et expertises pour les <strong>motos neuves</strong>, les démarches d’<strong>immatriculation</strong>, ou les choix d’<strong>assurance moto</strong>.</p>
+<p class="wp-block-paragraph">Chaque concession Dafy Moto propose un service local avec conseils sur mesure, large stock, et expertises pour les motos neuves, les démarches d’<strong>immatriculation</strong>, ou les choix d’<strong>assurance moto</strong>.</p>
 
 
 
-<h3 class="wp-block-heading"><strong>Quel équipement trouve-t-on chez Dafy Moto ?</strong></h3>
+<h3 class="wp-block-heading"><strong>Quel équipement trouve-t-on chez Dafy Moto?</strong></h3>
 
 <p class="wp-block-paragraph">👉 Pour préparer votre contrôle technique moto, consultez aussi <a href="https://modeme-automobiles.com/inspection-technique-moto-les-equipements-dafy-pour-une-moto-au-top/">notre guide sur les équipements Dafy pour une moto au top</a>.</p>
 
 
 
-<p class="wp-block-paragraph"><strong>Dafy</strong> propose tout :<br>✔️ <strong>Blouson moto</strong>, <strong>gants moto</strong>, <strong>bottes moto</strong>, <strong>bagagerie</strong>, <strong>casques homologués</strong><br>✔️ Tenues <strong>trail</strong>, <strong>motocross</strong>, et <strong>permis moto</strong><br>✔️ Produits adaptés à tous types de <strong>trajets</strong> et de <strong>cm3</strong></p>
+<p class="wp-block-paragraph">Dafy propose tout:<br>✔️ Blouson moto, gants moto, bottes moto, bagagerie, <strong>casques homologués</strong><br>✔️ Tenues trail, motocross, et permis moto<br>✔️ Produits adaptés à tous types de trajets et de <strong>cm3</strong></p>
 
 
 

@@ -19,7 +19,7 @@ categories: ["conduite"]
 ---
 
 
-<p class="wp-block-paragraph">Face à la&nbsp;<strong>flambée des prix du carburant</strong>, chaque automobiliste cherche aujourd’hui à limiter l’impact de ses trajets sur le portefeuille. Sans recourir à l’achat d’un véhicule hybride ou électrique, adopter les&nbsp;<strong>bonnes techniques de conduite</strong>&nbsp;s’impose comme la solution la plus immédiate pour réduire la&nbsp;<strong>consommation d’essence</strong>. Les conseils issus de l’<strong>éco-conduite</strong>&nbsp;et les gestes quotidiens influencent directement le budget alloué au plein. Cet article propose un panorama des méthodes éprouvées pour consommer moins, tout en approfondissant les questions autour de l’<strong>entretien mécanique</strong>, des accessoires utiles et des idées reçues.</p>
+<p class="wp-block-paragraph">Face à la&nbsp;<strong>flambée des prix du carburant</strong>, chaque automobiliste cherche aujourd’hui à limiter l’impact de ses trajets sur le portefeuille. Sans recourir à l’achat d’un véhicule hybride ou électrique, adopter les&nbsp;<strong>bonnes techniques de conduite</strong>&nbsp;s’impose comme la solution la plus immédiate pour réduire la&nbsp;consommation d’essence. Les conseils issus de l’éco-conduite&nbsp;et les gestes quotidiens influencent directement le budget alloué au plein. Cet article propose un panorama des méthodes éprouvées pour consommer moins, tout en approfondissant les questions autour de l’entretien mécanique, des accessoires utiles et des idées reçues.</p>
 
 
 
@@ -31,11 +31,11 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">Adopter une&nbsp;<strong>conduite souple et anticipative</strong>&nbsp;permet de transformer instantanément le comportement de son véhicule face à la&nbsp;<strong>consommation essence</strong>. Accélérer progressivement limite les sollicitations mécaniques et évite les gaspillages inutiles. Un&nbsp;<strong>démarrage en douceur</strong>&nbsp;contribue dès les premiers mètres à minimiser l’empreinte à la pompe, tout en préservant la mécanique.</p>
+<p class="wp-block-paragraph">Adopter une&nbsp;<strong>conduite souple et anticipative</strong>&nbsp;permet de transformer instantanément le comportement de son véhicule face à la&nbsp;<strong>consommation essence</strong>. Accélérer progressivement limite les sollicitations mécaniques et évite les gaspillages inutiles. Un&nbsp;démarrage en douceur&nbsp;contribue dès les premiers mètres à minimiser l’empreinte à la pompe, tout en préservant la mécanique.</p>
 
 
 
-<p class="wp-block-paragraph"><strong>Réduire la vitesse</strong>&nbsp;influe également sur la sobriété : passer de 130 à 110 km/h sur autoroute engendre jusqu’à 20 % d’économie selon différents tests indépendants. Cette approche s’accompagne logiquement d’une&nbsp;<strong>planification de l’itinéraire</strong>&nbsp;afin d’éviter embouteillages et détours superflus, deux causes fréquentes de&nbsp;<strong>surconsommation</strong>&nbsp;lors des déplacements quotidiens.</p>
+<p class="wp-block-paragraph"><strong>Réduire la vitesse</strong>&nbsp;influe également sur la sobriété : passer de 130 à 110 km/h sur autoroute engendre jusqu’à 20 % d’économie selon différents tests indépendants. Cette approche s’accompagne logiquement d’une&nbsp;<strong>planification de l’itinéraire</strong>&nbsp;afin d’éviter embouteillages et détours superflus, deux causes fréquentes de&nbsp;surconsommation&nbsp;lors des déplacements quotidiens.</p>
 
 
 
@@ -181,7 +181,7 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">Diminuer sa vitesse sur autoroute, pratiquer une&nbsp;<strong>conduite souple</strong>&nbsp;et effectuer la&nbsp;<strong>vérification régulière de la pression des pneus</strong>&nbsp;agissent directement sur l’<strong>économie de carburant</strong>. Alléger son véhicule et éviter l’utilisation abusive de la climatisation maximisent aussi les gains. Ces cinq conseils constituent la base d’une démarche globale d’<strong>économie carburant</strong>.</p>
+<p class="wp-block-paragraph">Diminuer sa vitesse sur autoroute, pratiquer une&nbsp;conduite souple&nbsp;et effectuer la&nbsp;<strong>vérification régulière de la pression des pneus</strong>&nbsp;agissent directement sur l’<strong>économie de carburant</strong>. Alléger son véhicule et éviter l’utilisation abusive de la climatisation maximisent aussi les gains. Ces cinq conseils constituent la base d’une démarche globale d’économie carburant.</p>
 
 
 
