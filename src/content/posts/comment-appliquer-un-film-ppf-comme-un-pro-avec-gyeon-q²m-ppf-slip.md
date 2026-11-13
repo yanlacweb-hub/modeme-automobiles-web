@@ -574,3 +574,5 @@ categories: ["covering |racing"]
 
 
 <p class="wp-block-paragraph">Non, pas directement. Un <strong>traitement céramique</strong> existant crée une surface trop lisse et imperméable pour permettre une adhésion fiable de l&rsquo;adhésif PSA du film PPF. Le céramique doit être retiré par polissage avant toute pose de film. C&rsquo;est une étape incontournable que tout installateur sérieux vérifiera avant d&rsquo;intervenir.</p>
+
+<p class="wp-block-paragraph">👉 Pour choisir le bon film selon votre projet : <a href="/film-solaire-ceramique-ou-teinte-standard-le-guide-ultime-pour-choisir-la-meilleure-protection-de-vitres/">film solaire céramique ou teinté standard</a>, et <a href="/tout-savoir-sur-lepaisseur-des-films-covering-guide-technique-et-conseils-pratiques-pour-un-choix-optimal/">tout savoir sur l'épaisseur des films covering</a>.</p>

@@ -344,3 +344,5 @@ categories: ["Achat & Occasion"]
 
 
 <p class="wp-block-paragraph">Le <strong>mandataire automobile</strong> sert d&rsquo;intermédiaire entre l&rsquo;<strong>acquéreur</strong> et les <strong>concessionnaires</strong> ou vendeurs en Allemagne. Il prend en charge les démarches administratives, la négociation des <strong>prix d&rsquo;achat</strong> avec les <strong>concessions</strong>, et parfois le transport du <strong>véhicule neuf</strong> ou <strong>d&rsquo;occasion</strong> vers la France. Ses honoraires se situent entre 800 et 1 500 €.</p>
+
+<p class="wp-block-paragraph">👉 Une fois le véhicule importé, pensez aussi à anticiper <a href="/quel-est-le-cout-de-limmatriculation-de-votre-nouvelle-voiture/">le coût de l'immatriculation de votre nouvelle voiture</a>.</p>
