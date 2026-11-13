@@ -1,6 +1,6 @@
 ---
 postSlug: "inspection-technique-des-deux-roues-les-points-de-controle-essentiels"
-title: "Inspection technique des deux-roues : les points de contrôle essentiels"
+title: "Inspection technique des deux-roues"
 description: "Découvrez les points essentiels à vérifier lors de l'inspection technique d'une moto ou d’un scooter pour rouler en toute sécurité et conformité."
 pubDate: "2025-03-21T11:42:23"
 updatedDate: "2026-03-04T07:42:09"

@@ -1,6 +1,6 @@
 ---
 postSlug: "entretien-des-motos-yamaha-les-points-cles-a-verifier-regulierement"
-title: "Entretien des motos Yamaha : les points clés à vérifier régulièrement"
+title: "Entretien des motos Yamaha"
 description: "Découvrez les points essentiels de l'entretien régulier de votre moto Yamaha pour garantir sa sécurité et sa longévité. Astuces et conseils pratiques inclus."
 pubDate: "2025-04-17T13:20:16"
 updatedDate: "2026-03-04T07:58:41"

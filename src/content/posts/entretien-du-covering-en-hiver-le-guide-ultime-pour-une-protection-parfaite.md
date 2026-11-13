@@ -1,6 +1,6 @@
 ---
 postSlug: "entretien-du-covering-en-hiver-le-guide-ultime-pour-une-protection-parfaite"
-title: "Entretien du covering en hiver : le guide ultime pour une protection parfaite"
+title: "Entretien du covering en hiver : le guide ultime"
 description: "Découvrez comment protéger votre covering auto en hiver. Suivez notre guide pour un entretien efficace et préservez l'éclat de votre film vinyle."
 pubDate: "2026-01-12T06:42:04"
 updatedDate: "2025-11-13T08:28:30"

@@ -1,7 +1,7 @@
 ---
 postSlug: "quel-est-le-kilometrage-maximum-pour-une-voiture-doccasion"
-title: "Kilométrage maximum pour une voiture d’occasion : guide complet 2026"
-description: "Vous cherchez une voiture d’occasion ? Découvrez le kilométrage maximum recommandé selon le carburant, l’impact sur la durée de vie et la valeur de revente. Faites le bon choix !"
+title: "Kilométrage maximum pour une voiture d’occasion"
+description: "Vous cherchez une voiture d’occasion ? Découvrez le kilométrage maximum recommandé selon le carburant, l’impact sur la durée de vie et la valeur de revente."
 pubDate: "2020-08-26T04:38:50"
 updatedDate: "2026-05-04T08:36:22"
 canonical: "https://modeme-automobiles.com/quel-est-le-kilometrage-maximum-pour-une-voiture-doccasion/"

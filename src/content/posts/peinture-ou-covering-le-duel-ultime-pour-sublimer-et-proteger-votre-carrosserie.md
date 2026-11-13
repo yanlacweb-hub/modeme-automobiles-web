@@ -1,6 +1,6 @@
 ---
 postSlug: "peinture-ou-covering-le-duel-ultime-pour-sublimer-et-proteger-votre-carrosserie"
-title: "Peinture ou covering : le duel ultime pour sublimer et protéger votre carrosserie"
+title: "Peinture ou covering"
 description: "Découvrez les avantages et inconvénients de la peinture et du covering pour sublimer votre carrosserie. Faites le meilleur choix pour votre automobile !"
 pubDate: "2026-02-16T08:26:51"
 updatedDate: "2025-11-18T05:54:03"

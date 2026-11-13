@@ -1,6 +1,6 @@
 ---
 postSlug: "organiseurs-de-voiture-solutions-pratiques-pour-un-habitacle-bien-range"
-title: "Organiseurs de voiture : solutions pratiques pour un habitacle bien rangé"
+title: "Organiseurs de voiture"
 description: "Découvrez comment les organiseurs de voiture transforment votre habitacle. Optimisez l'espace et améliorez la sécurité avec des solutions pratiques adaptées."
 pubDate: "2025-04-16T09:58:42"
 updatedDate: "2025-04-16T14:54:32"

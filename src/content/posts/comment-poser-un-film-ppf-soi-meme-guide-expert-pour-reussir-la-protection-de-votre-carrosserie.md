@@ -1,6 +1,6 @@
 ---
 postSlug: "comment-poser-un-film-ppf-soi-meme-guide-expert-pour-reussir-la-protection-de-votre-carrosserie"
-title: "Comment poser un film ppf soi-même : guide expert pour réussir la protection de votre carrosserie"
+title: "Comment poser un film ppf soi-même"
 description: "Découvrez comment réussir la pose d'un film PPF pour protéger la carrosserie de votre voiture. Suivez notre guide étape par étape pour un résultat parfait."
 pubDate: "2026-01-21T06:51:22"
 updatedDate: "2025-11-13T09:54:02"

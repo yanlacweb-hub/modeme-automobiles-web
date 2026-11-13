@@ -1,6 +1,6 @@
 ---
 postSlug: "le-covering-blanc-perle-lelegance-au-service-de-la-personnalisation-automobile"
-title: "Le covering blanc perle : l’élégance au service de la personnalisation automobile"
+title: "Le covering blanc perle"
 description: "Découvrez le covering blanc perle, une solution alliant esthétique, protection et personnalisation pour votre véhicule. Transformez votre voiture dès maintenant !"
 pubDate: "2026-04-01T09:26:53"
 updatedDate: "2025-11-27T10:50:44"

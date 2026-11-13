@@ -1,6 +1,6 @@
 ---
 postSlug: "mettre-sa-voiture-a-labri-du-printemps-guide-passionne-pour-une-protection-carrosserie-efficace"
-title: "Mettre sa voiture à l’abri du printemps : guide passionné pour une protection carrosserie efficace"
+title: "Mettre sa voiture à l’abri du printemps"
 description: "Découvrez comment protéger efficacement votre voiture au printemps avec des conseils pratiques et des solutions de film protection auto adaptées."
 pubDate: "2026-03-12T06:44:01"
 updatedDate: "2025-11-26T11:03:32"

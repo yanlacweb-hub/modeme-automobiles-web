@@ -1,6 +1,6 @@
 ---
 postSlug: "micro-rayures-voiture-comment-les-eviter-et-proteger-votre-carrosserie-durablement"
-title: "Micro-rayures voiture : comment les éviter et protéger votre carrosserie durablement"
+title: "Micro-rayures voiture"
 description: "Découvrez comment prévenir et éliminer les micro-rayures voiture pour une carrosserie éclatante. Adoptez les meilleures pratiques d'entretien."
 pubDate: "2026-06-17T06:30:09"
 updatedDate: "2026-03-04T23:04:19"

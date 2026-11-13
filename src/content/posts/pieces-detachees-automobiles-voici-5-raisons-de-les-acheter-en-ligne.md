@@ -1,6 +1,6 @@
 ---
 postSlug: "pieces-detachees-automobiles-voici-5-raisons-de-les-acheter-en-ligne"
-title: "Pièces détachées automobiles : voici 5 raisons de les acheter en ligne"
+title: "Pièces détachées automobiles"
 description: "L’achat de pièces détachées automobiles simplifie énormément le quotidien de nombreux propriétaires de voitures. Quels sont les avantages ?"
 pubDate: "2022-06-25T11:50:06"
 updatedDate: "2025-02-16T17:56:58"

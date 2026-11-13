@@ -1,6 +1,6 @@
 ---
 postSlug: "eviter-la-buee-dans-la-voiture-methodes-pratiques-pour-un-pare-brise-toujours-clair"
-title: "Éviter la buée dans la voiture : méthodes pratiques pour un pare-brise toujours clair"
+title: "Éviter la buée dans la voiture"
 description: "Découvrez des méthodes pratiques pour éviter la buée sur votre pare-brise. Améliorez votre visibilité et votre sécurité avec nos conseils simples."
 pubDate: "2026-01-14T06:45:10"
 updatedDate: "2026-03-04T23:03:47"

@@ -1,6 +1,6 @@
 ---
 postSlug: "decouverte-de-lunivers-des-motos-yamaha-une-reference-incontournable"
-title: "Découverte de l’univers des motos Yamaha : une référence incontournable"
+title: "Découverte de l’univers des motos Yamaha"
 description: "Explorez l'univers des motos Yamaha, de la performance à la personnalisation. Trouvez le modèle idéal pour votre style de conduite dès aujourd'hui !"
 pubDate: "2025-04-16T14:21:58"
 updatedDate: "2026-03-04T07:55:50"

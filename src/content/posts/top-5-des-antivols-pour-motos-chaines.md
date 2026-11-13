@@ -1,6 +1,6 @@
 ---
 postSlug: "top-5-des-antivols-pour-motos-chaines"
-title: "Top 5 des antivols pour motos : chaînes, alarmes et u‑locks testés"
+title: "Top 5 des antivols pour motos"
 description: "Découvrez les meilleurs antivols pour motos : chaînes, alarmes et u-locks testés. Protégez votre moto avec nos conseils et notre guide comparatif."
 pubDate: "2025-07-28T16:44:08"
 updatedDate: "2025-07-29T11:37:10"

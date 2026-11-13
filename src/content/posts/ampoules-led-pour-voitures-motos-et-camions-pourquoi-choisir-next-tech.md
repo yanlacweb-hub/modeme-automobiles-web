@@ -1,6 +1,6 @@
 ---
 postSlug: "ampoules-led-pour-voitures-motos-et-camions-pourquoi-choisir-next-tech"
-title: "Ampoules LED pour voitures, motos et camions, pourquoi choisir Next-Tech ?"
+title: "Ampoules LED pour voitures, motos et camions"
 description: "Pour tout conducteur, l’éclairage est une fonction de l’engin qu’on ne peut négliger. Pour éviter les accidents, il est essentiel d'opter pour un éclairage"
 pubDate: "2022-05-13T19:41:58"
 updatedDate: "2022-07-25T23:09:07"

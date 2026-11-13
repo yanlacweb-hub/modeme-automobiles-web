@@ -1,6 +1,6 @@
 ---
 postSlug: "les-meilleurs-supports-pour-smartphones-securite-et-accessibilite-en-conduite"
-title: "Les meilleurs supports pour smartphones : sécurité et accessibilité en conduite"
+title: "Les meilleurs supports pour smartphones"
 description: "Découvrez les meilleurs supports pour smartphones en voiture, alliant sécurité et accessibilité. Choisissez le support idéal pour une conduite sereine."
 pubDate: "2025-04-15T15:28:28"
 updatedDate: "2025-04-16T14:56:05"

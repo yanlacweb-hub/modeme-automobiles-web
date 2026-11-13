@@ -1,6 +1,6 @@
 ---
 postSlug: "linterdiction-des-voitures-diesel-en-2024-ce-quil-faut-savoir"
-title: "ZFE et interdiction des voitures diesel: ce qu’il faut savoir en 2026"
+title: "ZFE et interdiction des voitures diesel : ce qu’il faut savoir"
 description: "ZFE, Crit'Air 3: où en est-on en 2026? Zones concernées, villes qui verbalisent déjà, alternatives et aides pour changer de véhicule."
 pubDate: "2025-02-25T09:17:45"
 updatedDate: "2026-11-13T14:30:00"

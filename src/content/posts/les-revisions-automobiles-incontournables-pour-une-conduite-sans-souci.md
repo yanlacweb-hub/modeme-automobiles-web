@@ -1,7 +1,7 @@
 ---
 postSlug: "les-revisions-automobiles-incontournables-pour-une-conduite-sans-souci"
 title: "Révision automobile : tout savoir sur l'entretien de sa voiture"
-description: "Découvrez les révisions automobiles essentielles pour garantir la sécurité, la performance et la longévité de votre voiture. Apprenez à contrôler les niveaux de liquide, la pression des pneus et bien plus encore pour une conduite sans souci."
+description: "Découvrez les révisions automobiles essentielles pour garantir la sécurité, la performance et la longévité de votre voiture."
 pubDate: "2025-03-14T04:55:27"
 updatedDate: "2026-05-19T11:04:05"
 canonical: "https://modeme-automobiles.com/les-revisions-automobiles-incontournables-pour-une-conduite-sans-souci/"

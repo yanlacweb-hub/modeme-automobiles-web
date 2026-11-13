@@ -1,6 +1,6 @@
 ---
 postSlug: "covering-cameleon-voiture-la-metamorphose-esthetique-qui-sublime-2026"
-title: "Covering caméléon voiture : la métamorphose esthétique qui sublime 2026"
+title: "Covering caméléon voiture"
 description: "Découvrez le covering caméléon, la tendance esthétique qui transforme les voitures en 2026. Personnalisation haut de gamme, style et protection réunis."
 pubDate: "2026-08-07T14:29:47"
 updatedDate: "2025-12-12T15:24:29"

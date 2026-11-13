@@ -1,6 +1,6 @@
 ---
 postSlug: "quelles-sont-les-bonnes-astuces-pour-ameliorer-linterieur-de-son-automobile"
-title: "Quelles sont les bonnes astuces pour améliorer l’intérieur de son automobile ?"
+title: "Quelles sont les bonnes astuces pour améliorer l’intérieur"
 description: "La voiture traverse les âges et demeure un moyen de transport incontournable. Selon une enquête réalisée par Ipsos et Boston consulting, les Européens"
 pubDate: "2022-07-25T23:06:37"
 updatedDate: "2022-07-25T23:08:30"

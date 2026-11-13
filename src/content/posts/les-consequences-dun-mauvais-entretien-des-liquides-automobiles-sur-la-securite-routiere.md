@@ -1,7 +1,7 @@
 ---
 postSlug: "les-consequences-dun-mauvais-entretien-des-liquides-automobiles-sur-la-securite-routiere"
-title: "Liquides automobiles : entretien, vérification et prévention des accidents"
-description: "Un mauvais entretien des liquides automobiles (freins, huile moteur, refroidissement…) peut entraîner des pannes graves et augmenter le risque d'accidents. Découvrez les conséquences et nos conseils pour garantir votre sécurité sur la route !"
+title: "Liquides automobiles"
+description: "Un mauvais entretien des liquides automobiles (freins, huile moteur, refroidissement…) peut entraîner des pannes graves et augmenter le risque d'accidents."
 pubDate: "2025-02-24T12:35:45"
 updatedDate: "2026-03-18T09:16:15"
 canonical: "https://modeme-automobiles.com/les-consequences-dun-mauvais-entretien-des-liquides-automobiles-sur-la-securite-routiere/"

@@ -1,6 +1,6 @@
 ---
 postSlug: "lavage-voiture-conseils-mode-demploi-pour-un-resultat-sans-rayure"
-title: "Lavage voiture conseils : mode d’emploi pour un résultat sans rayure"
+title: "Lavage voiture conseils"
 description: "Découvrez nos conseils pratiques pour un lavage de voiture efficace et sans rayure. Prolongez l'éclat de votre carrosserie avec ces astuces."
 pubDate: "2026-03-05T06:38:38"
 updatedDate: "2025-11-26T10:25:40"

@@ -1,6 +1,6 @@
 ---
 postSlug: "moteur-fatigue-8-signes-a-surveiller-pour-eviter-la-panne-fatale"
-title: "Moteur fatigué : 8 signes à surveiller pour éviter la panne fatale"
+title: "Moteur fatigué : 8 signes à surveiller pour éviter la panne"
 description: "Découvrez les 8 signes d'un moteur fatigué. Apprenez à reconnaître les symptômes pour éviter une panne et préserver votre véhicule."
 pubDate: "2026-02-11T08:21:11"
 updatedDate: "2025-11-18T11:21:50"

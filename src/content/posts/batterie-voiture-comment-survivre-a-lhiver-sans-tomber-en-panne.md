@@ -1,6 +1,6 @@
 ---
 postSlug: "batterie-voiture-comment-survivre-a-lhiver-sans-tomber-en-panne"
-title: "Batterie voiture : comment survivre à l’hiver sans tomber en panne"
+title: "Batterie voiture"
 description: "Découvrez comment protéger votre batterie voiture en hiver. Suivez nos conseils pour éviter les pannes et assurer un démarrage facile malgré le froid."
 pubDate: "2026-01-05T06:31:56"
 updatedDate: "2025-11-13T08:45:14"

@@ -1,6 +1,6 @@
 ---
 postSlug: "covering-interieur-la-nouvelle-tendance-2026-pour-une-personnalisation-haut-de-gamme"
-title: "Covering intérieur : la nouvelle tendance 2026 pour une personnalisation haut de gamme"
+title: "Covering intérieur : la nouvelle tendance 2026"
 description: "Découvrez la tendance du covering intérieur 2026 pour transformer votre véhicule. Personnalisation, protection et créativité au rendez-vous !"
 pubDate: "2026-09-04T11:05:17"
 updatedDate: "2025-12-15T13:33:26"

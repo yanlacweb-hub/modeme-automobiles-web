@@ -1,7 +1,7 @@
 ---
 postSlug: "carnet-dentretien-un-allie-indispensable-pour-la-longevite-de-votre-voiture"
-title: "Carnet d’entretien voiture : l’allié indispensable pour la longévité et la revente de votre véhicule"
-description: "Découvrez pourquoi le carnet d'entretien est essentiel pour la longévité de votre voiture. Suivi des révisions, réparations et conseils pour maintenir votre véhicule en parfait état. Protégez votre investissement et optimisez la revente grâce à un carnet à jour."
+title: "Carnet d’entretien voiture"
+description: "Découvrez pourquoi le carnet d'entretien est essentiel pour la longévité de votre voiture. Suivi des révisions."
 pubDate: "2025-03-07T08:00:00"
 updatedDate: "2026-03-13T14:46:29"
 canonical: "https://modeme-automobiles.com/carnet-dentretien-un-allie-indispensable-pour-la-longevite-de-votre-voiture/"

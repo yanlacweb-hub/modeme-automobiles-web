@@ -1,6 +1,6 @@
 ---
 postSlug: "gants-bottes-protections-le-guide-complet-des-equipements-dafy-moto"
-title: "Gants, bottes, protections… le guide complet des équipements Dafy Moto"
+title: "Gants, bottes, protections… le guide complet des équipements"
 description: "Découvrez notre guide complet sur les équipements de protection moto, incluant gants, bottes et casques pour une sécurité optimale sur la route."
 pubDate: "2025-03-28T09:48:01"
 updatedDate: "2025-03-29T14:58:39"

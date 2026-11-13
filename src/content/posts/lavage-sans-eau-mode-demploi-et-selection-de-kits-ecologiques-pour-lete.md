@@ -1,6 +1,6 @@
 ---
 postSlug: "lavage-sans-eau-mode-demploi-et-selection-de-kits-ecologiques-pour-lete"
-title: "Lavage sans eau : mode d’emploi et sélection de kits écologiques pour l’été"
+title: "Lavage sans eau"
 description: "Découvrez comment laver votre voiture sans eau grâce à des kits écologiques. Profitez d'un nettoyage efficace et respectueux de l'environnement cet été."
 pubDate: "2026-06-22T06:33:07"
 updatedDate: "2025-12-02T12:21:00"

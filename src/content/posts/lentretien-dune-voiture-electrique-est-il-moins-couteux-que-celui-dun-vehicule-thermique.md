@@ -1,7 +1,7 @@
 ---
 postSlug: "lentretien-dune-voiture-electrique-est-il-moins-couteux-que-celui-dun-vehicule-thermique"
-title: "Entretien voiture électrique vs thermique : coûts, avantages et conseils pratiques (2026)"
-description: "Découvrez pourquoi l'entretien d'une voiture électrique est plus économique que celui d'un véhicule thermique. Profitez de nos conseils pour optimiser la durée de vie et réduire les coûts d'entretien de votre véhicule électrique."
+title: "Entretien voiture électrique vs thermique"
+description: "Découvrez pourquoi l'entretien d'une voiture électrique est plus économique que celui d'un véhicule thermique."
 pubDate: "2023-08-23T16:44:10"
 updatedDate: "2026-03-18T08:28:01"
 canonical: "https://modeme-automobiles.com/lentretien-dune-voiture-electrique-est-il-moins-couteux-que-celui-dun-vehicule-thermique/"

@@ -1,6 +1,6 @@
 ---
 postSlug: "top-5-des-offres-de-leasing-pour-voitures-electriques-a-moins-de-150-e-mois-en-2025"
-title: "Top 5 des offres de leasing pour voitures électriques à moins de 150 €/mois en 2026"
+title: "Top 5 des offres de leasing pour voitures électriques"
 description: "Citroën ë-C3, Fiat Grande Panda, Renault Twingo... Découvrez 5 vraies offres de leasing électrique sous 150 €/mois en 2026, sourcées et à jour."
 pubDate: "2025-04-18T12:57:38"
 updatedDate: "2026-11-13T15:30:00"

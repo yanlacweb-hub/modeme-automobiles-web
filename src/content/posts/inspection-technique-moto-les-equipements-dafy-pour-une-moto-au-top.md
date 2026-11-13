@@ -1,6 +1,6 @@
 ---
 postSlug: "inspection-technique-moto-les-equipements-dafy-pour-une-moto-au-top"
-title: "Inspection technique moto : les équipements Dafy pour une moto au top"
+title: "Inspection technique moto"
 description: "Découvrez comment préparer votre moto pour l'inspection technique avec les équipements Dafy. Assurez votre sécurité et optimisez l'entretien de votre deux-roues."
 pubDate: "2025-03-29T14:38:32"
 updatedDate: "2026-03-04T07:48:26"

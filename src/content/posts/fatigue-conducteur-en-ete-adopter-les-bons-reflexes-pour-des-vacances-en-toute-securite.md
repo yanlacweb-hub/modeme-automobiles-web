@@ -1,6 +1,6 @@
 ---
 postSlug: "fatigue-conducteur-en-ete-adopter-les-bons-reflexes-pour-des-vacances-en-toute-securite"
-title: "Fatigue conducteur en été : adopter les bons réflexes pour des vacances en toute sécurité"
+title: "Fatigue conducteur en été"
 description: "Découvrez comment prévenir la fatigue du conducteur en été. Adoptez des réflexes simples pour garantir votre sécurité sur la route des vacances."
 pubDate: "2026-07-16T06:43:52"
 updatedDate: "2026-03-04T23:04:34"

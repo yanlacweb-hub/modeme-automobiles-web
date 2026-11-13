@@ -1,6 +1,6 @@
 ---
 postSlug: "les-accessoires-incontournables-pour-personnaliser-sa-voiture-au-feminin"
-title: "Les accessoires incontournables pour personnaliser sa voiture au féminin"
+title: "Les accessoires incontournables pour personnaliser sa voiture"
 description: "Découvrez les accessoires incontournables pour personnaliser votre voiture au féminin. Confort, sécurité et style au rendez-vous !"
 pubDate: "2025-03-25T19:06:31"
 updatedDate: "2025-04-17T07:55:40"

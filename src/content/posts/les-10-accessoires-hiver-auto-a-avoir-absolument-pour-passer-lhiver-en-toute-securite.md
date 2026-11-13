@@ -1,6 +1,6 @@
 ---
 postSlug: "les-10-accessoires-hiver-auto-a-avoir-absolument-pour-passer-lhiver-en-toute-securite"
-title: "Les 10 accessoires hiver auto à avoir absolument pour passer l’hiver en toute sécurité"
+title: "Les 10 accessoires hiver auto à avoir absolument"
 description: "Découvrez les 10 accessoires hiver auto essentiels pour garantir votre sécurité sur la route. Équipez-vous pour affronter les conditions glaciales avec confiance."
 pubDate: "2026-01-07T06:35:18"
 updatedDate: "2025-11-13T09:29:59"

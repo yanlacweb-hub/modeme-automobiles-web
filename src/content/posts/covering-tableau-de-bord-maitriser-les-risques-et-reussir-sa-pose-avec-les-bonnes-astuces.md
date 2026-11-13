@@ -1,6 +1,6 @@
 ---
 postSlug: "covering-tableau-de-bord-maitriser-les-risques-et-reussir-sa-pose-avec-les-bonnes-astuces"
-title: "Covering tableau de bord : maîtriser les risques et réussir sa pose avec les bonnes astuces"
+title: "Covering tableau de bord"
 description: "Découvrez comment maîtriser le covering tableau de bord avec des astuces pro, éviter les erreurs et assurer une pose durable pour votre intérieur automobile."
 pubDate: "2026-09-02T10:49:26"
 updatedDate: "2025-12-15T13:16:21"

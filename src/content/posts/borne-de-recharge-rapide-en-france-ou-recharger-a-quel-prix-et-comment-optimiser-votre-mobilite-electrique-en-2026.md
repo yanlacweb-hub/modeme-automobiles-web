@@ -1,6 +1,6 @@
 ---
 postSlug: "borne-de-recharge-rapide-en-france-ou-recharger-a-quel-prix-et-comment-optimiser-votre-mobilite-electrique-en-2026"
-title: "Borne de recharge rapide en France : où recharger, à quel prix et comment optimiser votre mobilité électrique en 2026"
+title: "Borne de recharge rapide en France"
 description: "Découvrez où recharger votre voiture électrique en France en 2026, les tarifs des bornes rapides, et nos conseils pour optimiser votre expérience."
 pubDate: "2026-07-09T06:36:09"
 updatedDate: "2025-12-11T13:47:56"

@@ -1,6 +1,6 @@
 ---
 postSlug: "les-entretiens-a-ne-jamais-negliger-avant-lhiver-pour-votre-voiture"
-title: "Les entretiens à ne jamais négliger avant l’hiver pour votre voiture"
+title: "Les entretiens à ne jamais négliger avant"
 description: "Préparez votre véhicule pour l'hiver avec nos conseils d'entretien. Vérifiez pneus, liquide de refroidissement et batterie pour une conduite en sécurité."
 pubDate: "2025-12-01T07:51:54"
 updatedDate: "2026-03-18T11:32:29"

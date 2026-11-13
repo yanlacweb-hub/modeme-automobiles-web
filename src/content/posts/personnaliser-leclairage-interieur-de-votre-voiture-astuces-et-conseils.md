@@ -1,6 +1,6 @@
 ---
 postSlug: "personnaliser-leclairage-interieur-de-votre-voiture-astuces-et-conseils"
-title: "Personnaliser l’éclairage intérieur de votre voiture : astuces et conseils"
+title: "Personnaliser l’éclairage intérieur de votre voiture"
 description: "Découvrez comment personnaliser l'éclairage intérieur de votre voiture avec des astuces pratiques et des kits LED pour une ambiance unique."
 pubDate: "2025-03-26T20:50:36"
 updatedDate: "2025-04-17T07:47:59"

@@ -1,6 +1,6 @@
 ---
 postSlug: "quels-sont-les-meilleurs-films-pour-un-covering-racing-comparatif-des-marques"
-title: "Quels sont les meilleurs films pour un covering racing : comparatif des marques"
+title: "Quels sont les meilleurs films pour un covering racing"
 description: "Découvrez notre comparatif des films pour covering racing, leurs caractéristiques, marques et conseils pour choisir le meilleur pour votre voiture."
 pubDate: "2025-07-12T10:54:00"
 updatedDate: "2025-07-28T12:04:39"

@@ -1,6 +1,6 @@
 ---
 postSlug: "changement-dampoule-sur-une-voiture-quelques-elements-a-prendre-en-compte"
-title: "Changement d’ampoule sur une voiture : quelques éléments à prendre en compte"
+title: "Changement d’ampoule sur une voiture"
 description: "Découvrez comment changer une ampoule de voiture facilement, les différences entre LED et halogène, et quel type d’ampoule choisir pour chaque usage."
 pubDate: "2023-02-27T12:18:04"
 updatedDate: "2025-03-21T13:58:01"

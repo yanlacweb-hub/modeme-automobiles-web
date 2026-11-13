@@ -1,6 +1,6 @@
 ---
 postSlug: "linterdiction-du-diesel-en-2024-un-tournant-pour-les-vehicules-essence-sur-le-marche-de-loccasion"
-title: "L’interdiction du diesel: un tournant pour les véhicules essence sur le marché de l’occasion (2026)"
+title: "L’interdiction du diesel: un tournant pour les véhicules"
 description: "Les restrictions de circulation diesel (ZFE) bouleversent le marché. Découvrez pourquoi les voitures essence d'occasion deviennent une alternative recherchée."
 pubDate: "2025-02-25T12:05:17"
 updatedDate: "2026-11-13T14:30:00"

@@ -1,6 +1,6 @@
 ---
 postSlug: "film-anti-gravillons-voiture-une-protection-vraiment-utile-sur-autoroute-lete"
-title: "Film anti gravillons voiture : une protection vraiment utile sur autoroute l’été ?"
+title: "Film anti gravillons voiture"
 description: "L’arrivée des beaux jours marque, pour de nombreux automobilistes, le début des longs trajets estivaux sur autoroute. Face à la densification du trafic et aux"
 pubDate: "2026-08-07T12:47:00"
 updatedDate: "2026-01-30T08:42:08"

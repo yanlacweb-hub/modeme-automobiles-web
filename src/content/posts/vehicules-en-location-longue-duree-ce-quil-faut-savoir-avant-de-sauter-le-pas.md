@@ -1,7 +1,7 @@
 ---
 postSlug: "vehicules-en-location-longue-duree-ce-quil-faut-savoir-avant-de-sauter-le-pas"
 title: "Location longue durée (LLD) : tout ce qu’il faut savoir en 2026"
-description: "Découvrez les avantages de la localisation longue durée (LLD) pour particuliers : flexibilité, budget maîtrisé, options d'achat… Faites le bon choix avec nos conseils et l'accompagnement d'un courtier LLD !"
+description: "Découvrez les avantages de la localisation longue durée (LLD) pour particuliers : flexibilité, budget maîtrisé."
 pubDate: "2023-01-30T14:09:03"
 updatedDate: "2026-03-12T12:37:54"
 canonical: "https://modeme-automobiles.com/vehicules-en-location-longue-duree-ce-quil-faut-savoir-avant-de-sauter-le-pas/"

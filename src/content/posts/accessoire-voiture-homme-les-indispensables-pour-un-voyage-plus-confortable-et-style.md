@@ -1,6 +1,6 @@
 ---
 postSlug: "accessoire-voiture-homme-les-indispensables-pour-un-voyage-plus-confortable-et-style"
-title: "Accessoire voiture homme : les indispensables pour un voyage plus confortable et stylé"
+title: "Accessoire voiture homme"
 description: "Découvrez les accessoires indispensables pour un voyage en voiture confortable et stylé. Améliorez votre expérience de conduite avec ces gadgets pratiques."
 pubDate: "2025-04-15T09:49:01"
 updatedDate: "2025-04-16T14:59:15"

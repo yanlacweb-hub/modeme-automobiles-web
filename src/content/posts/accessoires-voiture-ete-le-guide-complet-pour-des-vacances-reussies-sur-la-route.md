@@ -1,6 +1,6 @@
 ---
 postSlug: "accessoires-voiture-ete-le-guide-complet-pour-des-vacances-reussies-sur-la-route"
-title: "Accessoires voiture été : le guide complet pour des vacances réussies sur la route"
+title: "Accessoires voiture été"
 description: "Préparez votre voiture pour l'été avec notre guide des accessoires indispensables pour des vacances réussies sur la route. Confort et sécurité au rendez-vous !"
 pubDate: "2026-07-07T06:33:03"
 updatedDate: "2025-12-11T13:10:28"

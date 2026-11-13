@@ -1,6 +1,6 @@
 ---
 postSlug: "duree-de-vie-moteur-prolonger-la-longevite-de-votre-voiture-au-quotidien"
-title: "Durée de vie moteur : prolonger la longévité de votre voiture au quotidien"
+title: "Durée de vie moteur : prolonger la longévité de votre voiture"
 description: "Découvrez nos conseils pratiques pour prolonger la durée de vie moteur de votre voiture grâce à un entretien régulier et des habitudes de conduite adaptées."
 pubDate: "2026-05-07T09:29:28"
 updatedDate: "2025-11-28T06:27:22"

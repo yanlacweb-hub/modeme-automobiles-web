@@ -1,6 +1,6 @@
 ---
 postSlug: "guide-complet-des-motos-electriques-en-2025-modeles-performances-et-autonomie"
-title: "Guide complet des motos électriques en 2027 : modèles, performances et autonomie"
+title: "Guide complet des motos électriques en 2027"
 description: "Zero, Silence, NIU, Super Soco... Découvrez le guide complet des motos et scooters électriques : modèles réels, performances, autonomie et permis."
 pubDate: "2025-04-18T13:51:53"
 updatedDate: "2026-11-13T17:30:00"

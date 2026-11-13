@@ -1,6 +1,6 @@
 ---
 postSlug: "guide-complet-quand-remplacer-les-plaquettes-de-frein"
-title: "Quand et comment remplacer ses plaquettes de frein ? Guide complet 2026"
+title: "Quand remplacer ses plaquettes de frein ? Guide complet"
 description: "Découvrez quand et comment remplacer vos plaquettes de frein pour garantir votre sécurité. Signes d'usure, fréquence de contrôle et conseils pratiques."
 pubDate: "2025-07-06T09:54:00"
 updatedDate: "2026-03-17T09:13:11"

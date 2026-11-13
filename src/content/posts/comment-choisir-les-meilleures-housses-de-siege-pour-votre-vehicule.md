@@ -1,6 +1,6 @@
 ---
 postSlug: "comment-choisir-les-meilleures-housses-de-siege-pour-votre-vehicule"
-title: "Comment choisir les meilleures housses de siège pour votre véhicule"
+title: "Comment choisir les meilleures housses de siège"
 description: "Découvrez comment sélectionner les housses de siège idéales pour protéger votre véhicule. Confort, matériaux et installation facile au programme."
 pubDate: "2025-03-24T21:27:48"
 updatedDate: "2025-03-25T08:25:13"

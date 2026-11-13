@@ -1,7 +1,7 @@
 ---
 postSlug: "les-mysteres-des-systemes-de-direction-assistee-devoiles"
-title: "Système de direction assistée : fonctionnement, composants, pannes et entretien"
-description: "Découvrez les secrets des systèmes de direction assistée : fonctionnement, entretien, types hydrauliques et électriques. Conseils et astuces pour une conduite fluide !"
+title: "Système de direction assistée"
+description: "Découvrez les secrets des systèmes de direction assistée : fonctionnement, entretien, types hydrauliques et électriques."
 pubDate: "2025-02-25T07:38:39"
 updatedDate: "2026-03-18T10:01:36"
 canonical: "https://modeme-automobiles.com/les-mysteres-des-systemes-de-direction-assistee-devoiles/"

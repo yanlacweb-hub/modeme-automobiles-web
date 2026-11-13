@@ -1,6 +1,6 @@
 ---
 postSlug: "comprendre-le-cout-de-la-recharge-dune-voiture-electrique-a-quoi-sattendre-en-2024"
-title: "Comprendre le coût de la recharge d’une voiture électrique : à quoi s’attendre en 2026"
+title: "Comprendre le coût de la recharge d’une voiture électrique"
 description: "Découvrez le coût de la recharge d'une voiture électrique en 2026. Comparez les options de recharge à domicile et publiques pour optimiser votre budget."
 pubDate: "2026-05-05T09:27:08"
 updatedDate: "2026-11-13T14:00:00"

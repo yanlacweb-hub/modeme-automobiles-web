@@ -1,7 +1,7 @@
 ---
 postSlug: "les-avantages-du-nettoyage-moteur-pourquoi-et-quand-le-realiser"
 title: "Nettoyage moteur : pourquoi, quand et comment le faire ?"
-description: "Découvrez pourquoi le nettoyage moteur est essentiel pour optimiser les performances, réduire la consommation et éviter l'usure prématurée. Découvrez quand et comment l'effectuer pour garantir la longévité de votre véhicule."
+description: "Découvrez pourquoi le nettoyage moteur est essentiel pour optimiser les performances, réduire la consommation et éviter l'usure prématurée."
 pubDate: "2025-03-05T14:58:30"
 updatedDate: "2026-03-18T06:50:27"
 canonical: "https://modeme-automobiles.com/les-avantages-du-nettoyage-moteur-pourquoi-et-quand-le-realiser/"

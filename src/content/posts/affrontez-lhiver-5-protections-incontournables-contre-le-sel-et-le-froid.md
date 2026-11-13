@@ -1,6 +1,6 @@
 ---
 postSlug: "affrontez-lhiver-5-protections-incontournables-contre-le-sel-et-le-froid"
-title: "Affrontez l’hiver : 5 protections carrosserie incontournables contre le sel et le froid"
+title: "Affrontez l’hiver"
 description: "Découvrez 5 solutions efficaces pour protéger votre voiture du sel et du froid cet hiver. Préservez votre véhicule avec nos conseils d'entretien."
 pubDate: "2025-12-17T09:13:40"
 updatedDate: "2026-04-22T10:12:55"

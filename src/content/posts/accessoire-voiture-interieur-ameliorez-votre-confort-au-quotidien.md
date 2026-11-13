@@ -1,6 +1,6 @@
 ---
 postSlug: "accessoire-voiture-interieur-ameliorez-votre-confort-au-quotidien"
-title: "Accessoire voiture intérieur : améliorez votre confort au quotidien"
+title: "Accessoire voiture intérieur"
 description: "Découvrez les meilleurs accessoires voiture intérieur pour améliorer confort, rangement et style : housses, tapis, organiseurs, LED, pare-soleil et plus."
 pubDate: "2025-03-21T14:49:12"
 updatedDate: "2025-03-25T08:21:08"

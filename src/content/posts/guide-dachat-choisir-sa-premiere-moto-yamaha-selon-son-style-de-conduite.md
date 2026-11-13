@@ -1,6 +1,6 @@
 ---
 postSlug: "guide-dachat-choisir-sa-premiere-moto-yamaha-selon-son-style-de-conduite"
-title: "Guide d’achat : choisir sa première moto Yamaha selon son style de conduite"
+title: "Guide d’achat : choisir sa première moto Yamaha"
 description: "Découvrez comment choisir votre première moto Yamaha selon votre style de conduite. Conseils pratiques pour débutants avec le permis A2."
 pubDate: "2025-04-17T08:25:05"
 updatedDate: "2026-03-04T07:56:48"

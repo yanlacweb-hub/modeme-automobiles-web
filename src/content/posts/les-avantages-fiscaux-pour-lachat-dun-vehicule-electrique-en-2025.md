@@ -1,6 +1,6 @@
 ---
 postSlug: "les-avantages-fiscaux-pour-lachat-dun-vehicule-electrique-en-2025"
-title: "Aides à l’achat d’un véhicule électrique en 2026 : guide complet des dispositifs disponibles"
+title: "Aides à l’achat d’un véhicule électrique en 2026"
 description: "Découvrez les aides 2026 pour l'achat d'un véhicule électrique : prime CEE, leasing social, rétrofit, carte grise gratuite. Guide complet et à jour."
 pubDate: "2025-04-16T13:17:11"
 updatedDate: "2026-11-13T18:30:00"

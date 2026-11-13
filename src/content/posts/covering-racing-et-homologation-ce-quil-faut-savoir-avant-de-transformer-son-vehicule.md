@@ -1,6 +1,6 @@
 ---
 postSlug: "covering-racing-et-homologation-ce-quil-faut-savoir-avant-de-transformer-son-vehicule"
-title: "Covering racing et homologation : ce qu’il faut savoir avant de transformer son véhicule"
+title: "Covering racing et homologation"
 description: "Découvrez tout sur le covering racing et l'homologation. Apprenez les normes, réglementations, et conseils pour personnaliser votre véhicule en toute légalité."
 pubDate: "2025-07-15T13:11:00"
 updatedDate: "2026-03-10T11:52:15"

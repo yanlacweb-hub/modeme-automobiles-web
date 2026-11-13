@@ -1,6 +1,6 @@
 ---
 postSlug: "reprise-voiture-astuces-incontournables-pour-maximiser-la-valeur-de-votre-vehicule"
-title: "Reprise voiture : astuces incontournables pour maximiser la valeur de votre véhicule"
+title: "Reprise voiture"
 description: "Découvrez comment maximiser la valeur de reprise de votre voiture avec des astuces pratiques, des conseils de préparation et les erreurs à éviter."
 pubDate: "2026-04-08T09:32:25"
 updatedDate: "2025-12-09T09:19:56"

@@ -1,6 +1,6 @@
 ---
 postSlug: "comment-bien-preparer-sa-voiture-pour-lete-guide-complet-avant-le-depart-en-vacances"
-title: "Comment bien préparer sa voiture pour l’été : guide complet avant le départ en vacances"
+title: "Comment bien préparer sa voiture pour l’été"
 description: "Découvrez comment bien préparer votre voiture pour l'été avec notre guide pratique. Assurez-vous des vérifications essentielles avant vos départs en vacances."
 pubDate: "2026-05-19T09:42:30"
 updatedDate: "2025-11-28T06:36:40"

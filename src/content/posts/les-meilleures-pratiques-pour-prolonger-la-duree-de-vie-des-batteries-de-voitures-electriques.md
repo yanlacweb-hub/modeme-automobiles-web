@@ -1,7 +1,7 @@
 ---
 postSlug: "les-meilleures-pratiques-pour-prolonger-la-duree-de-vie-des-batteries-de-voitures-electriques"
-title: "Prolonger la durée de vie de la batterie de voiture électrique : stratégies et données fabricants"
-description: "Prolongez la durée de vie de votre batterie de voiture électrique grâce à nos conseils pratiques : gestion de la charge, températures optimales, recharges adaptées et conduite éco-responsable. Découvrez les meilleures pratiques pour maximiser l’autonomie et économiser sur le long terme !"
+title: "Prolonger la durée de vie de la batterie de voiture"
+description: "Prolongez la durée de vie de votre batterie de voiture électrique grâce à nos conseils pratiques : gestion de la charge, températures optimales."
 pubDate: "2025-03-20T12:50:46"
 updatedDate: "2026-03-13T11:48:49"
 canonical: "https://modeme-automobiles.com/les-meilleures-pratiques-pour-prolonger-la-duree-de-vie-des-batteries-de-voitures-electriques/"

@@ -1,6 +1,6 @@
 ---
 postSlug: "produits-detailing-dangereux-comment-eviter-les-erreurs-courantes-en-entretien-automobile"
-title: "Produits detailing dangereux : comment éviter les erreurs courantes en entretien automobile"
+title: "Produits detailing dangereux"
 description: "Découvrez comment éviter les erreurs courantes avec les produits de detailing dangereux pour votre voiture. Protégez-vous et préservez votre véhicule !"
 pubDate: "2026-04-03T09:30:00"
 updatedDate: "2025-11-27T11:31:09"

@@ -1,6 +1,6 @@
 ---
 postSlug: "comparatif-des-meilleurs-casques-modulables-et-integraux-trouver-lequilibre-entre-securite-et-confort"
-title: "Comparatif des meilleurs casques modulables et intégraux : trouver l’équilibre entre sécurité et confort"
+title: "Comparatif des meilleurs casques modulables et intégraux"
 description: "Découvrez notre comparatif des casques modulables et intégraux. Analysez sécurité, confort et performances pour choisir le meilleur casque pour vos trajets."
 pubDate: "2025-07-28T16:44:01"
 updatedDate: "2025-07-29T11:43:59"

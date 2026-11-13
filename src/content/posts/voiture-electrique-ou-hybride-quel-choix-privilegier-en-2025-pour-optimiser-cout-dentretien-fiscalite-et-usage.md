@@ -1,6 +1,6 @@
 ---
 postSlug: "voiture-electrique-ou-hybride-quel-choix-privilegier-en-2025-pour-optimiser-cout-dentretien-fiscalite-et-usage"
-title: "Voiture électrique ou hybride : quel choix privilégier en 2026 pour optimiser coût d’entretien, fiscalité et usage ?"
+title: "Voiture électrique ou hybride"
 description: "Découvrez les critères pour choisir entre voiture électrique et hybride en 2026 : coût, autonomie, fiscalité et impact environnemental."
 pubDate: "2025-11-12T06:15:46"
 updatedDate: "2026-11-13T19:00:00"

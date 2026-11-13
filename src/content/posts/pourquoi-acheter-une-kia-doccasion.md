@@ -1,7 +1,7 @@
 ---
 postSlug: "pourquoi-acheter-une-kia-doccasion"
 title: "Pourquoi acheter une Kia d’occasion en 2026 ?"
-description: "Achetez une Kia d’occasion récente et fiable à prix réduit ! Découvrez les modèles Sportage 4 et 5, leurs avantages et où les trouver. Économisez tout en roulant en toute sérénité."
+description: "Achetez une Kia d’occasion récente et fiable à prix réduit ! Découvrez les modèles Sportage 4 et 5, leurs avantages et où les trouver."
 pubDate: "2022-09-26T21:15:13"
 updatedDate: "2026-04-15T14:37:18"
 canonical: "https://modeme-automobiles.com/pourquoi-acheter-une-kia-doccasion/"

@@ -1,6 +1,6 @@
 ---
 postSlug: "accessoires-auto-connectes-bien-choisir-entre-chargeurs-usb-intercom-bluetooth-et-diagnostics-obd"
-title: "Accessoires auto connectés : bien choisir entre chargeurs usb, intercom bluetooth et diagnostics obd"
+title: "Accessoires auto connectés"
 description: "Découvrez comment choisir les meilleurs accessoires auto connectés : chargeurs USB, intercoms Bluetooth et systèmes de diagnostic OBD pour optimiser vos trajets."
 pubDate: "2025-07-24T14:27:18"
 updatedDate: "2025-07-28T14:14:26"

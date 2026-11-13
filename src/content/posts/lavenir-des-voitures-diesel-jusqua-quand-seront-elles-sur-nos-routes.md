@@ -1,7 +1,7 @@
 ---
 postSlug: "lavenir-des-voitures-diesel-jusqua-quand-seront-elles-sur-nos-routes"
 title: "Voitures diesel en 2026 : faut-il encore en acheter une ?"
-description: "Les voitures diesel sont-elles vouées à disparaître ? Découvrez les interdictions à venir, les évolutions des normes Euro et les alternatives émergentes (électrique, hydrogène). Restez informé sur l’avenir du diesel et la transition énergétique !"
+description: "Les voitures diesel sont-elles vouées à disparaître ? Découvrez les interdictions à venir, les évolutions des normes Euro et les alternatives émergentes (électr"
 pubDate: "2025-02-28T06:39:26"
 updatedDate: "2026-05-18T08:31:12"
 canonical: "https://modeme-automobiles.com/lavenir-des-voitures-diesel-jusqua-quand-seront-elles-sur-nos-routes/"

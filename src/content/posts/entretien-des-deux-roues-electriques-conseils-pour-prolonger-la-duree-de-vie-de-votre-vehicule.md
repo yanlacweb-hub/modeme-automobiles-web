@@ -1,6 +1,6 @@
 ---
 postSlug: "entretien-des-deux-roues-electriques-conseils-pour-prolonger-la-duree-de-vie-de-votre-vehicule"
-title: "Entretien des deux-roues électriques : conseils pour prolonger la durée de vie de votre véhicule"
+title: "Entretien des deux-roues électriques"
 description: "Découvrez des conseils essentiels pour l'entretien des deux-roues électriques afin de prolonger leur durée de vie et garantir votre sécurité sur la route."
 pubDate: "2025-04-18T16:40:33"
 updatedDate: "2026-03-04T08:03:46"

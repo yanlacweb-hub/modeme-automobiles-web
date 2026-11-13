@@ -1,6 +1,6 @@
 ---
 postSlug: "organisez-votre-coffre-solutions-de-rangement-pratiques-et-esthetiques"
-title: "Organisez votre coffre : solutions de rangement pratiques et esthétiques"
+title: "Organisez votre coffre"
 description: "Découvrez comment organiser efficacement votre coffre avec des solutions de rangement pratiques et esthétiques pour optimiser l'espace et améliorer la sécurité."
 pubDate: "2025-04-18T14:52:22"
 updatedDate: "2025-04-22T09:46:34"

@@ -1,7 +1,7 @@
 ---
 postSlug: "achat-voiture-en-allemagne-un-guide-complet-pour-limportation"
-title: "Achat voiture en Allemagne : guide complet pour l’importation (2026)"
-description: "Découvrez comment acheter une voiture en Allemagne en toute sécurité ! Prix ​​attractifs, démarches administratives, immatriculation : suivez notre guide complet pour importer votre véhicule en France sans stress."
+title: "Achat voiture en Allemagne"
+description: "Découvrez comment acheter une voiture en Allemagne en toute sécurité ! Prix ​​attractifs, démarches administratives."
 pubDate: "2025-02-20T07:52:54"
 updatedDate: "2026-03-17T06:43:45"
 canonical: "https://modeme-automobiles.com/achat-voiture-en-allemagne-un-guide-complet-pour-limportation/"

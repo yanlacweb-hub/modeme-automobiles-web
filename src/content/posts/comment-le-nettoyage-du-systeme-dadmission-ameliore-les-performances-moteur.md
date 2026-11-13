@@ -1,7 +1,7 @@
 ---
 postSlug: "comment-le-nettoyage-du-systeme-dadmission-ameliore-les-performances-moteur"
-title: "Nettoyage du système d’admission : performances, dépollution et entretien moteur"
-description: "Améliorez la puissance et l’efficacité de votre moteur grâce au nettoyage du système d’admission. Découvrez les méthodes de décalaminage, les avantages et les bonnes pratiques pour optimiser la combustion et réduire la consommation de carburant."
+title: "Nettoyage du système d’admission"
+description: "Améliorez la puissance et l’efficacité de votre moteur grâce au nettoyage du système d’admission. Découvrez les méthodes de décalaminage."
 pubDate: "2025-02-25T18:02:40"
 updatedDate: "2026-03-18T07:37:07"
 canonical: "https://modeme-automobiles.com/comment-le-nettoyage-du-systeme-dadmission-ameliore-les-performances-moteur/"

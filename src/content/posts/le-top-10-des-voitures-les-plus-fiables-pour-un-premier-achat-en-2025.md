@@ -1,6 +1,6 @@
 ---
 postSlug: "le-top-10-des-voitures-les-plus-fiables-pour-un-premier-achat-en-2025"
-title: "Le top 10 des voitures les plus fiables pour un premier achat en 2027"
+title: "Le top 10 des voitures les plus fiables pour un premier achat"
 description: "Toyota Yaris, Renault Clio, Dacia Sandero... Découvrez les 10 voitures les plus fiables pour un premier achat, sourcées (L'argus, Car Verif, CapCar)."
 pubDate: "2025-11-10T06:13:07"
 updatedDate: "2026-11-13T17:15:00"

@@ -1,7 +1,7 @@
 ---
 postSlug: "carte-rfid-borne-de-recharge-comment-ca-marche-et-comment-lobtenir"
-title: "Carte RFID borne de recharge : comment ça marche et comment l'obtenir ?"
-description: "Carte RFID pour borne de recharge : fonctionnement, différence avec un badge de wallbox privée, CPO et eMSP, principales cartes en France, et que faire en cas de panne."
+title: "Carte RFID borne de recharge"
+description: "Carte RFID pour borne de recharge : fonctionnement, différence avec un badge de wallbox privée, CPO et eMSP, principales cartes en France."
 pubDate: "2026-11-13T09:00:00"
 updatedDate: "2026-11-13T09:00:00"
 canonical: "https://modeme-automobiles.com/carte-rfid-borne-de-recharge-comment-ca-marche-et-comment-lobtenir/"

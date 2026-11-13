@@ -1,6 +1,6 @@
 ---
 postSlug: "accessoire-voiture-indispensable-comment-optimiser-son-equipement-auto"
-title: "Accessoire voiture indispensable : comment optimiser son équipement auto ?"
+title: "Accessoire voiture indispensable"
 description: "Découvrez les accessoires essentiels pour votre voiture afin d'assurer sécurité et confort sur la route. Équipez-vous pour chaque situation d'urgence."
 pubDate: "2025-04-18T09:32:01"
 updatedDate: "2025-04-22T09:43:45"

@@ -1,17 +1,17 @@
 ---
 postSlug: "politique-de-confidentialite"
 title: "POLITIQUE DE CONFIDENTIALITÉ"
-description: "POLITIQUE DE CONFIDENTIALITÉ"
+description: "Politique de confidentialité de Modeme Automobiles : données collectées, cookies, droits RGPD et modalités de contact pour exercer vos droits."
 pubDate: "2022-08-19T18:10:44"
 updatedDate: "2022-08-19T18:10:47"
 canonical: "https://modeme-automobiles.com/politique-de-confidentialite/"
 og:title: "POLITIQUE DE CONFIDENTIALITÉ - Modeme automobiles"
-og:description: "POLITIQUE DE CONFIDENTIALITÉ"
+og:description: "Politique de confidentialité de Modeme Automobiles : données collectées, cookies, droits RGPD et modalités de contact pour exercer vos droits."
 og:url: "https://modeme-automobiles.com/politique-de-confidentialite/"
 og:type: "article"
 twitter:card: "summary_large_image"
 twitter:title: "POLITIQUE DE CONFIDENTIALITÉ - Modeme automobiles"
-twitter:description: "POLITIQUE DE CONFIDENTIALITÉ"
+twitter:description: "Politique de confidentialité de Modeme Automobiles : données collectées, cookies, droits RGPD et modalités de contact pour exercer vos droits."
 schema: {"@context": "https://schema.org", "@graph": [{"@type": ["Person", "Organization"], "@id": "https://modeme-automobiles.com/#person", "name": "admin-m4qY"}, {"@type": "WebSite", "@id": "https://modeme-automobiles.com/#website", "url": "https://modeme-automobiles.com", "name": "admin-m4qY", "publisher": {"@id": "https://modeme-automobiles.com/#person"}, "inLanguage": "fr-FR"}, {"@type": "WebPage", "@id": "https://modeme-automobiles.com/politique-de-confidentialite/#webpage", "url": "https://modeme-automobiles.com/politique-de-confidentialite/", "name": "POLITIQUE DE CONFIDENTIALITÉ - Modeme automobiles", "datePublished": "2022-08-19T18:10:44+02:00", "dateModified": "2022-08-19T18:10:47+02:00", "isPartOf": {"@id": "https://modeme-automobiles.com/#website"}, "inLanguage": "fr-FR"}, {"@type": "Person", "@id": "https://modeme-automobiles.com/author/admin-m4qy/", "name": "admin-m4qY", "url": "https://modeme-automobiles.com/author/admin-m4qy/", "image": {"@type": "ImageObject", "@id": "https://secure.gravatar.com/avatar/d1136fb9d69eec3181ca57cde3deaa20d5dcf0ed24205519527e4d59b170b89f?s=96&d=mm&r=g", "url": "https://secure.gravatar.com/avatar/d1136fb9d69eec3181ca57cde3deaa20d5dcf0ed24205519527e4d59b170b89f?s=96&d=mm&r=g", "caption": "admin-m4qY", "inLanguage": "fr-FR"}}, {"@type": "Article", "headline": "POLITIQUE DE CONFIDENTIALITÉ - Modeme automobiles", "datePublished": "2022-08-19T18:10:44+02:00", "dateModified": "2022-08-19T18:10:47+02:00", "author": {"@id": "https://modeme-automobiles.com/author/admin-m4qy/", "name": "admin-m4qY"}, "publisher": {"@id": "https://modeme-automobiles.com/#person"}, "description": "POLITIQUE DE CONFIDENTIALITÉ", "name": "POLITIQUE DE CONFIDENTIALITÉ - Modeme automobiles", "@id": "https://modeme-automobiles.com/politique-de-confidentialite/#richSnippet", "isPartOf": {"@id": "https://modeme-automobiles.com/politique-de-confidentialite/#webpage"}, "inLanguage": "fr-FR", "mainEntityOfPage": {"@id": "https://modeme-automobiles.com/politique-de-confidentialite/#webpage"}}]}
 categories: []
 ---

@@ -1,6 +1,6 @@
 ---
 postSlug: "bien-poser-son-covering-en-ete-guide-complet-pour-une-application-sans-defauts"
-title: "Bien poser son covering en été : guide complet pour une application sans défauts"
+title: "Bien poser son covering en été"
 description: "Découvrez nos conseils pour réussir la pose de covering en été. Évitez les erreurs courantes et assurez un résultat durable avec nos astuces."
 pubDate: "2026-07-23T07:09:31"
 updatedDate: "2026-01-23T07:50:29"

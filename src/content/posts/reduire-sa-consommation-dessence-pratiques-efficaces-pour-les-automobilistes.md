@@ -1,6 +1,6 @@
 ---
 postSlug: "reduire-sa-consommation-dessence-pratiques-efficaces-pour-les-automobilistes"
-title: "Réduire sa consommation d’essence : pratiques efficaces pour les automobilistes"
+title: "Réduire sa consommation d’essence : pratiques efficaces"
 description: "Découvrez des pratiques efficaces pour réduire votre consommation d'essence. Adoptez l'éco-conduite et optimisez l'entretien de votre véhicule."
 pubDate: "2026-04-10T09:35:24"
 updatedDate: "2025-11-27T11:39:38"

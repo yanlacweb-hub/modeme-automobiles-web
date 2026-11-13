@@ -1,6 +1,6 @@
 ---
 postSlug: "tout-savoir-sur-lepaisseur-des-films-covering-guide-technique-et-conseils-pratiques-pour-un-choix-optimal"
-title: "Tout savoir sur l’épaisseur des films covering : guide technique et conseils pratiques pour un choix optimal"
+title: "Tout savoir sur l’épaisseur des films covering"
 description: "Découvrez tout sur l'épaisseur des films covering : conseils, types, durabilité et choix optimal pour protéger votre carrosserie."
 pubDate: "2026-04-17T09:41:01"
 updatedDate: "2025-11-27T11:02:55"

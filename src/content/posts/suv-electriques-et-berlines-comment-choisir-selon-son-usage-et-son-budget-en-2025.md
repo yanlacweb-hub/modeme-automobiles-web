@@ -1,6 +1,6 @@
 ---
 postSlug: "suv-electriques-et-berlines-comment-choisir-selon-son-usage-et-son-budget-en-2025"
-title: "SUV électriques et berlines : comment choisir selon son usage et son budget en 2026"
+title: "SUV électriques et berlines"
 description: "Découvrez comment choisir entre un SUV électrique et une berline électrique en 2026 selon votre usage et budget. Analysez les différences et optimisez votre choix."
 pubDate: "2025-07-28T16:03:21"
 updatedDate: "2026-11-13T18:00:00"

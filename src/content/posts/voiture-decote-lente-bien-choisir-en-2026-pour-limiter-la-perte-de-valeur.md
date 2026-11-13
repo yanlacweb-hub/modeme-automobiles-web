@@ -1,6 +1,6 @@
 ---
 postSlug: "voiture-decote-lente-bien-choisir-en-2026-pour-limiter-la-perte-de-valeur"
-title: "Voiture décote lente : bien choisir en 2026 pour limiter la perte de valeur"
+title: "Voiture décote lente : bien choisir en 2026"
 description: "Découvrez comment choisir une voiture à décote lente en 2026 pour minimiser la perte de valeur. Suivez nos conseils pratiques et optimisez votre investissement auto."
 pubDate: "2026-06-08T06:22:01"
 updatedDate: "2025-12-02T11:37:36"

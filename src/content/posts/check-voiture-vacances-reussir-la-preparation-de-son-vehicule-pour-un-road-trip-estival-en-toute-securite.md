@@ -1,6 +1,6 @@
 ---
 postSlug: "check-voiture-vacances-reussir-la-preparation-de-son-vehicule-pour-un-road-trip-estival-en-toute-securite"
-title: "Check voiture vacances : réussir la préparation de son véhicule pour un road-trip estival en toute sécurité"
+title: "Check voiture vacances : réussir la préparation"
 description: "Découvrez comment réussir le check voiture vacances pour un road-trip estival en toute sécurité avec nos conseils et check-list pratiques."
 pubDate: "2026-06-10T06:24:36"
 updatedDate: "2025-12-02T12:11:12"

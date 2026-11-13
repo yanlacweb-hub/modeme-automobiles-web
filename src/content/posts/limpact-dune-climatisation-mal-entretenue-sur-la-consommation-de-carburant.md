@@ -1,7 +1,7 @@
 ---
 postSlug: "limpact-dune-climatisation-mal-entretenue-sur-la-consommation-de-carburant"
-title: "Climatisation mal entretenue : impact sur la consommation de carburant et guide d’entretien complet 2026"
-description: "Une climatisation en mauvais état peut faire grimper votre consommation de carburant jusqu'à 10 % ! Découvrez pourquoi et comment éviter cette surconsommation grâce à des gestes simples."
+title: "Climatisation mal entretenue"
+description: "Une climatisation en mauvais état peut faire grimper votre consommation de carburant jusqu'à 10 % ! Découvrez pourquoi et comment éviter cette surconsommation g"
 pubDate: "2025-03-19T12:32:59"
 updatedDate: "2026-03-13T13:44:34"
 canonical: "https://modeme-automobiles.com/limpact-dune-climatisation-mal-entretenue-sur-la-consommation-de-carburant/"

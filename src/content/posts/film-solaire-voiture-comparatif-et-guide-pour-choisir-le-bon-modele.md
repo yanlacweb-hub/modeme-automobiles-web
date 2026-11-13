@@ -1,6 +1,6 @@
 ---
 postSlug: "film-solaire-voiture-comparatif-et-guide-pour-choisir-le-bon-modele"
-title: "Film solaire voiture : comparatif et guide pour choisir le bon modèle"
+title: "Film solaire voiture"
 description: "Découvrez notre guide complet sur le film solaire pour voiture : avantages, comparatif des meilleurs modèles et conseils pour bien choisir."
 pubDate: "2026-05-12T09:33:12"
 updatedDate: "2025-11-28T06:43:08"
