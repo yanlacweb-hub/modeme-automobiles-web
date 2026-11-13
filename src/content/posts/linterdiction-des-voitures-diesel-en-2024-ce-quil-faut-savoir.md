@@ -27,7 +27,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">Explorons comment cette mesure impacte le <strong>routier</strong> , les alternatives possibles, comme les <strong>véhicules moins polluants</strong> (électriques, <strong>hybrides</strong> et <strong>GPL</strong> ), ainsi que les aides disponibles — le <strong>bonus écologique</strong> et le <strong>leasing social</strong> , la prime à la conversion ayant été supprimée fin 2024 — pour faciliter la transition vers une <strong>motorisation</strong> plus propre.</p>
+<p class="wp-block-paragraph">Explorons comment cette mesure impacte le <strong>routier</strong> , les alternatives possibles, comme les <strong>véhicules moins polluants</strong> (électriques, <strong>hybrides</strong> et <strong>GPL</strong> ), ainsi que les aides disponibles — la prime « coup de pouce véhicules particuliers électriques » (qui a remplacé le bonus écologique depuis juillet 2025) et le <strong>leasing social</strong> , la prime à la conversion ayant été supprimée fin 2024 — pour faciliter la transition vers une <strong>motorisation</strong> plus propre.</p>
 
 
 
@@ -96,9 +96,9 @@ categories: ["Essence vs diesel"]
 <p class="wp-block-paragraph">En France, la circulation des <strong>Crit&rsquo;Air 3, 4, 5 et non classés</strong> est interdite depuis le 1<sup>er</sup> janvier 2025 dans les ZFE du <strong>Grand Paris</strong> et de <strong>Lyon</strong> , seules métropoles légalement contraintes par l&rsquo;État à ce niveau de restriction. Mais l&rsquo;interdiction légale et la <strong>verbalisation effective</strong> sont deux choses distinctes :</p>
 
 <ul class="wp-block-list">
-<li><strong>Lyon</strong> : verbalise réellement les Crit&rsquo;Air 3 depuis le 1<sup>er</sup> juillet 2026, jour et nuit, y compris en stationnement (amende de 68 à 135 €).</li>
+<li><strong>Lyon</strong> : verbalise réellement les Crit&rsquo;Air 3 depuis le 1<sup>er</sup> juillet 2026, jour et nuit, y compris en stationnement (amende forfaitaire de 68 € pour une voiture, 135 € pour un poids lourd/bus/autocar).</li>
 <li><strong>Grand Paris</strong> (77 communes, à l&rsquo;intérieur de l&rsquo;A86) : l&rsquo;interdiction est en vigueur mais la période pédagogique sans amende a été prolongée jusqu&rsquo;au 31 décembre 2026.</li>
-<li><strong>Grenoble</strong> : Crit&rsquo;Air 3 et plus interdits depuis janvier 2025, mais la verbalisation est reportée au 30 juin/1<sup>er</sup> juillet 2027 selon les sources.</li>
+<li><strong>Grenoble</strong> : Crit&rsquo;Air 3, 4, 5 et non classés interdits depuis janvier 2025, mais toute verbalisation est suspendue (phase pédagogique) jusqu&rsquo;au 30 juin 2027.</li>
 <li><strong>Marseille</strong> : la ZFE ne couvre que le centre-ville et n&rsquo;interdit que les Crit&rsquo;Air 4, 5 et non classés — les Crit&rsquo;Air 3 y restent autorisés.</li>
 <li><strong>Nice</strong> : depuis avril 2025, la ZFE ne concerne plus les voitures particulières, seulement les poids lourds, bus et autocars.</li>
 <li><strong>Toulouse</strong> et les autres agglomérations soumises à l&rsquo;obligation générale appliquent a minima une restriction pour les véhicules non classés, avec un calendrier propre à chacune.</li>
@@ -122,7 +122,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">🚗 <strong>Véhicules électriques ou hybrides</strong> : Avec une popularité croissante, ces choix représentent des alternatives aux <strong>moteurs diesel</strong> et aux <strong>véhicules essence</strong>. Ils offrent non seulement des avantages environnementaux, notamment une réduction des <strong>rejets</strong> de <strong>NOx</strong> et de <strong>CO2</strong>, mais bénéficient aussi de subventions gouvernementales telles que le <strong>bonus écologique</strong> et, depuis juillet 2026, le <strong>leasing social</strong> , rendant leur adoption plus accessible financièrement. Les modèles <strong>hybrides rechargeables</strong>, en particulier, combinent <strong>combustion</strong> et électricité pour un meilleur rendement énergétique.</p>
+<p class="wp-block-paragraph">🚗 <strong>Véhicules électriques ou hybrides</strong> : Avec une popularité croissante, ces choix représentent des alternatives aux <strong>moteurs diesel</strong> et aux <strong>véhicules essence</strong>. Ils offrent non seulement des avantages environnementaux, notamment une réduction des <strong>rejets</strong> de <strong>NOx</strong> et de <strong>CO2</strong>, mais pour les modèles <strong>électriques neufs</strong>, ils bénéficient aussi de la prime « coup de pouce véhicules particuliers électriques » (qui a remplacé le bonus écologique depuis le 1<sup>er</sup> juillet 2025, financée par les certificats d&rsquo;économies d&rsquo;énergie) et, depuis juillet 2026 (3<sup>e</sup> édition), du <strong>leasing social</strong> — ces deux aides ne concernent toutefois pas les hybrides rechargeables ni les véhicules essence. Les modèles <strong>hybrides rechargeables</strong>, en particulier, combinent <strong>combustion</strong> et électricité pour un meilleur rendement énergétique.</p>
 
 
 
@@ -142,7 +142,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">Passer à une solution <strong>moins polluante</strong> peut représenter un défi financier important, en particulier pour les propriétaires de <strong>véhicules diesel</strong> , <strong>utilitaires</strong> et <strong>poids-lourds</strong> soumis aux nouvelles réglementations. Conscients de cela, les pouvoirs publics déploient divers outils incitatifs, tels que le <strong>bonus écologique</strong> et le <strong>leasing social</strong> (la prime à la conversion ayant été supprimée le 1<sup>er</sup> décembre 2024), visant à alléger la charge pécuniaire et encourager le passage à des <strong>véhicules moins polluants</strong> , comme les <strong>hybrides rechargeables</strong> , les modèles <strong>GPL</strong> ou les <strong>voitures électriques</strong> .</p>
+<p class="wp-block-paragraph">Passer à une solution <strong>moins polluante</strong> peut représenter un défi financier important, en particulier pour les propriétaires de <strong>véhicules diesel</strong> , <strong>utilitaires</strong> et <strong>poids-lourds</strong> soumis aux nouvelles réglementations. Conscients de cela, les pouvoirs publics déploient divers outils incitatifs, tels que la prime « coup de pouce véhicules particuliers électriques » (depuis juillet 2025, remplace le bonus écologique) et le <strong>leasing social</strong> (la prime à la conversion ayant été supprimée le 2 décembre 2024), visant à alléger la charge pécuniaire et encourager le passage à des <strong>véhicules moins polluants</strong> , comme les <strong>hybrides rechargeables</strong> , les modèles <strong>GPL</strong> ou les <strong>voitures électriques</strong> .</p>
 
 
 
@@ -198,7 +198,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">Depuis le 1<sup>er</sup> décembre 2024, la <strong>prime à la conversion</strong> a été supprimée. Les aides actuellement disponibles sont le <strong>bonus écologique</strong> (véhicules électriques et hybrides rechargeables) et le <strong>leasing social</strong> , relancé en juillet 2026, qui permet aux ménages modestes de louer un véhicule électrique à partir de 200 €/mois sans apport, pour faire la transition vers des <strong>véhicules moins polluants</strong> , comme les <strong>hybrides</strong> , <strong>GPL</strong> , ou <strong>rechargeables</strong> .</p>
+<p class="wp-block-paragraph">Depuis le 2 décembre 2024, la <strong>prime à la conversion</strong> a été supprimée. Les aides actuellement disponibles sont la prime « coup de pouce véhicules particuliers électriques » (véhicules électriques neufs uniquement, remplace le bonus écologique depuis juillet 2025) et le <strong>leasing social</strong> , relancé en juillet 2026, qui permet aux ménages modestes de louer un véhicule électrique à partir de 200 €/mois sans apport, pour faire la transition vers des <strong>véhicules moins polluants</strong> , comme les <strong>hybrides</strong> , <strong>GPL</strong> , ou <strong>rechargeables</strong> .</p>
 
 
 

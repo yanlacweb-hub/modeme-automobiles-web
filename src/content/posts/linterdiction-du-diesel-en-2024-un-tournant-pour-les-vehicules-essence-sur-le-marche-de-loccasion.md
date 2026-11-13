@@ -33,11 +33,11 @@ categories: ["Essence vs diesel"]
 
 
 
-<h2 class="wp-block-heading">La réglementation européenne et l&rsquo;évolution du parc automobile</h2>
+<h2 class="wp-block-heading">La réglementation locale (ZFE) et l&rsquo;évolution du parc automobile</h2>
 
 
 
-<p class="wp-block-paragraph">Depuis quelques années, la <strong>réglementation européenne</strong> joue un rôle crucial dans la <strong>réduction des émissions</strong> de gaz <strong>polluants</strong> , notamment du <strong>CO2</strong> , des <strong>oxydes d&rsquo;azote (NOx)</strong> et des particules fines. Avec l&rsquo;instauration des <strong>vignettes Crit&rsquo;Air</strong> , les villes cherchent à contrôler l&rsquo;accès aux véhicules les plus polluants, en restreignant notamment la circulation des <strong>voitures diesel</strong> et des modèles à <strong>moteur diesel</strong> plus anciens équipés de <strong>FAP (filtre à particules)</strong> .</p>
+<p class="wp-block-paragraph">Depuis quelques années, les <strong>zones à faibles émissions (ZFE)</strong> , instaurées par les métropoles françaises dans le cadre de la loi Climat et Résilience, jouent un rôle crucial dans la <strong>réduction des émissions</strong> de gaz <strong>polluants</strong> , notamment des <strong>oxydes d&rsquo;azote (NOx)</strong> et des particules fines (le CO2 n&rsquo;est pas le critère retenu par le classement Crit&rsquo;Air). Avec l&rsquo;instauration des <strong>vignettes Crit&rsquo;Air</strong> , les villes cherchent à contrôler l&rsquo;accès aux véhicules les plus polluants, en restreignant notamment la circulation des <strong>voitures diesel</strong> et des modèles à <strong>moteur diesel</strong> plus anciens équipés de <strong>FAP (filtre à particules)</strong> .</p>
 
 
 
@@ -53,7 +53,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">Choisir une <strong>voiture essence</strong> plutôt qu’un modèle <strong>diesel</strong> peut avoir plusieurs avantages écologiques. D&rsquo;une part, les <strong>moteurs essence</strong> émettent généralement moins de <strong>dioxyde de carbone (CO2)</strong> et d&rsquo; <strong>oxydes d&rsquo;azote (NOx)</strong> , ce qui contribue directement à une meilleure qualité de l&rsquo;air. De plus, la <strong>combustion</strong> de l&rsquo; <strong>essence et du diesel</strong> produit moins de particules fines, notamment la <strong>pollution atmosphérique globale</strong> et limitant les <strong>rejets polluants</strong> dans l&rsquo; <strong>échappement</strong> .</p>
+<p class="wp-block-paragraph">Choisir une <strong>voiture essence</strong> plutôt qu’un modèle <strong>diesel</strong> peut avoir plusieurs avantages écologiques, notamment en matière d&rsquo; <strong>oxydes d&rsquo;azote (NOx)</strong> , où les moteurs essence sont généralement mieux classés. En revanche, l&rsquo;avantage n&rsquo;est pas systématique sur toutes les émissions&nbsp;: les moteurs essence à <strong>injection directe</strong> récents peuvent produire des <strong>particules fines</strong> comparables à un diesel équipé d&rsquo;un filtre à particules (FAP), et un diesel récent n&rsquo;émet pas nécessairement plus de CO2 qu&rsquo;un essence équivalent.</p>
 
 
 
@@ -89,7 +89,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">💡 <strong>Attention, la prime à la conversion a été supprimée le 1<sup>er</sup> décembre 2024.</strong> Les acheteurs peuvent en revanche se tourner vers le <strong>bonus écologique</strong> (réservé aux véhicules électriques et hybrides rechargeables) ou le <strong>leasing social</strong> , relancé en juillet 2026 pour les ménages aux revenus modestes, afin de faciliter le passage vers un <strong>véhicule moins polluant</strong> .</p>
+<p class="wp-block-paragraph">💡 <strong>Attention, la prime à la conversion a été supprimée le 2 décembre 2024.</strong> Les acheteurs peuvent en revanche se tourner vers la prime « coup de pouce véhicules particuliers électriques » (qui a remplacé le bonus écologique depuis juillet 2025, réservée aux véhicules électriques neufs) ou le <strong>leasing social</strong> , relancé en juillet 2026 pour les ménages aux revenus modestes, afin de faciliter le passage vers un <strong>véhicule moins polluant</strong> .</p>
 
 
 
@@ -109,7 +109,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">✔ <strong>Possibilité de bénéficier du bonus écologique</strong> (véhicules électriques/hybrides rechargeables) ou du <strong>leasing social</strong> pour encourager l&rsquo;achat d&rsquo;un <strong>véhicule moins polluant</strong> — la prime à la conversion, elle, a été supprimée depuis décembre 2024.</p>
+<p class="wp-block-paragraph">✔ <strong>Possibilité de bénéficier de la prime « coup de pouce véhicules particuliers électriques »</strong> (remplace le bonus écologique depuis juillet 2025, véhicules électriques neufs) ou du <strong>leasing social</strong> pour encourager l&rsquo;achat d&rsquo;un <strong>véhicule moins polluant</strong> — la prime à la conversion, elle, a été supprimée depuis décembre 2024.</p>
 
 
 
@@ -141,7 +141,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">💡 <strong>Il est donc crucial pour les automobilistes de rester informés des tendances et des réglementations</strong> , notamment concernant les <strong>vignettes Crit&rsquo;Air</strong> , le <strong>bonus écologique</strong> et le <strong>leasing social</strong> (la prime à la conversion ayant été supprimée fin 2024), ou encore l&rsquo;impact des nouvelles normes sur la consommation d&rsquo; <strong>essence</strong> et de <strong>carburants fossiles</strong> . Faire des choix judicieux aujourd&rsquo;hui permet d&rsquo;anticiper les évolutions du marché et de limiter l&rsquo;impact du <strong>malus écologique</strong> sur l&rsquo; <strong>achat d&rsquo;un véhicule</strong> .</p>
+<p class="wp-block-paragraph">💡 <strong>Il est donc crucial pour les automobilistes de rester informés des tendances et des réglementations</strong> , notamment concernant les <strong>vignettes Crit&rsquo;Air</strong> , la prime « coup de pouce véhicules particuliers électriques » et le <strong>leasing social</strong> (la prime à la conversion ayant été supprimée fin 2024), ou encore l&rsquo;impact des nouvelles normes sur la consommation d&rsquo; <strong>essence</strong> et de <strong>carburants fossiles</strong> . Faire des choix judicieux aujourd&rsquo;hui permet d&rsquo;anticiper les évolutions du marché et de limiter l&rsquo;impact du <strong>malus écologique</strong> sur l&rsquo; <strong>achat d&rsquo;un véhicule</strong> .</p>
 
 
 <div class="wp-block-image">
@@ -159,7 +159,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">Les <strong>véhicules essence</strong> émettent généralement moins de <strong>polluants</strong> que les <strong>voitures diesel</strong> , offrant ainsi une alternative plus écologique. Contrairement aux <strong>moteurs diesel</strong> , les <strong>moteurs essence</strong> rejettent moins d&rsquo; <strong>oxydes d&rsquo;azote (NOx)</strong> et de particules fines, notamment la <strong>pollution atmosphérique</strong> . De plus, ces véhicules devaient souvent un <strong>entretien moins coûteux</strong> , notamment grâce à une mécanique plus simple et une meilleure gestion de l&rsquo; <strong>injection directe</strong> .</p>
+<p class="wp-block-paragraph">Les <strong>véhicules essence</strong> sont généralement mieux classés que les <strong>voitures diesel</strong> concernant les <strong>oxydes d&rsquo;azote (NOx)</strong> , un critère déterminant du classement <strong>Crit&rsquo;Air</strong> et donc de l&rsquo;accès aux ZFE. Sur les particules fines, l&rsquo;écart s&rsquo;est réduit avec la généralisation de l&rsquo; <strong>injection directe</strong> sur les moteurs essence récents. De plus, ces véhicules devaient souvent un <strong>entretien moins coûteux</strong> , notamment grâce à une mécanique plus simple et une meilleure gestion de l&rsquo; <strong>injection directe</strong> .</p>
 
 
 
@@ -183,9 +183,9 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">Plusieurs aides sont disponibles, telles que :<br>✔ <strong>Le bonus écologique</strong> , applicable aux <strong>véhicules électriques</strong> et <strong>hybrides rechargeables</strong> (pas aux véhicules essence thermiques).<br>✔ <strong>Le leasing social</strong> , relancé en juillet 2026, qui permet aux ménages modestes de louer un véhicule électrique à partir de 200 €/mois sans apport.<br>✔ <strong>Des réductions fiscales</strong> pour l&rsquo;acquisition de modèles récents répondant aux normes de <strong>réduction des émissions de CO2</strong> .</p>
+<p class="wp-block-paragraph">Plusieurs aides sont disponibles, telles que :<br>✔ <strong>La prime « coup de pouce véhicules particuliers électriques »</strong> , qui a remplacé le bonus écologique depuis juillet 2025 (véhicules électriques neufs uniquement, pas les essences thermiques).<br>✔ <strong>Le leasing social</strong> , relancé en juillet 2026, qui permet aux ménages modestes de louer un véhicule électrique à partir de 200 €/mois sans apport.<br>✔ <strong>Des réductions fiscales</strong> pour l&rsquo;acquisition de modèles récents répondant aux normes de <strong>réduction des émissions de CO2</strong> .</p>
 
-<p class="wp-block-paragraph"><em>Note : la prime à la conversion, qui existait historiquement pour l'achat de véhicules essence/diesel récents, a été supprimée le 1<sup>er</sup> décembre 2024 et n'est plus disponible.</em></p>
+<p class="wp-block-paragraph"><em>Note : la prime à la conversion, qui existait historiquement pour l'achat de véhicules essence/diesel récents, a été supprimée le 2 décembre 2024 et n'est plus disponible.</em></p>
 
 
 
