@@ -55,7 +55,9 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">Les recherches associées aux <strong>ZFE</strong> montrent déjà des résultats positifs. Les niveaux de <strong>pollution de l&rsquo;air</strong> enregistrent une baisse notable dans les zones où des <strong>restrictions de circulation</strong> sont mises en œuvre. Paris figure parmi les villes pionnières, avec son plan ambitieux pour devenir une ville durable. Ici, l&rsquo;interdiction complète des <strong>voitures diesel</strong> immatriculées avant 2011 vise à réduire les <strong>rejets</strong> de <strong>NOx</strong> , de <strong>CO2</strong> et d&rsquo;autres <strong>polluants</strong> , rendant ainsi l&rsquo;air plus respirable.</p>
+<p class="wp-block-paragraph">Les recherches associées aux <strong>ZFE</strong> montrent déjà des résultats positifs. Les niveaux de <strong>pollution de l&rsquo;air</strong> enregistrent une baisse notable dans les zones où des <strong>restrictions de circulation</strong> sont mises en œuvre. Paris figure parmi les villes pionnières, avec son plan ambitieux pour devenir une ville durable.</p>
+
+<p class="wp-block-paragraph">Depuis le 1<sup>er</sup> janvier 2025, l&rsquo;interdiction des <strong>voitures diesel</strong> immatriculées avant 2011 (Crit&rsquo;Air 3) est entrée en vigueur dans les ZFE du Grand Paris, de Lyon et de Grenoble, principalement pour réduire les <strong>rejets</strong> de <strong>NOx</strong> et de particules fines (le classement Crit&rsquo;Air ne porte pas sur le CO2), rendant ainsi l&rsquo;air plus respirable.</p>
 
 
 
@@ -69,7 +71,7 @@ categories: ["Essence vs diesel"]
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe loading="lazy" title="Des véhicules à moteur diesel seront interdits dans cette ville française à partir de 2025" width="1170" height="658" src="https://www.youtube.com/embed/tb1cNYfQ_V8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
+</div><figcaption class="wp-element-caption"><em>Vidéo d&rsquo;époque (titre annonçant une échéance « 2025 ») — l&rsquo;interdiction évoquée est bien entrée en vigueur depuis, voir le détail actualisé ville par ville ci-dessus.</em></figcaption></figure>
 
 
 
@@ -77,7 +79,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">Bien que la tendance générale soit à l&rsquo;éradication progressive des <strong>véhicules diesel</strong> , l&rsquo;année 2024 marque un tournant décisif avec des <strong>interdictions</strong> ciblées. Les <strong>voitures particulières</strong> et <strong>utilitaires</strong> immatriculées avant 2006 et appartenant aux classes <strong>Crit&rsquo;Air 4</strong> et Inférieures font partie des principales cibles. Certaines agglomérations envisagent d&rsquo;élargir ce champ d&rsquo;application aux véhicules immatriculés avant 2011, affectant ainsi un plus grand nombre de <strong>moteurs diesel</strong> encore en circulation.</p>
+<p class="wp-block-paragraph">Depuis 2025, l&rsquo;élargissement des restrictions Crit&rsquo;Air marque un tournant décisif. Les <strong>voitures particulières</strong> et <strong>utilitaires</strong> immatriculés avant 2006 (essence) ou 1997 et appartenant aux classes <strong>Crit&rsquo;Air 4</strong> et inférieures sont déjà interdits dans toutes les ZFE. Depuis le 1<sup>er</sup> janvier 2025, plusieurs métropoles (Grand Paris, Lyon, Grenoble) ont étendu cette interdiction aux véhicules Crit&rsquo;Air 3 (diesel avant 2011, essence avant 2006), affectant un nombre bien plus important de <strong>moteurs diesel</strong> encore en circulation — même si, comme vu plus haut, la verbalisation effective de ces véhicules reste partielle selon la ville.</p>
 
 
 
@@ -106,7 +108,7 @@ categories: ["Essence vs diesel"]
 
 <p class="wp-block-paragraph">⚠️ À noter : le Parlement a voté la suppression des ZFE au printemps 2026, mais le Conseil constitutionnel a censuré cette mesure le 21 mai 2026 pour un motif de procédure (cavalier législatif). Les ZFE restent donc pleinement en vigueur, et rien n'exclut qu'une nouvelle tentative législative soit déposée.</p>
 
-<p class="wp-block-paragraph">Vérifier à l&rsquo;avance les exigences locales, notamment via la <strong>vignette Crit&rsquo;Air</strong> et le site officiel de votre métropole, permet d&rsquo;éviter les désagréments — en particulier pour les conducteurs effectuant des <strong>trajets</strong> réguliers en zone urbaine. Un dispositif « petit rouleur » existe dans la plupart des métropoles, autorisant jusqu&rsquo;à 52 jours de circulation par an même avec un véhicule non autorisé.</p>
+<p class="wp-block-paragraph">Vérifier à l&rsquo;avance les exigences locales, notamment via la <strong>vignette Crit&rsquo;Air</strong> et le site officiel de votre métropole, permet d&rsquo;éviter les désagréments — en particulier pour les conducteurs effectuant des <strong>trajets</strong> réguliers en zone urbaine. Un dispositif « petit rouleur » existe dans plusieurs métropoles (dont Lyon), autorisant jusqu&rsquo;à 52 jours de circulation par an même avec un véhicule non autorisé.</p>
 
 <p class="wp-block-paragraph">Il convient de souligner que chaque commune adapte les différents paramètres en fonction de sa situation géographique et de ses défis particuliers en matière de <strong>pollution de l&rsquo;air</strong> . La stratégie évolue donc d&rsquo;une ville à l&rsquo;autre, garantissant ainsi plus de flexibilité tout en restant cohérente avec l&rsquo;objectif global de réduction des <strong>rejets</strong> de <strong>CO2</strong> , <strong>NOx</strong> et autres <strong>polluants</strong> issus de la <strong>combustion</strong> des <strong>carburants</strong> fossiles.</p>
 
