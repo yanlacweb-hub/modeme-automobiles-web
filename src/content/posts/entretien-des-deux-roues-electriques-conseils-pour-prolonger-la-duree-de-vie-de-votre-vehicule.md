@@ -123,7 +123,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Pour choisir un modèle performant et adapté à vos besoins, consultez notre <a class="" href="https://modeme-automobiles.com/guide-complet-des-motos-electriques-en-2025-modeles-performances-et-autonomie/">guide complet des motos électriques en 2025</a>.</p>
+<p class="wp-block-paragraph">Pour choisir un modèle performant et adapté à vos besoins, consultez notre <a class="" href="https://modeme-automobiles.com/guide-complet-des-motos-electriques-modeles-performances-et-autonomie/">guide complet des motos électriques en 2025</a>.</p>
 
 
 

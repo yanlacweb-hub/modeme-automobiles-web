@@ -110,7 +110,7 @@ categories: ["voiture electrique"]
 
 <p class="wp-block-paragraph">L'application de votre eMSP indique normalement la compatibilité d'une borne avant de vous déplacer, ce qui évite une bonne partie de ces désagréments.</p>
 
-<p class="wp-block-paragraph">👉 Pour aller plus loin, consultez aussi <a href="/guide-complet-pour-linstallation-dune-borne-de-recharge-a-domicile-pour-vehicule-electrique/">notre guide complet pour installer une borne de recharge chez vous</a>, pour la recharge en déplacement <a href="/borne-de-recharge-rapide-en-france-ou-recharger-a-quel-prix-et-comment-optimiser-votre-mobilite-electrique-en-2026/">notre guide sur les bornes de recharge rapide en France</a>, et pour le détail des tarifs <a href="/comprendre-le-cout-de-la-recharge-dune-voiture-electrique-a-quoi-sattendre-en-2024/">notre guide sur le coût de la recharge</a>.</p>
+<p class="wp-block-paragraph">👉 Pour aller plus loin, consultez aussi <a href="/guide-complet-pour-linstallation-dune-borne-de-recharge-a-domicile-pour-vehicule-electrique/">notre guide complet pour installer une borne de recharge chez vous</a>, pour la recharge en déplacement <a href="/borne-de-recharge-rapide-en-france-ou-recharger-a-quel-prix-et-comment-optimiser-votre-mobilite-electrique-en-2026/">notre guide sur les bornes de recharge rapide en France</a>, et pour le détail des tarifs <a href="/comprendre-le-cout-de-la-recharge-dune-voiture-electrique/">notre guide sur le coût de la recharge</a>.</p>
 
 <h2 class="wp-block-heading">Questions fréquentes sur la carte RFID de recharge</h2>
 

@@ -489,7 +489,7 @@ categories: ["voiture electrique"]
 
 <h2 class="wp-block-heading">Conclusion : un entretien moins coûteux et plus simple, à condition d&rsquo;anticiper la batterie</h2>
 
-<p class="wp-block-paragraph">👉 Hésitant encore entre électrique et hybride ? Consultez aussi <a href="https://modeme-automobiles.com/voiture-electrique-ou-hybride-quel-choix-privilegier-en-2025-pour-optimiser-cout-dentretien-fiscalite-et-usage/">notre comparatif voiture électrique ou hybride</a>.</p>
+<p class="wp-block-paragraph">👉 Hésitant encore entre électrique et hybride ? Consultez aussi <a href="https://modeme-automobiles.com/voiture-electrique-ou-hybride-quel-choix-privilegier-pour-optimiser-cout-dentretien-fiscalite-et-usage/">notre comparatif voiture électrique ou hybride</a>.</p>
 
 
 
