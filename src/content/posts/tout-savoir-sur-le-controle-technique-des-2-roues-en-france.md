@@ -43,7 +43,21 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">📚 Pour une vue d’ensemble détaillée des points vérifiés lors du contrôle, consulte <a href="https://modeme-automobiles.com/inspection-technique-des-deux-roues-les-points-de-controle-essentiels/">cet article sur les points de contrôle essentiels</a>.</p>
+<h2 class="wp-block-heading">Les points de contrôle détaillés lors de l&rsquo;inspection technique</h2>
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Exclusif: Contrôle Technique Moto, la procédure" width="1170" height="658" src="https://www.youtube.com/embed/Qii5WmwB4og?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+<p class="wp-block-paragraph">Les <strong>systèmes de freinage</strong> constituent le point le plus critique à vérifier. Les plaquettes de frein, les étriers, le disque et le niveau de liquide hydraulique doivent être en parfait état pour garantir des freinages sûrs. Un bruit suspect ou une sensation de pédale molle peut indiquer un élément défectueux nécessitant une intervention immédiate.</p>
+
+<p class="wp-block-paragraph">Les <strong>pneumatiques</strong> jouent aussi un rôle fondamental&nbsp;: des pneus usés ou mal gonflés peuvent nuire à l&rsquo;adhérence et provoquer des accidents. Une vérification régulière de la pression et de l&rsquo;usure est essentielle, ainsi que l&rsquo;inspection des roues pour détecter toute fissure ou déformation.</p>
+
+<p class="wp-block-paragraph">Le <strong>système de direction</strong> et le <strong>châssis</strong> sont également examinés&nbsp;: toute résistance ou jeu excessif au niveau du guidon doit être pris au sérieux, de même que toute fissure, trace de corrosion ou affaiblissement de la structure du cadre.</p>
+
+<p class="wp-block-paragraph">Les <strong>émissions polluantes et sonores</strong> doivent respecter les normes en vigueur&nbsp;: pot d&rsquo;échappement en bon état, système de refroidissement fonctionnel et dispositifs anti-bruit efficaces.</p>
+
+<p class="wp-block-paragraph">Enfin, la <strong>visibilité et l&rsquo;éclairage</strong> sont vérifiés en détail&nbsp;: rétroviseurs sans angle mort, phares, feux-stop, clignotants et feux de détresse doivent tous fonctionner correctement. L&rsquo;<strong>identification du véhicule</strong> (plaque d&rsquo;immatriculation, numéros de châssis) doit aussi parfaitement correspondre au certificat de circulation&nbsp;: tout écart peut entraîner des sanctions, voire des complications juridiques.</p>
 
 
 
@@ -141,6 +155,22 @@ categories: ["2 roues"]
 <p class="wp-block-paragraph">Par ailleurs, divers groupes font valoir la légitimité d&rsquo;une telle initiative en termes de santé publique et de réduction de la pollution. Là où certains préféreraient renforcer davantage la pédagogie auprès des jeunes conducteurs, d’autres estiment qu’un <strong>cadre réglementaire strict</strong>, avec des <strong>contrôles techniques périodiques</strong>, est la seule solution pour assurer la sécurité et la conformité des véhicules légers et utilitaires légers.</p>
 
 
+
+<h3 class="wp-block-heading"><strong>Bien préparer sa moto avant le rendez-vous</strong></h3>
+
+<p class="wp-block-paragraph">Pour éviter toute contre-visite, il est recommandé d&rsquo;effectuer un check-up complet avant le rendez-vous&nbsp;: contrôle du frein, de l&rsquo;échappement, du guidon et de l&rsquo;allumage. Un réseau d&rsquo;ateliers spécialisés comme <strong>Dafy Moto</strong> propose des kits de révision complets et des interventions rapides (remplacement de plaquettes, ajustement de joints, changement de pneus) pour préparer efficacement votre deux-roues à l&rsquo;inspection.</p>
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Les 10 points de contrôle" width="1170" height="658" src="https://www.youtube.com/embed/Dgr0cAMAf8o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/03/CT-Moto-1024x683.jpg" alt="CT Moto" title=""></figure>
+</div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/03/inspection-technique-moto-1024x683.jpg" alt="inspection technique moto" title=""></figure>
+</div>
 
 <p class="wp-block-paragraph">🛑 Tu veux connaître les risques en cas de non-respect? Consulte <a href="https://modeme-automobiles.com/comprendre-les-sanctions-liees-au-non-respect-du-controle-technique-moto/">cet article sur les sanctions liées au défaut de contrôle technique</a>.</p>
 

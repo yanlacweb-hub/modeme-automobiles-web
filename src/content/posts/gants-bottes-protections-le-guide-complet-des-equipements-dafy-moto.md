@@ -235,7 +235,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">👉 Si vous préparez un contrôle technique ou souhaitez vérifier que votre équipement est à la hauteur, lisez <a class="" href="https://modeme-automobiles.com/inspection-technique-moto-les-equipements-dafy-pour-une-moto-au-top/">cet article dédié aux équipements Dafy pour une moto au top</a>.</p>
+<p class="wp-block-paragraph">👉 Si vous préparez un contrôle technique ou souhaitez vérifier que votre équipement est à la hauteur, lisez <a class="" href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">cet article dédié aux équipements Dafy pour une moto au top</a>.</p>
 
 
 
