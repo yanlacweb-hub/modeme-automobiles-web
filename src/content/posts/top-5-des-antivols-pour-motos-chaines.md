@@ -75,7 +75,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">👉 Pour compléter votre équipement de sécurité, consultez notre <a class="" href="https://modeme-automobiles.com/comparatif-des-meilleurs-casques-modulables-et-integraux-trouver-lequilibre-entre-securite-et-confort/">comparatif des meilleurs casques modulables et intégraux</a> et trouvez le bon compromis entre confort et protection.</p>
+<p class="wp-block-paragraph">👉 Pour compléter votre équipement de sécurité, consultez notre <a class="" href="https://modeme-automobiles.com/comment-choisir-votre-casque-de-moto/">comparatif des meilleurs casques modulables et intégraux</a> et trouvez le bon compromis entre confort et protection.</p>
 
 
 
