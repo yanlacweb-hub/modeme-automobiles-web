@@ -65,6 +65,10 @@ categories: ["Accessoire | équipement"]
 
 <p class="wp-block-paragraph">L'utilisation d'un lubrifiant de pose comme le <a href="https://fleasting.com/produit-entretien-covering/291-gyeon-q2m-ppf-slip-1000ml-lubrifiant-pose-films.html" target="_blank" rel="noopener"><strong>GYEON Q²M PPF Slip</strong></a> simplifie considérablement l'application, en évitant la formation de bulles d'air et en assurant une adhésion parfaite sur toutes les surfaces vitrées et peintes. Il se dilue avec de l'eau savonneuse dans un rapport de 1:10 (vérifiez toujours les instructions du fabricant).</p>
 
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><a href="https://fleasting.com/produit-entretien-covering/291-gyeon-q2m-ppf-slip-1000ml-lubrifiant-pose-films.html" target="_blank" rel="noopener"><img loading="lazy" decoding="async" width="800" height="800" src="/wp-content/uploads/2024/09/gyeon-qm-ppf-slip-solution-pro.webp" alt="GYEON Q²M PPF Slip, lubrifiant de pose film PPF" class="wp-image-520" style="width:386px;height:auto" srcset="/wp-content/uploads/2024/09/gyeon-qm-ppf-slip-solution-pro.webp 800w, /wp-content/uploads/2024/09/gyeon-qm-ppf-slip-solution-pro-300x300.webp 300w, /wp-content/uploads/2024/09/gyeon-qm-ppf-slip-solution-pro-150x150.webp 150w, /wp-content/uploads/2024/09/gyeon-qm-ppf-slip-solution-pro-768x768.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></a></figure>
+</div>
+
 <ul class="wp-block-list">
 <li><strong>Vaporisez</strong> généreusement la solution sur la carrosserie ainsi que sur le côté adhésif du film, à l'aide d'un pulvérisateur.</li>
 <li>Cette solution permet au film de <strong>glisser</strong> sur la carrosserie, facilitant son ajustement avant de l'immobiliser.</li>
