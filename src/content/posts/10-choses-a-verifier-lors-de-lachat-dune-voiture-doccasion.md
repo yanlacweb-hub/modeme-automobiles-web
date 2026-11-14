@@ -632,6 +632,8 @@ tbody td:first-child { font-weight: 500; color: var(--texte); }
 .section-dark h2 { color: #f5f2ed !important; }
 .section-dark h3 { color: #e8e3dc !important; border-color: #444; }
 .section-dark p { color: #c8c2ba !important; }
+.section-dark strong { color: #f5f2ed !important; }
+.section-dark li { color: #c8c2ba !important; }
 .section-dark .table-wrap { box-shadow: none; }
 .section-dark table { background: #363636; }
 .section-dark thead { background: var(--ambre); }
