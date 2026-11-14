@@ -743,7 +743,7 @@ footer a { color: var(--ambre); text-decoration: none; }
 <!-- HERO -->
 <section class="hero">
   <div class="hero-inner">
-    <span class="hero-badge">Guide 2026 — Mis à jour mai 2026</span>
+    <span class="hero-badge">Guide 2026 — Mis à jour novembre 2026</span>
     <p class="hero-lead">Le diesel n&rsquo;est pas mort. Il boite, encaisse les coups réglementaires, voit ses parts de marché fondre à <strong style="color:var(--ambre-clair);font-weight:600;">2,5 % des immatriculations françaises en 2026</strong> — contre 70 % au début des années 2010. Mais pour des millions d&rsquo;automobilistes qui roulent encore au gazole, la vraie question n&rsquo;est pas « quand le diesel disparaît-il ? » Elle est plus immédiate, plus concrète : <strong style="color:#ffffff;font-weight:600;">est-ce que mon diesel me convient encore, et jusqu&rsquo;à quand ?</strong></p>
     <p class="hero-intro">Ce que vous avez en main, c&rsquo;est un arbitrage. Pas une condamnation, pas un dogme écologique. Un calcul froid entre usage réel, restrictions à venir, coût total de possession et valeur résiduelle qui s&rsquo;érode. Les zones à faibles émissions se multiplient, les constructeurs réduisent leur offre diesel, la prime à la conversion a disparu en janvier 2026. Dans ce contexte, garder son diesel, en acheter un autre, ou basculer vers l&rsquo;essence, l&rsquo;hybride ou l&rsquo;électrique — chaque option a ses arguments. Ce guide les pose tous sur la table, chiffres à l&rsquo;appui, pour que vous décidiez en connaissance de cause.</p>
     <p class="hero-meta">Modeme-automobiles.com &nbsp;·&nbsp; Guide complet &nbsp;·&nbsp; ZFE · Crit&rsquo;Air · Aides · Décote · Entretien</p>
