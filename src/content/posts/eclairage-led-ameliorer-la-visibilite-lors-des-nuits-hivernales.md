@@ -175,6 +175,8 @@ categories: ["Accessoire | équipement"]
 
 <p class="wp-block-paragraph">Pour évaluer la performance d&rsquo;une led, vérifiez le nombre de lumens (puissance lumineuse) par watt consommé. Cette valeur permet d’établir l’<strong>efficacité énergétique</strong>. Comparez également la température de couleur et assurez-vous que la led correspond à l’utilisation prévue (intérieure ou extérieure).</p>
 
+<p class="wp-block-paragraph">👉 Pour un éclairage automobile spécifique (phares de voiture, moto ou camion), consultez aussi <a href="https://modeme-automobiles.com/ampoules-led-pour-voitures-motos-et-camions-pourquoi-choisir-next-tech/">notre guide sur les ampoules LED Next-Tech pour véhicules</a>.</p>
+
 
 
 <p class="wp-block-paragraph"></p>

@@ -80,3 +80,5 @@ categories: ["Accessoire | équipement"]
 
 
 <p class="wp-block-paragraph">Ce sont des produits universels et très esthétiques. Étant donné qu’ils sont équipés d’une puissance de 180W, elles émettent un faisceau luminaire à longue distance. Ainsi, il est plus facile de conduire son véhicule aisément dans l’obscurité. En plus de cela, sa portée de 40 degrés donne une meilleure vue d’ensemble sur la route.</p>
+
+<p class="wp-block-paragraph">👉 Pour en savoir plus sur la technologie LED en général (maison, extérieur, température de couleur), consultez aussi <a href="https://modeme-automobiles.com/eclairage-led-ameliorer-la-visibilite-lors-des-nuits-hivernales/">notre guide sur l'éclairage LED pour les nuits hivernales</a>.</p>
