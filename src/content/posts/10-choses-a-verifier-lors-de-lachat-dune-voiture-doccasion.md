@@ -35,7 +35,6 @@ categories: ["Achat & Occasion"]
   --font-serif: 'Crimson Pro', serif;
   --font-sans: 'DM Sans', sans-serif;
 }
-
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; }
 body {
@@ -46,7 +45,6 @@ body {
   line-height: 1.7;
   overflow-x: hidden;
 }
-
 /* ─── HEADER ─── */
 .site-header {
   background: var(--noir);
@@ -81,7 +79,6 @@ body {
   white-space: nowrap;
 }
 .header-cta:hover { background: var(--ambre-clair); }
-
 /* ─── HERO ─── */
 .hero {
   background: var(--noir);
@@ -134,7 +131,6 @@ body {
   letter-spacing: 1px;
   text-transform: uppercase;
 }
-
 /* ─── STATS ─── */
 .stat-grid {
   display: grid;
@@ -165,7 +161,6 @@ body {
   margin-bottom: 6px;
 }
 .stat-label { font-size: 0.78rem; color: #9a948e; line-height: 1.4; }
-
 /* ─── SOMMAIRE ─── */
 .sommaire-wrap { max-width: 860px; margin: 0 auto; padding: 40px 24px 0; }
 .sommaire {
@@ -207,10 +202,8 @@ body {
   transition: border-color 0.2s, color 0.2s;
 }
 .sommaire ol li a:hover { color: var(--ambre); border-color: var(--ambre); }
-
 /* ─── LAYOUT ─── */
 .article-body { max-width: 860px; margin: 0 auto; padding: 0 24px; }
-
 /* ─── SECTIONS ─── */
 .section { padding: 60px 0 20px; border-bottom: 1px solid var(--bordure); }
 .section:last-of-type { border-bottom: none; }
@@ -255,7 +248,6 @@ h3 {
 }
 p { margin-bottom: 18px; color: var(--texte-doux); font-size: 1rem; line-height: 1.8; }
 strong { color: var(--texte); font-weight: 500; }
-
 .lead-text {
   font-family: var(--font-serif);
   font-size: 1.15rem;
@@ -265,7 +257,6 @@ strong { color: var(--texte); font-weight: 500; }
   padding-left: 20px;
   margin-bottom: 28px;
 }
-
 /* ─── IMAGES ─── */
 .article-img {
   margin: 32px 0;
@@ -284,7 +275,6 @@ strong { color: var(--texte); font-weight: 500; }
   font-style: italic;
   background: var(--gris-clair);
 }
-
 /* ─── CALLOUT ─── */
 .callout {
   background: var(--gris-clair);
@@ -298,7 +288,6 @@ strong { color: var(--texte); font-weight: 500; }
 .callout.info { border-color: #2563a8; background: #f0f5fc; }
 .callout p { margin: 0; font-family: var(--font-serif); font-size: 1rem; color: var(--texte); }
 .callout strong { color: var(--noir); }
-
 /* ─── ALERT POINT ─── */
 .alert-point {
   background: #fff8f0;
@@ -310,7 +299,6 @@ strong { color: var(--texte); font-weight: 500; }
   color: var(--texte-doux);
 }
 .alert-point strong { color: var(--ambre); }
-
 /* ─── TABLEAUX ─── */
 .table-wrap {
   overflow-x: auto;
@@ -332,7 +320,6 @@ tbody tr { border-bottom: 1px solid var(--bordure); transition: background 0.15s
 tbody tr:hover { background: #fdf8f2; }
 tbody td { padding: 11px 16px; color: var(--texte-doux); line-height: 1.5; }
 tbody td:first-child { font-weight: 500; color: var(--texte); }
-
 /* ─── DOCS OBLIGATOIRES ─── */
 .docs-grid {
   display: grid;
@@ -367,7 +354,6 @@ tbody td:first-child { font-weight: 500; color: var(--texte); }
   margin-bottom: 8px;
 }
 .doc-card p { font-size: 0.84rem; line-height: 1.55; margin: 0; color: var(--texte-doux); }
-
 /* ─── RED FLAGS / GREEN FLAGS ─── */
 .flags-grid {
   display: grid;
@@ -404,7 +390,6 @@ tbody td:first-child { font-weight: 500; color: var(--texte); }
 .flags-box ul li:last-child { border-bottom: none; }
 .flags-box.red ul li::before { content: '🚨'; position: absolute; left: 0; font-size: 0.75rem; }
 .flags-box.green ul li::before { content: '✅'; position: absolute; left: 0; font-size: 0.75rem; }
-
 /* ─── CHECKLIST ─── */
 .checklist {
   counter-reset: chk;
@@ -441,7 +426,6 @@ tbody td:first-child { font-weight: 500; color: var(--texte); }
   margin-bottom: 5px;
 }
 .chk-content p { font-size: 0.88rem; line-height: 1.55; margin: 0; color: var(--texte-doux); }
-
 /* ─── QUESTIONS ─── */
 .questions-list { list-style: none; margin: 20px 0; padding: 0; }
 .questions-list li {
@@ -460,7 +444,6 @@ tbody td:first-child { font-weight: 500; color: var(--texte); }
 }
 .questions-list li strong { display: block; color: var(--texte); margin-bottom: 3px; font-size: 0.95rem; }
 .questions-list li em { font-style: italic; color: #777; font-size: 0.85rem; }
-
 /* ─── BANNIÈRE FLEASTING ─── */
 .fleasting-banner {
   background: linear-gradient(135deg, var(--noir) 0%, #1e1400 100%);
@@ -526,7 +509,6 @@ tbody td:first-child { font-weight: 500; color: var(--texte); }
   .fleasting-banner { flex-direction: column; text-align: center; }
   .fleasting-icon { font-size: 2rem; }
 }
-
 /* ─── MINI BANNIÈRE ─── */
 .fleasting-mini {
   background: var(--gris-clair);
@@ -554,7 +536,6 @@ tbody td:first-child { font-weight: 500; color: var(--texte); }
   transition: background 0.2s;
 }
 .fleasting-mini-link:hover { background: var(--ambre-clair); }
-
 /* ─── CANAL D'ACHAT ─── */
 .canal-note {
   font-size: 0.78rem;
@@ -591,13 +572,11 @@ tbody td:first-child { font-weight: 500; color: var(--texte); }
   font-weight: 500;
 }
 .canal-card a:hover { text-decoration: underline; }
-
 /* ─── PAIEMENT ─── */
 .paiement-tag { font-weight: 600; }
 .paiement-tag.ok { color: var(--vert); }
 .paiement-tag.warn { color: var(--ambre); }
 .paiement-tag.ko { color: var(--rouge); }
-
 /* ─── FAQ ─── */
 .faq-section { margin: 48px 0; }
 .faq-item { border-bottom: 1px solid var(--bordure); }
@@ -642,7 +621,6 @@ tbody td:first-child { font-weight: 500; color: var(--texte); }
   line-height: 1.75;
   color: var(--texte-doux);
 }
-
 /* ─── SECTION DARK ─── */
 .section-dark {
   background: #2a2a2a;
@@ -662,7 +640,6 @@ tbody td:first-child { font-weight: 500; color: var(--texte); }
 .section-dark tbody tr:hover { background: #3d3d3d; }
 .section-dark tbody td { color: #c8c2ba; }
 .section-dark tbody td:first-child { color: #f0ebe4; }
-
 /* ─── CHECKLIST FINALE ─── */
 .checklist-finale {
   background: var(--gris-clair);
@@ -670,7 +647,6 @@ tbody td:first-child { font-weight: 500; color: var(--texte); }
   margin: 60px -24px 0;
 }
 .checklist-finale-inner { max-width: 860px; margin: 0 auto; }
-
 /* ─── FOOTER CTA ─── */
 .fleasting-finale {
   background: linear-gradient(135deg, var(--noir) 0%, #1e1400 100%);
@@ -731,12 +707,10 @@ tbody td:first-child { font-weight: 500; color: var(--texte); }
   color: var(--ambre);
 }
 .finale-btn.outline:hover { background: rgba(232,130,26,0.1); }
-
 /* ─── FOOTER ─── */
 footer { background: var(--noir); padding: 28px 24px; text-align: center; }
 footer p { font-size: 0.78rem; color: #555; margin: 0; }
 footer a { color: var(--ambre); text-decoration: none; }
-
 /* ─── ANIMATIONS ─── */
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(20px); }
@@ -747,7 +721,6 @@ footer a { color: var(--ambre); text-decoration: none; }
 .hero h1 { animation-delay: 0.2s; }
 .hero-lead { animation-delay: 0.35s; }
 .hero-meta { animation-delay: 0.5s; }
-
 .nota {
   font-size: 0.82rem;
   color: #888;
@@ -756,7 +729,6 @@ footer a { color: var(--ambre); text-decoration: none; }
   padding-top: 16px;
   border-top: 1px solid var(--bordure);
 }
-
 @media (max-width: 640px) {
   .stat-grid { grid-template-columns: 1fr 1fr; }
   .section-dark { margin: 60px -24px; }
@@ -768,12 +740,10 @@ footer a { color: var(--ambre); text-decoration: none; }
 <section class="hero">
   <div class="hero-inner">
     <span class="hero-badge">Guides automobiles · 2026</span>
-    
     <p class="hero-lead">Tout ce qu&rsquo;il faut vérifier avant de signer — documents, mécanique, fraudes, négociation et garanties — pour acheter sans risque en 2026.</p>
     <p class="hero-meta">Mis à jour : mai 2026 &nbsp;·&nbsp; Lecture : ~14 min &nbsp;·&nbsp; Guide pratique complet</p>
   </div>
 </section>
-
 <!-- STATS -->
 <div class="article-body">
   <div class="sommaire-wrap" style="padding-top:48px; padding-left:0; padding-right:0; max-width:100%;">
@@ -792,7 +762,6 @@ footer a { color: var(--ambre); text-decoration: none; }
       </div>
     </div>
   </div>
-
 <!-- SOMMAIRE -->
   <div class="sommaire-wrap" style="padding:0; margin-bottom:0;">
     <div class="sommaire">
@@ -815,21 +784,16 @@ footer a { color: var(--ambre); text-decoration: none; }
       </ol>
     </div>
   </div>
-
   <p>Acheter une voiture d&rsquo;occasion représente aujourd&rsquo;hui la décision la plus rationnelle pour concilier budget maîtrisé et accès à un véhicule fiable. En France, près de deux transactions automobiles sur trois concernent désormais le marché de l&rsquo;occasion. Pourtant, sans méthode, un achat peut vite tourner au cauchemar : kilométrage trafiqué, vices cachés, documents manquants, vendeur de mauvaise foi. Ce guide vous donne une checklist structurée, étape par étape, pour vérifier l&rsquo;état mécanique, contrôler les documents obligatoires, détecter les fraudes et sécuriser votre transaction.</p>
-
 <!-- SECTION 1 -->
   <section class="section" id="pourquoi">
     <div class="section-num">1</div>
     <h2>Pourquoi acheter une voiture d&rsquo;occasion : avantages et précautions</h2>
     <p>L&rsquo;achat d&rsquo;un véhicule neuf implique une décote immédiate pouvant atteindre 20 à 30 % dès la première année. En optant pour l&rsquo;occasion, vous évitez cette perte sèche et accédez souvent à un modèle mieux équipé pour un budget équivalent. En 2026, le marché propose également des véhicules hybrides et électriques récents à des prix nettement inférieurs au neuf.</p>
-
     <h3>Décote, budget et rapport qualité-prix</h3>
     <p>Un véhicule de deux à trois ans affichant 30 000 à 50 000 kilomètres représente généralement le meilleur compromis : la décote des premières années est absorbée, la garantie constructeur est parfois encore active, et les équipements modernes sont au rendez-vous. Calculez votre budget en intégrant non seulement le prix d&rsquo;achat, mais aussi les coûts d&rsquo;entretien prévisibles, l&rsquo;assurance et l&rsquo;immatriculation.</p>
-
     <h3>Les risques réels et comment les anticiper</h3>
     <p>L&rsquo;occasion comporte des risques bien identifiés : kilométrage trafiqué, voiture accidentée non déclarée, vices cachés dissimulés, documents incomplets. Ces risques se gèrent avec méthode. Une inspection rigoureuse, la vérification systématique des documents obligatoires et l&rsquo;utilisation d&rsquo;outils officiels comme HISTOVEC permettent de sécuriser la quasi-totalité des transactions.</p>
-
     <!-- BANNIÈRE FLEASTING #1 — protection après achat occasion -->
     <div class="fleasting-banner">
       <div class="fleasting-icon">✦</div>
@@ -841,26 +805,20 @@ footer a { color: var(--ambre); text-decoration: none; }
       </div>
     </div>
   </section>
-
 <!-- SECTION 2 -->
   <section class="section" id="inspection">
     <div class="section-num">2</div>
     <h2>Inspection mécanique : les points essentiels avant d&rsquo;acheter</h2>
-
     <figure class="article-img">
       <img decoding="async" src="https://images.unsplash.com/photo-1625047509168-a7026f36de04?fm=jpg&#038;q=75&#038;w=1200&#038;auto=format&#038;fit=crop" alt="Mécanicien inspectant le dessous d&#039;un véhicule en atelier automobile" loading="lazy" width="1200" height="500" title="">
       <figcaption>Un mécanicien indépendant peut détecter des défauts invisibles à l&rsquo;œil nu — une dépense de 80 à 150 € souvent rentabilisée dès la négociation.</figcaption>
     </figure>
-
     <p>Avant toute signature, l&rsquo;état mécanique doit être examiné avec méthode. Une inspection sérieuse permet de détecter les défauts dissimulés, d&rsquo;évaluer les coûts de remise en état et de négocier le prix à la baisse.</p>
-
     <h3>Carrosserie, peinture et habitacle</h3>
     <p>Examinez la carrosserie sous un éclairage naturel, en longeant le véhicule de profil. Des ondulations sur les panneaux, des différences de teinte entre deux zones adjacentes ou des interstices irréguliers entre les portes et les ailes sont des signes de réparation après accident. À l&rsquo;intérieur, vérifiez l&rsquo;usure des sièges, du volant et des pédales — cohérente avec le kilométrage affiché. Un volant très usé sur un véhicule censé afficher 40 000 km doit immédiatement alerter. Vérifiez aussi l&rsquo;état des pneus : une usure irrégulière peut révéler un problème d&rsquo;alignement ou de suspension. Inspectez les bas de caisse, les passages de roues et les bords de portes pour détecter toute trace de rouille.</p>
-
     <div class="alert-point">
       <strong>Point d&rsquo;attention :</strong> Un habitacle récemment désodorisé ou un moteur trop propre peuvent signaler un nettoyage destiné à masquer des fuites ou des infiltrations d&rsquo;eau. La propreté excessive est parfois un signal d&rsquo;alarme.
     </div>
-
     <!-- MINI BANNIÈRE PPF -->
     <div class="fleasting-mini">
       <div class="fleasting-mini-icon">🛡️</div>
@@ -869,38 +827,29 @@ footer a { color: var(--ambre); text-decoration: none; }
         <a href="https://fleasting.com/73-film-protection-carrosserie-" target="_blank" rel="noopener nofollow" class="fleasting-mini-link">Films PPF → Fleasting.com</a>
       </div>
     </div>
-
     <h3>Essai routier : freins, transmission et comportement route</h3>
     <p>Testez le véhicule sur différents types de voies : ville, route et si possible voie rapide. Au freinage, la voiture doit s&rsquo;arrêter droit, sans tirer d&rsquo;un côté. En accélération, surveillez les à-coups et les hésitations qui peuvent trahir un problème d&rsquo;injection ou de boîte de vitesses. Évaluez la souplesse des changements de vitesse, la réponse de la direction et testez tous les équipements électriques. En vitesse stabilisée, toute vibration anormale mérite investigation. Écoutez attentivement : un claquement à froid, un sifflement à l&rsquo;accélération ou un bruit sourd en virage sont des signaux d&rsquo;alarme mécaniques.</p>
-
     <h3>Inspection moteur et sous le capot</h3>
     <p>Sous le capot, vérifiez l&rsquo;absence de fuites de liquides, l&rsquo;état des câbles et tuyaux, le niveau et la propreté de l&rsquo;huile ainsi que le liquide de refroidissement. Demandez au vendeur de démarrer le moteur à froid et écoutez attentivement. Observez la couleur des fumées d&rsquo;échappement : une fumée noire ou bleue est souvent le signe de dysfonctionnements majeurs.</p>
-
     <h3>Fuites et dessous du véhicule : le test goutte à goutte</h3>
     <p>Garez le véhicule sur une surface propre et sèche pendant quelques minutes, moteur tournant. Toute trace de liquide au sol mérite attention. Une tache noire ou marron indique une fuite d&rsquo;huile moteur ou de boîte. Un liquide verdâtre ou rosé signale une fuite de liquide de refroidissement ou de direction assistée. N&rsquo;hésitez pas à regarder sous le véhicule — l&rsquo;état général du dessous en dit long sur l&rsquo;entretien global.</p>
-
     <h3>Faire inspecter par un mécanicien indépendant</h3>
     <p>Pour tout achat dépassant 5 000 €, faire appel à un mécanicien indépendant est une précaution rentable. Un professionnel peut déceler des chocs structurels, des usures anormales et des défauts invisibles à l&rsquo;œil nu — notamment sur la distribution, le turbo, la boîte automatique ou l&rsquo;électronique. Prévoyez entre 80 et 150 €. Si le vendeur refuse cette inspection, considérez cela comme un signal d&rsquo;alarme majeur et abandonnez la transaction.</p>
   </section>
-
 <!-- SECTION 3 -->
   <section class="section" id="documents">
     <div class="section-num">3</div>
     <h2>Documents obligatoires : ce que le vendeur doit vous remettre</h2>
-
     <figure class="article-img">
       <img decoding="async" src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?fm=jpg&#038;q=75&#038;w=1200&#038;auto=format&#038;fit=crop" alt="Signature d&#039;un contrat de vente de véhicule entre acheteur et vendeur" loading="lazy" width="1200" height="500" title="">
       <figcaption>La vérification des documents est une étape aussi critique que l&rsquo;inspection mécanique. N&rsquo;acceptez jamais une vente sans les quatre documents obligatoires.</figcaption>
     </figure>
-
     <p>Des papiers incomplets ou incohérents peuvent bloquer l&rsquo;immatriculation, révéler une situation juridique problématique ou masquer un historique d&rsquo;accidents. N&rsquo;acceptez jamais une vente sans les documents suivants.</p>
-
     <h3>Les 4 documents obligatoires</h3>
     <p><strong>1. Carte grise</strong> — Au nom du vendeur, VIN cohérent avec le châssis, barrée et signée le jour de la vente avec heure exacte.</p>
     <p><strong>2. Certificat de cession Cerfa 15776</strong> — En deux exemplaires, à déclarer sur service-public.fr dans les 15 jours.</p>
     <p><strong>3. Contrôle technique</strong> — De moins de 6 mois pour tout véhicule de plus de 4 ans (ou moins de 2 mois en cas de contre-visite).</p>
     <p><strong>4. Certificat de non-gage</strong> — Obtenu gratuitement sur le site du ministère de l&rsquo;Intérieur, valide 1 mois.</p>
-
     <div class="docs-grid">
       <div class="doc-card">
         <span class="doc-card-badge badge-oblig">Obligatoire</span>
@@ -933,44 +882,34 @@ footer a { color: var(--ambre); text-decoration: none; }
         <p>Généré gratuitement par le vendeur sur le site officiel du ministère. Liste la date de mise en circulation, les propriétaires successifs et les kilométrages aux CT.</p>
       </div>
     </div>
-
     <div class="callout info">
       <p>📌 <strong>Assurance avant la prise en main</strong> — L&rsquo;assurance auto est obligatoire dès la prise en main du véhicule, même pour rentrer chez vous après l&rsquo;achat. Souscrivez au minimum une couverture au tiers avant de vous déplacer pour finaliser la transaction.</p>
     </div>
   </section>
-
 <!-- SECTION 4 -->
   <section class="section" id="vin">
     <div class="section-num">4</div>
     <h2>VIN et historique HISTOVEC : comment vérifier avant d&rsquo;acheter</h2>
-
     <h3>Décoder le numéro VIN</h3>
     <p>Le numéro VIN (Vehicle Identification Number) est un code unique de 17 caractères attribué à chaque véhicule à sa fabrication. Il figure sur la carte grise à la ligne E, sur une plaque métallique visible depuis le pare-brise côté conducteur, et parfois gravé sur le châssis ou le bas de caisse. Vérifiez systématiquement que le VIN inscrit sur la carte grise correspond exactement à celui gravé sur le véhicule. La moindre incohérence — une lettre modifiée, une plaque qui semble avoir été descellée — est un signal d&rsquo;alarme grave pouvant indiquer une voiture volée ou reconstituée.</p>
-
     <h3>HISTOVEC : le service officiel pour consulter l&rsquo;historique du véhicule</h3>
     <p>HISTOVEC est un service en ligne gratuit mis en place par le ministère de l&rsquo;Intérieur. Il permet au vendeur de partager l&rsquo;historique complet du véhicule enregistré dans le SIV : date de première mise en circulation, nombre de propriétaires successifs, kilométrages relevés lors des contrôles techniques, situations administratives (gage, opposition, vol). Demandez systématiquement au vendeur de générer et partager son rapport HISTOVEC avant la visite. Un vendeur de bonne foi n&rsquo;aura aucune raison de refuser.</p>
-
     <div class="callout success">
       <p>✅ <strong>Ce que HISTOVEC révèle</strong> — La série de kilométrages relevés à chaque contrôle technique rend la fraude au compteur beaucoup plus difficile à dissimuler. Si les chiffres du carnet, de l&rsquo;HISTOVEC et du compteur ne concordent pas, n&rsquo;allez pas plus loin.</p>
     </div>
   </section>
-
 <!-- SECTION 5 -->
   <section class="section" id="kilometrage">
     <div class="section-num">5</div>
     <h2>Kilométrage et carnet d&rsquo;entretien : comment évaluer l&rsquo;état réel</h2>
-
     <h3>Seuils par motorisation</h3>
     <p>En règle générale, privilégiez les véhicules affichant moins de 150 000 km pour une motorisation essence et moins de 200 000 km pour un diesel bien entretenu. Ces seuils correspondent aux paliers où la décote s&rsquo;accélère et où les réparations majeures — distribution, turbo, boîte automatique — deviennent statistiquement plus fréquentes.</p>
     <p>Pour évaluer la cohérence du kilométrage, calculez la moyenne annuelle. Une moyenne de 15 000 km par an est considérée comme normale pour un usage courant. Un véhicule de 5 ans affichant 75 000 km présente un profil équilibré. À l&rsquo;inverse, une berline de 8 ans affichant seulement 25 000 km doit éveiller des soupçons — usage inadapté ou compteur manipulé.</p>
-
     <div class="callout">
       <p>→ <strong>Quel est le kilométrage maximum pour une voiture d&rsquo;occasion ?</strong> Guide détaillé · modeme-automobiles.com</p>
     </div>
-
     <h3>Détecter un kilométrage trafiqué : méthode de cohérence usure/km</h3>
     <p>La détection d&rsquo;un kilométrage trafiqué repose sur une lecture croisée de plusieurs indicateurs. Examinez l&rsquo;usure des pédales, du volant, du levier de vitesses et des sièges conducteur — ces éléments s&rsquo;usent proportionnellement à l&rsquo;utilisation réelle. Consultez ensuite le carnet d&rsquo;entretien : les kilométrages notés lors des révisions doivent progresser de façon logique. Enfin, le rapport HISTOVEC enregistre les kilométrages relevés à chaque contrôle technique — une série de relevés officiels qui rend la fraude beaucoup plus difficile à dissimuler. Si les chiffres du carnet, de l&rsquo;HISTOVEC et du compteur ne concordent pas, n&rsquo;allez pas plus loin.</p>
-
     <!-- BANNIÈRE FLEASTING #2 — PPF films de protection -->
     <div class="fleasting-banner">
       <div class="fleasting-icon">✦</div>
@@ -983,18 +922,15 @@ footer a { color: var(--ambre); text-decoration: none; }
       </div>
     </div>
   </section>
-
 <!-- SECTION 6 -->
   <section class="section" id="fraudes">
     <div class="section-num">6</div>
     <h2>Pièges et fraudes fréquentes lors de l&rsquo;achat d&rsquo;une voiture d&rsquo;occasion</h2>
     <p>Le marché de l&rsquo;occasion concentre une part non négligeable de transactions frauduleuses. En 2026, les techniques de dissimulation se sont professionnalisées — mais les signaux d&rsquo;alarme restent identifiables pour un acheteur averti.</p>
-
     <h3>Compteur trafiqué, voiture reconstituée et voiture volée</h3>
     <p>Le compteur trafiqué reste la fraude la plus répandue entre particuliers. Le kilométrage est modifié électroniquement pour faire paraître le véhicule moins usé. La parade : croiser systématiquement les relevés HISTOVEC, le carnet d&rsquo;entretien et l&rsquo;usure physique du véhicule.</p>
     <p>La voiture reconstituée (épave reconstituée) est un véhicule déclaré économiquement irréparable après un accident grave, puis remis en état et revendu sans déclaration. Ces véhicules présentent des risques structurels sérieux. Un examen attentif des soudures, des joints de carrosserie et des interstices permet souvent de les détecter.</p>
     <p>La voiture volée peut être proposée avec de faux documents ou une carte grise falsifiée. La vérification du certificat de non-gage et la confrontation du VIN sur la carte grise avec celui gravé sur le châssis sont les deux boucliers essentiels.</p>
-
     <h3>Red flags à surveiller sur les annonces et lors de la visite</h3>
     <div class="flags-grid">
       <div class="flags-box red">
@@ -1023,13 +959,11 @@ footer a { color: var(--ambre); text-decoration: none; }
       </div>
     </div>
   </section>
-
 <!-- SECTION 7 -->
   <section class="section" id="canal">
     <div class="section-num">7</div>
     <h2>Particulier ou concessionnaire : quel canal choisir ?</h2>
     <p>Le canal d&rsquo;achat conditionne directement le niveau de protection juridique, la qualité du véhicule et la marge de négociation disponible.</p>
-
     <div class="table-wrap">
       <table>
         <thead>
@@ -1052,21 +986,16 @@ footer a { color: var(--ambre); text-decoration: none; }
         </tbody>
       </table>
     </div>
-
     <h3>Acheter chez un particulier</h3>
     <p>L&rsquo;achat entre particuliers offre généralement les prix les plus bas du marché. C&rsquo;est souvent la meilleure option pour un acheteur expérimenté, capable d&rsquo;inspecter le véhicule lui-même ou de se faire accompagner d&rsquo;un mécanicien. En contrepartie, la protection juridique est limitée : la garantie légale des vices cachés s&rsquo;applique, mais elle est difficile à faire valoir en pratique si le vendeur est de mauvaise foi.</p>
-
     <h3>Acheter chez un concessionnaire ou en réseau</h3>
     <p>Un professionnel est légalement tenu de vous fournir une garantie légale de conformité de deux ans (L217-4 du Code de la consommation) ainsi que la garantie des vices cachés. Les véhicules proposés ont généralement fait l&rsquo;objet d&rsquo;une révision avant mise en vente, et les documents sont systématiquement en ordre. Pour un primo-acheteur peu à l&rsquo;aise avec l&rsquo;inspection mécanique, ce surcoût se justifie pleinement.</p>
-
     <div class="callout">
       <p>→ <strong>Comparatif complet : concessionnaire vs particulier — comment faire le bon choix ?</strong> Guide détaillé · modeme-automobiles.com</p>
     </div>
-
     <h3>Plateformes en ligne : La Centrale, Le Bon Coin, AutoScout24</h3>
     <p>La Centrale est la référence française pour comparer les prix du marché en temps réel — particuliers et professionnels confondus. Idéal pour valider qu&rsquo;un prix demandé est cohérent avec le marché avant toute visite.</p>
     <p>Le Bon Coin concentre le plus grand volume d&rsquo;annonces entre particuliers. La vigilance y est indispensable : les annonces sont moins encadrées et les fraudes plus fréquentes. Analysez l&rsquo;annonce en détail — photos multiples, description complète, kilométrage cohérent, vendeur répondant aux questions sur les documents.</p>
-
     <div class="canal-links">
       <div class="canal-card">
         <div class="canal-card-icon">📊</div>
@@ -1081,30 +1010,23 @@ footer a { color: var(--ambre); text-decoration: none; }
         <a href="https://modeme-automobiles.com" rel="nofollow">Notre guide Le Bon Coin →</a>
       </div>
     </div>
-
     <h3>Mandataire auto et occasion reconditionnée</h3>
     <p>L&rsquo;occasion reconditionnée — proposée par des plateformes comme Aramisauto ou CapCar — est un véhicule d&rsquo;occasion ayant subi une inspection approfondie sur 100 à 200 points de contrôle, remis en état et proposé avec une garantie contractuelle. Ce segment représente un excellent compromis entre le prix de l&rsquo;occasion classique et la sérénité de l&rsquo;achat en réseau.</p>
   </section>
-
 <!-- SECTION 8 -->
   <section class="section" id="prix">
     <div class="section-num">8</div>
     <h2>Évaluer le prix et négocier : comment ne pas payer trop cher</h2>
-
     <figure class="article-img">
       <img decoding="async" src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?fm=jpg&#038;q=75&#038;w=1200&#038;auto=format&#038;fit=crop" alt="Vendeur et acheteur en négociation autour d&#039;un contrat automobile" loading="lazy" width="1200" height="500" title="">
       <figcaption>Connaître la valeur réelle du véhicule avant de rencontrer le vendeur est la condition non négociable pour négocier efficacement.</figcaption>
     </figure>
-
     <h3>Outils de cotation : Argus, La Centrale, AutoScout24</h3>
     <p>Trois références font autorité sur le marché français. L&rsquo;Argus est la cote de référence historique, utilisée par les professionnels et les assureurs. La Centrale agrège les annonces réelles du marché. AutoScout24 permet de comparer à l&rsquo;échelle européenne, utile pour les véhicules rares ou importés. Croisez ces trois sources avant toute visite. Un véhicule affiché significativement en dessous du marché mérite autant de méfiance qu&rsquo;un véhicule surévalué.</p>
-
     <h3>Techniques de négociation avec un vendeur particulier</h3>
     <p>Appuyez votre négociation sur des éléments concrets et objectifs : défauts constatés lors de l&rsquo;inspection visuelle, points relevés au contrôle technique, kilométrage élevé, absence de carnet d&rsquo;entretien, pneus ou plaquettes de frein à remplacer. Chiffrez systématiquement les réparations à prévoir et proposez une décote correspondante. Ne signalez jamais votre budget maximum en début de négociation — laissez le vendeur ancrer le prix en premier.</p>
-
     <h3>Négocier avec un professionnel</h3>
     <p>La marge de négociation est plus étroite mais existe. Les leviers efficaces sont la reprise de votre ancien véhicule, le paiement comptant, ou la demande d&rsquo;inclusion d&rsquo;accessoires ou d&rsquo;une extension de garantie dans le prix affiché. Les frais d&rsquo;administration (préparation, mise en route) sont également négociables.</p>
-
     <h3>Les questions essentielles à poser au vendeur</h3>
     <ul class="questions-list">
       <li>
@@ -1132,7 +1054,6 @@ footer a { color: var(--ambre); text-decoration: none; }
         <em>La question directe met le vendeur de mauvaise foi en porte-à-faux juridique.</em>
       </li>
     </ul>
-
     <!-- BANNIÈRE FLEASTING #3 — entretien et détailing -->
     <div class="fleasting-banner">
       <div class="fleasting-icon">★</div>
@@ -1144,7 +1065,6 @@ footer a { color: var(--ambre); text-decoration: none; }
       </div>
     </div>
   </section>
-
 <!-- SECTION 9 -->
   <section class="section" id="moment">
     <div class="section-num">9</div>
@@ -1152,19 +1072,15 @@ footer a { color: var(--ambre); text-decoration: none; }
     <p>Certaines périodes offrent des conditions de négociation nettement plus favorables. La fin d&rsquo;année (octobre–décembre) est la période la plus avantageuse : les concessionnaires cherchent à écouler leurs stocks avant le bilan annuel. Le début de l&rsquo;été est également intéressant, la demande étant plus faible pour de nombreux modèles.</p>
     <p>À l&rsquo;inverse, le printemps (mars–avril) est une période de forte demande — les prix sont plus tendus et la marge de négociation plus réduite. Pour les véhicules 4×4 ou équipés pour l&rsquo;hiver, les acheter hors saison (été) permet souvent d&rsquo;obtenir un meilleur prix.</p>
   </section>
-
 <!-- SECTION 9b -->
   <section class="section" id="couts">
     <div class="section-num" style="background:#555;">9b</div>
     <h2>Coûts à anticiper avant d&rsquo;acheter</h2>
     <p>Le prix d&rsquo;achat n&rsquo;est que la première ligne de votre budget réel. Un véhicule moins cher à l&rsquo;achat peut coûter significativement plus cher sur deux ou trois ans si ses coûts annexes n&rsquo;ont pas été anticipés.</p>
-
     <h3>Assurance : comparez les devis avant de vous décider</h3>
     <p>Les primes d&rsquo;assurance varient considérablement selon la marque, le modèle, la puissance fiscale et votre profil conducteur. Un modèle sportif ou un SUV premium peut coûter deux à trois fois plus cher à assurer qu&rsquo;une citadine équivalente. Avant de finaliser votre choix de véhicule, comparez les devis sur des comparateurs comme Assurland ou Le Lynx — c&rsquo;est une étape que beaucoup d&rsquo;acheteurs oublient. Les véhicules d&rsquo;occasion bénéficient généralement d&rsquo;une assurance moins chère que le neuf, leur valeur étant déjà dépréciée.</p>
-
     <h3>Coûts d&rsquo;entretien à long terme</h3>
     <p>Renseignez-vous sur les coûts d&rsquo;entretien prévisibles du modèle ciblé avant d&rsquo;acheter. Certains véhicules — notamment les marques premium allemandes — nécessitent des pièces détachées nettement plus onéreuses et des entretiens plus fréquents que les modèles généralistes. Un modèle affichant un prix d&rsquo;achat attractif peut rapidement devenir coûteux si sa courroie de distribution doit être changée (400 à 800 €) ou si son turbo présente des signes de fatigue.</p>
-
     <!-- MINI BANNIÈRE ENTRETIEN -->
     <div class="fleasting-mini">
       <div class="fleasting-mini-icon">🧴</div>
@@ -1173,10 +1089,8 @@ footer a { color: var(--ambre); text-decoration: none; }
         <a href="https://fleasting.com/126-produit-entretien-covering" target="_blank" rel="noopener nofollow" class="fleasting-mini-link">Produits entretien → Fleasting.com</a>
       </div>
     </div>
-
     <h3>Dépréciation : choisir un modèle qui conserve sa valeur</h3>
     <p>Si vous envisagez de revendre le véhicule dans 2 à 4 ans, la dépréciation est un critère de sélection à part entière. Certains modèles conservent bien leur valeur — notamment les SUV compacts et les véhicules hybrides — tandis que d&rsquo;autres se déprécient rapidement.</p>
-
     <div class="table-wrap">
       <table>
         <thead>
@@ -1197,13 +1111,11 @@ footer a { color: var(--ambre); text-decoration: none; }
       </table>
     </div>
   </section>
-
 <!-- SECTION 10 -->
   <section class="section" id="paiement">
     <div class="section-num">10</div>
     <h2>Paiement sécurisé : les bons réflexes</h2>
     <p>Le mode de paiement est souvent négligé alors qu&rsquo;il conditionne votre protection en cas de litige.</p>
-
     <div class="table-wrap">
       <table>
         <thead>
@@ -1237,37 +1149,29 @@ footer a { color: var(--ambre); text-decoration: none; }
         </tbody>
       </table>
     </div>
-
     <div class="callout danger">
       <p><strong>Règle absolue :</strong> N&rsquo;effectuez aucun paiement, même partiel, avant d&rsquo;avoir signé le certificat de cession (Cerfa 15776) et contrôlé l&rsquo;intégralité des documents. Méfiez-vous des vendeurs qui exigent un acompte pour « réserver » le véhicule sans visite préalable.</p>
     </div>
   </section>
-
 <!-- SECTION 11 -->
   <section class="section" id="garanties">
     <div class="section-num">11</div>
     <h2>Financement et garanties : LOA, crédit auto et protection légale</h2>
-
     <h3>Crédit auto, LOA et LLD : quelle solution ?</h3>
     <p>Le crédit auto classique reste la solution la plus répandue. Vous devenez propriétaire immédiatement, les mensualités sont fixes, et le véhicule peut être revendu à tout moment. C&rsquo;est la formule la plus adaptée si vous souhaitez conserver le véhicule plusieurs années.</p>
     <p>La LOA (Location avec Option d&rsquo;Achat) permet de conduire un véhicule moyennant des mensualités réduites, avec la possibilité de l&rsquo;acheter en fin de contrat à un prix fixé à l&rsquo;avance. Cette formule se développe fortement sur le marché de l&rsquo;occasion en 2026, notamment via les plateformes de reconditionnement. La LLD (Location Longue Durée) ne donne pas accès à la propriété du véhicule — peu adaptée à l&rsquo;occasion classique. Comparez systématiquement le coût total de chaque formule sur la durée avant de vous engager.</p>
-
     <h3>Garantie légale des vices cachés (art. 1641 Code civil)</h3>
     <p>Que vous achetiez chez un particulier ou un professionnel, la garantie légale des vices cachés s&rsquo;applique de plein droit. Elle couvre les défauts non apparents au moment de l&rsquo;achat, qui rendent le véhicule impropre à l&rsquo;usage. Vous disposez d&rsquo;un délai de deux ans à compter de la découverte du vice pour agir. En cas de vice caché avéré, vous pouvez demander l&rsquo;annulation de la vente ou une réduction du prix. La preuve du vice caché vous incombe — conservez tous les documents d&rsquo;achat et faites constater le défaut par un professionnel dès sa découverte.</p>
-
     <h3>Garantie commerciale et extension de garantie</h3>
     <p>La garantie légale de conformité de deux ans (L217-4 du Code de la consommation) s&rsquo;impose à tout professionnel. La garantie commerciale est une protection contractuelle supplémentaire — sa durée et son périmètre varient selon les réseaux. Lisez attentivement les conditions générales avant de signer. L&rsquo;extension de garantie peut se justifier sur un véhicule de plus de 5 ans ou affichant un kilométrage élevé.</p>
   </section>
-
 </div><!-- /article-body -->
-
 <!-- CHECKLIST FINALE -->
 <div class="checklist-finale" id="checklist">
   <div class="checklist-finale-inner">
     <span class="section-label">12 — Récapitulatif</span>
     <h2>Checklist récapitulative : les 10 points clés avant de signer</h2>
     <p style="margin-bottom:28px;">Avant de remettre le moindre euro au vendeur, passez en revue ces dix points. Un seul élément manquant ou douteux justifie de ralentir la transaction.</p>
-
     <ul class="checklist">
       <li>
         <div class="chk-num">1</div>
@@ -1342,64 +1246,51 @@ footer a { color: var(--ambre); text-decoration: none; }
     </ul>
   </div>
 </div>
-
 <!-- FAQ -->
 <div class="article-body">
   <section class="faq-section" id="faq">
 <p class="wp-block-paragraph">👉 Si le véhicule qui vous intéresse est électrique, pensez aussi à consulter <a href="https://modeme-automobiles.com/voiture-electrique-doccasion-guide-2026-pour-bien-acheter/">notre guide spécifique pour bien acheter une voiture électrique d'occasion</a>.</p>
-
     <span class="section-label" style="display:block;padding-top:60px;">FAQ</span>
     <h2>Vos questions fréquentes sur l&rsquo;achat d&rsquo;une voiture d&rsquo;occasion</h2>
-
     <div class="faq-item">
       <button class="faq-question" onclick="toggleFaq(this)">Quels documents sont obligatoires pour acheter une voiture d&rsquo;occasion ? <span class="faq-chevron">▾</span></button>
       <div class="faq-answer"><div class="faq-answer-inner">Quatre documents sont obligatoires : la carte grise au nom du vendeur (barrée, datée, signée), le certificat de cession Cerfa 15776 en deux exemplaires, le contrôle technique de moins de 6 mois (ou 2 mois si contre-visite) pour tout véhicule de plus de 4 ans, et le certificat de non-gage. Le rapport HISTOVEC et le carnet d&rsquo;entretien sont fortement recommandés mais non légalement obligatoires.</div></div>
     </div>
-
     <div class="faq-item">
       <button class="faq-question" onclick="toggleFaq(this)">Comment détecter un kilométrage trafiqué ? <span class="faq-chevron">▾</span></button>
       <div class="faq-answer"><div class="faq-answer-inner">Croisez trois sources : l&rsquo;usure physique du véhicule (pédales, volant, sièges, levier de vitesses), les kilométrages notés dans le carnet d&rsquo;entretien, et les relevés du rapport HISTOVEC qui enregistre les kilométrages à chaque contrôle technique. Toute incohérence entre ces trois indicateurs doit vous faire abandonner la transaction.</div></div>
     </div>
-
     <div class="faq-item">
       <button class="faq-question" onclick="toggleFaq(this)">Vaut-il mieux acheter chez un particulier ou un professionnel ? <span class="faq-chevron">▾</span></button>
       <div class="faq-answer"><div class="faq-answer-inner">Chez un particulier : prix plus bas, large marge de négociation, mais protection juridique limitée et inspection à faire soi-même. Chez un professionnel : prix plus élevé, mais garantie légale de conformité de 2 ans (L217-4), documents en ordre, révision avant vente. Pour un primo-acheteur ou quelqu&rsquo;un peu à l&rsquo;aise avec la mécanique, le surcoût du réseau est justifié. L&rsquo;occasion reconditionnée (Aramisauto, CapCar) offre un bon compromis.</div></div>
     </div>
-
     <div class="faq-item">
       <button class="faq-question" onclick="toggleFaq(this)">Qu&rsquo;est-ce que le certificat de non-gage et comment l&rsquo;obtenir ? <span class="faq-chevron">▾</span></button>
       <div class="faq-answer"><div class="faq-answer-inner">Le certificat de non-gage (ou certificat de situation administrative) garantit que le véhicule n&rsquo;est ni gagé (mis en garantie d&rsquo;un crédit), ni volé, ni frappé d&rsquo;une opposition. Il est obtenu gratuitement sur le site du ministère de l&rsquo;Intérieur (histovec.interieur.gouv.fr ou via le numéro d&rsquo;immatriculation). Sa validité est d&rsquo;un mois. Exigez-le systématiquement avant toute transaction.</div></div>
     </div>
-
     <div class="faq-item">
       <button class="faq-question" onclick="toggleFaq(this)">Quelle est la garantie sur une voiture d&rsquo;occasion achetée chez un particulier ? <span class="faq-chevron">▾</span></button>
       <div class="faq-answer"><div class="faq-answer-inner">Chez un particulier, la garantie légale des vices cachés (art. 1641 du Code civil) s&rsquo;applique de plein droit. Elle couvre les défauts non apparents au moment de l&rsquo;achat rendant le véhicule impropre à l&rsquo;usage. Vous disposez de deux ans à compter de la découverte du vice pour agir. En pratique, faire valoir cette garantie est difficile si le vendeur est de mauvaise foi. D&rsquo;où l&rsquo;importance d&rsquo;une inspection sérieuse avant l&rsquo;achat.</div></div>
     </div>
-
     <div class="faq-item">
       <button class="faq-question" onclick="toggleFaq(this)">Quel kilométrage maximum pour une voiture d&rsquo;occasion ? <span class="faq-chevron">▾</span></button>
       <div class="faq-answer"><div class="faq-answer-inner">En règle générale : moins de 150 000 km pour un moteur essence et moins de 200 000 km pour un diesel bien entretenu. Ces seuils correspondent aux paliers où les réparations majeures (distribution, turbo, boîte automatique) deviennent statistiquement plus fréquentes. L&rsquo;entretien régulier et traçable compte autant que le chiffre brut — un véhicule à 180 000 km avec carnet complet vaut mieux qu&rsquo;un 80 000 km sans historique.</div></div>
     </div>
-
     <div class="faq-item">
       <button class="faq-question" onclick="toggleFaq(this)">Peut-on négocier le prix d&rsquo;une voiture d&rsquo;occasion chez un concessionnaire ? <span class="faq-chevron">▾</span></button>
       <div class="faq-answer"><div class="faq-answer-inner">Oui, la marge existe mais elle est plus étroite que chez un particulier. Les leviers efficaces sont : la reprise de votre ancien véhicule (souvent plus négociable que le prix de vente), le paiement comptant, la demande d&rsquo;accessoires ou d&rsquo;extension de garantie inclus dans le prix, et les frais de mise en route (souvent négociables). La fin d&rsquo;année (octobre–décembre) offre les meilleures conditions de négociation.</div></div>
     </div>
-
     <div class="faq-item">
       <button class="faq-question" onclick="toggleFaq(this)">Comment vérifier qu&rsquo;une voiture n&rsquo;a pas été accidentée ? <span class="faq-chevron">▾</span></button>
       <div class="faq-answer"><div class="faq-answer-inner">Plusieurs méthodes complémentaires : examiner les joints et interstices de carrosserie (irrégularités = réparation), vérifier l&rsquo;homogénéité des teintes en plein jour, inspecter les soudures dans le coffre et sous le capot, consulter le rapport HISTOVEC, demander les factures de réparations, et faire appel à un mécanicien indépendant pour une inspection structurelle complète. Les épaves reconstituées peuvent passer l&rsquo;inspection visuelle basique mais sont détectées par un professionnel.</div></div>
     </div>
-
     <p class="nota">Ce guide a été mis à jour en mai 2026. Les données réglementaires, les montants et les outils mentionnés sont susceptibles d&rsquo;évoluer — vérifiez les informations sur les sites officiels avant toute transaction.</p>
   </section>
 </div><!-- /article-body -->
-
 <!-- FOOTER FLEASTING -->
 <div class="fleasting-finale">
   <h2>Votre véhicule acheté,<br>protégez et entretenez-le.</h2>
   <p>Films de protection carrosserie PPF, wrapping vinyle, produits covering et detailing professionnel — tout pour préserver et valoriser votre acquisition sur le long terme.</p>
-
   <div class="produits-grid">
     <div class="produit-card">
       <div class="produit-icon">🛡️</div>
@@ -1422,12 +1313,10 @@ footer a { color: var(--ambre); text-decoration: none; }
       <p>Films pour toutes surfaces</p>
     </div>
   </div>
-
   <div class="finale-btns">
     <a href="https://fleasting.com" target="_blank" rel="noopener nofollow" class="finale-btn">Découvrir Fleasting.com →</a>
     <a href="https://fleasting.com/73-film-protection-carrosserie-" target="_blank" rel="noopener nofollow" class="finale-btn outline">Films PPF →</a>
     <a href="https://fleasting.com/126-produit-entretien-covering" target="_blank" rel="noopener nofollow" class="finale-btn outline">Entretien &#038; detailing →</a>
   </div>
 </div>
-
 <!-- FOOTER -->

@@ -30,11 +30,8 @@ categories: ["Accessoire | équipement"]
     --or-pale: #6a5010;
     --accent: #1a3a5c;
   }
-
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
   html { scroll-behavior: smooth; }
-
   body {
     background: var(--noir);
     color: var(--blanc);
@@ -43,7 +40,6 @@ categories: ["Accessoire | équipement"]
     line-height: 1.7;
     overflow-x: hidden;
   }
-
   /* ─── BARRE TOP ─── */
   .topbar {
     background: var(--rouge);
@@ -56,7 +52,6 @@ categories: ["Accessoire | équipement"]
     color: #fff;
   }
   .topbar a { color: #fff; text-decoration: underline; }
-
   /* ─── HEADER / NAV ─── */
   nav {
     display: flex;
@@ -90,7 +85,6 @@ categories: ["Accessoire | équipement"]
     transition: background 0.2s, transform 0.15s;
   }
   .nav-cta:hover { background: var(--rouge-vif); transform: translateY(-1px); }
-
   /* ─── HERO ─── */
   .hero {
     min-height: 90vh;
@@ -179,7 +173,6 @@ categories: ["Accessoire | équipement"]
     transition: border-color 0.2s, color 0.2s;
   }
   .btn-ghost:hover { color: var(--or); border-color: var(--or); }
-
   .hero-visual {
     position: relative;
     height: 100%;
@@ -212,7 +205,6 @@ categories: ["Accessoire | équipement"]
     background: linear-gradient(to right, var(--noir), transparent);
     pointer-events: none;
   }
-
   /* SVG car scene */
   .car-svg-wrap {
     width: 90%;
@@ -252,7 +244,6 @@ categories: ["Accessoire | équipement"]
     color: var(--gris-clair);
     margin-top: 2px;
   }
-
   /* ─── JUMP LINKS ─── */
   .jump-nav {
     background: var(--gris);
@@ -280,10 +271,8 @@ categories: ["Accessoire | équipement"]
     flex-shrink: 0;
   }
   .jump-link:hover { color: var(--blanc); border-color: var(--rouge); }
-
   /* ─── SECTIONS ─── */
   section { scroll-margin-top: 70px; }
-
   .section-intro {
     padding: 100px 80px 60px;
     max-width: 900px;
@@ -331,7 +320,6 @@ categories: ["Accessoire | équipement"]
   strong { color: var(--blanc); font-weight: 500; }
   ul, ol { padding-left: 1.4em; margin-bottom: 1.2em; color: rgba(26,23,20,0.75); }
   li { margin-bottom: 0.5em; }
-
   /* ─── POURQUOI PROTÉGER ─── */
   #pourquoi { background: var(--noir); }
   .danger-grid {
@@ -354,7 +342,6 @@ categories: ["Accessoire | équipement"]
   }
   .danger-title { font-family: 'Bebas Neue', sans-serif; font-size: 1.3rem; letter-spacing: 0.05em; margin-bottom: 10px; color: var(--blanc); }
   .danger-text { font-size: 0.88rem; color: rgba(26,23,20,0.65); line-height: 1.6; }
-
   .impact-stat {
     margin: 0 80px 60px;
     padding: 40px 48px;
@@ -374,7 +361,6 @@ categories: ["Accessoire | équipement"]
   }
   .impact-desc { font-size: 1rem; color: rgba(26,23,20,0.7); max-width: 500px; }
   .impact-desc strong { color: var(--blanc); display: block; font-size: 1.2rem; margin-bottom: 6px; }
-
   /* ─── PPF ─── */
   #ppf { background: var(--gris); }
   .ppf-hero {
@@ -449,7 +435,6 @@ categories: ["Accessoire | équipement"]
     color: rgba(212,50,28,0.2);
     margin-bottom: 12px;
   }
-
   /* ─── CTA FLEASTING 1 ─── */
   .cta-block {
     background: var(--rouge);
@@ -492,7 +477,6 @@ categories: ["Accessoire | équipement"]
     box-shadow: 0 4px 20px rgba(0,0,0,0.2);
   }
   .btn-white:hover { transform: translateY(-2px); box-shadow: 0 8px 30px rgba(0,0,0,0.3); }
-
   /* ─── COMPARATIF ─── */
   #comparatif { background: var(--noir); padding: 80px; }
   .comp-intro { max-width: 700px; margin-bottom: 60px; }
@@ -533,7 +517,6 @@ categories: ["Accessoire | équipement"]
   .badge-max { background: rgba(212,50,28,0.2); color: var(--rouge); }
   .badge-eleve { background: rgba(201,168,76,0.2); color: var(--or); }
   .badge-base { background: rgba(138,138,138,0.15); color: var(--gris-clair); }
-
   .key-points {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -547,11 +530,9 @@ categories: ["Accessoire | équipement"]
   }
   .kp-icon { font-size: 1.4rem; margin-bottom: 10px; }
   .kp p { font-size: 0.9rem; margin: 0; }
-
   /* ─── TABLEAU COMPLET ─── */
   #tableau { background: var(--gris); padding: 80px; }
   #tableau .table-wrap table { min-width: 900px; }
-
   /* ─── PROFILS USAGE ─── */
   #profils { background: var(--noir); padding: 80px; }
   .profils-grid {
@@ -584,14 +565,12 @@ categories: ["Accessoire | équipement"]
   }
   .profil-reco ul { padding-left: 1.2em; margin: 0; }
   .profil-reco li { font-size: 0.85rem; margin-bottom: 4px; }
-
   /* ─── HOUSSE / PROTECTION PHYSIQUE ─── */
   #housse, #physique, #interieur, #hiver, #ceramique, #lavage { background: var(--noir); padding: 80px; }
   #housse { background: var(--gris); }
   #physique { background: var(--gris); }
   #hiver { background: var(--gris); }
   #lavage { background: var(--gris); }
-
   .content-split {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -600,7 +579,6 @@ categories: ["Accessoire | équipement"]
     margin-top: 48px;
   }
   .content-full { margin-top: 32px; }
-
   /* ─── PRODUITS CARD ─── */
   .produit-grid {
     display: grid;
@@ -630,7 +608,6 @@ categories: ["Accessoire | équipement"]
     color: var(--gris-clair);
     margin-bottom: 16px;
   }
-
   /* ─── PROTOCOLE ─── */
   .protocole {
     counter-reset: step;
@@ -654,7 +631,6 @@ categories: ["Accessoire | équipement"]
   }
   .proto-content h4 { margin-bottom: 6px; }
   .proto-content p { margin: 0; font-size: 0.9rem; }
-
   /* ─── FAQ ─── */
   #faq { background: var(--noir); padding: 80px; }
   .faq-list { margin-top: 48px; max-width: 860px; }
@@ -711,7 +687,6 @@ categories: ["Accessoire | équipement"]
     line-height: 1.75;
   }
   .faq-item.open .faq-a { display: block; }
-
   /* ─── CTA FINAL ─── */
   .cta-final {
     background: var(--gris);
@@ -744,7 +719,6 @@ categories: ["Accessoire | équipement"]
     pointer-events: none;
     line-height: 1;
   }
-
   /* ─── FOOTER ─── */
   footer {
     background: var(--noir);
@@ -767,7 +741,6 @@ categories: ["Accessoire | équipement"]
   .footer-links a { color: var(--gris-clair); font-size: 0.8rem; text-decoration: none; letter-spacing: 0.08em; transition: color 0.2s; }
   .footer-links a:hover { color: var(--blanc); }
   .footer-credit { color: var(--gris-clair); font-size: 0.75rem; }
-
   /* ─── IMAGES ─── */
   .img-section {
     width: 100%;
@@ -865,7 +838,6 @@ categories: ["Accessoire | équipement"]
     color: var(--rouge);
     flex-shrink: 0;
   }
-
   @media (max-width: 680px) {
     .img-grid-2, .img-grid-3 { grid-template-columns: 1fr; }
     .img-grid-2 .img-section, .img-grid-3 .img-section { height: 200px; }
@@ -875,14 +847,12 @@ categories: ["Accessoire | équipement"]
     .internal-link-block { flex-direction: column; gap: 12px; text-align: center; }
     .img-grid-2, .img-grid-3 { margin: 24px 0; }
   }
-
   /* ─── UTILS ─── */
   .divider {
     height: 1px;
     background: rgba(0,0,0,0.08);
     margin: 0;
   }
-
   /* ─── VIDEO ─── */
   .video-wrap {
     margin: 40px 0;
@@ -897,7 +867,6 @@ categories: ["Accessoire | équipement"]
     height: 100%;
     border: none;
   }
-
   /* ─── RESPONSIVE ─── */
   @media (max-width: 1024px) {
     .hero { grid-template-columns: 1fr; min-height: auto; }
@@ -940,7 +909,6 @@ categories: ["Accessoire | équipement"]
     .footer-links { flex-wrap: wrap; gap: 16px; }
     .impact-num { font-size: 3.5rem; }
   }
-
   /* ─── ANIMATIONS ─── */
   @keyframes fadeUp {
     from { opacity: 0; transform: translateY(24px); }
@@ -955,18 +923,15 @@ categories: ["Accessoire | équipement"]
 <div class="topbar">
   🛒 Films PPF, coatings et accessoires 2026 disponibles sur <a href="https://www.fleasting.com" target="_blank" rel="noopener nofollow">Fleasting.com</a> — Livraison France métropolitaine
 </div>
-
 <!-- NAV -->
 <nav>
   <a href="https://modeme-automobiles.com" class="nav-logo">MODEME <span>AUTOMOBILES</span></a>
   <a href="https://www.fleasting.com" target="_blank" rel="noopener nofollow" class="nav-cta">Acheter sur Fleasting →</a>
 </nav>
-
 <!-- HERO -->
 <section class="hero" style="grid-template-columns: 1fr; min-height: auto;">
   <div class="hero-text" style="padding: 80px;">
     <div class="hero-eyebrow">Guide mis à jour 2026 · Protection carrosserie</div>
-    
     <p class="hero-lead">
       Prendre soin d&rsquo;un véhicule ne se limite pas à l&rsquo;entretien mécanique. La carrosserie subit chaque jour des agressions invisibles — gravillons projetés sur autoroute, rayons UV qui oxydent le vernis, sel de déneigement qui attaque les bas de caisse, fientes d&rsquo;oiseaux acides qui brûlent la peinture en quelques heures. Ces dégradations silencieuses finissent par coûter cher : une réparation de peinture complète représente plusieurs centaines, voire plusieurs milliers d&rsquo;euros. Et selon certaines estimations, <strong>une carrosserie mal entretenue peut faire perdre jusqu&rsquo;à 20 % sur la valeur de revente d&rsquo;un véhicule.</strong>
     </p>
@@ -979,7 +944,6 @@ categories: ["Accessoire | équipement"]
     </div>
   </div>
 </section>
-
 <!-- JUMP NAV -->
 <div class="jump-nav">
   <div class="jump-nav-inner">
@@ -998,7 +962,6 @@ categories: ["Accessoire | équipement"]
     <a href="#faq" class="jump-link">FAQ</a>
   </div>
 </div>
-
 <!-- ═══════════════════════════════════════════
      SECTION 1 · POURQUOI PROTÉGER
 ═══════════════════════════════════════════ -->
@@ -1012,7 +975,6 @@ categories: ["Accessoire | équipement"]
     <p>Les <strong>intempéries et agressions chimiques</strong> complètent le tableau : pluie acide, fientes d&rsquo;oiseaux, résine de pin, sel de déneigement en hiver — autant d&rsquo;éléments qui attaquent chimiquement le vernis et peuvent, en quelques heures sans intervention, laisser des traces permanentes.</p>
     <p>Investir dans des accessoires de protection carrosserie n&rsquo;est donc pas une dépense esthétique — c&rsquo;est un <strong>arbitrage économique</strong>. Le coût d&rsquo;un film PPF ou d&rsquo;une housse de qualité reste très inférieur à celui d&rsquo;une remise en peinture partielle ou complète. Et à la revente, une carrosserie bien entretenue justifie un prix sensiblement plus élevé.</p>
   </div>
-
   <div class="danger-grid">
     <div class="danger-card">
       <span class="danger-icon">🪨</span>
@@ -1035,7 +997,6 @@ categories: ["Accessoire | équipement"]
       <p class="danger-text">Une carrosserie mal entretenue peut faire perdre jusqu&rsquo;à 20 % sur la valeur de revente. À l&rsquo;inverse, une carrosserie bien protégée justifie un prix sensiblement plus élevé lors d&rsquo;une transaction.</p>
     </div>
   </div>
-
   <div class="img-banner-wrap" style="margin: 0 80px 48px;">
     <img decoding="async" class="img-banner" src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1400&#038;q=80" alt="Carrosserie automobile protection peinture" loading="lazy" title="">
     <div class="img-banner-overlay">
@@ -1045,7 +1006,6 @@ categories: ["Accessoire | équipement"]
       </div>
     </div>
   </div>
-
   <div class="impact-stat">
     <div class="impact-num">20%</div>
     <div class="impact-desc">
@@ -1054,9 +1014,7 @@ categories: ["Accessoire | équipement"]
     </div>
   </div>
 </section>
-
 <div class="divider"></div>
-
 <!-- ═══════════════════════════════════════════
      SECTION 2 · FILM PPF
 ═══════════════════════════════════════════ -->
@@ -1075,12 +1033,10 @@ categories: ["Accessoire | équipement"]
       <img decoding="async" src="https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=900&#038;q=80" alt="Application film PPF sur capot voiture" style="width:100%; height:100%; object-fit:cover; min-height:480px; display:block;" loading="lazy" title="">
     </div>
   </div>
-
   <div style="padding: 0 80px; margin-bottom: 40px;">
     <div class="section-label">Finitions disponibles</div>
     <h3>PPF mat, brillant ou satiné :<br>quelle finition choisir ?</h3>
   </div>
-
   <div class="finitions-grid">
     <div class="finition-card brillant">
       <span class="finition-badge">Finition #1</span>
@@ -1098,12 +1054,10 @@ categories: ["Accessoire | équipement"]
       <p style="font-size:0.9rem;">Position intermédiaire — adoucit les reflets d&rsquo;une peinture brillante sans aller jusqu&rsquo;au mat total. Très prisé sur les SUV et berlines haut de gamme, il offre un rendu sobre et distinctif.</p>
     </div>
   </div>
-
   <div style="padding: 0 80px; margin-bottom: 32px;">
     <div class="section-label">Pose, entretien &#038; retrait</div>
     <h3>Ce qu&rsquo;il faut savoir avant de poser</h3>
   </div>
-
   <div class="ppf-process">
     <div class="process-step">
       <div class="step-num">01</div>
@@ -1121,12 +1075,10 @@ categories: ["Accessoire | équipement"]
       <p style="font-size:0.9rem;">Chauffez délicatement à 50–60°C (sèche-cheveux ou pistolet thermique), puis décollez lentement à angle plat. Un film correctement posé et retiré laisse la peinture dans son état d&rsquo;origine, même après 7 à 8 ans.</p>
     </div>
   </div>
-
   <div style="padding: 0 80px 80px; margin-top: 40px; background: var(--gris);">
     <a href="https://www.fleasting.com" target="_blank" rel="noopener nofollow" class="btn-primary">Commander votre film PPF sur Fleasting →</a>
   </div>
 </section>
-
 <!-- ═══════════════════════════════════════════
      CTA FLEASTING #1
 ═══════════════════════════════════════════ -->
@@ -1137,7 +1089,6 @@ categories: ["Accessoire | équipement"]
   </div>
 <a href="https://fleasting.com/73-film-protection-carrosserie-" target="_blank" rel="noopener nofollow" class="btn-white">Voir les films PPF sur Fleasting →</a>
 </div>
-
 <!-- ═══════════════════════════════════════════
      SECTION 3 · PPF vs CÉRAMIQUE vs CIRE
 ═══════════════════════════════════════════ -->
@@ -1151,7 +1102,6 @@ categories: ["Accessoire | équipement"]
     <p><strong>La cire protectrice</strong> est la solution d&rsquo;entretien de base. Sa durée de vie est courte (1 à 6 mois), mais son application est simple et son coût minimal.</p>
     <p><strong>La combinaison idéale</strong> pour un véhicule neuf ou récent : PPF sur les zones exposées + coating céramique sur l&rsquo;ensemble de la carrosserie.</p>
   </div>
-
   <div class="table-wrap">
     <table>
       <thead>
@@ -1208,7 +1158,6 @@ categories: ["Accessoire | équipement"]
       </tbody>
     </table>
   </div>
-
   <div class="key-points">
     <div class="kp">
       <div class="kp-icon">🛡️</div>
@@ -1228,7 +1177,6 @@ categories: ["Accessoire | équipement"]
     </div>
   </div>
 </section>
-
 <!-- ═══════════════════════════════════════════
      SECTION 4 · PROFILS D'USAGE
 ═══════════════════════════════════════════ -->
@@ -1236,7 +1184,6 @@ categories: ["Accessoire | équipement"]
   <div class="section-label">Section 04</div>
   <h2>Quel profil d&rsquo;usage<br>pour quel produit ?</h2>
   <p style="max-width:700px; color:rgba(26,23,20,0.72);">Le meilleur accessoire de protection carrosserie est celui qui correspond à votre usage réel, pas au produit le plus cher du catalogue. Voici les recommandations selon les profils les plus courants.</p>
-
   <div class="profils-grid">
     <div class="profil-card">
       <div class="profil-icon">🏙️</div>
@@ -1310,24 +1257,19 @@ categories: ["Accessoire | équipement"]
     </div>
   </div>
 </section>
-
 <div class="divider"></div>
-
 <!-- ═══════════════════════════════════════════
      SECTION 5 · HOUSSE DE PROTECTION
 ═══════════════════════════════════════════ -->
 <section id="housse">
   <div class="section-label">Section 05</div>
   <h2>Housse de protection &#038;<br>bâche voiture</h2>
-
   <div class="content-split">
     <div>
       <p>La housse de protection voiture est souvent le premier réflexe des propriétaires dont le véhicule stationne régulièrement en extérieur. Et pour cause : elle constitue une barrière complète contre les rayons UV, la pluie acide, la poussière, le pollen, les fientes d&rsquo;oiseaux et les micro-rayures causées par les particules en suspension.</p>
       <p>Une housse bien choisie préserve durablement la peinture du capot, des portières et des rétroviseurs — sans contact abrasif avec la carrosserie, à condition que son intérieur soit doublé d&rsquo;un tissu doux non abrasif. Les modèles haut de gamme intègrent une <strong>doublure en microfibre</strong>, la plus douce et la plus protectrice disponible.</p>
-
       <h4 style="margin-top:20px;">Les matériaux disponibles</h4>
       <p style="font-size:0.9rem;">Le <strong>polyester</strong> offre un bon rapport résistance/prix pour un usage extérieur standard. Le <strong>polyéthylène</strong> est plus imperméable mais moins respirant — il peut favoriser la condensation sur les véhicules stationnés longtemps. Le <strong>PVC renforcé</strong> convient aux environnements très exposés (bord de mer, zones industrielles). Dans tous les cas, privilégiez une housse respirante pour éviter l&rsquo;humidité emprisonnée contre la carrosserie.</p>
-
       <h4 style="margin-top:20px;">Critères essentiels de sélection</h4>
       <ul style="font-size:0.9rem;">
         <li>Une perméabilité à l&rsquo;air suffisante</li>
@@ -1337,7 +1279,6 @@ categories: ["Accessoire | équipement"]
         <li>Idéalement une garantie constructeur gage de durabilité</li>
       </ul>
       <p style="font-size:0.9rem;"><strong>Avant de poser la housse</strong>, vérifiez toujours que la carrosserie est propre et sèche — un grain de sable emprisonné sous la housse peut provoquer des micro-rayures en cas de vent.</p>
-
       <!-- LIEN INTERNE : housses de siège -->
       <a href="https://modeme-automobiles.com/comment-choisir-les-meilleures-housses-de-siege-pour-votre-vehicule/" class="internal-link-block" target="_blank" rel="noopener">
         <span class="internal-link-icon">🪑</span>
@@ -1348,12 +1289,10 @@ categories: ["Accessoire | équipement"]
         <span class="internal-link-arrow">→</span>
       </a>
     </div>
-
     <div>
       <h4>Comment choisir selon l&rsquo;environnement de stationnement</h4>
       <p style="font-size:0.9rem;">Une voiture garée sous les arbres sera davantage exposée à la résine et aux fientes d&rsquo;oiseaux — optez pour un modèle imperméable à traitement anti-acide. En bord de mer, l&rsquo;air salin exige une housse avec traitement anti-corrosion renforcé. En zone urbaine polluée, une housse respirante à filtration fine limitera les dépôts de particules fines sur la peinture.</p>
       <p style="font-size:0.9rem;">Le type de véhicule conditionne le format : les berlines et breaks standards trouvent facilement des modèles universels (S, M, L, XL). Les SUV et 4&#215;4 nécessitent des housses spécifiques avec passages de roue adaptés. Les cabriolets demandent une attention particulière à la protection de la capote souple.</p>
-
       <div class="produit-grid" style="grid-template-columns: 1fr; margin-top:16px;">
         <div class="produit-card" style="background:var(--noir);">
           <div style="font-family:'DM Mono',monospace; font-size:0.68rem; letter-spacing:0.15em; text-transform:uppercase; color:var(--gris-clair); margin-bottom:6px;">Entrée de gamme</div>
@@ -1370,7 +1309,6 @@ categories: ["Accessoire | équipement"]
       </div>
     </div>
   </div>
-
   <!-- ENTRETIEN DE LA HOUSSE -->
   <div style="margin-top:60px; padding-top:48px; border-top:1px solid rgba(0,0,0,0.08);">
     <h3>Entretien de la housse</h3>
@@ -1386,7 +1324,6 @@ categories: ["Accessoire | équipement"]
       </div>
     </div>
   </div>
-
   <!-- VIDÉO YOUTUBE -->
   <div style="margin-top:48px;">
     <div style="font-family:'DM Mono',monospace; font-size:0.7rem; letter-spacing:0.18em; text-transform:uppercase; color:var(--rouge); margin-bottom:16px; display:flex; align-items:center; gap:12px;"><span style="display:inline-block; width:24px; height:1px; background:var(--rouge);"></span>Vidéo</div>
@@ -1395,9 +1332,7 @@ categories: ["Accessoire | équipement"]
     </div>
   </div>
 </section>
-
 <div class="divider"></div>
-
 <!-- ═══════════════════════════════════════════
      SECTION 6 · ACCESSOIRES HIVERNAUX
 ═══════════════════════════════════════════ -->
@@ -1405,7 +1340,6 @@ categories: ["Accessoire | équipement"]
   <div class="section-label">Section 06</div>
   <h2>Accessoires hivernaux :<br>gel, sel et grêle</h2>
   <p style="max-width:700px; color:rgba(26,23,20,0.72);">L&rsquo;hiver est la saison la plus agressive pour une carrosserie. Le sel de déneigement attaque chimiquement la peinture, les joints et les bas de caisse en quelques semaines. La grêle peut cribler un capot de dizaines de bosses en quelques minutes.</p>
-
   <div class="content-split" style="margin-top:40px;">
     <div>
       <h4>Avant l&rsquo;hiver : protéger proactivement</h4>
@@ -1437,9 +1371,7 @@ categories: ["Accessoire | équipement"]
     </div>
   </div>
 </section>
-
 <div class="divider"></div>
-
 <!-- ═══════════════════════════════════════════
      SECTION 7 · CÉRAMIQUE & CIRE
 ═══════════════════════════════════════════ -->
@@ -1448,7 +1380,6 @@ categories: ["Accessoire | équipement"]
   <h2>Cire protectrice, sealant<br>&#038; traitement céramique</h2>
   <p style="max-width:700px; color:rgba(26,23,20,0.72);">L&rsquo;entretien chimique de la carrosserie constitue le complément indispensable de toute protection physique. Là où le film PPF protège contre les agressions mécaniques, la cire, le sealant et le traitement céramique créent une barrière chimique sur le vernis. Ces produits ne se substituent pas les uns aux autres : ils correspondent à des niveaux d&rsquo;exigence, de budget et de durabilité différents.</p>
   <p style="max-width:700px; color:rgba(26,23,20,0.72);">Ce qu&rsquo;ils ont en commun : tous doivent être appliqués sur une carrosserie <strong>parfaitement propre et décontaminée</strong>. Un passage au clay bar (gomme de décontamination) avant application est recommandé pour les véhicules qui n&rsquo;ont pas été traités depuis plus d&rsquo;un an. Les marques de référence : Meguiar&rsquo;s, Chemical Guys, Gyeon et Auto Finesse.</p>
-
   <div class="content-split" style="margin-top:40px;">
     <div>
       <h4>Les familles de produits</h4>
@@ -1456,7 +1387,6 @@ categories: ["Accessoire | équipement"]
       <p style="font-size:0.9rem;"><strong>Cire synthétique</strong> (à base de polymères acryliques) : durabilité nettement supérieure — <strong>3 à 6 mois</strong> selon les formulations. Application plus simple et essuyage plus facile que la carnauba. Les quick wax en spray (Meguiar&rsquo;s Ultimate Quick Wax, Chemical Guys Speed Wipe) permettent une application rapide entre deux lavages complets pour maintenir la protection active.</p>
       <p style="font-size:0.9rem;"><strong>Traitement céramique SiO2 :</strong> sa liaison chimique avec le vernis crée une couche vitreuse ultra-dure, hydrophobe et résistante aux UV pendant <strong>2 à 5 ans</strong>. Gyeon Q2M Wetcoat ou Meguiar&rsquo;s Ceramic Wax rendent cette technologie accessible au DIY, tandis que les coatings professionnels (Gyeon Q2, CarPro CQuartz) nécessitent l&rsquo;intervention d&rsquo;un detailer certifié.</p>
       <p style="font-size:0.9rem;"><strong>Coating graphène :</strong> la technologie la plus récente. Il combine les propriétés de la céramique avec une résistance thermique et chimique supérieure — particulièrement adapté aux véhicules exposés à des variations de température importantes ou stationnés en plein soleil.</p>
-
       <h4 style="margin-top:28px;">Fréquences d&rsquo;application recommandées</h4>
       <div class="produit-grid" style="grid-template-columns:1fr; margin-top:16px;">
         <div class="produit-card" style="background:var(--noir);">
@@ -1473,7 +1403,6 @@ categories: ["Accessoire | équipement"]
         </div>
       </div>
     </div>
-
     <div>
       <h4>Protocole d&rsquo;application en 5 étapes</h4>
       <div class="protocole">
@@ -1516,14 +1445,12 @@ categories: ["Accessoire | équipement"]
     </div>
   </div>
 </section>
-
 <!-- ═══════════════════════════════════════════
      SECTION 8 · PROTECTIONS PHYSIQUES
 ═══════════════════════════════════════════ -->
 <section id="physique">
   <div class="section-label">Section 08</div>
   <h2>Pare-chocs, baguettes<br>&#038; bavettes</h2>
-
   <div class="content-split">
     <div>
       <p>Les protections physiques additionnelles — baguettes latérales, butoirs de portières, protections de pare-chocs et bavettes — constituent la première ligne de défense contre les chocs mécaniques du quotidien. Leur rôle : absorber ou dévier l&rsquo;impact avant qu&rsquo;il n&rsquo;atteigne la carrosserie.</p>
@@ -1554,7 +1481,6 @@ categories: ["Accessoire | équipement"]
       </div>
     </div>
   </div>
-
   <!-- ENTRETIEN PROTECTIONS PHYSIQUES -->
   <div style="margin-top:48px; padding-top:40px; border-top:1px solid rgba(0,0,0,0.08);">
     <h3>Entretien des protections physiques</h3>
@@ -1563,16 +1489,13 @@ categories: ["Accessoire | équipement"]
     <p>Pour les bavettes, vérifiez les fixations vissées (si présentes) à chaque saison — les vibrations de la route peuvent progressivement desserrer les attaches, entraînant un claquement contre la carrosserie à haute vitesse.</p>
   </div>
 </section>
-
 <div class="divider"></div>
-
 <!-- ═══════════════════════════════════════════
      SECTION 9 · INTÉRIEUR
 ═══════════════════════════════════════════ -->
 <section id="interieur">
   <div class="section-label">Section 09</div>
   <h2>Tapis de coffre, seuils<br>&#038; protections intérieures</h2>
-
   <div class="content-split">
     <div>
       <p>La protection ne s&rsquo;arrête pas à la carrosserie extérieure. L&rsquo;habitacle et le coffre subissent une usure quotidienne qui dégrade la valeur du véhicule à la revente — taches, abrasions, rayures sur les seuils de chargement.</p>
@@ -1597,7 +1520,6 @@ categories: ["Accessoire | équipement"]
       <h4>Seuils de chargement</h4>
       <p style="font-size:0.9rem;">Le seuil est la zone la plus exposée aux rayures lors du chargement et déchargement du coffre. Les protections en inox brossé ou en plastique renforcé se posent par simple adhésif double face et préservent cette zone visible dès l&rsquo;ouverture du hayon — un détail qui compte beaucoup lors d&rsquo;une inspection à la revente.</p>
       <p style="font-size:0.9rem;">Les tapis de sol avant et arrière complètent le dispositif en protégeant la moquette des bottes boueuses, de la neige fondue et des projections d&rsquo;eau. Leur remplacement régulier est bien moins coûteux qu&rsquo;une remise en état de la moquette d&rsquo;origine.</p>
-
       <h4 style="margin-top:24px;">Pare-soleil &#038; déflecteurs de fenêtre</h4>
       <p style="font-size:0.9rem;">Un véhicule stationné en plein soleil sans protection atteint rapidement <strong>60 à 80°C intérieur</strong> en été. À ces températures, les matériaux se dégradent prématurément : le tableau de bord se fissure, la sellerie perd son élasticité, les systèmes électroniques subissent des surchauffes répétées.</p>
       <p style="font-size:0.9rem;">Le <strong>pare-soleil</strong> positionné derrière le pare-brise maintient une température jusqu&rsquo;à <strong>15–20°C plus basse</strong>. Choisissez un modèle adapté aux dimensions exactes de votre pare-brise — les modèles universels laissent souvent des zones exposées sur les côtés. Les modèles à double face (argentée côté extérieur pour réfléchir la chaleur, noire côté intérieur) offrent les meilleures performances thermiques.</p>
@@ -1626,7 +1548,6 @@ categories: ["Accessoire | équipement"]
       </div>
     </div>
   </div>
-
   <!-- ENTRETIEN TAPIS ET SEUILS -->
   <div style="margin-top:60px; padding-top:40px; border-top:1px solid rgba(0,0,0,0.08);">
     <h3>Entretien des tapis et seuils de coffre</h3>
@@ -1642,7 +1563,6 @@ categories: ["Accessoire | équipement"]
     </div>
   </div>
 </section>
-
 <!-- ═══════════════════════════════════════════
      SECTION 10 · ROUTINE D'ENTRETIEN
 ═══════════════════════════════════════════ -->
@@ -1650,7 +1570,6 @@ categories: ["Accessoire | équipement"]
   <div class="section-label">Section 10</div>
   <h2>Kit lavage &#038; routine<br>d&rsquo;entretien carrosserie</h2>
   <p style="max-width:700px; color:rgba(26,23,20,0.72);">Une routine bien construite ne demande pas plus de <strong>30 à 45 minutes par mois</strong> pour maintenir une carrosserie en excellent état. Un kit de base comprend : shampoing pH neutre, gant microfibre, seau avec grille anti-saleté, microfibre de séchage, applicateur de cire et chiffon de lustrage (30 à 80€).</p>
-
   <div class="img-banner-wrap" style="margin: 32px 0 48px;">
     <img decoding="async" class="img-banner" src="https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?w=1400&#038;q=80" alt="Lavage voiture à la main gant microfibre méthode deux seaux" loading="lazy" title="">
     <div class="img-banner-overlay">
@@ -1660,7 +1579,6 @@ categories: ["Accessoire | équipement"]
       </div>
     </div>
   </div>
-
   <div class="protocole" style="margin-top:0; max-width:800px;">
     <div class="proto-step">
       <div class="proto-num">1</div>
@@ -1713,7 +1631,6 @@ categories: ["Accessoire | équipement"]
     </div>
   </div>
 </section>
-
 <!-- ═══════════════════════════════════════════
      SECTION 10b · QUELS AVANTAGES
 ═══════════════════════════════════════════ -->
@@ -1721,7 +1638,6 @@ categories: ["Accessoire | équipement"]
   <div class="section-label">Section 10b</div>
   <h2>Quels avantages offrent<br>ces protections ?</h2>
   <p style="max-width:760px; color:rgba(26,23,20,0.72);">Choisir les bons accessoires de protection carrosserie permet non seulement de préserver l&rsquo;esthétique de votre voiture, mais aussi de <strong>réduire considérablement les frais d&rsquo;entretien à long terme</strong>. Un entretien carrosserie sérieux commence par un équipement adapté, associé à des gestes réguliers.</p>
-
   <div class="key-points" style="margin-top:48px;">
     <div class="kp">
       <div class="kp-icon">🛡️</div>
@@ -1745,7 +1661,6 @@ categories: ["Accessoire | équipement"]
     </div>
   </div>
 </section>
-
 <!-- ═══════════════════════════════════════════
      SECTION 11 · COMPARATIF PRIX COMPLET
 ═══════════════════════════════════════════ -->
@@ -1753,7 +1668,6 @@ categories: ["Accessoire | équipement"]
   <div class="section-label">Section 11</div>
   <h2>Comparatif prix &#038; durée de vie<br>de tous les accessoires — 2026</h2>
   <p style="max-width:700px; color:rgba(26,23,20,0.72); margin-bottom:48px;">Investir dans la protection carrosserie représente un coût maîtrisé comparé aux tarifs d&rsquo;une réparation peinture complète — entre <strong>800 et 3 000€</strong> pour une remise en peinture partielle chez un carrossier professionnel. Tarifs indicatifs mis à jour 2026.</p>
-
   <div class="table-wrap">
     <table>
       <thead>
@@ -1874,7 +1788,6 @@ categories: ["Accessoire | équipement"]
       </tbody>
     </table>
   </div>
-
   <div class="impact-stat" style="margin: 0 0 0; border-left-color: var(--or);">
     <div class="impact-num" style="color:var(--or);">1 500€</div>
     <div class="impact-desc">
@@ -1883,18 +1796,14 @@ categories: ["Accessoire | équipement"]
     </div>
   </div>
 </section>
-
 <!-- ═══════════════════════════════════════════
      SECTION 12 · FAQ
 ═══════════════════════════════════════════ -->
 <section id="faq">
   <div class="section-label">Section 12</div>
   <p class="wp-block-paragraph">👉 Envie de confort et de style en plus de la protection ? Consultez aussi <a href="https://modeme-automobiles.com/accessoire-voiture-homme-les-indispensables-pour-un-voyage-plus-confortable-et-style/">notre sélection d&rsquo;accessoires indispensables pour voyager confortablement</a>.</p>
-
 <p class="wp-block-paragraph">👉 Si votre carrosserie a déjà subi des dommages (rayures, petits impacts), découvrez aussi <a href="https://modeme-automobiles.com/comment-reparer-votre-carrosserie-de-voiture-avec-la-resine-epoxy/">comment réparer votre carrosserie avec la résine époxy</a>.</p>
-
 <h2>Questions fréquentes sur<br>la protection carrosserie 2026</h2>
-
   <div class="faq-list">
     <div class="faq-item">
       <button class="faq-q"><span class="faq-q-text">Quel est le meilleur accessoire pour protéger la carrosserie de sa voiture ?</span> <span class="faq-arrow">+</span></button>
@@ -1946,7 +1855,6 @@ categories: ["Accessoire | équipement"]
     </div>
   </div>
 </section>
-
 <!-- ═══════════════════════════════════════════
      CTA FINAL
 ═══════════════════════════════════════════ -->
@@ -1957,5 +1865,4 @@ categories: ["Accessoire | équipement"]
   <a href="https://www.fleasting.com" target="_blank" rel="noopener nofollow" class="btn-primary" style="font-size:1rem; padding:20px 48px;">Acheter sur Fleasting.com →</a>
   <div class="fleasting-logo-big">FLEASTING</div>
 </div>
-
 <!-- FOOTER -->
