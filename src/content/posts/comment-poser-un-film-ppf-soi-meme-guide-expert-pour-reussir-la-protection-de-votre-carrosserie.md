@@ -43,7 +43,7 @@ categories: ["Accessoire | équipement"]
 
 <p class="wp-block-paragraph">La réponse dépend de l'usage du véhicule, de son kilométrage annuel et du budget disponible. Une <strong>protection partielle</strong> — bloc avant (capot, pare-chocs, phares, ailes avant, rétroviseurs) — couvre les zones statistiquement les plus exposées pour un coût contenu : les tarifs démarrent autour de <strong>500 €</strong> pour pare-chocs + phares + rétroviseurs, et autour de <strong>1 500 €</strong> pour un kit frontal complet. Une <strong>protection totale</strong> (full body) oscille généralement entre <strong>4 000 et 7 000 €</strong> selon la complexité du modèle et la marque du film. Le prix au mètre carré de film se situe entre 80 et 100 € hors pose — en posant soi-même, c'est cette seule dépense qui reste, le reste du budget (main d'œuvre) étant économisé.</p>
 
-<h2 class="wp-block-heading">Les outils indispensables pour la pose</h2>
+<h2 class="wp-block-heading">Les outils indispensables pour la pose du film PPF</h2>
 
 <ul class="wp-block-list">
 <li><strong>Raclette souple</strong> : indispensable pour éliminer l'eau et éviter la formation de bulles sous le film.</li>
@@ -53,7 +53,7 @@ categories: ["Accessoire | équipement"]
 <li><strong>Spray dégraissant spécifique / alcool isopropylique</strong> : incontournable pour une préparation de surface irréprochable.</li>
 </ul>
 
-<h2 class="wp-block-heading">Préparer la carrosserie avant la pose</h2>
+<h2 class="wp-block-heading">Préparer la carrosserie avant la pose du PPF</h2>
 
 <p class="wp-block-paragraph">Une bonne préparation est la condition d'une pose réussie. Commencez par laver soigneusement le véhicule avec un shampoing automobile adapté, puis rincez abondamment. L'étape suivante est le <strong>dégraissage</strong> : utilisez de l'<strong>alcool isopropylique</strong> dilué pour éliminer toute trace de cire, d'huile ou de résidu chimique — c'est le produit de référence des installateurs professionnels, plus fiable qu'un dégraissant générique. Une argile de décontamination permet de retirer les particules incrustées et les dépôts ferreux. Séchez avec un chiffon microfibre neuf et vérifiez qu'aucun éclat ou imperfection n'est visible avant la pose : corriger les microrayures profondes assure un rendu homogène une fois le film appliqué.</p>
 
@@ -87,7 +87,7 @@ categories: ["Accessoire | équipement"]
 
 <p class="wp-block-paragraph">La pose terminée, le film PPF entre dans une phase de <strong>polymérisation</strong> — l'adhésif crée progressivement un lien durable avec la peinture. Cette phase dure entre <strong>7 et 10 jours</strong>, selon la température ambiante, l'humidité et la marque du film. Évitez tout lavage pendant les 7 premiers jours : un nettoyage prématuré risque de provoquer un décollement partiel sur les bords ou des infiltrations d'eau. Si des petites bulles d'eau apparaissent, pas d'inquiétude : elles disparaissent naturellement à mesure que l'adhésif sèche. Évitez aussi de garer le véhicule en plein soleil prolongé durant cette semaine — la chaleur excessive peut fragiliser les bords avant stabilisation complète.</p>
 
-<h2 class="wp-block-heading">Erreurs courantes à éviter lors de la pose</h2>
+<h2 class="wp-block-heading">Erreurs courantes à éviter lors de la pose du PPF</h2>
 
 <p class="wp-block-paragraph">La <strong>pose PPF</strong> ne tolère pas l'approximation. Les erreurs les plus fréquentes :</p>
 
