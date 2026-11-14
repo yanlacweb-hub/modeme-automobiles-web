@@ -37,6 +37,8 @@ categories: ["Accessoire | équipement"]
 
 <p class="wp-block-paragraph">Les études indépendantes réalisées en laboratoire démontrent que les <strong>casques intégraux</strong> absorbent mieux l'énergie d'impact et répartissent plus efficacement les forces en cas d'accident, grâce à l'absence de charnières et à la continuité de la coque (ABS, carbone ou composite). Les <strong>casques modulables</strong> récents limitent aussi la déformation grâce à des systèmes de verrouillage robustes ; dans certaines situations extrêmes, la séparation possible de la mentonnière reste un point légèrement vulnérable, mais ce phénomène est rare sur les modèles bien conçus (Scorpion, Shark, HJC).</p>
 
+<figure class="wp-block-image"><img decoding="async" loading="lazy" src="/wp-content/uploads/2025/07/casque-motard-noir.jpg" alt="casque moto noir integral" title=""></figure>
+
 <figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th><strong>Type de casque</strong></th><th><strong>Structure</strong></th><th><strong>Mentonnière</strong></th><th><strong>Homologation</strong></th><th><strong>Niveau de protection global</strong></th></tr></thead><tbody><tr><td>Casque intégral</td><td>Monobloc</td><td>Fixe</td><td>ECE 22.06 (P)</td><td>Très élevé</td></tr><tr><td>Casque modulable</td><td>Articulée</td><td>Relevable</td><td>ECE 22.06 (P/J possible)</td><td>Élevé à très élevé (selon modèle)</td></tr></tbody></table></figure>
 
 <h3 class="wp-block-heading">Casque jet et demi-jet: confort urbain et légèreté</h3>

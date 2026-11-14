@@ -45,6 +45,8 @@ categories: ["Entretien & Mecanique"]
 
 <p class="wp-block-paragraph">L&rsquo;un des principaux avantages du nettoyage moteur est la&nbsp;<strong>prévention de l&rsquo;encrassement</strong>. En effet, ces dépôts peuvent obstruer les conduits d&rsquo;admission, dérégler le système d&rsquo;injection, ou provoquer des dysfonctionnements du turbo ou de la vanne EGR. Un entretien régulier permet de limiter ces problèmes, garantissant ainsi une meilleure santé mécanique à long terme, notamment en maintenant le bon fonctionnement du moteur diesel, du filtre à particules (FAP), et du catalyseur.</p>
 
+<figure class="wp-block-image"><img decoding="async" loading="lazy" src="/wp-content/uploads/2023/01/picture-nettoyer-raisons.jpg" alt="nettoyage moteur decalaminage" title=""></figure>
+
 
 
 <h3 class="wp-block-heading">Amélioration des performances du moteur</h3>
@@ -120,6 +122,8 @@ categories: ["Entretien & Mecanique"]
 
 
 <p class="wp-block-paragraph">Un bon entretien ne se limite pas seulement au nettoyage moteur. Pour assurer la durabilité et les performances de votre véhicule, il est crucial d&rsquo;adopter une&nbsp;<strong>routine complète</strong>&nbsp;incluant le contrôle du niveau d&rsquo;huile, du liquide de refroidissement, ainsi que de l&rsquo;état des filtres (comme le filtre à air et le filtre à particules (FAP)) et du système d&rsquo;injection. Un suivi régulier de ces éléments contribue à maintenir le bon fonctionnement du moteur diesel ou moteur essence, tout en réduisant les risques de panne prématurée et en optimisant les performances du véhicule.</p>
+
+<figure class="wp-block-image"><img decoding="async" loading="lazy" src="/wp-content/uploads/2025/02/inspection-voiture-scaled.jpg" alt="inspection moteur sous le capot" title=""></figure>
 
 
 
