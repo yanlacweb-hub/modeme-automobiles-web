@@ -426,9 +426,9 @@ tbody td:first-child {
   margin: 0 auto;
   padding: 0 24px;
 }
-.section-dark h2 { color: #f5f2ed; }
-.section-dark h3 { color: #e8e3dc; border-color: #444; }
-.section-dark p { color: #c8c2ba; }
+.section-dark h2 { color: #f5f2ed !important; }
+.section-dark h3 { color: #e8e3dc !important; border-color: #444; }
+.section-dark p { color: #c8c2ba !important; }
 .section-dark .table-wrap { box-shadow: none; }
 .section-dark table { background: #363636; }
 .section-dark thead { background: var(--ambre); }
