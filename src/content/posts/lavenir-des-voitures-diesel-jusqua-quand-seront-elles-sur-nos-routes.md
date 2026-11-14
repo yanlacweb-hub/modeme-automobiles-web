@@ -882,6 +882,10 @@ footer a { color: var(--ambre); text-decoration: none; }
   <section class="section" id="rentabilite">
     <span class="section-label">04 — Profils</span>
     <h2>Le diesel en 2026 : pour qui est-il encore rentable ?</h2>
+    <div class="video-label">▶ Vidéo — Acheter une voiture diesel aujourd'hui : fausse bonne idée ?</div>
+    <div class="video-responsive">
+      <iframe src="https://www.youtube.com/embed/vatqgGVTLqk" title="Acheter une voiture diesel? Fausse bonne idée?" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
     <h3>Le profil gros rouleur : à partir de combien de km le diesel gagne</h3>
     <p><strong>Le diesel devient rentable à partir de 20 000 km/an</strong>, à condition que ces kilomètres soient majoritairement parcourus sur route ou autoroute. Au-delà de 25 000 km/an sur voies rapides, le calcul penche clairement en faveur du diesel : autonomie fréquente de 800 km par plein, couple élevé à bas régime, consommation maîtrisée là où les hybrides et électriques sont le moins efficaces. Les SUV, berlines, breaks et utilitaires légers s&rsquo;y prêtent particulièrement bien.</p>
     <figure class="article-img">
