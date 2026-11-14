@@ -831,6 +831,8 @@ footer a { color: var(--ambre); text-decoration: none; }
   <section class="section" id="comparatif">
     <span class="section-label">01 — Le calcul</span>
     <h2>Diesel ou essence : le comparatif chiffré pour décider</h2>
+
+    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1200" height="800" src="/images/articles/diesel-2026/pompe-essence-diesel.jpg" alt="Pompe à carburant essence et diesel dans une station-service en ville"></figure>
     <p class="lead-text">Choisir entre diesel et essence en 2026, ce n&rsquo;est plus une question de goût ou d&rsquo;habitude. C&rsquo;est un calcul. Consommation réelle, coût au kilomètre, décote à la revente, accès aux ZFE — quatre variables qui, selon votre profil, font pencher la balance d&rsquo;un côté ou de l&rsquo;autre.</p>
 
     <h3>Consommation et coût au kilomètre : l&rsquo;écart réel</h3>
@@ -1026,22 +1028,26 @@ footer a { color: var(--ambre); text-decoration: none; }
     <h2>ZFE et normes Euro : ce qui change concrètement pour votre diesel</h2>
     <p>Les zones à faibles émissions concernent aujourd&rsquo;hui <strong>onze agglomérations françaises</strong> : Paris, Lyon, Bordeaux, Strasbourg, Grenoble, et d&rsquo;autres. Les diesels sont les premiers touchés par leurs émissions de NOx et particules fines plus élevées que les motorisations essence récentes.</p>
 
+    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1200" height="800" src="/images/articles/diesel-2026/zfe-rue-urbaine.jpg" alt="Rue urbaine avec panneau de restriction de circulation en zone à faibles émissions"></figure>
+
     <h3>Calendrier des restrictions par ville en 2026</h3>
     <div class="table-wrap">
       <table>
         <thead><tr><th>Agglomération</th><th>Crit&rsquo;Air 3 (diesel Euro 5)</th><th>Crit&rsquo;Air 2 (diesel Euro 6)</th><th>Statut verbalisation</th></tr></thead>
         <tbody>
           <tr><td>Paris — Grand Paris</td><td>Exclu en journée</td><td>Autorisé</td><td>Pédagogique jusqu&rsquo;à déc. 2026</td></tr>
-          <tr><td>Lyon</td><td>Interdit dès juillet 2026</td><td>Autorisé</td><td><strong style="color:var(--essence)">Verbalisation active dès juil. 2026</strong></td></tr>
-          <tr><td>Grenoble</td><td>Exclu</td><td>Autorisé</td><td>Verbalisation active</td></tr>
+          <tr><td>Lyon</td><td>Interdit dès juillet 2026</td><td>Autorisé</td><td><strong style="color:var(--essence)">Verbalisation active dès juil. 2026</strong> (68 € voiture / 135 € PL)</td></tr>
+          <tr><td>Grenoble</td><td>Exclu</td><td>Autorisé</td><td>Interdit depuis janv. 2025, mais verbalisation suspendue jusqu&rsquo;au 30 juin 2027</td></tr>
           <tr><td>Strasbourg</td><td>Exclu</td><td>Autorisé</td><td>Période pédagogique en cours</td></tr>
           <tr><td>Bordeaux</td><td>Exclu</td><td>Autorisé</td><td>Période pédagogique en cours</td></tr>
+          <tr><td>Marseille</td><td>Autorisé (centre-ville only)</td><td>Autorisé</td><td>ZFE limitée au centre-ville, seuls Crit&rsquo;Air 4/5 exclus</td></tr>
+          <tr><td>Nice</td><td>Autorisé</td><td>Autorisé</td><td>Depuis avril 2025, ne concerne plus les voitures particulières (seulement PL/bus/autocars)</td></tr>
           <tr><td>Autres métropoles</td><td>Variable</td><td>Autorisé</td><td>Consulter site ZFE local</td></tr>
         </tbody>
       </table>
     </div>
     <div class="callout danger">
-      <p>L&rsquo;Assemblée nationale a voté en mai 2025 une disposition visant à supprimer les ZFE, mais la Métropole du Grand Paris a maintenu son dispositif pour toute l&rsquo;année 2026. La commission mixte paritaire doit encore statuer. <strong>Vérifiez votre situation localement avant tout achat ou revente.</strong></p>
+      <p>Le Parlement a voté la suppression des ZFE au printemps 2026, mais le <strong>Conseil constitutionnel a censuré cette mesure le 21 mai 2026</strong> pour un motif de procédure (cavalier législatif). Les ZFE restent donc pleinement en vigueur, et rien n&rsquo;exclut qu&rsquo;une nouvelle tentative législative soit déposée. <strong>Vérifiez votre situation localement avant tout achat ou revente.</strong></p>
     </div>
 
     <h3>Euro 7 en novembre 2026 : ce que ça change</h3>
@@ -1060,6 +1066,8 @@ footer a { color: var(--ambre); text-decoration: none; }
   <section class="section" id="fiscalite">
     <span class="section-label">07 — Fiscalité</span>
     <h2>Fiscalité automobile 2026 : malus, bonus et impact sur votre choix</h2>
+
+    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="/wp-content/uploads/2025/02/pompe-gasoil-1024x682.jpg" alt="pompe gasoil"></figure>
 
     <h3>Le malus écologique : qui est touché</h3>
     <p>Le malus écologique frappe dès <strong>117 g/km de CO2</strong> en 2026. Le diesel est davantage concerné : de nombreux modèles dépassent ce seuil, notamment les SUV et berlines de grosse cylindrée. L&rsquo;essence compacte ou micro-hybridée échappe à la majorité des pénalités.</p>
@@ -1251,6 +1259,8 @@ footer a { color: var(--ambre); text-decoration: none; }
   <section class="section" id="vendre">
     <span class="section-label">12 — Stratégie revente</span>
     <h2>Quand et comment vendre son diesel : stratégies concrètes</h2>
+
+    <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/02/voiture-parking-1024x683.jpg" alt="voiture parking"></figure>
     <p>La fenêtre pour valoriser son véhicule diesel se referme progressivement. Attendre 2030 ou 2035 pour agir, c&rsquo;est prendre le risque de se retrouver avec une voiture dépréciée, exclue des ZFE, et difficile à revendre. <strong>La bonne stratégie consiste à anticiper.</strong></p>
 
     <h3>Neuf ou occasion : ce que ça change pour un diesel en 2026</h3>
