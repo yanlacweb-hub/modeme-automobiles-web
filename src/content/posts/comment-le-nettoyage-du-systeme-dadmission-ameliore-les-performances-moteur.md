@@ -167,7 +167,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Pour en savoir plus sur les raisons essentielles de nettoyer votre moteur et maximiser ses performances, consultez notre guide détaillé : <a href="https://modeme-automobiles.com/4-bonnes-raisons-de-faire-nettoyer-votre-moteur/">4 bonnes raisons de faire nettoyer votre moteur</a></p>
+<p class="wp-block-paragraph">Pour en savoir plus sur les raisons essentielles de nettoyer votre moteur et maximiser ses performances, consultez notre guide détaillé : <a href="https://modeme-automobiles.com/les-avantages-du-nettoyage-moteur-pourquoi-et-quand-le-realiser/">nettoyage moteur : pourquoi, quand et comment le faire</a></p>
 
 
 <div class="wp-block-image">

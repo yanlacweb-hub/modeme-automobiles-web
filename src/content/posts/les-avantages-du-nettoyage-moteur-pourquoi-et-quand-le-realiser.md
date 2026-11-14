@@ -97,6 +97,12 @@ categories: ["Entretien & Mecanique"]
 
 
 
+<h2 class="wp-block-heading">Le décalaminage par hydrogène : une alternative écologique</h2>
+
+<p class="wp-block-paragraph">En complément du nettoyage chimique ou manuel, le <strong>décalaminage par hydrogène</strong> est une technique de dépollution efficace. Ce procédé consiste à éliminer toute trace de calamine et de résidus de gasoil, d'hydrocarbures et de suie qui encrassent le catalyseur, la vanne EGR, le turbo, les injecteurs et la chambre de combustion, grâce à une injection d'hydrogène. Cette méthode, proposée par des spécialistes comme <a href="https://www.hydromotors.fr/" target="_blank" rel="noopener">Hydromotors</a>, est écologique et ne cause aucun dégât au moteur contrairement aux produits chimiques agressifs — elle n'altère pas les composants sensibles comme la culasse ou le système d'allumage. La calamine est ensuite évacuée via l'échappement, réduisant la formation de fumées polluantes.</p>
+
+<p class="wp-block-paragraph">⚠️ Le décalaminage par hydrogène doit être réalisé par un garagiste qualifié, car un nettoyage incorrect pourrait affecter le calculateur et la gestion électronique du moteur.</p>
+
 <h2 class="wp-block-heading">L&rsquo;entretien des freins : un élément clé pour la performance moteur</h2>
 
 
@@ -254,6 +260,10 @@ categories: ["Entretien & Mecanique"]
 
 
 <p class="wp-block-paragraph">👉 Pour un focus spécifique sur le système d'admission (décalaminage, injecteurs), consultez aussi <a href="https://modeme-automobiles.com/comment-le-nettoyage-du-systeme-dadmission-ameliore-les-performances-moteur/">notre guide détaillé sur le nettoyage du système d'admission</a>.</p>
+
+<h2 class="wp-block-heading">Un moteur propre pour mieux revendre son véhicule</h2>
+
+<p class="wp-block-paragraph">Si vous envisagez de vendre votre voiture, un nettoyage moteur avant la mise en vente peut <strong>augmenter significativement sa valeur</strong>. Un moteur propre est perçu comme un signe de bon entretien, ce qui rassure les acheteurs potentiels — lors d'une inspection, ils ont généralement le réflexe de vérifier sous le capot. À l'inverse, un moteur encrassé, avec des dépôts visibles ou des traces de fuites, peut laisser penser que l'entretien a été négligé et faire baisser le prix de vente. Avant une vente, un passage chez un garagiste pour un nettoyage en profondeur ou un décalaminage est un bon investissement pour conclure plus facilement la transaction.</p>
 
 <h2 class="wp-block-heading">FAQ sur le nettoyage moteur automobile</h2>
 
