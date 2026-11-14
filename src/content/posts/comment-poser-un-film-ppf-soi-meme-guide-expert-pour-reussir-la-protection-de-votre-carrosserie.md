@@ -61,6 +61,8 @@ categories: ["Accessoire | équipement"]
 
 <p class="wp-block-paragraph">La température et l'humidité de la pièce comptent aussi : il est recommandé d'opérer entre <strong>18°C et 24°C</strong>, à l'abri du vent et des projections, en limitant l'exposition aux rayons UV directs. Une carrosserie froide ou un local mal ventilé modifie le comportement du film et complique son adhésion.</p>
 
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2026/01/ChatGPT-Image-13-nov.-2025-11_48_54-1024x683.png" alt="Application film protection carrosserie" class="wp-image-2925" srcset="/wp-content/uploads/2026/01/ChatGPT-Image-13-nov.-2025-11_48_54-1024x683.png 1024w, /wp-content/uploads/2026/01/ChatGPT-Image-13-nov.-2025-11_48_54-300x200.png 300w, /wp-content/uploads/2026/01/ChatGPT-Image-13-nov.-2025-11_48_54-768x512.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
 <h2 class="wp-block-heading">Étapes pour poser le film PPF soi-même</h2>
 
 <p class="wp-block-paragraph">L'utilisation d'un lubrifiant de pose comme le <a href="https://fleasting.com/produit-entretien-covering/291-gyeon-q2m-ppf-slip-1000ml-lubrifiant-pose-films.html" target="_blank" rel="noopener"><strong>GYEON Q²M PPF Slip</strong></a> simplifie considérablement l'application, en évitant la formation de bulles d'air et en assurant une adhésion parfaite sur toutes les surfaces vitrées et peintes. Il se dilue avec de l'eau savonneuse dans un rapport de 1:10 (vérifiez toujours les instructions du fabricant).</p>
@@ -79,6 +81,8 @@ categories: ["Accessoire | équipement"]
 <li>Un <strong>chiffon microfibre</strong> après la vaporisation élimine les traces de doigts et améliore l'adhérence.</li>
 </ul>
 
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2026/01/ChatGPT-Image-13-nov.-2025-11_53_33-1024x683.png" alt="Découpe précise film PPF auto" class="wp-image-2926" srcset="/wp-content/uploads/2026/01/ChatGPT-Image-13-nov.-2025-11_53_33-1024x683.png 1024w, /wp-content/uploads/2026/01/ChatGPT-Image-13-nov.-2025-11_53_33-300x200.png 300w, /wp-content/uploads/2026/01/ChatGPT-Image-13-nov.-2025-11_53_33-768x512.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
 <h2 class="wp-block-heading">Après la pose : les 7 premiers jours sont décisifs</h2>
 
 <p class="wp-block-paragraph">La pose terminée, le film PPF entre dans une phase de <strong>polymérisation</strong> — l'adhésif crée progressivement un lien durable avec la peinture. Cette phase dure entre <strong>7 et 10 jours</strong>, selon la température ambiante, l'humidité et la marque du film. Évitez tout lavage pendant les 7 premiers jours : un nettoyage prématuré risque de provoquer un décollement partiel sur les bords ou des infiltrations d'eau. Si des petites bulles d'eau apparaissent, pas d'inquiétude : elles disparaissent naturellement à mesure que l'adhésif sèche. Évitez aussi de garer le véhicule en plein soleil prolongé durant cette semaine — la chaleur excessive peut fragiliser les bords avant stabilisation complète.</p>
@@ -95,6 +99,10 @@ categories: ["Accessoire | équipement"]
 <li><strong>Se précipiter</strong> : le film est conçu pour permettre des ajustements avant adhérence complète, il faut prendre le temps de bien le positionner avant de lisser.</li>
 </ul>
 
+<figure class="wp-block-gallery aligncenter has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2024/09/u7972634895_A_professional_car_wrapping_specialist_in_action__070c5372-7361-4c6a-ad70-164a44694192_3.png" alt="pose film ppf" class="wp-image-522" title="pose film ppf" srcset="/wp-content/uploads/2024/09/u7972634895_A_professional_car_wrapping_specialist_in_action__070c5372-7361-4c6a-ad70-164a44694192_3.png 1024w, /wp-content/uploads/2024/09/u7972634895_A_professional_car_wrapping_specialist_in_action__070c5372-7361-4c6a-ad70-164a44694192_3-300x300.png 300w, /wp-content/uploads/2024/09/u7972634895_A_professional_car_wrapping_specialist_in_action__070c5372-7361-4c6a-ad70-164a44694192_3-768x768.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+
 <h2 class="wp-block-heading">Entretien du film PPF : produits, lavage et longévité</h2>
 
 <p class="wp-block-paragraph">Une fois le film installé, une routine d'entretien spécifique préserve son efficacité et son aspect esthétique. Privilégiez un <strong>lavage à la main</strong> avec des gants microfibre, en évitant les produits abrasifs qui pourraient créer des micro-rayures. Évitez les <strong>stations de lavage automatiques</strong> à rouleaux, qui peuvent provoquer des micro-rayures et réduire l'efficacité du film — privilégiez un lavage à la main ou en station sans contact. Un <strong>revêtement céramique</strong> appliqué par-dessus le PPF peut améliorer sa résistance aux rayures et faciliter l'évacuation de l'eau et des saletés.</p>
@@ -102,6 +110,8 @@ categories: ["Accessoire | équipement"]
 <h2 class="wp-block-heading">Quand remplacer son film PPF : les signes à surveiller</h2>
 
 <p class="wp-block-paragraph">Un film PPF bien entretenu dure entre 5 et 10 ans. Plusieurs signes indiquent qu'il est temps d'envisager un remplacement : le <strong>jaunissement</strong> (teinte ambrée sur les zones exposées aux UV, normal après 7-10 ans, anormal s'il apparaît plus tôt), le <strong>bullage</strong> (infiltration d'eau ou dégradation de l'adhésif), le <strong>décollement des bords</strong> (sur les arêtes et zones de courbure complexe), et les <strong>rayures profondes ou impacts</strong> qui traversent le film jusqu'à la peinture.</p>
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2024/09/film-potection-carrosserie-voiture-ppf.webp" alt="film protection carrosserie voiture ppf" class="wp-image-526" style="aspect-ratio:16/9;object-fit:cover" srcset="/wp-content/uploads/2024/09/film-potection-carrosserie-voiture-ppf.webp 1024w, /wp-content/uploads/2024/09/film-potection-carrosserie-voiture-ppf-300x300.webp 300w, /wp-content/uploads/2024/09/film-potection-carrosserie-voiture-ppf-768x768.webp 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 <h2 class="wp-block-heading">Questions fréquentes sur la pose du film PPF</h2>
 
