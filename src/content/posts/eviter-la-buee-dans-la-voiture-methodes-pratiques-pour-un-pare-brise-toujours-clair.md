@@ -159,7 +159,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Pour approfondir vos connaissances et découvrir d’autres conseils adaptés à la saison et à l’entretien automobile, consultez notre rubrique dédiée à la&nbsp;<a href="https://tool.textbulker.com/conduite" target="_blank" rel="noopener">conduite</a>.</p>
+<p class="wp-block-paragraph">Pour approfondir vos connaissances et découvrir d’autres conseils adaptés à la saison et à l’entretien automobile, consultez notre rubrique dédiée à la&nbsp;<a href="https://modeme-automobiles.com/category/conduite/">conduite</a>.</p>
 
 
 

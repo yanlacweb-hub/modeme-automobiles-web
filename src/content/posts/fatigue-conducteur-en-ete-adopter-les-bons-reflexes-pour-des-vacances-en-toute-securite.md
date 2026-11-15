@@ -251,4 +251,4 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">De nombreux guides spécialisés et sites officiels dédiés à la prévention publient des fiches pratiques chaque année. Pour approfondir vos connaissances et continuer à adopter une conduite responsable, consultez la page&nbsp;<a href="https://tool.textbulker.com/conduite-securite" target="_blank" rel="noopener">Conduite &amp; Sécurité</a>. Vous y trouverez des témoignages, infographies et recommandations adaptées à tous les profils d’automobilistes.</p>
+<p class="wp-block-paragraph">De nombreux guides spécialisés et sites officiels dédiés à la prévention publient des fiches pratiques chaque année. Pour approfondir vos connaissances et continuer à adopter une conduite responsable, consultez la page&nbsp;<a href="https://modeme-automobiles.com/category/conduite/">Conduite &amp; Sécurité</a>. Vous y trouverez des témoignages, infographies et recommandations adaptées à tous les profils d’automobilistes.</p>

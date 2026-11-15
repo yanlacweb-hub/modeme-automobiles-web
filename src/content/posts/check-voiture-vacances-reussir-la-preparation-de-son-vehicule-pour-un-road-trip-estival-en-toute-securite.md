@@ -311,7 +311,7 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">Pour approfondir le sujet de la&nbsp;<strong>sécurité routière</strong>&nbsp;et découvrir tous nos conseils pour une conduite sereine, consultez notre page dédiée&nbsp;<a href="https://tool.textbulker.com/conduite-securite/" target="_blank" rel="noopener">Conduite &amp; Sécurité</a>.</p>
+<p class="wp-block-paragraph">Pour approfondir le sujet de la&nbsp;<strong>sécurité routière</strong>&nbsp;et découvrir tous nos conseils pour une conduite sereine, consultez notre page dédiée&nbsp;<a href="https://modeme-automobiles.com/category/conduite/">Conduite &amp; Sécurité</a>.</p>
 
 
 

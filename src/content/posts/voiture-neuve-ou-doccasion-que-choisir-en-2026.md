@@ -179,7 +179,7 @@ categories: ["covering |racing"]
 
 
 
-<p class="wp-block-paragraph">Pour aller plus loin, consultez également notre guide&nbsp;<a href="https://tool.textbulker.com/achat-occasion" target="_blank" rel="noopener">Achat &amp; Occasion</a>&nbsp;regroupant astuces, points de contrôle et recommandations personnalisées pour sécuriser votre futur investissement.</p>
+<p class="wp-block-paragraph">Pour aller plus loin, consultez également notre guide&nbsp;<a href="https://modeme-automobiles.com/category/achat-voiture/">Achat &amp; Occasion</a>&nbsp;regroupant astuces, points de contrôle et recommandations personnalisées pour sécuriser votre futur investissement.</p>
 
 
 

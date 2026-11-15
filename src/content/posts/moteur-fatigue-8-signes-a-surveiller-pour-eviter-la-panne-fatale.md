@@ -199,7 +199,7 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">N’oubliez pas de jeter un coup d’œil à notre rubrique “<a href="https://tool.textbulker.com/entretien-mecanique/" target="_blank" rel="noopener">Entretien &amp; Mécanique</a>”, une vraie mine d’informations pour prolonger la santé de votre moteur sans tomber dans la paranoïa. Le but réserve l’esprit tranquille sur la route, sans stress ni surprise technique de dernière minute.</p>
+<p class="wp-block-paragraph">N’oubliez pas de jeter un coup d’œil à notre rubrique “<a href="https://modeme-automobiles.com/category/entretien/">Entretien &amp; Mécanique</a>”, une vraie mine d’informations pour prolonger la santé de votre moteur sans tomber dans la paranoïa. Le but réserve l’esprit tranquille sur la route, sans stress ni surprise technique de dernière minute.</p>
 
 
 
@@ -323,4 +323,4 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">Pour aller plus loin sur la prévention et l’optimisation de votre véhicule, découvrez notre rubrique dédiée «&nbsp;<a href="https://tool.textbulker.com/entretien-mecanique/" target="_blank" rel="noopener">Entretien &amp; Mécanique</a>&nbsp;». Votre moteur vous dira merci – et vos trajets n’en seront que plus sereins.</p>
+<p class="wp-block-paragraph">Pour aller plus loin sur la prévention et l’optimisation de votre véhicule, découvrez notre rubrique dédiée «&nbsp;<a href="https://modeme-automobiles.com/category/entretien/">Entretien &amp; Mécanique</a>&nbsp;». Votre moteur vous dira merci – et vos trajets n’en seront que plus sereins.</p>

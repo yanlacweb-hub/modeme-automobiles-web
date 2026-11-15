@@ -237,7 +237,7 @@ categories: ["Accessoire | équipement"]
 
 
 
-<p class="wp-block-paragraph"><strong>Vous souhaitez découvrir d’autres accessoires, conseils et solutions pour la saison froide ? Parcourez notre page dédiée&nbsp;<a href="https://tool.textbulker.com/accessoire-equipement/" target="_blank" rel="noopener">Accessoire &amp; Équipement</a>&nbsp;pour aller plus loin dans la préparation hivernale.</strong></p>
+<p class="wp-block-paragraph"><strong>Vous souhaitez découvrir d’autres accessoires, conseils et solutions pour la saison froide ? Parcourez notre page dédiée&nbsp;<a href="https://modeme-automobiles.com/category/accessoire-equipement/">Accessoire &amp; Équipement</a>&nbsp;pour aller plus loin dans la préparation hivernale.</strong></p>
 
 
 

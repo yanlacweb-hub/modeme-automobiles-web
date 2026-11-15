@@ -231,4 +231,4 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph"><strong>En résumé</strong>, le froid n’est pas tendre avec la batterie de votre voiture. Mais avec les bons réflexes, un entretien rigoureux et un œil attentif aux premiers signaux de faiblesse, vous garderez l’avantage sur l’hiver. Prévenez la panne, profitez sereinement de chaque trajet et découvrez tous nos conseils dédiés dans notre dossier complet&nbsp;<a href="https://tool.textbulker.com/entretien-hiver" target="_blank" rel="noopener">Entretien hiver</a>.</p>
+<p class="wp-block-paragraph"><strong>En résumé</strong>, le froid n’est pas tendre avec la batterie de votre voiture. Mais avec les bons réflexes, un entretien rigoureux et un œil attentif aux premiers signaux de faiblesse, vous garderez l’avantage sur l’hiver. Prévenez la panne, profitez sereinement de chaque trajet et découvrez tous nos conseils dédiés dans notre dossier complet&nbsp;<a href="https://modeme-automobiles.com/category/entretien/">Entretien hiver</a>.</p>

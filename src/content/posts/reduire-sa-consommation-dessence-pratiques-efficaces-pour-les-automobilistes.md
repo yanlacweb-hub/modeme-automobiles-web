@@ -245,8 +245,8 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">Des conseils détaillés et des parcours pratiques d’<strong>éco-conduite</strong>&nbsp;sont disponibles via la page dédiée à la&nbsp;<a href="https://tool.textbulker.com/conduite" target="_blank" rel="noopener">conduite</a>. On y retrouve études comparatives, schémas et guides d’apprentissage adaptés à chaque profil de conducteur.</p>
+<p class="wp-block-paragraph">Des conseils détaillés et des parcours pratiques d’<strong>éco-conduite</strong>&nbsp;sont disponibles via la page dédiée à la&nbsp;<a href="https://modeme-automobiles.com/category/conduite/">conduite</a>. On y retrouve études comparatives, schémas et guides d’apprentissage adaptés à chaque profil de conducteur.</p>
 
 
 
-<p class="wp-block-paragraph">En résumé, réduire la&nbsp;<strong>consommation d’essence</strong>&nbsp;repose sur un ensemble de gestes simples :&nbsp;<strong>conduite souple</strong>, anticipation, entretien rigoureux et vigilance sur les accessoires. Chacun de ces leviers, appliqué au quotidien, permet d’agir efficacement sur le poste carburant sans sacrifier le confort ni la sécurité. Pour aller plus loin, retrouvez nos dossiers pratiques sur la&nbsp;<a href="https://tool.textbulker.com/conduite" target="_blank" rel="noopener">conduite</a>&nbsp;et découvrez des conseils adaptés à votre usage.</p>
+<p class="wp-block-paragraph">En résumé, réduire la&nbsp;<strong>consommation d’essence</strong>&nbsp;repose sur un ensemble de gestes simples :&nbsp;<strong>conduite souple</strong>, anticipation, entretien rigoureux et vigilance sur les accessoires. Chacun de ces leviers, appliqué au quotidien, permet d’agir efficacement sur le poste carburant sans sacrifier le confort ni la sécurité. Pour aller plus loin, retrouvez nos dossiers pratiques sur la&nbsp;<a href="https://modeme-automobiles.com/category/conduite/">conduite</a>&nbsp;et découvrez des conseils adaptés à votre usage.</p>
