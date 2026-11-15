@@ -19,7 +19,7 @@ categories: ["2 roues"]
 ---
 
 
-<p class="wp-block-paragraph">La sécurité routière est une priorité pour tous les automobilistes et conducteurs de deux-roues. Afin d&rsquo;assurer cette sécurité, le <strong>contrôle technique périodique</strong> des véhicules, y compris les motos, a été instauré dans plusieurs pays. Pourtant, nombreux sont ceux qui ignorent encore les implications légales et financières associées à une défaillance ou un défaut de <strong>contrôle technique de véhicules</strong>. Dans cet article, nous explorerons les sanctions encourues lorsqu&rsquo;un motard ne respecte pas ces obligations. Que signifie précisément une « non-conformité » lors d’une visite technique, et quelles en sont les conséquences en termes de contravention, de contre-visite ou de non-présentation du certificat d’immatriculation (aussi appelé carte grise)?</p>
+<p class="wp-block-paragraph">La sécurité routière est une priorité pour tous les automobilistes et conducteurs de deux-roues. Afin d&rsquo;assurer cette sécurité, le <strong>contrôle technique périodique</strong> des véhicules, y compris les motos, a été instauré dans plusieurs pays. Pourtant, nombreux sont ceux qui ignorent encore les implications légales et financières associées à une défaillance ou un défaut de <strong>contrôle technique de véhicules</strong>. Dans cet article, nous explorerons les sanctions encourues lorsqu&rsquo;un motard ne respecte pas ces obligations : quelle <strong>amende contrôle technique</strong> risque-t-on, que signifie précisément une « non-conformité » lors d’une visite technique, et quelles en sont les conséquences en termes de contravention, de contre-visite ou de non-présentation du certificat d’immatriculation (aussi appelé carte grise)?</p>
 
 
 
