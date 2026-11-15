@@ -784,7 +784,7 @@ categories: ["covering |racing"]
 <main class="article-body">
 
 <!-- INTRO -->
-<p>Le covering voiture — aussi appelé <strong>covering auto</strong> ou <strong>covering automobile</strong> — c&rsquo;est l&rsquo;art de transformer l&rsquo;apparence d&rsquo;un véhicule sans toucher à sa peinture d&rsquo;origine. Concrètement, il s&rsquo;agit d&rsquo;appliquer un film adhésif vinyle sur tout ou partie de la carrosserie — pour changer de couleur, protéger la peinture, ou personnaliser son véhicule à moindre coût.</p>
+<p>Le covering voiture — aussi appelé <strong>auto covering</strong>, covering auto ou covering automobile — c&rsquo;est l&rsquo;art de transformer l&rsquo;apparence d&rsquo;un véhicule sans toucher à sa peinture d&rsquo;origine. Concrètement, il s&rsquo;agit d&rsquo;appliquer un film adhésif vinyle sur tout ou partie de la carrosserie — pour changer de couleur, protéger la peinture, ou personnaliser son véhicule à moindre coût.</p>
 
 <p>Technique longtemps réservée aux flottes d&rsquo;entreprise et aux voitures de compétition, le covering s&rsquo;est démocratisé ces dernières années auprès des particuliers. Aujourd&rsquo;hui, il séduit autant les passionnés de tuning que les automobilistes qui cherchent simplement une alternative à la peinture classique.</p>
 
