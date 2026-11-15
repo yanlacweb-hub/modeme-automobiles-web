@@ -117,7 +117,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Vous hésitez encore entre essence et diesel pour votre prochain achat? Consultez notre guide complet:&nbsp;<a href="https://modeme-automobiles.com/les-meilleures-voitures-essence-automatiques-pour-remplacer-votre-diesel/">Essence ou diesel: quelle voiture acheter? — Modeme Automobiles</a></p>
+<p class="wp-block-paragraph">Vous hésitez encore entre essence et diesel pour votre prochain achat? Consultez notre guide complet:&nbsp;<a href="https://modeme-automobiles.com/voiture-essence-automatique-un-guide-complet/">Essence ou diesel: quelle voiture acheter? — Modeme Automobiles</a></p>
 
 
 
@@ -501,4 +501,4 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Un&nbsp;<strong>entretien préventif rigoureux</strong>&nbsp;prolonge significativement la durée de vie de votre investissement. Pour affiner votre choix de motorisation, retrouvez notre guide complet&nbsp;<a href="https://modeme-automobiles.com/les-meilleures-voitures-essence-automatiques-pour-remplacer-votre-diesel/">essence ou diesel: quelle voiture acheter?</a>&nbsp;afin de choisir la motorisation la mieux adaptée à votre usage et votre budget.</p>
+<p class="wp-block-paragraph">Un&nbsp;<strong>entretien préventif rigoureux</strong>&nbsp;prolonge significativement la durée de vie de votre investissement. Pour affiner votre choix de motorisation, retrouvez notre guide complet&nbsp;<a href="https://modeme-automobiles.com/voiture-essence-automatique-un-guide-complet/">essence ou diesel: quelle voiture acheter?</a>&nbsp;afin de choisir la motorisation la mieux adaptée à votre usage et votre budget.</p>
