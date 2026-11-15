@@ -235,9 +235,21 @@ categories: ["conduite"]
 
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2026/05/6630de929694493dc4187ef9_Image-Blog-10-1024x683.webp" alt="Contrôle pneus et niveaux estivaux" class="wp-image-3129" title="" srcset="/wp-content/uploads/2026/05/6630de929694493dc4187ef9_Image-Blog-10-1024x683.webp 1024w, /wp-content/uploads/2026/05/6630de929694493dc4187ef9_Image-Blog-10-300x200.webp 300w, /wp-content/uploads/2026/05/6630de929694493dc4187ef9_Image-Blog-10-768x512.webp 768w, /wp-content/uploads/2026/05/6630de929694493dc4187ef9_Image-Blog-10-1536x1024.webp 1536w, /wp-content/uploads/2026/05/6630de929694493dc4187ef9_Image-Blog-10.webp 1800w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
+<h2 class="wp-block-heading">Combien coûte la préparation de sa voiture avant l'été ?</h2>
+
+<p class="wp-block-paragraph">Pour planifier votre budget avant le départ, voici les tarifs moyens constatés pour les principales opérations d'entretien pré-vacances :</p>
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><th>Opération</th><th>Intervalle conseillé</th><th>Prix moyen (€)</th></tr><tr><td><strong>Vidange + filtre à huile</strong></td><td>10 000-15 000 km</td><td>70-150</td></tr><tr><td><strong>Remplacement filtre à air</strong></td><td>20 000-30 000 km</td><td>20-40</td></tr><tr><td><strong>Changement pneu</strong></td><td>En cas d'usure</td><td>60-120/pneu</td></tr><tr><td><strong>Recharge climatisation</strong></td><td>2 ans</td><td>70-100</td></tr><tr><td><strong>Contrôle général</strong></td><td>Avant départ</td><td>0-30 (offert parfois lors de la révision)</td></tr></tbody></table></figure>
+
+<p class="wp-block-paragraph">De nombreux garages proposent des <strong>forfaits "pré-vacances"</strong> à partir de 49 €. N'hésitez pas à demander un devis personnalisé selon le modèle de votre véhicule. Pensez aussi à vérifier vos <strong>documents administratifs</strong> : carte grise, assurance valide et contrôle technique à jour, indispensables pour circuler en toute légalité.</p>
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2026/06/Design-sans-titre-9-1024x576.png" alt="Inspection voiture avant départ vacances" title=""></figure>
+
 
 
 <h2 class="wp-block-heading">Questions fréquentes sur la préparation de la voiture pour l’été</h2>
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2026/06/Design-sans-titre-10-1024x576.png" alt="Contrôle et entretien niveau huile moteur" title=""></figure>
 
 
 
