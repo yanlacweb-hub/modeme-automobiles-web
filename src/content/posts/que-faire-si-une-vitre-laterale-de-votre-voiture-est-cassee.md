@@ -39,7 +39,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">De plus, certains garagistes ou carrossiers proposent des véhicules de prêt pour assurer votre mobilité pendant l&rsquo;intervention. Ils vous conseilleront également sur les différents types de vitres disponibles afin de choisir la solution la plus adaptée. Ces professionnels travaillent souvent en collaboration avec des assureurs, facilitant ainsi les démarches pour être indemnisé par votre assurance bris de glace ou votre <strong>contrat d&rsquo;assurance auto</strong>.<br><br>Si vous souhaitez en savoir plus sur les outils indispensables pour effectuer cette réparation vous-même, consultez cet article détaillé: 👉 <strong><a href="https://modeme-automobiles.com/les-outils-indispensables-pour-reparer-une-vitre-laterale-soi-meme/">Les outils indispensables pour réparer une vitre latérale soi-même</a></strong></p>
+<p class="wp-block-paragraph">De plus, certains garagistes ou carrossiers proposent des véhicules de prêt pour assurer votre mobilité pendant l&rsquo;intervention. Ils vous conseilleront également sur les différents types de vitres disponibles afin de choisir la solution la plus adaptée. Ces professionnels travaillent souvent en collaboration avec des assureurs, facilitant ainsi les démarches pour être indemnisé par votre assurance bris de glace ou votre <strong>contrat d&rsquo;assurance auto</strong>.</p>
 
 
 
@@ -131,10 +131,6 @@ categories: ["Entretien & Mecanique"]
 
 <h2 class="wp-block-heading">Protégez votre voiture après une vitre cassée</h2>
 
-<p class="wp-block-paragraph">👉 Si vous préférez réparer vous-même plutôt que de passer par un professionnel, consultez aussi <a href="https://modeme-automobiles.com/les-outils-indispensables-pour-reparer-une-vitre-laterale-soi-meme/">notre guide des outils indispensables pour réparer une vitre latérale soi-même</a>.</p>
-
-
-
 <p class="wp-block-paragraph">Après le <strong>bris d&rsquo;une vitre latérale</strong>, il est essentiel de sécuriser rapidement votre véhicule pour éviter tout vol, toute <strong>tentative d&rsquo;effraction</strong> ou d&rsquo;autres dommages causés. En attendant les réparations, vous pouvez installer une protection temporaire en utilisant un film plastique épais ou une bâche spécifique pour vitrage automobile, solidement fixée avec du ruban adhésif. Cela permet de limiter les infiltrations d&rsquo;eau et de préserver l&rsquo;intérieur du véhicule des intempéries.</p>
 
 
@@ -144,6 +140,16 @@ categories: ["Entretien & Mecanique"]
 
 
 <p class="wp-block-paragraph">Enfin, si votre véhicule est équipé d&rsquo;un système d&rsquo;alarme ou d&rsquo;une <strong>assurance multirisque</strong> incluant des protections spécifiques contre le cas de sinistre, assurez-vous que ces dispositifs fonctionnent correctement pour dissuader toute <strong>tentative de vol</strong>. En prenant ces précautions, vous limitez les désagréments liés à un cas de bris et garantissez la protection de votre habitacle en attendant l&rsquo;intervention d&rsquo;un réparateur agréé.</p>
+
+
+
+<h2 class="wp-block-heading">Réparer la vitre latérale vous-même : les outils indispensables</h2>
+
+<p class="wp-block-paragraph">Si vous préférez éviter les frais de main-d&rsquo;œuvre, réparer une <strong>vitre latérale</strong> soi-même reste envisageable pour une fissure légère ou un remplacement simple, à condition de disposer des bons outils: un pistolet à colle pour appliquer le <strong>mastic de vitrier</strong>, une spatule pour lisser l&rsquo;enduit, un coupe-verre pour ajuster le vitrage aux bonnes dimensions, et des ventouses professionnelles pour manipuler le verre sans risque.</p>
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th><strong>Outil</strong></th><th><strong>Usage</strong></th></tr></thead><tbody><tr><td><strong>Coupe-verre</strong></td><td>Ajuster et découper le verre à la bonne dimension.</td></tr><tr><td><strong>Ventouses</strong></td><td>Facilite la manipulation sécurisée du verre.</td></tr><tr><td><strong>Couteau à mastic</strong></td><td>Permet de retirer les anciens joints et mastics.</td></tr><tr><td><strong>Spatule</strong></td><td>Appliquer et lisser le mastic de vitrier ou l&rsquo;enduit.</td></tr><tr><td><strong>Pistolet à colle</strong></td><td>Assurer une fixation solide du verre dans le châssis.</td></tr><tr><td><strong>Perceuse / visseuse</strong></td><td>Aide au montage des éléments de carrosserie et des raccords.</td></tr></tbody></table></figure>
+
+<p class="wp-block-paragraph">Dans les véhicules modernes, le remplacement implique souvent de rebrancher des systèmes électriques (lève-vitre motorisé, capteurs de fermeture). Il est recommandé de débrancher la batterie avant d&rsquo;intervenir pour éviter tout court-circuit, puis d&rsquo;appliquer un <strong>joint d&rsquo;étanchéité</strong> adéquat pour protéger les connexions de l&rsquo;humidité.</p>
 
 
 
