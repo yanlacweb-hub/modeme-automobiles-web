@@ -1,0 +1,29 @@
+---
+// src/pages/404.astro
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Page introuvable - Modeme Automobiles"
+  description="Cette page n'existe pas ou plus sur Modeme Automobiles. Retrouvez nos guides auto et moto depuis l'accueil."
+>
+  <main style="max-width: 700px; margin: 0 auto; padding: 80px 20px; text-align: center;">
+    <h1 style="font-size: 2.2rem; margin-bottom: 16px;">404 — Page introuvable</h1>
+    <p style="font-size: 1.1rem; margin-bottom: 32px; color: #555;">
+      La page que vous cherchez n'existe plus ou a changé d'adresse.
+      Elle a peut-être été fusionnée avec un autre article plus complet.
+    </p>
+    <p style="margin-bottom: 40px;">
+      <a href="/" style="display: inline-block; padding: 12px 24px; background: #1c1c1c; color: #fff; border-radius: 6px; text-decoration: none; font-weight: 600;">
+        Retour à l'accueil
+      </a>
+    </p>
+    <p>
+      Ou explorez nos rubriques :
+      <a href="/category/achat-voiture/">Achat voiture</a> ·
+      <a href="/category/entretien/">Entretien</a> ·
+      <a href="/category/2-roues/">2 roues</a> ·
+      <a href="/category/covering-racing/">Covering</a>
+    </p>
+  </main>
+</BaseLayout>
