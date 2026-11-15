@@ -31,6 +31,8 @@ categories: ["Accessoire | équipement"]
 
 <h3 class="wp-block-heading">Casque intégral ou casque moto modulable: protection maximale et polyvalence</h3>
 
+<p class="wp-block-paragraph">👉 Notre <strong>comparatif casque moto</strong> ci-dessous résume les principales différences entre casque intégral et casque modulable, pour vous aider à choisir selon votre usage. Ce comparatif casque modulable intègre les critères de structure, mentonnière, homologation et niveau de protection.</p>
+
 <p class="wp-block-paragraph">Parmi les choix qui s'offrent à vous, on retrouve notamment les casques intégraux, les <strong>casques modulables</strong>, les casques jet, ainsi que les modèles de type <strong>casque cross</strong> ou enduro. Les casques intégraux possèdent une mentonnière fixe couvrant intégralement la tête, offrant ainsi une excellente protection contre les chocs tout en assurant une bonne isolation acoustique et une étanchéité face aux intempéries. Cette structure monobloc, dépourvue de parties mobiles, limite les points faibles potentiels en cas de choc.</p>
 
 <p class="wp-block-paragraph">Le <strong>casque moto modulable</strong>, quant à lui, dispose d&rsquo;une mentonnière <strong>amovible</strong>, permettant ainsi de passer facilement d'un mode intégral à un mode ouvert selon les besoins du conducteur. Ce type de casque offre à la fois une sécurité optimale et une flexibilité accrue, très apprécié des motards urbains ou des conducteurs de scooter. Certains modèles homologués modulables le sont uniquement en mode "intégral", tandis que d'autres bénéficient d'une double homologation "jet/intégral" (<strong>P/J</strong>) — un gage de flexibilité sans compromis majeur sur la sécurité. Vérifiez toujours la présence du marquage <strong>ECE 22.06</strong>, preuve de conformité avec les exigences européennes actuelles.</p>
@@ -103,6 +105,9 @@ categories: ["Accessoire | équipement"]
 
 <p class="wp-block-paragraph"><strong>Comment savoir si un casque modulable offre une bonne sécurité ?</strong></p>
 <p class="wp-block-paragraph">Vérifiez la présence de la norme <strong>ECE 22.06</strong>, idéalement accompagnée du double marquage <strong>P/J (intégral/jet)</strong>. Privilégiez les modèles dont la mentonnière dispose d'un système de verrouillage robuste, testé en laboratoire indépendant.</p>
+
+<p class="wp-block-paragraph"><strong>Casque modulable : quel avis donnent les motards qui l'utilisent au quotidien ?</strong></p>
+<p class="wp-block-paragraph">Dans l'ensemble, les avis sur le casque modulable sont positifs pour un usage urbain ou mixte : les utilisateurs apprécient la polyvalence (parler au pompiste, boire sans retirer le casque) et la sécurité proche d'un intégral sur les modèles récents homologués P/J. Les retours négatifs concernent surtout le poids, légèrement supérieur à un intégral équivalent, et le bruit aérodynamique à haute vitesse pour certains modèles d'entrée de gamme.</p>
 
 <p class="wp-block-paragraph"><strong>Peut-on utiliser un casque modulable toute l'année, quelle que soit la météo ?</strong></p>
 <p class="wp-block-paragraph">Oui, à condition de choisir un modèle équipé de ventilations efficaces pour l'été et d'un traitement anti-buée performant pour l'hiver. Une fermeture rigoureuse et des joints de qualité évitent les infiltrations en toutes saisons.</p>
