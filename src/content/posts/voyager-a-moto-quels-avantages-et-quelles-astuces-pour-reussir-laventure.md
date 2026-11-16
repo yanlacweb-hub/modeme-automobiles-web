@@ -178,3 +178,6 @@ categories: ["2 roues"]
 
 
 <p class="wp-block-paragraph"></p>
+<p class="wp-block-paragraph">👉 Avant de partir, pensez aussi aux <a href="https://modeme-automobiles.com/voyager-en-moto-les-10-accessoires-indispensables-pour-un-confort-optimal/">accessoires indispensables pour voyager en moto</a>. Pour le contrôle technique, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+
+

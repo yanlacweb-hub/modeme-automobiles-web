@@ -157,6 +157,9 @@ categories: ["2 roues"]
 
 
 
+<p class="wp-block-paragraph">👉 Pour découvrir les modèles disponibles, voir notre <a href="https://modeme-automobiles.com/guide-complet-des-motos-electriques-modeles-performances-et-autonomie/">guide complet des motos électriques</a>. Pour le contrôle technique des 2 roues, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+
+
 <h2 class="wp-block-heading">Questions fréquentes sur l&rsquo;entretien des deux-roues électriques</h2>
 
 

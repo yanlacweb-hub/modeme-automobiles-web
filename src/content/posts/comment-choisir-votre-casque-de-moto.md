@@ -101,6 +101,9 @@ categories: ["Accessoire | équipement"]
 
 <p class="wp-block-paragraph">Enfin, pour compléter votre équipement de sécurité avec votre <strong>moto casque</strong>, n&rsquo;oubliez pas de vérifier le système d&rsquo;attache, comme une boucle <strong>micrométrique</strong> pour un ajustement précis et rapide. Pensez également à l'éventuelle compatibilité du casque avec un système intercom intégré, pratique pour communiquer facilement avec votre passager ou lors de trajets en groupe, sans oublier d'associer votre casque à un blouson adapté pour une sécurité optimale sur la route.</p>
 
+<p class="wp-block-paragraph">👉 Pour bien choisir la taille, consultez aussi notre <a href="https://modeme-automobiles.com/guide-des-tailles-comment-mesurer-votre-tete-pour-un-casque-moto-adapte/">guide des tailles de casque</a>. Et pour tout savoir sur le contrôle technique moto, voir notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+
+
 <h2 class="wp-block-heading">Questions fréquentes sur le choix du casque moto</h2>
 
 <p class="wp-block-paragraph"><strong>Comment savoir si un casque modulable offre une bonne sécurité ?</strong></p>

@@ -182,3 +182,6 @@ categories: ["2 roues"]
 
 
 <p class="wp-block-paragraph"></p>
+<p class="wp-block-paragraph">👉 Pour approfondir la sécurité, voir aussi <a href="https://modeme-automobiles.com/comprendre-la-distance-de-securite-a-moto-pour-une-conduite-sure/">notre article sur la distance de sécurité</a>. Pour le contrôle technique moto, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+
+

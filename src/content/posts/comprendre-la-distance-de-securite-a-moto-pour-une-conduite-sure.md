@@ -173,6 +173,9 @@ categories: ["2 roues"]
 
 <p class="wp-block-paragraph">👉 La sécurité à moto passe aussi par le respect du contrôle technique: découvrez aussi <a href="https://modeme-automobiles.com/comprendre-les-sanctions-liees-au-non-respect-du-controle-technique-moto/">les sanctions encourues en cas de non-respect</a>.</p>
 
+<p class="wp-block-paragraph">👉 Pour plus de conseils de conduite, voir <a href="https://modeme-automobiles.com/les-bonnes-pratiques-pour-circuler-a-moto/">les bonnes pratiques pour circuler à moto</a>. Pour le contrôle technique moto, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+
+
 <h2 class="wp-block-heading">FAQ: questions fréquentes sur la distance de sécurité à moto</h2>
 
 

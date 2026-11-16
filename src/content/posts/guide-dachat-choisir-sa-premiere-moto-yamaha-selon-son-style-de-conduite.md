@@ -212,6 +212,9 @@ categories: ["2 roues"]
 
 
 
+<p class="wp-block-paragraph">👉 Une fois votre Yamaha choisie, pensez à son entretien avec <a href="https://modeme-automobiles.com/entretien-des-motos-yamaha-les-points-cles-a-verifier-regulierement/">notre article dédié</a>. Pour le contrôle technique moto, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+
+
 <h2 class="wp-block-heading">Foire aux questions: comment choisir sa première moto Yamaha?</h2>
 
 

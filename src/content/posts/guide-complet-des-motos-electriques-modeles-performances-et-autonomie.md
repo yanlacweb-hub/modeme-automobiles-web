@@ -157,6 +157,9 @@ categories: ["2 roues"]
 
 
 
+<p class="wp-block-paragraph">👉 Une fois votre moto électrique choisie, pensez à son <a href="https://modeme-automobiles.com/entretien-des-deux-roues-electriques-conseils-pour-prolonger-la-duree-de-vie-de-votre-vehicule/">entretien spécifique</a>. Pour le contrôle technique des 2 roues, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+
+
 <h2 class="wp-block-heading">FAQ sur les motos électriques</h2>
 
 

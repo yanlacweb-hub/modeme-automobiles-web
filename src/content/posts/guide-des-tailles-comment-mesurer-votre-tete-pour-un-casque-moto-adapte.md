@@ -133,6 +133,9 @@ categories: ["Accessoire | équipement"]
 
 
 
+<p class="wp-block-paragraph">👉 Avant de choisir la taille, voyez aussi notre article sur <a href="https://modeme-automobiles.com/comment-choisir-votre-casque-de-moto/">comment choisir son casque de moto</a>. Pour le contrôle technique moto, consultez notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+
+
 <h2 class="wp-block-heading">Questions fréquentes sur le choix et la mesure des casques moto</h2>
 
 

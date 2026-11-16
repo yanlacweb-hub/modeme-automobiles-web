@@ -157,6 +157,9 @@ categories: ["2 roues"]
 </div>
 
 
+<p class="wp-block-paragraph">👉 Pensez aussi à sécuriser votre moto avec <a href="https://modeme-automobiles.com/top-5-des-antivols-pour-motos-chaines/">notre comparatif des meilleurs antivols</a>. Pour le contrôle technique moto, voir notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+
+
 <h2 class="wp-block-heading">Questions fréquentes sur les équipements indispensables pour la moto</h2>
 
 

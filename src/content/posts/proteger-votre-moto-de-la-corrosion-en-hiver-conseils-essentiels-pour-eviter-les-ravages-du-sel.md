@@ -194,3 +194,6 @@ categories: ["2 roues"]
 
 
 <p class="wp-block-paragraph"></p>
+<p class="wp-block-paragraph">👉 Pensez aussi à votre propre équipement avec <a href="https://modeme-automobiles.com/equipements-moto-pour-lhiver-bien-sequiper-pour-affronter-la-saison-froide/">notre guide des équipements moto pour l'hiver</a>. Pour le contrôle technique moto, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+
+

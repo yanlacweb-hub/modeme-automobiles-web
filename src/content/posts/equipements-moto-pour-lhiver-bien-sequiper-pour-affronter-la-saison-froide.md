@@ -86,6 +86,9 @@ categories: ["2 roues"]
 
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/conduire-sur-neige-equipement-securite-1.png-1024x683.jpg" alt="conduire a moto en hiver avec un equipement de securite adapte" title=""></figure>
 
+<p class="wp-block-paragraph">👉 Pensez aussi à protéger la moto elle-même avec notre article sur <a href="https://modeme-automobiles.com/proteger-votre-moto-de-la-corrosion-en-hiver-conseils-essentiels-pour-eviter-les-ravages-du-sel/">la corrosion en hiver</a>. Pour le contrôle technique moto, voir notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+
+
 <h2 class="wp-block-heading">Questions fréquentes sur l'équipement moto hiver</h2>
 
 <p class="wp-block-paragraph"><strong>À partir de combien de degrés un gant chauffant devient-il vraiment utile ?</strong></p>

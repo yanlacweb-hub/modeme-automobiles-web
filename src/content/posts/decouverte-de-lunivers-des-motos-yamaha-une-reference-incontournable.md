@@ -134,6 +134,9 @@ categories: ["2 roues"]
 
 
 
+<p class="wp-block-paragraph">👉 Pour bien choisir sa première Yamaha, voir notre <a href="https://modeme-automobiles.com/guide-dachat-choisir-sa-premiere-moto-yamaha-selon-son-style-de-conduite/">guide d'achat dédié</a>. Pour le contrôle technique moto, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+
+
 <h2 class="wp-block-heading">FAQ sur l&rsquo;univers des motos Yamaha</h2>
 
 
