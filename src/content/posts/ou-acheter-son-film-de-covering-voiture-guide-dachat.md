@@ -104,3 +104,5 @@ categories: ["covering |racing"]
 <p class="wp-block-paragraph"><strong>Peut-on retourner un film de covering s'il ne convient pas une fois reçu ?</strong><br />Cela dépend du vendeur, mais un film encore sous film de protection et non découpé peut généralement être retourné chez un fournisseur spécialisé sérieux, contrairement à de nombreuses marketplaces où les conditions de retour sont beaucoup plus floues.</p>
 
 <p class="wp-block-paragraph"><strong>Faut-il acheter plus de film que la surface réelle à couvrir ?</strong><br />Oui, toujours prévoir une marge supplémentaire d'environ 10 à 15&nbsp;% par rapport au métrage calculé, pour compenser les chutes liées à la découpe et aux ajustements sur les courbes de la carrosserie.</p>
+
+<p class="wp-block-paragraph">👉 Pour retrouver l'ensemble du catalogue évoqué dans cet article, rendez-vous sur <a href="https://fleasting.com/" target="_blank" rel="noopener nofollow">Fleasting.com</a>.</p>
