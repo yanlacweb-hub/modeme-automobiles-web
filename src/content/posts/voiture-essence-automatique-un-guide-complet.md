@@ -55,7 +55,7 @@ categories: ["Essence vs diesel"]
 
 
 
-<p class="wp-block-paragraph">Pour une comparaison approfondie entre les différentes technologies de véhicules, vous pouvez consulter cet article sur&nbsp;<a href="https://modeme-automobiles.com/lentretien-dune-voiture-electrique-est-il-moins-couteux-que-celui-dun-vehicule-thermique/">l&rsquo;entretien d&rsquo;une voiture électrique par rapport à un véhicule thermique</a>.</p>
+<p class="wp-block-paragraph">Pour une comparaison approfondie entre les différentes technologies de véhicules, vous pouvez consulter cet article sur&nbsp;l&rsquo;entretien d&rsquo;une voiture électrique par rapport à un véhicule thermique.</p>
 
 
 
@@ -207,6 +207,9 @@ categories: ["Essence vs diesel"]
 
 
 
+<p class="wp-block-paragraph">👉 Pour comparer avec le diesel, voir notre <a href="https://modeme-automobiles.com/lavenir-des-voitures-diesel-jusqua-quand-seront-elles-sur-nos-routes/">guide complet diesel ou essence</a>. Et pour d&rsquo;autres modèles économiques, notre article sur les <a href="https://modeme-automobiles.com/les-vehicules-essence-les-plus-economiques-en-carburant/">véhicules essence les plus économiques</a>.</p>
+
+
 <h2 class="wp-block-heading">FAQ: Tout savoir sur les voitures essence automatiques</h2>
 
 
@@ -245,4 +248,4 @@ categories: ["Essence vs diesel"]
 
 <p class="wp-block-paragraph">💡 Conseil: Un essai sur différents types de routes permet de mieux apprécier le comportement du <strong>levier de vitesses</strong>, la fluidité du frein moteur, et la réactivité de la transmission en <strong>marche-arrière</strong>.</p>
 
-<p class="wp-block-paragraph">👉 Pour aller plus loin: <a href="/entretien-des-moteurs-essence-conseils-pour-une-longevite-optimale/">nos conseils pour une longévité optimale des moteurs essence</a>, et sur le débat diesel: <a href="/lavenir-des-voitures-diesel-jusqua-quand-seront-elles-sur-nos-routes/">l'avenir des voitures diesel, jusqu'à quand seront-elles sur nos routes</a>.</p>
+<p class="wp-block-paragraph">👉 Pour aller plus loin: nos conseils pour une longévité optimale des moteurs essence, et sur le débat diesel: l'avenir des voitures diesel, jusqu'à quand seront-elles sur nos routes.</p>
