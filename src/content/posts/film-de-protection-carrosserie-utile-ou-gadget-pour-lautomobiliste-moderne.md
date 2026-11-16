@@ -728,7 +728,6 @@ footer a:hover { text-decoration:underline; }
 
 <h3 class="wp-block-heading">Intempéries & saisons</h3>
 <ul class="wp-block-list">
-<li><a href="https://modeme-automobiles.com/comment-proteger-votre-voiture-des-intemperies-astuces-et-conseils-pratiques/">Comment protéger votre voiture des intempéries</a></li>
 <li><a href="https://modeme-automobiles.com/affrontez-lhiver-5-protections-incontournables-contre-le-sel-et-le-froid/">Affrontez l’hiver avec une couverture voiture hiver adaptée</a></li>
 <li><a href="https://modeme-automobiles.com/mettre-sa-voiture-a-labri-du-printemps-guide-passionne-pour-une-protection-carrosserie-efficace/">Housse voiture extérieur : mettre sa voiture à l’abri au printemps</a></li>
 <li><a href="https://modeme-automobiles.com/comment-proteger-efficacement-sa-voiture-de-la-chaleur-estivale/">Comment protéger efficacement sa voiture de la chaleur estivale ?</a></li>
