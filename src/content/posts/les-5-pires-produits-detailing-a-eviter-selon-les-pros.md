@@ -193,7 +193,7 @@ categories: ["Accessoire | équipement"]
 
 
 
-<p class="wp-block-paragraph">Adoptez une&nbsp;<strong>routine complète</strong> : prélavage, lavage approfondi, séchage méticuleux, puis application de protections durables. Pour aller plus loin, explorez notre rubrique&nbsp;<a href="https://modeme-automobiles.com/category/accessoire-equipement/">Accessoire &amp; Équipement</a>&nbsp;pour découvrir le matériel recommandé par les vrais experts du secteur.</p>
+<p class="wp-block-paragraph">Adoptez une&nbsp;<strong>routine complète</strong> : prélavage, lavage approfondi, séchage méticuleux, puis application de protections durables. Pour aller plus loin, explorez notre rubrique&nbsp;Accessoire &amp; Équipement&nbsp;pour découvrir le matériel recommandé par les vrais experts du secteur.</p>
 
 
 
@@ -229,6 +229,9 @@ categories: ["Accessoire | équipement"]
 <li>Préparez minutieusement la carrosserie : dégraissage, polissage léger, contrôle strict de l’environnement.</li>
 </ul>
 
+
+
+<p class="wp-block-paragraph">👉 Au-delà des dégâts esthétiques, certains produits présentent aussi un risque pour la santé : voir notre article sur les <a href="https://modeme-automobiles.com/produits-detailing-dangereux-comment-eviter-les-erreurs-courantes-en-entretien-automobile/">produits detailing dangereux</a>. Pour bien laver votre voiture, notre <a href="https://modeme-automobiles.com/lavage-voiture-conseils-mode-demploi-pour-un-resultat-sans-rayure/">guide complet</a>.</p>
 
 
 <h2 class="wp-block-heading">Questions fréquentes sur les erreurs majeures du detailing</h2>
@@ -313,8 +316,8 @@ categories: ["Accessoire | équipement"]
 
 
 
-<p class="wp-block-paragraph"><strong>En résumé :</strong>&nbsp;le detailing auto n’a rien d’une science occulte réservée à une élite, mais il exige&nbsp;<strong>rigueur</strong>,&nbsp;<strong>connaissance des produits</strong>&nbsp;et refus des solutions miracles. Bannissez ces cinq familles de produits risqués, privilégiez toujours la qualité à la facilité et fiez-vous aux recommandations des professionnels aguerris. Votre carrosserie mérite mieux qu’un simple coup d’éclat éphémère. Pour équiper votre atelier avec discernement, découvrez notre sélection dans la rubrique&nbsp;<a href="https://modeme-automobiles.com/category/accessoire-equipement/">Accessoire &amp; Équipement</a>. Vous verrez : la vraie satisfaction, c’est celle qui dure bien au-delà du premier reflet.</p>
+<p class="wp-block-paragraph"><strong>En résumé :</strong>&nbsp;le detailing auto n’a rien d’une science occulte réservée à une élite, mais il exige&nbsp;<strong>rigueur</strong>,&nbsp;<strong>connaissance des produits</strong>&nbsp;et refus des solutions miracles. Bannissez ces cinq familles de produits risqués, privilégiez toujours la qualité à la facilité et fiez-vous aux recommandations des professionnels aguerris. Votre carrosserie mérite mieux qu’un simple coup d’éclat éphémère. Pour équiper votre atelier avec discernement, découvrez notre sélection dans la rubrique&nbsp;Accessoire &amp; Équipement. Vous verrez : la vraie satisfaction, c’est celle qui dure bien au-delà du premier reflet.</p>
 
-<p class="wp-block-paragraph">👉 Ces produits n'abîment pas que la carrosserie : certains présentent aussi un vrai risque pour votre santé. Consultez notre article pour <a href="https://modeme-automobiles.com/produits-detailing-dangereux-comment-eviter-les-erreurs-courantes-en-entretien-automobile/">se protéger soi-même lors du detailing</a> (pictogrammes de danger, équipements de protection, symptômes d'exposition).</p>
+<p class="wp-block-paragraph">👉 Ces produits n'abîment pas que la carrosserie : certains présentent aussi un vrai risque pour votre santé. Consultez notre article pour se protéger soi-même lors du detailing (pictogrammes de danger, équipements de protection, symptômes d'exposition).</p>
 
-<p class="wp-block-paragraph">📘 Pour les bases du lavage voiture sans risque de rayure, consultez notre <a href="https://modeme-automobiles.com/lavage-voiture-conseils-mode-demploi-pour-un-resultat-sans-rayure/">guide complet de lavage voiture</a>.</p>
+<p class="wp-block-paragraph">📘 Pour les bases du lavage voiture sans risque de rayure, consultez notre guide complet de lavage voiture.</p>

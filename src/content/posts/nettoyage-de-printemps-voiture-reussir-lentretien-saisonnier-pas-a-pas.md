@@ -195,6 +195,9 @@ categories: ["Accessoire | équipement"]
 
 
 
+<p class="wp-block-paragraph">👉 Pour les gestes de lavage au quotidien, voir notre <a href="https://modeme-automobiles.com/lavage-voiture-conseils-mode-demploi-pour-un-resultat-sans-rayure/">guide complet du lavage voiture</a>. Et pour un lavage sans eau, notre <a href="https://modeme-automobiles.com/lavage-sans-eau-mode-demploi-et-selection-de-kits-ecologiques-pour-lete/">article dédié</a>.</p>
+
+
 <h2 class="wp-block-heading">Questions fréquentes sur le nettoyage de printemps voiture</h2>
 
 

@@ -163,6 +163,9 @@ categories: ["Accessoire | équipement"]
 
 
 
+<p class="wp-block-paragraph">👉 Pour un lavage classique, voir notre <a href="https://modeme-automobiles.com/lavage-voiture-conseils-mode-demploi-pour-un-resultat-sans-rayure/">guide complet du lavage voiture</a>.</p>
+
+
 <h2 class="wp-block-heading">Questions fréquentes sur le lavage sans eau pour voitures</h2>
 
 
