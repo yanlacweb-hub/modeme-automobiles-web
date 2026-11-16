@@ -1,6 +1,6 @@
 ---
 postSlug: "que-faire-si-une-vitre-laterale-de-votre-voiture-est-cassee"
-title: "Que faire si une vitre latérale de votre voiture est cassée ?"
+title: "Bris de glace voiture : que faire si une vitre latérale est cassée ?"
 description: "Votre vitre latérale de voiture est cassée ? Découvrez les étapes clés : remplacement rapide, prise en charge par l'assurance et démarches en cas d'effraction."
 pubDate: "2022-11-29T10:52:04"
 updatedDate: "2025-02-26T12:27:13"
@@ -27,7 +27,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<h2 class="wp-block-heading">Faites remplacer votre vitre latérale si elle est brisée</h2>
+<h2 class="wp-block-heading">Bris de glace voiture : faites remplacer votre vitre latérale si elle est brisée</h2>
 
 
 
@@ -154,3 +154,6 @@ categories: ["Entretien & Mecanique"]
 
 
 <p class="wp-block-paragraph"></p>
+<p class="wp-block-paragraph">👉 Pour une réparation de carrosserie à la résine, voir aussi <a href="https://modeme-automobiles.com/comment-reparer-votre-carrosserie-de-voiture-avec-la-resine-epoxy/">notre guide dédié</a>. Pour la protection carrosserie au global, notre <a href="https://modeme-automobiles.com/film-de-protection-carrosserie-utile-ou-gadget-pour-lautomobiliste-moderne/">guide complet</a>.</p>
+
+

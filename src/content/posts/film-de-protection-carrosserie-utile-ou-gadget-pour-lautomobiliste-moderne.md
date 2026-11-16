@@ -711,7 +711,44 @@ footer a:hover { text-decoration:underline; }
 <section style="background:var(--white);">
   <div class="si">
     <p class="s-label">Questions fréquentes</p>
-    <h2 class="s-title" style="margin-bottom:44px;">Questions fréquentes sur le film de protection carrosserie</h2>
+    <h2 class="wp-block-heading">Pour aller plus loin</h2>
+
+<h3 class="wp-block-heading">PPF & films de protection</h3>
+<ul class="wp-block-list">
+<li><a href="https://modeme-automobiles.com/comment-poser-un-film-ppf-soi-meme-guide-expert-pour-reussir-la-protection-de-votre-carrosserie/">Comment poser un film PPF soi-même : guide complet et prix</a></li>
+<li><a href="https://modeme-automobiles.com/film-anti-gravillons-voiture-une-protection-vraiment-utile-sur-autoroute-lete/">Film anti gravillons voiture</a></li>
+</ul>
+
+<h3 class="wp-block-heading">Rayures & aspect neuf</h3>
+<ul class="wp-block-list">
+<li><a href="https://modeme-automobiles.com/micro-rayures-voiture-comment-les-eviter-et-proteger-votre-carrosserie-durablement/">Micro-rayures voiture</a></li>
+<li><a href="https://modeme-automobiles.com/comment-conserver-laspect-neuf-de-votre-voiture/">Entretien carrosserie voiture : conserver l’aspect neuf</a></li>
+<li><a href="https://modeme-automobiles.com/7-accessoires-indispensables-pour-proteger-sa-carrosserie-et-garder-votre-voiture-comme-neuve/">7 Accessoires Indispensables pour Protéger la Carrosserie</a></li>
+</ul>
+
+<h3 class="wp-block-heading">Intempéries & saisons</h3>
+<ul class="wp-block-list">
+<li><a href="https://modeme-automobiles.com/comment-proteger-votre-voiture-des-intemperies-astuces-et-conseils-pratiques/">Comment protéger votre voiture des intempéries</a></li>
+<li><a href="https://modeme-automobiles.com/affrontez-lhiver-5-protections-incontournables-contre-le-sel-et-le-froid/">Affrontez l’hiver avec une couverture voiture hiver adaptée</a></li>
+<li><a href="https://modeme-automobiles.com/mettre-sa-voiture-a-labri-du-printemps-guide-passionne-pour-une-protection-carrosserie-efficace/">Housse voiture extérieur : mettre sa voiture à l’abri au printemps</a></li>
+<li><a href="https://modeme-automobiles.com/comment-proteger-efficacement-sa-voiture-de-la-chaleur-estivale/">Comment protéger efficacement sa voiture de la chaleur estivale ?</a></li>
+</ul>
+
+<h3 class="wp-block-heading">Films solaires</h3>
+<ul class="wp-block-list">
+<li><a href="https://modeme-automobiles.com/film-solaire-voiture-comparatif-et-guide-pour-choisir-le-bon-modele/">Film solaire voiture</a></li>
+<li><a href="https://modeme-automobiles.com/film-solaire-ceramique-ou-teinte-standard-le-guide-ultime-pour-choisir-la-meilleure-protection-de-vitres/">Film solaire céramique ou teinté standard</a></li>
+</ul>
+
+<h3 class="wp-block-heading">Réparation carrosserie & vitres</h3>
+<ul class="wp-block-list">
+<li><a href="https://modeme-automobiles.com/comment-reparer-votre-carrosserie-de-voiture-avec-la-resine-epoxy/">Comment réparer votre carrosserie de voiture avec la résine</a></li>
+<li><a href="https://modeme-automobiles.com/que-faire-si-une-vitre-laterale-de-votre-voiture-est-cassee/">Bris de glace voiture : que faire si une vitre latérale est cassée ?</a></li>
+</ul>
+
+
+
+<h2 class="s-title" style="margin-bottom:44px;">Questions fréquentes sur le film de protection carrosserie</h2>
     <div class="faq-list">
 
       <div class="faq-item">

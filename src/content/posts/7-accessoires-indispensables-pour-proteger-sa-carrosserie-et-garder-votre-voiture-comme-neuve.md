@@ -1280,14 +1280,14 @@ categories: ["Accessoire | équipement"]
       </ul>
       <p style="font-size:0.9rem;"><strong>Avant de poser la housse</strong>, vérifiez toujours que la carrosserie est propre et sèche — un grain de sable emprisonné sous la housse peut provoquer des micro-rayures en cas de vent.</p>
       <!-- LIEN INTERNE : housses de siège -->
-      <a href="https://modeme-automobiles.com/comment-choisir-les-meilleures-housses-de-siege-pour-votre-vehicule/" class="internal-link-block" target="_blank" rel="noopener">
+      
         <span class="internal-link-icon">🪑</span>
         <div class="internal-link-text">
           <div class="internal-link-label">À lire aussi sur Modeme</div>
           <div class="internal-link-title">Comment choisir les meilleures housses de siège pour votre véhicule ?</div>
         </div>
         <span class="internal-link-arrow">→</span>
-      </a>
+      
     </div>
     <div>
       <h4>Comment choisir selon l&rsquo;environnement de stationnement</h4>
@@ -1507,14 +1507,14 @@ categories: ["Accessoire | équipement"]
         <img decoding="async" class="img-section" style="height:220px;" src="https://images.unsplash.com/photo-1485291571150-772bcfc10da5?w=700&#038;q=80" alt="Tapis de coffre PVC sur mesure protection intérieure" loading="lazy" title="">
       </div>
       <!-- LIEN INTERNE : accessoires intérieur -->
-      <a href="https://modeme-automobiles.com/accessoire-voiture-interieur-ameliorez-votre-confort-au-quotidien/" class="internal-link-block" target="_blank" rel="noopener">
+      
         <span class="internal-link-icon">🚗</span>
         <div class="internal-link-text">
           <div class="internal-link-label">À lire aussi sur Modeme</div>
           <div class="internal-link-title">Accessoires voiture intérieur : améliorez votre confort au quotidien</div>
         </div>
         <span class="internal-link-arrow">→</span>
-      </a>
+      
     </div>
     <div>
       <h4>Seuils de chargement</h4>
@@ -1801,8 +1801,11 @@ categories: ["Accessoire | équipement"]
 ═══════════════════════════════════════════ -->
 <section id="faq">
   <div class="section-label">Section 12</div>
-  <p class="wp-block-paragraph">👉 Envie de confort et de style en plus de la protection ? Consultez aussi <a href="https://modeme-automobiles.com/accessoire-voiture-homme-les-indispensables-pour-un-voyage-plus-confortable-et-style/">notre sélection d&rsquo;accessoires indispensables pour voyager confortablement</a>.</p>
-<p class="wp-block-paragraph">👉 Si votre carrosserie a déjà subi des dommages (rayures, petits impacts), découvrez aussi <a href="https://modeme-automobiles.com/comment-reparer-votre-carrosserie-de-voiture-avec-la-resine-epoxy/">comment réparer votre carrosserie avec la résine époxy</a>.</p>
+  <p class="wp-block-paragraph">👉 Envie de confort et de style en plus de la protection ? Consultez aussi notre sélection d&rsquo;accessoires indispensables pour voyager confortablement.</p>
+<p class="wp-block-paragraph">👉 Si votre carrosserie a déjà subi des dommages (rayures, petits impacts), découvrez aussi comment réparer votre carrosserie avec la résine époxy.</p>
+<p class="wp-block-paragraph">👉 Pour éviter les micro-rayures au quotidien, voir aussi <a href="https://modeme-automobiles.com/micro-rayures-voiture-comment-les-eviter-et-proteger-votre-carrosserie-durablement/">notre article dédié</a>. Pour une protection durable, notre <a href="https://modeme-automobiles.com/film-de-protection-carrosserie-utile-ou-gadget-pour-lautomobiliste-moderne/">guide du film de protection carrosserie</a>.</p>
+
+
 <h2>Questions fréquentes sur<br>la protection carrosserie 2026</h2>
   <div class="faq-list">
     <div class="faq-item">

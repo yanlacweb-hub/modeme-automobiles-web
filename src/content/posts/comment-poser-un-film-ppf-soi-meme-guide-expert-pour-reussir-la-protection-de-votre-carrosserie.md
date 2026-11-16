@@ -113,6 +113,9 @@ categories: ["Accessoire | équipement"]
 
 <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2024/09/film-potection-carrosserie-voiture-ppf.webp" alt="film protection carrosserie voiture ppf" class="wp-image-526" style="aspect-ratio:16/9;object-fit:cover" srcset="/wp-content/uploads/2024/09/film-potection-carrosserie-voiture-ppf.webp 1024w, /wp-content/uploads/2024/09/film-potection-carrosserie-voiture-ppf-300x300.webp 300w, /wp-content/uploads/2024/09/film-potection-carrosserie-voiture-ppf-768x768.webp 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
+<p class="wp-block-paragraph">👉 Pour protéger aussi l&rsquo;avant de votre véhicule sur autoroute, voir notre article sur le <a href="https://modeme-automobiles.com/film-anti-gravillons-voiture-une-protection-vraiment-utile-sur-autoroute-lete/">film anti-gravillons</a>. Pour tout savoir sur le PPF, notre <a href="https://modeme-automobiles.com/film-de-protection-carrosserie-utile-ou-gadget-pour-lautomobiliste-moderne/">guide complet</a>.</p>
+
+
 <h2 class="wp-block-heading">Questions fréquentes sur la pose du film PPF</h2>
 
 <p class="wp-block-paragraph"><strong>Peut-on vraiment poser un film PPF soi-même ?</strong></p>
@@ -133,4 +136,4 @@ categories: ["Accessoire | équipement"]
 <p class="wp-block-paragraph"><strong>Quel est le prix d'une pose de film PPF ?</strong></p>
 <p class="wp-block-paragraph">Comptez environ 500 € pour une protection pare-chocs + phares + rétroviseurs, 1 500 € pour un kit frontal complet, et entre 4 000 et 7 000 € pour une protection totale (full body) en atelier. En posant soi-même, seul le coût du film (80 à 100 €/m²) et des outils reste à votre charge.</p>
 
-<p class="wp-block-paragraph">👉 Pour choisir le bon film selon votre projet : <a href="/film-solaire-ceramique-ou-teinte-standard-le-guide-ultime-pour-choisir-la-meilleure-protection-de-vitres/">film solaire céramique ou teinté standard</a>, et <a href="/les-differents-types-de-films-de-covering-lequel-choisir-pour-votre-projet/">les différents types de films de covering</a>. Les outils de pose complets sont disponibles sur <a href="https://fleasting.com" target="_blank" rel="noopener">fleasting.com</a>.</p>
+<p class="wp-block-paragraph">👉 Pour choisir le bon film selon votre projet : film solaire céramique ou teinté standard, et les différents types de films de covering. Les outils de pose complets sont disponibles sur <a href="https://fleasting.com" target="_blank" rel="noopener">fleasting.com</a>.</p>
