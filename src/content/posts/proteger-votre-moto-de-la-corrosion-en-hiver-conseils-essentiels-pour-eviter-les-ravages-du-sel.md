@@ -189,11 +189,14 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Pour aller plus loin, découvrez <strong>les bonnes pratiques pour circuler à moto</strong> en toutes saisons, afin d&rsquo;améliorer votre sécurité et celle des autres usagers. <a href="https://modeme-automobiles.com/les-bonnes-pratiques-pour-circuler-a-moto/">Lire l&rsquo;article ici</a>.</p>
+<p class="wp-block-paragraph">Pour aller plus loin, découvrez <strong>les bonnes pratiques pour circuler à moto</strong> en toutes saisons, afin d&rsquo;améliorer votre sécurité et celle des autres usagers. Lire l&rsquo;article ici.</p>
 
 
 
 <p class="wp-block-paragraph"></p>
-<p class="wp-block-paragraph">👉 Pensez aussi à votre propre équipement avec <a href="https://modeme-automobiles.com/equipements-moto-pour-lhiver-bien-sequiper-pour-affronter-la-saison-froide/">notre guide des équipements moto pour l'hiver</a>. Pour le contrôle technique moto, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+<p class="wp-block-paragraph">👉 Pensez aussi à votre propre équipement avec notre guide des équipements moto pour l'hiver. Pour le contrôle technique moto, notre guide complet.</p>
+
+
+<p class="wp-block-paragraph">👉 Pensez aussi à votre propre équipement avec <a href="https://modeme-automobiles.com/equipements-moto-pour-lhiver-bien-sequiper-pour-affronter-la-saison-froide/">notre guide des équipements moto pour l&rsquo;hiver</a>. Pour le contrôle technique moto, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
 
 

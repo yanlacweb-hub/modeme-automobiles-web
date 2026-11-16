@@ -172,7 +172,7 @@ categories: ["2 roues"]
 <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/03/inspection-technique-moto-1024x683.jpg" alt="inspection technique moto" title=""></figure>
 </div>
 
-<p class="wp-block-paragraph">🛑 Tu veux connaître les risques en cas de non-respect? Consulte <a href="https://modeme-automobiles.com/comprendre-les-sanctions-liees-au-non-respect-du-controle-technique-moto/">cet article sur les sanctions liées au défaut de contrôle technique</a>.</p>
+<p class="wp-block-paragraph">🛑 Tu veux connaître les risques en cas de non-respect? Consulte cet article sur les sanctions liées au défaut de contrôle technique.</p>
 
 
 
@@ -200,36 +200,79 @@ categories: ["2 roues"]
 
 <h3 class="wp-block-heading">Équipement motard</h3>
 <ul class="wp-block-list">
+<li>Comment choisir votre casque de moto ?</li>
+<li>Guide des tailles</li>
+<li>Gants, bottes, protections… le guide complet des équipements</li>
+<li>Top 5 des antivols pour motos</li>
+<li>Voyager en moto</li>
+<li>Équipements moto pour l'hiver : bien s'équiper pour affronter la saison froide</li>
+</ul>
+
+<h3 class="wp-block-heading">Marques & enseignes</h3>
+<ul class="wp-block-list">
+<li>Dafy moto : un incontournable pour les passionnés de deux-roues</li>
+<li>Découverte de l’univers des motos Yamaha</li>
+<li>Guide d’achat : choisir sa première moto Yamaha</li>
+<li>Entretien des motos Yamaha</li>
+</ul>
+
+<h3 class="wp-block-heading">Contrôle technique</h3>
+<ul class="wp-block-list">
+<li>Sanctions pour non-respect du contrôle technique moto</li>
+</ul>
+
+<h3 class="wp-block-heading">Conduite & voyage à moto</h3>
+<ul class="wp-block-list">
+<li>Les bonnes pratiques pour circuler à moto</li>
+<li>Comprendre la distance de sécurité à moto pour une conduite sûre</li>
+<li>Voyager à moto : quels avantages et quelles astuces</li>
+</ul>
+
+<h3 class="wp-block-heading">Entretien moto</h3>
+<ul class="wp-block-list">
+<li>Protéger votre moto de la corrosion en hiver</li>
+</ul>
+
+<h3 class="wp-block-heading">2 roues électriques</h3>
+<ul class="wp-block-list">
+<li>Les 2 roues électriques : une révolution dans la mobilité urbaine</li>
+<li>Guide complet des motos électriques en 2027</li>
+<li>Entretien des deux-roues électriques</li>
+</ul>
+
+<p class="wp-block-paragraph">Retrouvez aussi tous nos articles moto &amp; 2 roues.</p>
+
+
+<h2 class="wp-block-heading">Pour aller plus loin</h2>
+
+<h3 class="wp-block-heading">Équipement motard</h3>
+<ul class="wp-block-list">
 <li><a href="https://modeme-automobiles.com/comment-choisir-votre-casque-de-moto/">Comment choisir votre casque de moto ?</a></li>
-<li><a href="https://modeme-automobiles.com/guide-des-tailles-comment-mesurer-votre-tete-pour-un-casque-moto-adapte/">Guide des tailles</a></li>
-<li><a href="https://modeme-automobiles.com/gants-bottes-protections-le-guide-complet-des-equipements-dafy-moto/">Gants, bottes, protections… le guide complet des équipements</a></li>
-<li><a href="https://modeme-automobiles.com/top-5-des-antivols-pour-motos-chaines/">Top 5 des antivols pour motos</a></li>
-<li><a href="https://modeme-automobiles.com/voyager-en-moto-les-10-accessoires-indispensables-pour-un-confort-optimal/">Voyager en moto</a></li>
+<li><a href="https://modeme-automobiles.com/guide-des-tailles-comment-mesurer-votre-tete-pour-un-casque-moto-adapte/">Guide des tailles de casque moto</a></li>
+<li><a href="https://modeme-automobiles.com/gants-bottes-protections-le-guide-complet-des-equipements-dafy-moto/">Équipement moto Dafy : gants, bottes, protections</a></li>
+<li><a href="https://modeme-automobiles.com/top-5-des-antivols-pour-motos-chaines/">Top 5 des antivols moto chaîne</a></li>
+<li><a href="https://modeme-automobiles.com/voyager-en-moto-les-10-accessoires-indispensables-pour-un-confort-optimal/">Équipement moto pour voyager : les 10 accessoires indispensables</a></li>
 <li><a href="https://modeme-automobiles.com/equipements-moto-pour-lhiver-bien-sequiper-pour-affronter-la-saison-froide/">Équipements moto pour l'hiver : bien s'équiper pour affronter la saison froide</a></li>
 </ul>
 
 <h3 class="wp-block-heading">Marques & enseignes</h3>
 <ul class="wp-block-list">
-<li><a href="https://modeme-automobiles.com/dafy-moto-un-incontournable-pour-les-passionnes-de-deux-roues/">Dafy moto : un incontournable pour les passionnés de deux-roues</a></li>
+<li><a href="https://modeme-automobiles.com/dafy-moto-un-incontournable-pour-les-passionnes-de-deux-roues/">Dafy moto avis : un incontournable pour les passionnés de deux-roues</a></li>
 <li><a href="https://modeme-automobiles.com/decouverte-de-lunivers-des-motos-yamaha-une-reference-incontournable/">Découverte de l’univers des motos Yamaha</a></li>
-<li><a href="https://modeme-automobiles.com/guide-dachat-choisir-sa-premiere-moto-yamaha-selon-son-style-de-conduite/">Guide d’achat : choisir sa première moto Yamaha</a></li>
+<li><a href="https://modeme-automobiles.com/guide-dachat-choisir-sa-premiere-moto-yamaha-selon-son-style-de-conduite/">Permis A2 : quelle moto Yamaha choisir pour débuter ?</a></li>
 <li><a href="https://modeme-automobiles.com/entretien-des-motos-yamaha-les-points-cles-a-verifier-regulierement/">Entretien des motos Yamaha</a></li>
 </ul>
 
-<h3 class="wp-block-heading">Contrôle technique</h3>
+<h3 class="wp-block-heading">Contrôle technique & réglementation</h3>
 <ul class="wp-block-list">
 <li><a href="https://modeme-automobiles.com/comprendre-les-sanctions-liees-au-non-respect-du-controle-technique-moto/">Sanctions pour non-respect du contrôle technique moto</a></li>
 </ul>
 
-<h3 class="wp-block-heading">Conduite & voyage à moto</h3>
+<h3 class="wp-block-heading">Conduite & voyage</h3>
 <ul class="wp-block-list">
 <li><a href="https://modeme-automobiles.com/les-bonnes-pratiques-pour-circuler-a-moto/">Les bonnes pratiques pour circuler à moto</a></li>
-<li><a href="https://modeme-automobiles.com/comprendre-la-distance-de-securite-a-moto-pour-une-conduite-sure/">Comprendre la distance de sécurité à moto pour une conduite sûre</a></li>
+<li><a href="https://modeme-automobiles.com/comprendre-la-distance-de-securite-a-moto-pour-une-conduite-sure/">Distance de sécurité et de freinage à moto : conduite sûre</a></li>
 <li><a href="https://modeme-automobiles.com/voyager-a-moto-quels-avantages-et-quelles-astuces-pour-reussir-laventure/">Voyager à moto : quels avantages et quelles astuces</a></li>
-</ul>
-
-<h3 class="wp-block-heading">Entretien moto</h3>
-<ul class="wp-block-list">
 <li><a href="https://modeme-automobiles.com/proteger-votre-moto-de-la-corrosion-en-hiver-conseils-essentiels-pour-eviter-les-ravages-du-sel/">Protéger votre moto de la corrosion en hiver</a></li>
 </ul>
 

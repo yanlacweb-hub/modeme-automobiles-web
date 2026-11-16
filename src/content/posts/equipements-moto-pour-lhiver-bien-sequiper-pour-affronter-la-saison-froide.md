@@ -52,7 +52,7 @@ categories: ["2 roues"]
 
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="2560" height="1707" src="/wp-content/uploads/2025/07/casque-moto-scaled.jpg" alt="casque de moto adapte pour rouler en hiver" title=""></figure>
 
-<p class="wp-block-paragraph">Cherchez un modèle spécifique moto : les bords sont dégagés, il couvre les oreilles entièrement, et il reste en place sous le casque sans décaler. Un vrai <a href="https://modeme-automobiles.com/comment-choisir-votre-casque-de-moto/">casque de moto adapté</a> devrait se porter normalement avec le bonnet sans forcer.</p>
+<p class="wp-block-paragraph">Cherchez un modèle spécifique moto : les bords sont dégagés, il couvre les oreilles entièrement, et il reste en place sous le casque sans décaler. Un vrai casque de moto adapté devrait se porter normalement avec le bonnet sans forcer.</p>
 
 <p class="wp-block-paragraph">Bonus important : un vrai système anti-buée intégré au casque (fine couche interne pinlock, ou ventilation interne) évite de perdre la visibilité quand le froid dehors rencontre votre respiration dedans.</p>
 
@@ -82,9 +82,12 @@ categories: ["2 roues"]
 
 <p class="wp-block-paragraph">La vraie différence n'est pas cosmétique : c'est la <strong>respirabilité</strong> (évite la condensation intérieure) et la <strong>doublure amovible</strong> (laisse adapter l'équipement printemps/automne/hiver). Un entrée de gamme à 700€ qui est du costume d'hiver pur devient inutilisable l'été. Un milieu de gamme à 1400€ avec doublure amovible, vous l'utilisez neuf mois par an.</p>
 
-<p class="wp-block-paragraph">Attention à la <strong>corrosion</strong> des matériaux en hiver : sel de route, humidité permanente. Un équipement de qualité résiste mieux à ces attaques chimiques — tout comme <a href="https://modeme-automobiles.com/proteger-votre-moto-de-la-corrosion-en-hiver-conseils-essentiels-pour-eviter-les-ravages-du-sel/">protéger sa moto de la corrosion en hiver</a> passe aussi par un entretien régulier de la mécanique.</p>
+<p class="wp-block-paragraph">Attention à la <strong>corrosion</strong> des matériaux en hiver : sel de route, humidité permanente. Un équipement de qualité résiste mieux à ces attaques chimiques — tout comme protéger sa moto de la corrosion en hiver passe aussi par un entretien régulier de la mécanique.</p>
 
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2025/12/conduire-sur-neige-equipement-securite-1.png-1024x683.jpg" alt="conduire a moto en hiver avec un equipement de securite adapte" title=""></figure>
+
+<p class="wp-block-paragraph">👉 Pensez aussi à protéger la moto elle-même avec notre article sur la corrosion en hiver. Pour le contrôle technique moto, voir notre guide complet.</p>
+
 
 <p class="wp-block-paragraph">👉 Pensez aussi à protéger la moto elle-même avec notre article sur <a href="https://modeme-automobiles.com/proteger-votre-moto-de-la-corrosion-en-hiver-conseils-essentiels-pour-eviter-les-ravages-du-sel/">la corrosion en hiver</a>. Pour le contrôle technique moto, voir notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
 

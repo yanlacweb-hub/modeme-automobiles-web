@@ -92,7 +92,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Avant toute visite, pensez à consulter <a class="" href="https://modeme-automobiles.com/entretien-des-motos-yamaha-les-points-cles-a-verifier-regulierement/">les points clés à vérifier régulièrement pour l’entretien des motos Yamaha</a>, un guide utile pour prolonger la durée de vie de votre deux-roues.<br></p>
+<p class="wp-block-paragraph">Avant toute visite, pensez à consulter les points clés à vérifier régulièrement pour l’entretien des motos Yamaha, un guide utile pour prolonger la durée de vie de votre deux-roues.<br></p>
 
 
 
@@ -120,7 +120,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Pour bien débuter, consultez ce <a class="" href="https://modeme-automobiles.com/guide-dachat-choisir-sa-premiere-moto-yamaha-selon-son-style-de-conduite/">guide d’achat pour choisir sa première moto Yamaha selon son style de conduite</a>.</p>
+<p class="wp-block-paragraph">Pour bien débuter, consultez ce guide d’achat pour choisir sa première moto Yamaha selon son style de conduite.</p>
 
 
 
@@ -134,7 +134,10 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">👉 Pour bien choisir sa première Yamaha, voir notre <a href="https://modeme-automobiles.com/guide-dachat-choisir-sa-premiere-moto-yamaha-selon-son-style-de-conduite/">guide d'achat dédié</a>. Pour le contrôle technique moto, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+<p class="wp-block-paragraph">👉 Pour bien choisir sa première Yamaha, voir notre guide d'achat dédié. Pour le contrôle technique moto, notre guide complet.</p>
+
+
+<p class="wp-block-paragraph">👉 Pour bien choisir sa première Yamaha, voir notre <a href="https://modeme-automobiles.com/guide-dachat-choisir-sa-premiere-moto-yamaha-selon-son-style-de-conduite/">guide dédié au permis A2</a>. Pour le contrôle technique moto, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
 
 
 <h2 class="wp-block-heading">FAQ sur l&rsquo;univers des motos Yamaha</h2>

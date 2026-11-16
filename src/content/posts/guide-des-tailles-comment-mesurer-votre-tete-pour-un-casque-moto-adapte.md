@@ -35,7 +35,7 @@ categories: ["Accessoire | équipement"]
 
 
 
-<p class="wp-block-paragraph">Optimiser votre confort et votre sécurité nécessite donc de <a href="https://modeme-automobiles.com/comment-choisir-votre-casque-de-moto/">bien choisir votre casque de moto</a>, en sélectionnant précisément la taille adaptée à votre morphologie. Chaque détail compte lors de la prise de mesure, notamment le <strong>tour de taille</strong> (ici le tour de tête en centimètres précisément), afin d&rsquo;assurer une pression uniforme autour de la tête. Que vous optiez pour un casque de route classique, une version sportive ou même un casque motocross, n’oubliez jamais de consulter le <strong>tableau des tailles</strong> correspondant afin de trouver précisément la taille idéale pour vous.</p>
+<p class="wp-block-paragraph">Optimiser votre confort et votre sécurité nécessite donc de bien choisir votre casque de moto, en sélectionnant précisément la taille adaptée à votre morphologie. Chaque détail compte lors de la prise de mesure, notamment le <strong>tour de taille</strong> (ici le tour de tête en centimètres précisément), afin d&rsquo;assurer une pression uniforme autour de la tête. Que vous optiez pour un casque de route classique, une version sportive ou même un casque motocross, n’oubliez jamais de consulter le <strong>tableau des tailles</strong> correspondant afin de trouver précisément la taille idéale pour vous.</p>
 
 
 
@@ -133,7 +133,10 @@ categories: ["Accessoire | équipement"]
 
 
 
-<p class="wp-block-paragraph">👉 Avant de choisir la taille, voyez aussi notre article sur <a href="https://modeme-automobiles.com/comment-choisir-votre-casque-de-moto/">comment choisir son casque de moto</a>. Pour le contrôle technique moto, consultez notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+<p class="wp-block-paragraph">👉 Avant de choisir la taille, voyez aussi notre article sur comment choisir son casque de moto. Pour le contrôle technique moto, consultez notre guide complet.</p>
+
+
+<p class="wp-block-paragraph">👉 Pour choisir le bon modèle avant de mesurer la taille, voyez notre article <a href="https://modeme-automobiles.com/comment-choisir-votre-casque-de-moto/">comment choisir son casque de moto</a>. Pour les démarches réglementaires, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide du contrôle technique moto</a>.</p>
 
 
 <h2 class="wp-block-heading">Questions fréquentes sur le choix et la mesure des casques moto</h2>
@@ -158,7 +161,7 @@ categories: ["Accessoire | équipement"]
 
 <h3 class="wp-block-heading">Existe-t-il des tailles spéciales pour les casques motocross par rapport aux casques de route?</h3>
 
-<p class="wp-block-paragraph">👉 Pour choisir le bon modèle avant de vérifier la taille, consultez aussi <a href="https://modeme-automobiles.com/comment-choisir-votre-casque-de-moto/">notre guide pour bien choisir votre casque de moto</a>.</p>
+<p class="wp-block-paragraph">👉 Pour choisir le bon modèle avant de vérifier la taille, consultez aussi notre guide pour bien choisir votre casque de moto.</p>
 
 
 

@@ -65,7 +65,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Avant de plonger dans les vérifications, découvrez <a class="" href="https://modeme-automobiles.com/decouverte-de-lunivers-des-motos-yamaha-une-reference-incontournable/">l’univers des motos Yamaha, une référence incontournable</a> pour mieux comprendre ce qui fait leur réputation et leurs spécificités techniques.</p>
+<p class="wp-block-paragraph">Avant de plonger dans les vérifications, découvrez l’univers des motos Yamaha, une référence incontournable pour mieux comprendre ce qui fait leur réputation et leurs spécificités techniques.</p>
 
 
 
@@ -223,7 +223,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Un entretien rigoureux, incluant les opérations de <strong>vidange</strong>, les contrôles de <strong>niveaux</strong>, la surveillance des <strong>joints</strong> et des <strong>fuites</strong>, vous assure une conduite plus fluide et sécurisée. Une moto bien suivie, avec les bons réflexes d’entretien, consommera moins, sera plus fiable, et durera plus longtemps – pour quelques <strong>litres</strong> d’huile bien choisis, vous évitez bien des tracas. Pour aller plus loin, consultez ce <a class="" href="https://modeme-automobiles.com/guide-dachat-choisir-sa-premiere-moto-yamaha-selon-son-style-de-conduite/">guide d’achat pour choisir votre première moto Yamaha selon votre style de conduite</a>.</p>
+<p class="wp-block-paragraph">Un entretien rigoureux, incluant les opérations de <strong>vidange</strong>, les contrôles de <strong>niveaux</strong>, la surveillance des <strong>joints</strong> et des <strong>fuites</strong>, vous assure une conduite plus fluide et sécurisée. Une moto bien suivie, avec les bons réflexes d’entretien, consommera moins, sera plus fiable, et durera plus longtemps – pour quelques <strong>litres</strong> d’huile bien choisis, vous évitez bien des tracas. Pour aller plus loin, consultez ce guide d’achat pour choisir votre première moto Yamaha selon votre style de conduite.</p>
 
 
 
@@ -233,7 +233,10 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">👉 Pour découvrir toute la gamme Yamaha, voir notre <a href="https://modeme-automobiles.com/decouverte-de-lunivers-des-motos-yamaha-une-reference-incontournable/">présentation de l'univers Yamaha</a>. Pour le contrôle technique moto, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
+<p class="wp-block-paragraph">👉 Pour découvrir toute la gamme Yamaha, voir notre présentation de l'univers Yamaha. Pour le contrôle technique moto, notre guide complet.</p>
+
+
+<p class="wp-block-paragraph">👉 Pour découvrir toute la gamme Yamaha, voir notre <a href="https://modeme-automobiles.com/decouverte-de-lunivers-des-motos-yamaha-une-reference-incontournable/">présentation de l&rsquo;univers Yamaha</a>. Pour le contrôle technique moto, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>
 
 
 <h2 class="wp-block-heading">Questions fréquentes autour de l&rsquo;entretien des motos Yamaha</h2>

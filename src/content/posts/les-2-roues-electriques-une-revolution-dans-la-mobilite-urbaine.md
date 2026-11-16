@@ -68,7 +68,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Pour découvrir les modèles de motos électriques les plus performants en 2025 et leurs autonomies, consultez ce <a class="" href="https://modeme-automobiles.com/guide-complet-des-motos-electriques-modeles-performances-et-autonomie/">guide complet</a>.</p>
+<p class="wp-block-paragraph">Pour découvrir les modèles de motos électriques les plus performants en 2025 et leurs autonomies, consultez ce guide complet.</p>
 
 
 
@@ -141,7 +141,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Pour prolonger efficacement la durée de vie de votre deux-roues électrique, retrouvez nos <a class="" href="https://modeme-automobiles.com/entretien-des-deux-roues-electriques-conseils-pour-prolonger-la-duree-de-vie-de-votre-vehicule/">conseils d’entretien ici</a>.</p>
+<p class="wp-block-paragraph">Pour prolonger efficacement la durée de vie de votre deux-roues électrique, retrouvez nos conseils d’entretien ici.</p>
 
 
 
@@ -149,6 +149,9 @@ categories: ["2 roues"]
 <iframe loading="lazy" title="Acheter un deux-roues électrique: les conseils et les coulisses" width="1170" height="658" src="https://www.youtube.com/embed/cJZ1bwebNi0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
+
+
+<p class="wp-block-paragraph">👉 Pour aller plus loin, voir aussi notre guide complet des motos électriques. Pour le contrôle technique des 2 roues, notre guide complet.</p>
 
 
 <p class="wp-block-paragraph">👉 Pour aller plus loin, voir aussi notre <a href="https://modeme-automobiles.com/guide-complet-des-motos-electriques-modeles-performances-et-autonomie/">guide complet des motos électriques</a>. Pour le contrôle technique des 2 roues, notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet</a>.</p>

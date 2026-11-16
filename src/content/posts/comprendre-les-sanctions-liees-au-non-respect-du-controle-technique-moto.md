@@ -35,7 +35,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">🔍 Pour découvrir en détail les points examinés lors d’un contrôle, consultez <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">cet article complet sur les points de contrôle essentiels</a>.</p>
+<p class="wp-block-paragraph">🔍 Pour découvrir en détail les points examinés lors d’un contrôle, consultez cet article complet sur les points de contrôle essentiels.</p>
 
 
 
@@ -139,11 +139,14 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">📘 Pour mieux comprendre le cadre réglementaire du contrôle technique des deux-roues en France, consultez <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">ce guide pratique et à jour</a>.</p>
+<p class="wp-block-paragraph">📘 Pour mieux comprendre le cadre réglementaire du contrôle technique des deux-roues en France, consultez ce guide pratique et à jour.</p>
 
 
 
-<p class="wp-block-paragraph">👉 Pour bien préparer votre contrôle technique, consultez aussi <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">notre guide des équipements Dafy pour une moto au top</a>.</p>
+<p class="wp-block-paragraph">👉 Pour bien préparer votre contrôle technique, consultez aussi notre guide des équipements Dafy pour une moto au top.</p>
+
+<p class="wp-block-paragraph">👉 Retrouvez toutes les informations sur les dates et obligations dans notre <a href="https://modeme-automobiles.com/tout-savoir-sur-le-controle-technique-des-2-roues-en-france/">guide complet du contrôle technique moto</a>.</p>
+
 
 <h2 class="wp-block-heading">FAQ: comprendre les conséquences du non-respect du contrôle technique moto</h2>
 
