@@ -35,7 +35,7 @@ categories: ["covering |racing"]
 
 
 
-<p class="wp-block-paragraph">Avant de vous lancer dans un projet racing ou homologué, il est essentiel de maîtriser les fondamentaux de la discipline. Retrouvez un&nbsp;<a href="https://modeme-automobiles.com/quest-ce-que-le-covering-voiture/">guide complet sur le covering voiture</a>&nbsp;— matériaux, techniques de pose et conseils de professionnel — pour poser des bases solides avant d&rsquo;aborder la dimension réglementaire.</p>
+<p class="wp-block-paragraph">Avant de vous lancer dans un projet racing ou homologué, il est essentiel de maîtriser les fondamentaux de la discipline. Retrouvez un&nbsp;guide complet sur le covering voiture&nbsp;— matériaux, techniques de pose et conseils de professionnel — pour poser des bases solides avant d&rsquo;aborder la dimension réglementaire.</p>
 
 
 
