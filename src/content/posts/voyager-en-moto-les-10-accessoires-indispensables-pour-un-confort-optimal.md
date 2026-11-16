@@ -1,6 +1,6 @@
 ---
 postSlug: "voyager-en-moto-les-10-accessoires-indispensables-pour-un-confort-optimal"
-title: "Voyager en moto"
+title: "Équipement moto pour voyager : les 10 accessoires indispensables"
 description: "Préparez votre prochaine aventure à moto avec ces 10 accessoires incontournables ! Casque, gants, blouson."
 pubDate: "2025-03-19T14:49:31"
 updatedDate: "2026-03-04T23:06:02"

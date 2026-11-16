@@ -1,6 +1,6 @@
 ---
 postSlug: "comprendre-la-distance-de-securite-a-moto-pour-une-conduite-sure"
-title: "Comprendre la distance de sécurité à moto pour une conduite sûre"
+title: "Distance de sécurité et de freinage à moto : conduite sûre"
 description: "Apprenez à calculer la distance de sécurité idéale à moto pour rouler en toute sécurité. Découvrez les facteurs clés comme le temps de réaction."
 pubDate: "2025-03-18T10:19:50"
 updatedDate: "2026-03-04T07:36:23"

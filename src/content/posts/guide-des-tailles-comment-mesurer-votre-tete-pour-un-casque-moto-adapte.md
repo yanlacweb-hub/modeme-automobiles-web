@@ -1,6 +1,6 @@
 ---
 postSlug: "guide-des-tailles-comment-mesurer-votre-tete-pour-un-casque-moto-adapte"
-title: "Guide des tailles"
+title: "Guide des tailles de casque moto"
 description: "Découvrez comment mesurer précisément votre tête pour choisir la taille parfaite de votre casque moto. Guide pratique, conseils et erreurs à éviter !"
 pubDate: "2025-03-20T10:25:28"
 updatedDate: "2025-03-20T10:50:11"

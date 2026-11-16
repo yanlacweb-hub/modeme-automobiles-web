@@ -1,6 +1,6 @@
 ---
 postSlug: "dafy-moto-un-incontournable-pour-les-passionnes-de-deux-roues"
-title: "Dafy moto : un incontournable pour les passionnés de deux-roues"
+title: "Dafy moto avis : un incontournable pour les passionnés de deux-roues"
 description: "Découvrez Dafy Moto, votre référence en équipements, motos d'occasion et service après-vente en France."
 pubDate: "2025-03-26T15:30:27"
 updatedDate: "2026-03-04T07:46:29"

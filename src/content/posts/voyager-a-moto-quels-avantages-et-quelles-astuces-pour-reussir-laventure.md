@@ -19,7 +19,7 @@ categories: ["2 roues"]
 ---
 
 
-<p class="wp-block-paragraph">Voyager seul ou en compagnie de proches pendant un week-end ou à tout autre moment peut être une activité enrichissante pour découvrir de nouveaux horizons. Pour gagner en autonomie et profiter pleinement de cette aventure, plusieurs <strong>modes de transport</strong> s&rsquo;offrent à vous.</p>
+<p class="wp-block-paragraph">Voyager à moto, seul ou en compagnie de proches pendant un week-end ou à tout autre moment, peut être une activité enrichissante pour découvrir de nouveaux horizons. Pour gagner en autonomie et profiter pleinement de cette aventure, plusieurs <strong>modes de transport</strong> s&rsquo;offrent à vous.</p>
 
 
 
@@ -35,7 +35,7 @@ categories: ["2 roues"]
 
 
 
-<h2 class="wp-block-heading"><strong>Pour quelles raisons choisir cette option&nbsp;?</strong></h2>
+<h2 class="wp-block-heading">Pourquoi voyager à moto&nbsp;?</h2>
 
 
 
