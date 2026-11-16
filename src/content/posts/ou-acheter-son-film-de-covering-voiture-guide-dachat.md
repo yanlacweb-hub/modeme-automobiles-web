@@ -19,7 +19,22 @@ categories: ["covering |racing"]
 ---
 
 
-<p class="wp-block-paragraph">Une fois le style choisi — mat, caméléon, carbone ou camouflage — reste une question toute simple mais décisive&nbsp;: <strong>où acheter son film de covering</strong>&nbsp;sans se retrouver avec un vinyle qui jaunit ou se décolle au premier lavage haute pression&nbsp;? Le rendu final d'un covering dépend autant de la pose que de la qualité du film lui-même. Voici comment s'y retrouver.</p>
+<style>
+.fl-cta-banner { background:var(--gold, #c9a84c); padding:40px; display:flex; align-items:center; justify-content:space-between; gap:24px; flex-wrap:wrap; border-radius:6px; margin: 2rem 0; }
+.fl-cta-banner h3 { font-size:24px; color:#fff; font-weight:700; margin-bottom:6px; }
+.fl-cta-banner p { font-size:15px; color:rgba(255,255,255,0.85); font-weight:300; margin:0; }
+.fl-btn-white { background:#fff; color:var(--gold, #c9a84c); padding:14px 32px; border-radius:3px; font-size:14px; font-weight:600; text-decoration:none; letter-spacing:0.04em; white-space:nowrap; transition:all 0.2s; display:inline-block; }
+.fl-btn-white:hover { background:#f5f0e6; }
+@media (max-width: 600px) { .fl-cta-banner { padding:28px 20px; } }
+</style>
+
+
+<p class="wp-block-paragraph"><strong>Fleasting</strong> est le partenaire que nous recommandons pour tout achat de film de covering voiture. Spécialiste français du film adhésif et de la personnalisation automobile, Fleasting propose un catalogue complet, structuré par finition et par usage&nbsp;: mat, brillant, carbone, chrome, camouflage, effet caméléon, protection PPF, outils de pose et produits d'entretien.</p>
+
+<div class="fl-cta-banner">
+<div><h3>Fleasting, le spécialiste du covering</h3><p>Films mat, brillant, caméléon, camouflage, PPF et outils de pose — livraison partout en France.</p></div>
+<a href="https://fleasting.com/" target="_blank" rel="noopener nofollow" class="fl-btn-white">Voir le catalogue →</a>
+</div>
 
 
 <!--more-->

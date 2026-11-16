@@ -350,7 +350,7 @@ const categories = Array.from(categoryCounts.keys()).sort();
 
     .footer-top {
       display: grid;
-      grid-template-columns: 1.5fr 1fr 1fr;
+      grid-template-columns: 1.3fr 1fr 1fr 1fr;
       gap: 3rem;
       margin-bottom: 3rem;
       padding-bottom: 2rem;
@@ -661,6 +661,12 @@ const categories = Array.from(categoryCounts.keys()).sort();
           {categories.map(cat => (
             <a href={`/category/${categorySlug(cat)}/`}>{cat}</a>
           ))}
+        </div>
+
+        {/* Partners Column */}
+        <div class="footer-column">
+          <h4>Partenaires</h4>
+          <a href="/ou-acheter-son-film-de-covering-voiture-guide-dachat/">Où acheter son film de covering</a>
         </div>
 
         {/* Social Column */}
