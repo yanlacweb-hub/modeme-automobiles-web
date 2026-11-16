@@ -151,6 +151,9 @@ categories: ["covering |racing"]
 
 <p class="wp-block-paragraph">👉 Pour un usage plus sportif, comparez aussi les meilleurs films pour un covering racing.</p>
 
+<p class="wp-block-paragraph">👉 Pour une vue d'ensemble du covering (définition, pose, budget, légalité), consultez notre <a href="https://modeme-automobiles.com/quest-ce-que-le-covering-voiture/">guide complet du covering voiture</a>. Et pour savoir concrètement <a href="https://modeme-automobiles.com/ou-acheter-son-film-de-covering-voiture-guide-dachat/">où acheter son film de covering</a>, on vous dit tout.</p>
+
+
 <h2 class="wp-block-heading">FAQ sur le choix des films de covering</h2>
 
 

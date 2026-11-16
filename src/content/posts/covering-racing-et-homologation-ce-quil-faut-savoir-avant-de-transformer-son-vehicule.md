@@ -249,6 +249,9 @@ categories: ["covering |racing"]
 
 
 
+<p class="wp-block-paragraph">👉 Pour une vue d'ensemble des règles et techniques du covering, retrouvez notre <a href="https://modeme-automobiles.com/quest-ce-que-le-covering-voiture/">guide complet</a>. Côté matériel, <a href="https://modeme-automobiles.com/ou-acheter-son-film-de-covering-voiture-guide-dachat/">voici où acheter un film adapté</a> à votre projet.</p>
+
+
 <h2 class="wp-block-heading">Questions fréquentes sur le covering racing, la réglementation et l&rsquo;homologation</h2>
 
 

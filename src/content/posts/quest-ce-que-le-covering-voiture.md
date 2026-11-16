@@ -1270,35 +1270,35 @@ Quelle finition choisir selon son véhicule ?
 <aside class="sidebar">
 <div class="sidebar-card dark">
 <div class="sidebar-card-header">Films disponibles sur Fleasting</div>
-<a href="https://fleasting.com" target="_blank" rel="noopener nofollow" class="sidebar-product">
+<a href="https://fleasting.com/116-film-iridesent-kpmf" target="_blank" rel="noopener nofollow" class="sidebar-product">
 <div class="product-dot" style="background: linear-gradient(135deg, #b44fde, #4f8ede, #de4f6e);"></div>
 <div>
 <strong>KPMF Caméléon</strong>
 <span>Effets spéciaux haut de gamme</span>
 </div>
 </a>
-<a href="https://fleasting.com" target="_blank" rel="noopener nofollow" class="sidebar-product">
+<a href="https://fleasting.com/39-covering-mat" target="_blank" rel="noopener nofollow" class="sidebar-product">
 <div class="product-dot" style="background: #1a1a1a; border-color: #444;"></div>
 <div>
 <strong>Vinyle Mat Noir</strong>
 <span>Le classique, coulé cast</span>
 </div>
 </a>
-<a href="https://fleasting.com" target="_blank" rel="noopener nofollow" class="sidebar-product">
+<a href="https://fleasting.com/21-covering-chrome" target="_blank" rel="noopener nofollow" class="sidebar-product">
 <div class="product-dot" style="background: linear-gradient(135deg, #c0c0d0, #e8e8f0); border-color: #aaa;"></div>
 <div>
 <strong>Chrome / Métallisé</strong>
 <span>Avery Dennison Supreme</span>
 </div>
 </a>
-<a href="https://fleasting.com" target="_blank" rel="noopener nofollow" class="sidebar-product">
+<a href="https://fleasting.com/73-film-protection-carrosserie-" target="_blank" rel="noopener nofollow" class="sidebar-product">
 <div class="product-dot" style="background: linear-gradient(135deg, #e8e4e0, #d0ccc6);"></div>
 <div>
 <strong>PPF Transparent</strong>
 <span>Protection maximale</span>
 </div>
 </a>
-<a href="https://fleasting.com" target="_blank" rel="noopener nofollow" class="sidebar-cta-btn">Voir tous les films →</a>
+<a href="https://fleasting.com/12-film-covering" target="_blank" rel="noopener nofollow" class="sidebar-cta-btn">Voir tous les films →</a>
 </div>
 
 <div class="sidebar-card">
@@ -1306,6 +1306,19 @@ Quelle finition choisir selon son véhicule ?
 <div class="sidebar-toc">
 <a href="https://modeme-automobiles.com/poser-le-covering-voiture-soi-meme-comment-proceder/">Poser un covering soi-même</a>
 <a href="https://modeme-automobiles.com/combien-de-temps-dure-un-covering-voiture/">Durée de vie d&rsquo;un covering</a>
+<a href="https://modeme-automobiles.com/les-differents-types-de-films-de-covering-lequel-choisir-pour-votre-projet/">Les différents types de films</a>
+<a href="https://modeme-automobiles.com/les-outils-indispensables-pour-une-pose-de-covering-reussie/">Les outils indispensables</a>
+<a href="https://modeme-automobiles.com/covering-mat-ou-brillant-le-duel-des-styles-pour-votre-voiture/">Mat ou brillant : quel style ?</a>
+<a href="https://modeme-automobiles.com/covering-cameleon-voiture-la-metamorphose-esthetique-qui-sublime-2026/">Covering caméléon</a>
+<a href="https://modeme-automobiles.com/covering-voiture-camouflage-tout-ce-que-vous-devez-savoir/">Covering camouflage</a>
+<a href="https://modeme-automobiles.com/covering-interieur-la-nouvelle-tendance-2026-pour-une-personnalisation-haut-de-gamme/">Covering intérieur</a>
+<a href="https://modeme-automobiles.com/nettoyer-et-entretenir-le-film-de-covering-de-votre-vehicule/">Entretenir son covering</a>
+<a href="https://modeme-automobiles.com/covering-tableau-de-bord-maitriser-les-risques-et-reussir-sa-pose-avec-les-bonnes-astuces/">Covering tableau de bord</a>
+<a href="https://modeme-automobiles.com/covering-racing-et-homologation-ce-quil-faut-savoir-avant-de-transformer-son-vehicule/">Covering racing et homologation</a>
+<a href="https://modeme-automobiles.com/peinture-ou-covering-le-duel-ultime-pour-sublimer-et-proteger-votre-carrosserie/">Peinture ou covering ?</a>
+<a href="https://modeme-automobiles.com/ppf-ou-covering-quelle-solution-choisir-pour-proteger-et-personnaliser-la-carrosserie/">PPF ou covering ?</a>
+<a href="https://modeme-automobiles.com/ou-acheter-son-film-de-covering-voiture-guide-dachat/">Où acheter son film de covering</a>
+<a href="https://modeme-automobiles.com/category/covering-racing/">Tous les articles covering</a>
 </div>
 </div>
 
