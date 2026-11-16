@@ -159,12 +159,15 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Pour approfondir vos connaissances et découvrir d’autres conseils adaptés à la saison et à l’entretien automobile, consultez notre rubrique dédiée à la&nbsp;<a href="https://modeme-automobiles.com/category/conduite/">conduite</a>.</p>
+<p class="wp-block-paragraph">Pour approfondir vos connaissances et découvrir d’autres conseils adaptés à la saison et à l’entretien automobile, consultez notre rubrique dédiée à la&nbsp;conduite.</p>
 
 
 
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2026/01/ChatGPT-Image-13-nov.-2025-11_09_06-1024x683.png" alt="Éliminer buée pare-brise facilement" class="wp-image-2916" title="" srcset="/wp-content/uploads/2026/01/ChatGPT-Image-13-nov.-2025-11_09_06-1024x683.png 1024w, /wp-content/uploads/2026/01/ChatGPT-Image-13-nov.-2025-11_09_06-300x200.png 300w, /wp-content/uploads/2026/01/ChatGPT-Image-13-nov.-2025-11_09_06-768x512.png 768w, /wp-content/uploads/2026/01/ChatGPT-Image-13-nov.-2025-11_09_06.png 1536w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
+
+
+<p class="wp-block-paragraph">👉 Pour préparer votre voiture avant un long trajet, voir notre <a href="https://modeme-automobiles.com/comment-bien-preparer-sa-voiture-pour-lete-guide-complet-avant-le-depart-en-vacances/">check-list de départ en vacances</a>. Pour la révision générale, notre <a href="https://modeme-automobiles.com/les-revisions-automobiles-incontournables-pour-une-conduite-sans-souci/">guide complet</a>.</p>
 
 
 <h2 class="wp-block-heading">Questions fréquentes sur la buée dans la voiture</h2>

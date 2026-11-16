@@ -1154,7 +1154,7 @@ details[open] .faq-q-arrow{transform:rotate(180deg)}
 
   <div class="callout c-info">
     <span class="callout-ico">📖</span>
-    <div class="callout-body"><b>Pour aller plus loin</b>Découvrez pourquoi le carnet d&rsquo;entretien est bien plus qu&rsquo;un simple document administratif — et comment l&rsquo;utiliser à votre avantage lors d&rsquo;une vente ou d&rsquo;un litige : <a href="https://modeme-automobiles.com/carnet-dentretien-un-allie-indispensable-pour-la-longevite-de-votre-voiture/">Carnet d&rsquo;entretien : un allié indispensable pour la longévité de votre voiture →</a></div>
+    <div class="callout-body"><b>Pour aller plus loin</b>Découvrez pourquoi le carnet d&rsquo;entretien est bien plus qu&rsquo;un simple document administratif — et comment l&rsquo;utiliser à votre avantage lors d&rsquo;une vente ou d&rsquo;un litige : Carnet d&rsquo;entretien : un allié indispensable pour la longévité de votre voiture →</div>
   </div>
 </section>
 
@@ -1491,7 +1491,7 @@ details[open] .faq-q-arrow{transform:rotate(180deg)}
 
   <div class="callout c-info">
     <span class="callout-ico">🔍</span>
-    <div class="callout-body"><b>Pré-contrôle technique</b>En cas de doute, faites réaliser un pré-contrôle technique chez votre garagiste ou dans un centre-auto. Cette prestation, généralement facturée entre 20 et 30 euros, vous donne une vision claire des points à corriger avant de vous présenter au contrôle officiel. Consultez également le <a href="https://modeme-automobiles.com/carnet-dentretien-un-allie-indispensable-pour-la-longevite-de-votre-voiture/">carnet d&rsquo;entretien</a>, un allié indispensable pour la longévité de votre voiture.</div>
+    <div class="callout-body"><b>Pré-contrôle technique</b>En cas de doute, faites réaliser un pré-contrôle technique chez votre garagiste ou dans un centre-auto. Cette prestation, généralement facturée entre 20 et 30 euros, vous donne une vision claire des points à corriger avant de vous présenter au contrôle officiel. Consultez également le carnet d&rsquo;entretien, un allié indispensable pour la longévité de votre voiture.</div>
   </div>
 </section>
 
@@ -1513,7 +1513,61 @@ details[open] .faq-q-arrow{transform:rotate(180deg)}
      ============================================================ -->
 <section class="section" id="faq">
   <span class="h2-accent"></span>
-  <h2>FAQ : vos questions sur la révision automobile</h2>
+  <h2 class="wp-block-heading">Pour aller plus loin</h2>
+
+<h3 class="wp-block-heading">Révision & suivi</h3>
+<ul class="wp-block-list">
+<li><a href="https://modeme-automobiles.com/carnet-dentretien-un-allie-indispensable-pour-la-longevite-de-votre-voiture/">Carnet d’entretien voiture</a></li>
+<li><a href="https://modeme-automobiles.com/revision-complete-de-votre-voiture-pourquoi-opter-pour-un-centre-auto-plutot-quun-garage/">Entretien et révision complète de votre voiture</a></li>
+<li><a href="https://modeme-automobiles.com/les-entretiens-a-ne-jamais-negliger-avant-lhiver-pour-votre-voiture/">Les entretiens à ne jamais négliger avant</a></li>
+</ul>
+
+<h3 class="wp-block-heading">Vidange & liquides</h3>
+<ul class="wp-block-list">
+<li><a href="https://modeme-automobiles.com/comment-choisir-la-frequence-ideale-de-vidange-pour-votre-voiture/">Fréquence idéale de vidange moteur : guide complet 2026</a></li>
+<li><a href="https://modeme-automobiles.com/les-consequences-dun-mauvais-entretien-des-liquides-automobiles-sur-la-securite-routiere/">Liquides automobiles</a></li>
+<li><a href="https://modeme-automobiles.com/limpact-dune-climatisation-mal-entretenue-sur-la-consommation-de-carburant/">Climatisation mal entretenue</a></li>
+</ul>
+
+<h3 class="wp-block-heading">Freinage</h3>
+<ul class="wp-block-list">
+<li><a href="https://modeme-automobiles.com/duree-de-vie-du-liquide-de-frein-combien-de-temps-avant-de-le-changer/">Durée de vie du liquide de frein : quand et comment le changer ?</a></li>
+<li><a href="https://modeme-automobiles.com/guide-complet-quand-remplacer-les-plaquettes-de-frein/">Quand remplacer ses plaquettes de frein ? Guide complet</a></li>
+</ul>
+
+<h3 class="wp-block-heading">Moteur</h3>
+<ul class="wp-block-list">
+<li><a href="https://modeme-automobiles.com/duree-de-vie-moteur-prolonger-la-longevite-de-votre-voiture-au-quotidien/">Durée de vie moteur : prolonger la longévité de votre voiture</a></li>
+<li><a href="https://modeme-automobiles.com/moteur-fatigue-8-signes-a-surveiller-pour-eviter-la-panne-fatale/">Moteur fatigué : 8 signes à surveiller pour éviter la panne</a></li>
+<li><a href="https://modeme-automobiles.com/entretien-des-moteurs-essence-conseils-pour-une-longevite-optimale/">Entretien des moteurs essence</a></li>
+<li><a href="https://modeme-automobiles.com/comment-le-nettoyage-du-systeme-dadmission-ameliore-les-performances-moteur/">Admission air moteur : nettoyer le système d’admission</a></li>
+</ul>
+
+<h3 class="wp-block-heading">Batterie, direction & éclairage</h3>
+<ul class="wp-block-list">
+<li><a href="https://modeme-automobiles.com/batterie-voiture-comment-survivre-a-lhiver-sans-tomber-en-panne/">Batterie voiture</a></li>
+<li><a href="https://modeme-automobiles.com/les-mysteres-des-systemes-de-direction-assistee-devoiles/">Système de direction assistée</a></li>
+<li><a href="https://modeme-automobiles.com/changement-dampoule-sur-une-voiture-quelques-elements-a-prendre-en-compte/">Changement d’ampoule sur une voiture</a></li>
+<li><a href="https://modeme-automobiles.com/eclairage-led-ameliorer-la-visibilite-lors-des-nuits-hivernales/">Éclairage LED voiture : améliorer la visibilité lors des nuits hivernales</a></li>
+<li><a href="https://modeme-automobiles.com/ampoules-led-pour-voitures-motos-et-camions-pourquoi-choisir-next-tech/">Ampoules LED pour voitures, motos et camions</a></li>
+</ul>
+
+<h3 class="wp-block-heading">Préparer un départ</h3>
+<ul class="wp-block-list">
+<li><a href="https://modeme-automobiles.com/comment-bien-preparer-sa-voiture-pour-lete-guide-complet-avant-le-depart-en-vacances/">Comment bien préparer sa voiture pour l’été</a></li>
+<li><a href="https://modeme-automobiles.com/fatigue-conducteur-en-ete-adopter-les-bons-reflexes-pour-des-vacances-en-toute-securite/">Fatigue au volant en été : les bons réflexes</a></li>
+<li><a href="https://modeme-automobiles.com/eviter-la-buee-dans-la-voiture-methodes-pratiques-pour-un-pare-brise-toujours-clair/">Éviter la buée dans la voiture</a></li>
+</ul>
+
+<h3 class="wp-block-heading">Apprendre la mécanique</h3>
+<ul class="wp-block-list">
+<li><a href="https://modeme-automobiles.com/comment-apprendre-la-mecanique-automobile/">Apprendre la mécanique automobile : le guide pour bien débuter</a></li>
+</ul>
+
+<p class="wp-block-paragraph">Retrouvez aussi <a href="https://modeme-automobiles.com/category/entretien/">tous nos articles entretien &amp; mécanique</a>.</p>
+
+
+<h2>FAQ : vos questions sur la révision automobile</h2>
 
   <ul class="faq-list">
 

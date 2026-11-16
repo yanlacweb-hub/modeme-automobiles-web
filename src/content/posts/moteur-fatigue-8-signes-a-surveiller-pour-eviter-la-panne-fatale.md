@@ -27,7 +27,7 @@ categories: ["conduite"]
 
 
 
-<h2 class="wp-block-heading">Reconnaître un moteur fatigué : les 8 signes qui ne trompent pas</h2>
+<h2 class="wp-block-heading">Reconnaître une panne moteur : les 8 signes qui ne trompent pas</h2>
 
 
 
@@ -199,12 +199,15 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">N’oubliez pas de jeter un coup d’œil à notre rubrique “<a href="https://modeme-automobiles.com/category/entretien/">Entretien &amp; Mécanique</a>”, une vraie mine d’informations pour prolonger la santé de votre moteur sans tomber dans la paranoïa. Le but réserve l’esprit tranquille sur la route, sans stress ni surprise technique de dernière minute.</p>
+<p class="wp-block-paragraph">N’oubliez pas de jeter un coup d’œil à notre rubrique “Entretien &amp; Mécanique”, une vraie mine d’informations pour prolonger la santé de votre moteur sans tomber dans la paranoïa. Le but réserve l’esprit tranquille sur la route, sans stress ni surprise technique de dernière minute.</p>
 
 
 
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2026/02/ChatGPT-Image-18-nov.-2025-13_21_13-1024x683.png" alt="Voyant moteur allumé alerte panne" class="wp-image-2981" title="" srcset="/wp-content/uploads/2026/02/ChatGPT-Image-18-nov.-2025-13_21_13-1024x683.png 1024w, /wp-content/uploads/2026/02/ChatGPT-Image-18-nov.-2025-13_21_13-300x200.png 300w, /wp-content/uploads/2026/02/ChatGPT-Image-18-nov.-2025-13_21_13-768x512.png 768w, /wp-content/uploads/2026/02/ChatGPT-Image-18-nov.-2025-13_21_13.png 1536w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
+
+
+<p class="wp-block-paragraph">👉 Pour prolonger la durée de vie de votre moteur au quotidien, voir <a href="https://modeme-automobiles.com/duree-de-vie-moteur-prolonger-la-longevite-de-votre-voiture-au-quotidien/">notre article dédié</a>. Pour la révision voiture complète, notre <a href="https://modeme-automobiles.com/les-revisions-automobiles-incontournables-pour-une-conduite-sans-souci/">guide</a>.</p>
 
 
 <h2 class="wp-block-heading">Questions fréquentes sur les moteurs fatigués</h2>
@@ -323,4 +326,4 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">Pour aller plus loin sur la prévention et l’optimisation de votre véhicule, découvrez notre rubrique dédiée «&nbsp;<a href="https://modeme-automobiles.com/category/entretien/">Entretien &amp; Mécanique</a>&nbsp;». Votre moteur vous dira merci – et vos trajets n’en seront que plus sereins.</p>
+<p class="wp-block-paragraph">Pour aller plus loin sur la prévention et l’optimisation de votre véhicule, découvrez notre rubrique dédiée «&nbsp;Entretien &amp; Mécanique&nbsp;». Votre moteur vous dira merci – et vos trajets n’en seront que plus sereins.</p>

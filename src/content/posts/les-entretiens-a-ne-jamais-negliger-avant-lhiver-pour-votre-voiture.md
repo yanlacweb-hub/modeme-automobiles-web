@@ -175,7 +175,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph"><strong>Pour aller plus loin :</strong> un entretien hivernal efficace s&rsquo;inscrit dans une démarche de révisions régulières tout au long de l&rsquo;année. Retrouvez tous les contrôles essentiels dans notre guide de référence : <a href="https://modeme-automobiles.com/les-revisions-automobiles-incontournables-pour-une-conduite-sans-souci/"><strong>Les révisions automobiles incontournables pour une conduite sans souci</strong></a>.</p>
+<p class="wp-block-paragraph"><strong>Pour aller plus loin :</strong> un entretien hivernal efficace s&rsquo;inscrit dans une démarche de révisions régulières tout au long de l&rsquo;année. Retrouvez tous les contrôles essentiels dans notre guide de référence : <strong>Les révisions automobiles incontournables pour une conduite sans souci</strong>.</p>
 
 
 
@@ -415,6 +415,9 @@ categories: ["Entretien & Mecanique"]
 
 
 
+<p class="wp-block-paragraph">👉 Pensez aussi à vérifier votre <a href="https://modeme-automobiles.com/batterie-voiture-comment-survivre-a-lhiver-sans-tomber-en-panne/">batterie avant l&rsquo;hiver</a>. Pour la révision générale de votre voiture, notre <a href="https://modeme-automobiles.com/les-revisions-automobiles-incontournables-pour-une-conduite-sans-souci/">guide complet</a>.</p>
+
+
 <h2 class="wp-block-heading" id="faq">Questions fréquentes — entretien voiture hiver</h2>
 
 
@@ -521,4 +524,4 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Retrouvez l&rsquo;ensemble des contrôles à effectuer tout au long de l&rsquo;année dans notre guide de référence : <a href="https://modeme-automobiles.com/les-revisions-automobiles-incontournables-pour-une-conduite-sans-souci/"><strong>Les révisions automobiles incontournables pour une conduite sans souci</strong></a>.</p>
+<p class="wp-block-paragraph">Retrouvez l&rsquo;ensemble des contrôles à effectuer tout au long de l&rsquo;année dans notre guide de référence : <strong>Les révisions automobiles incontournables pour une conduite sans souci</strong>.</p>

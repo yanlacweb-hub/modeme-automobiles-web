@@ -71,7 +71,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph"><strong>À savoir :</strong> l&rsquo;entretien de la climatisation s&rsquo;inscrit dans un programme de révision automobile global. Pour ne rien oublier lors de vos contrôles, consultez notre guide complet : <a href="https://modeme-automobiles.com/les-revisions-automobiles-incontournables-pour-une-conduite-sans-souci/"><strong>Les révisions automobiles incontournables pour une conduite sans souci</strong></a></p>
+<p class="wp-block-paragraph"><strong>À savoir :</strong> l&rsquo;entretien de la climatisation s&rsquo;inscrit dans un programme de révision automobile global. Pour ne rien oublier lors de vos contrôles, consultez notre guide complet : <strong>Les révisions automobiles incontournables pour une conduite sans souci</strong></p>
 
 
 
@@ -341,6 +341,9 @@ categories: ["Entretien & Mecanique"]
 </div>
 
 
+<p class="wp-block-paragraph">👉 Pour les autres points d&rsquo;entretien à ne pas négliger, voir notre <a href="https://modeme-automobiles.com/les-revisions-automobiles-incontournables-pour-une-conduite-sans-souci/">guide complet de la révision voiture</a>.</p>
+
+
 <h2 class="wp-block-heading">FAQ : tout savoir sur l&rsquo;entretien de la climatisation auto</h2>
 
 
@@ -425,7 +428,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">👉&nbsp;<a href="https://modeme-automobiles.com/les-revisions-automobiles-incontournables-pour-une-conduite-sans-souci/">Les révisions automobiles incontournables pour une conduite sans souci</a></p>
+<p class="wp-block-paragraph">👉&nbsp;Les révisions automobiles incontournables pour une conduite sans souci</p>
 
 
 

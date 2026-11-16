@@ -27,7 +27,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<h2 class="wp-block-heading">Pourquoi le froid met-il nos batteries à genoux?</h2>
+<h2 class="wp-block-heading">Batterie voiture : pourquoi le froid la met-il à genoux ?</h2>
 
 
 
@@ -135,6 +135,9 @@ categories: ["Entretien & Mecanique"]
 
 
 
+<p class="wp-block-paragraph">👉 Pour les autres points à vérifier avant l&rsquo;hiver, voir notre <a href="https://modeme-automobiles.com/les-entretiens-a-ne-jamais-negliger-avant-lhiver-pour-votre-voiture/">checklist hivernale</a>. Pour la révision voiture complète, notre <a href="https://modeme-automobiles.com/les-revisions-automobiles-incontournables-pour-une-conduite-sans-souci/">guide</a>.</p>
+
+
 <h2 class="wp-block-heading">Questions fréquentes sur la batterie auto en hiver</h2>
 
 
@@ -231,4 +234,4 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph"><strong>En résumé</strong>, le froid n’est pas tendre avec la batterie de votre voiture. Mais avec les bons réflexes, un entretien rigoureux et un œil attentif aux premiers signaux de faiblesse, vous garderez l’avantage sur l’hiver. Prévenez la panne, profitez sereinement de chaque trajet et découvrez tous nos conseils dédiés dans notre dossier complet&nbsp;<a href="https://modeme-automobiles.com/category/entretien/">Entretien hiver</a>.</p>
+<p class="wp-block-paragraph"><strong>En résumé</strong>, le froid n’est pas tendre avec la batterie de votre voiture. Mais avec les bons réflexes, un entretien rigoureux et un œil attentif aux premiers signaux de faiblesse, vous garderez l’avantage sur l’hiver. Prévenez la panne, profitez sereinement de chaque trajet et découvrez tous nos conseils dédiés dans notre dossier complet&nbsp;Entretien hiver.</p>
