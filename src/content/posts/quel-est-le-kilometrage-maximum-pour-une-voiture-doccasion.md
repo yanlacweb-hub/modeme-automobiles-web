@@ -117,7 +117,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Vous hésitez encore entre essence et diesel pour votre prochain achat? Consultez notre guide complet:&nbsp;<a href="https://modeme-automobiles.com/voiture-essence-automatique-un-guide-complet/">Essence ou diesel: quelle voiture acheter? — Modeme Automobiles</a></p>
+<p class="wp-block-paragraph">Vous hésitez encore entre essence et diesel pour votre prochain achat? Consultez notre guide complet:&nbsp;Essence ou diesel: quelle voiture acheter? — Modeme Automobiles</p>
 
 
 
@@ -183,7 +183,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Ces seuils sont indicatifs et varient selon les constructeurs, les motorisations et les conditions d&rsquo;utilisation. L&rsquo;essentiel est de ne jamais acheter un véhicule sans connaître son&nbsp;<strong>historique d&rsquo;entretien complet</strong>. Pour ne rien oublier lors de votre démarche, consultez également notre&nbsp;<a href="https://modeme-automobiles.com/10-choses-a-verifier-lors-de-lachat-dune-voiture-doccasion/">liste des 10 choses à vérifier avant l&rsquo;achat d&rsquo;un véhicule d&rsquo;occasion</a>.</p>
+<p class="wp-block-paragraph">Ces seuils sont indicatifs et varient selon les constructeurs, les motorisations et les conditions d&rsquo;utilisation. L&rsquo;essentiel est de ne jamais acheter un véhicule sans connaître son&nbsp;<strong>historique d&rsquo;entretien complet</strong>. Pour ne rien oublier lors de votre démarche, consultez également notre&nbsp;liste des 10 choses à vérifier avant l&rsquo;achat d&rsquo;un véhicule d&rsquo;occasion.</p>
 
 
 
@@ -435,7 +435,12 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">👉 Si vous envisagez une importation depuis l'étranger, consultez aussi <a href="https://modeme-automobiles.com/achat-voiture-en-allemagne-un-guide-complet-pour-limportation/">notre guide complet pour l'achat et l'importation d'une voiture en Allemagne</a>.</p>
+<p class="wp-block-paragraph">👉 Si vous envisagez une importation depuis l'étranger, consultez aussi notre guide complet pour l'achat et l'importation d'une voiture en Allemagne.</p>
+
+
+
+<p class="wp-block-paragraph">Retrouvez tous nos conseils dans notre <a href="https://modeme-automobiles.com/comment-acheter-une-voiture-le-guide-complet-achat-occasion-financement/">guide complet d'achat voiture</a> : choix du modèle, financement et démarches. Voir aussi  <a href="https://modeme-automobiles.com/10-choses-a-verifier-lors-de-lachat-dune-voiture-doccasion/">notre checklist des points à vérifier avant d'acheter</a>.</p>
+
 
 <h2 class="wp-block-heading">FAQ — Kilométrage maximum voiture d&rsquo;occasion</h2>
 
@@ -501,4 +506,4 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Un&nbsp;<strong>entretien préventif rigoureux</strong>&nbsp;prolonge significativement la durée de vie de votre investissement. Pour affiner votre choix de motorisation, retrouvez notre guide complet&nbsp;<a href="https://modeme-automobiles.com/voiture-essence-automatique-un-guide-complet/">essence ou diesel: quelle voiture acheter?</a>&nbsp;afin de choisir la motorisation la mieux adaptée à votre usage et votre budget.</p>
+<p class="wp-block-paragraph">Un&nbsp;<strong>entretien préventif rigoureux</strong>&nbsp;prolonge significativement la durée de vie de votre investissement. Pour affiner votre choix de motorisation, retrouvez notre guide complet&nbsp;essence ou diesel: quelle voiture acheter?&nbsp;afin de choisir la motorisation la mieux adaptée à votre usage et votre budget.</p>

@@ -99,7 +99,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph"><strong>Essence ou diesel: quelle motorisation choisir? — </strong>Avant de sélectionner votre véhicule sur le marché allemand, faites le bon choix de motorisation selon votre usage: <a href="https://modeme-automobiles.com/voiture-essence-automatique-un-guide-complet/"><strong>Essence ou diesel: quelle voiture acheter?</strong></a></p>
+<p class="wp-block-paragraph"><strong>Essence ou diesel: quelle motorisation choisir? — </strong>Avant de sélectionner votre véhicule sur le marché allemand, faites le bon choix de motorisation selon votre usage: <strong>Essence ou diesel: quelle voiture acheter?</strong></p>
 
 
 
@@ -293,7 +293,12 @@ categories: ["Achat & Occasion"]
 </div>
 
 
-<p class="wp-block-paragraph">👉 Avant de vous décider, vérifiez aussi <a href="https://modeme-automobiles.com/quel-est-le-kilometrage-maximum-pour-une-voiture-doccasion/">le kilométrage maximum à ne pas dépasser pour une voiture d'occasion</a>.</p>
+<p class="wp-block-paragraph">👉 Avant de vous décider, vérifiez aussi le kilométrage maximum à ne pas dépasser pour une voiture d'occasion.</p>
+
+
+
+<p class="wp-block-paragraph">Pour une vue d'ensemble sur l'achat d'une voiture (occasion, financement, démarches), consultez notre <a href="https://modeme-automobiles.com/comment-acheter-une-voiture-le-guide-complet-achat-occasion-financement/">guide complet pour acheter une voiture</a>. Voir aussi  <a href="https://modeme-automobiles.com/quel-est-le-cout-de-limmatriculation-de-votre-nouvelle-voiture/">le coût de l'immatriculation</a>.</p>
+
 
 <h2 class="wp-block-heading"><strong>FAQ — Questions fréquentes sur l&rsquo;achat d&rsquo;une voiture en Allemagne</strong></h2>
 

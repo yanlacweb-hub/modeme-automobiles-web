@@ -1251,7 +1251,7 @@ footer a { color: var(--ambre); text-decoration: none; }
 <!-- FAQ -->
 <div class="article-body">
   <section class="faq-section" id="faq">
-<p class="wp-block-paragraph">👉 Si le véhicule qui vous intéresse est électrique, pensez aussi à consulter <a href="https://modeme-automobiles.com/voiture-electrique-doccasion-guide-2026-pour-bien-acheter/">notre guide spécifique pour bien acheter une voiture électrique d'occasion</a>.</p>
+<p class="wp-block-paragraph">👉 Si le véhicule qui vous intéresse est électrique, pensez aussi à consulter notre guide spécifique pour bien acheter une voiture électrique d'occasion.</p>
     <span class="section-label" style="display:block;padding-top:60px;">FAQ</span>
     <h2>Vos questions fréquentes sur l&rsquo;achat d&rsquo;une voiture d&rsquo;occasion</h2>
     <div class="faq-item">
@@ -1322,3 +1322,5 @@ footer a { color: var(--ambre); text-decoration: none; }
   </div>
 </div>
 <!-- FOOTER -->
+
+<p class="wp-block-paragraph">Pour une vue d'ensemble sur l'achat d'une voiture (occasion, financement, démarches), consultez notre <a href="https://modeme-automobiles.com/comment-acheter-une-voiture-le-guide-complet-achat-occasion-financement/">guide complet pour acheter une voiture</a>. Voir aussi  <a href="https://modeme-automobiles.com/quel-est-le-kilometrage-maximum-pour-une-voiture-doccasion/">le kilométrage maximum raisonnable pour une occasion</a>.</p>

@@ -236,3 +236,5 @@ categories: ["Achat & Occasion"]
 
 <li><strong>Souscrire une extension de garantie</strong>&nbsp;si disponible</li>
 </ol>
+
+<p class="wp-block-paragraph">Pour une vue d'ensemble sur l'achat d'une voiture (occasion, financement, démarches), consultez notre <a href="https://modeme-automobiles.com/comment-acheter-une-voiture-le-guide-complet-achat-occasion-financement/">guide complet pour acheter une voiture</a>. Voir aussi  <a href="https://modeme-automobiles.com/voiture-compacte-2026-quel-modele-choisir-a-moins-de-20-000-e/">notre sélection de compactes à moins de 20 000 €</a>.</p>

@@ -48,7 +48,7 @@ categories: ["Achat & Occasion"]
 
 <p class="wp-block-paragraph">Comment le reconnaître ? Demandez toujours la date réelle d'immatriculation figurant sur la carte grise. Regardez aussi le premier numéro de plaque : en France, il change le 15 de chaque mois — une incohérence de date doit vous alerter.</p>
 
-<p class="wp-block-paragraph">Avant d'acheter en décembre, consultez nos <a href="https://modeme-automobiles.com/10-choses-a-verifier-lors-de-lachat-dune-voiture-doccasion/">10 choses à vérifier lors de l'achat d'une voiture d'occasion</a> — une partie de la vérification porte précisément sur les pièges de date d'immatriculation et l'état réel du véhicule.</p>
+<p class="wp-block-paragraph">Avant d'acheter en décembre, consultez nos 10 choses à vérifier lors de l'achat d'une voiture d'occasion — une partie de la vérification porte précisément sur les pièges de date d'immatriculation et l'état réel du véhicule.</p>
 
 <h2 class="wp-block-heading">Stock limité : le coût caché de l'achat de fin d'année</h2>
 
@@ -80,7 +80,7 @@ categories: ["Achat & Occasion"]
 
 <p class="wp-block-paragraph">Attendre janvier, c'est gagner sur certains points et en perdre sur d'autres. Les nouveaux <strong>millésimes</strong> arrivent à cette période — vous aurez accès aux versions actualisées des modèles phares. Si vous visez une couleur rare ou une motorisation particulière, janvier est souvent préférable.</p>
 
-<p class="wp-block-paragraph">En revanche, les remises de janvier ciblent moins les acheteurs occasionnels. Sur l'occasion, janvier signifie une arrivée de nouveau stock — le choix s'élargit, mais les prix remontent légèrement du fait de la nouvelle demande. C'est aussi le bon moment pour se poser la question plus large de <a href="https://modeme-automobiles.com/quand-changer-de-voiture/">quand changer de voiture</a>, sans la hâte de la fin d'année.</p>
+<p class="wp-block-paragraph">En revanche, les remises de janvier ciblent moins les acheteurs occasionnels. Sur l'occasion, janvier signifie une arrivée de nouveau stock — le choix s'élargit, mais les prix remontent légèrement du fait de la nouvelle demande. C'est aussi le bon moment pour se poser la question plus large de quand changer de voiture, sans la hâte de la fin d'année.</p>
 
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/10/achat-voiture-doccasion-1-1024x683.jpg" alt="negocier lachat dune voiture en fin dannee" title=""></figure>
 
@@ -96,3 +96,5 @@ categories: ["Achat & Occasion"]
 <p class="wp-block-paragraph">Isolez la <strong>remise pure</strong> (le prix) du reste. Comparez avec d'autres concessionnaires pour le même modèle. Si la remise est conditionnée à des services annexes obligatoires difficiles à résilier, c'est un signal d'alarme.</p>
 
 <p class="wp-block-paragraph">En résumé : décembre n'est ni un piège systématique ni une aubaine automatique. C'est une période où le rapport de force penche légèrement en votre faveur si vous savez repérer les vrais déstockages, vérifier chaque date d'immatriculation, et garder votre sang-froid face à une remise qui semble trop belle. Le bon réflexe reste toujours le même, quelle que soit la saison : comparez, vérifiez, et ne signez jamais sous la pression d'un "aujourd'hui ou jamais".</p>
+
+<p class="wp-block-paragraph">Retrouvez tous nos conseils dans notre <a href="https://modeme-automobiles.com/comment-acheter-une-voiture-le-guide-complet-achat-occasion-financement/">guide complet d'achat voiture</a> : choix du modèle, financement et démarches. Voir aussi  <a href="https://modeme-automobiles.com/quand-changer-de-voiture/">quand changer de voiture</a>.</p>

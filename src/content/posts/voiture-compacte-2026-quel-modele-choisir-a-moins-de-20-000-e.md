@@ -191,7 +191,7 @@ categories: ["Achat & Occasion"]
 
 <h3 class="wp-block-heading">Où trouver la meilleure offre de voiture compacte à moins de 20&nbsp;000&nbsp;€ en 2026&nbsp;?</h3>
 
-<p class="wp-block-paragraph">👉 Pour limiter la perte de valeur sur le long terme, consultez aussi <a href="https://modeme-automobiles.com/voiture-decote-lente-bien-choisir-en-2026-pour-limiter-la-perte-de-valeur/">notre guide des voitures à décote lente</a>.</p>
+<p class="wp-block-paragraph">👉 Pour limiter la perte de valeur sur le long terme, consultez aussi notre guide des voitures à décote lente.</p>
 
 
 
@@ -290,3 +290,5 @@ categories: ["Achat & Occasion"]
 <p class="wp-block-paragraph">Mon opinion&nbsp;? Ne cédez pas aux sirènes du dernier gadget techno si l’essentiel — confort, autonomie, fiabilité — n’y est pas. Scrutez les&nbsp;<strong>modèles attendus</strong>, testez sans relâche, négociez chaque euro&nbsp;: la meilleure compacte 2026 sera celle qui s’adapte à votre réalité, pas celle dictée par le marketing. Bon achat et bonne route&nbsp;!</p>
 
 <p class="wp-block-paragraph">👉 Pour aller plus loin dans votre recherche: <a href="/le-top-10-des-voitures-les-plus-fiables-pour-un-premier-achat/">le top 10 des voitures les plus fiables pour un premier achat</a>.</p>
+
+<p class="wp-block-paragraph">Pour approfondir chaque étape de l'achat, voir notre <a href="https://modeme-automobiles.com/comment-acheter-une-voiture-le-guide-complet-achat-occasion-financement/">guide complet : comment acheter une voiture</a>. Voir aussi  <a href="https://modeme-automobiles.com/voiture-decote-lente-bien-choisir-en-2026-pour-limiter-la-perte-de-valeur/">les modèles à décote lente</a>.</p>
