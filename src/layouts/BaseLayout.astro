@@ -7,9 +7,10 @@ interface Props {
   title: string;
   description?: string;
   canonical?: string;
+  schema?: object;
 }
 
-const { title, description = '', canonical } = Astro.props;
+const { title, description = '', canonical, schema } = Astro.props;
 
 // Only list categories that actually have at least one post, to avoid dead nav links.
 const allPosts = await getCollection('posts');
@@ -30,6 +31,7 @@ const categories = Array.from(categoryCounts.keys()).sort();
   <title>{title}</title>
   {description && <meta name="description" content={description}>}
   {canonical && <link rel="canonical" href={canonical}>}
+  {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   
   <!-- Google Fonts: Manrope (modern, light sans headlines) + DM Sans (clean body) -->

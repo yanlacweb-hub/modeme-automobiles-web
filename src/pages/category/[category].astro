@@ -123,11 +123,43 @@ const categoryBottomTexts: Record<string, string> = {
 };
 
 const categoryBottomText = categoryBottomTexts[category] || null;
+
+const categoryCanonical = `https://modeme-automobiles.com/category/${categorySlug(category)}/`;
+const categorySchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://modeme-automobiles.com/#organization",
+      "name": "Modeme Automobiles",
+      "url": "https://modeme-automobiles.com/"
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": `${categoryCanonical}#webpage`,
+      "url": categoryCanonical,
+      "name": `${category} - Modeme Automobiles`,
+      "description": heroDescription,
+      "isPartOf": { "@id": "https://modeme-automobiles.com/#website" },
+      "about": { "@id": "https://modeme-automobiles.com/#organization" },
+      "inLanguage": "fr-FR"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://modeme-automobiles.com/" },
+        { "@type": "ListItem", "position": 2, "name": category, "item": categoryCanonical }
+      ]
+    }
+  ]
+};
 ---
 
 <BaseLayout 
   title={`${category} - Modeme Automobiles`}
   description={heroDescription}
+  canonical={categoryCanonical}
+  schema={categorySchema}
 >
   <div class="category-archive">
     {/* Breadcrumb Navigation */}

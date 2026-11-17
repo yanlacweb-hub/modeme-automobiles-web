@@ -62,9 +62,39 @@ const categoryIconSvg: Record<string, string> = {
   '2 roues': `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18.5" cy="17.5" r="3.5"/><circle cx="5.5" cy="17.5" r="3.5"/><circle cx="15" cy="5" r="1"/><path d="M12 17.5V14l-3-3 4-3 2 3h2"/></svg>`,
 };
 const defaultIconSvg = categoryIconSvg['Général'];
+
+const homepageSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://modeme-automobiles.com/#organization",
+      "name": "Modeme Automobiles",
+      "url": "https://modeme-automobiles.com/",
+      "logo": "https://modeme-automobiles.com/favicon.svg"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://modeme-automobiles.com/#website",
+      "url": "https://modeme-automobiles.com/",
+      "name": "Modeme Automobiles",
+      "description": "Guides complets sur l'automobile : entretien, achat, accessoires, covering et voiture électrique.",
+      "publisher": { "@id": "https://modeme-automobiles.com/#organization" },
+      "inLanguage": "fr-FR"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://modeme-automobiles.com/#webpage",
+      "url": "https://modeme-automobiles.com/",
+      "name": "Modeme Automobiles - Blog automobiles",
+      "isPartOf": { "@id": "https://modeme-automobiles.com/#website" },
+      "inLanguage": "fr-FR"
+    }
+  ]
+};
 ---
 
-<BaseLayout title="Modeme Automobiles - Blog automobiles" description="Découvrez nos guides complets sur l'automobile, l'entretien, les accessoires et bien plus.">
+<BaseLayout title="Modeme Automobiles - Blog automobiles" description="Découvrez nos guides complets sur l'automobile, l'entretien, les accessoires et bien plus." canonical="https://modeme-automobiles.com/" schema={homepageSchema}>
   <div class="homepage">
     {/* HERO CAROUSEL SECTION */}
     {carouselPosts.length > 0 && (
