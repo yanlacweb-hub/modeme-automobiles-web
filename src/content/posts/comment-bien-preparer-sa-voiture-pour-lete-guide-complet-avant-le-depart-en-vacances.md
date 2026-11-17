@@ -19,7 +19,7 @@ categories: ["conduite"]
 ---
 
 
-<p class="wp-block-paragraph">L’arrivée de la saison estivale rime souvent avec&nbsp;<strong>longs trajets</strong>,&nbsp;<strong>chaleur</strong>&nbsp;et&nbsp;<strong>escapades familiales</strong>. Pour débuter les vacances sereinement, une&nbsp;<strong>préparation de voiture avant l’été</strong>&nbsp;s’impose. Que vous partiez à la plage ou à la montagne, ce guide détaille les étapes essentielles pour voyager en toute sécurité. Suivez ces conseils pratiques pour éviter les pannes surprises et profiter pleinement de votre été.</p>
+<p class="wp-block-paragraph">L’arrivée de la saison estivale rime souvent avec&nbsp;longs trajets,&nbsp;chaleur&nbsp;et&nbsp;escapades familiales. Pour débuter les vacances sereinement, une&nbsp;préparation de voiture avant l’été&nbsp;s’impose. Que vous partiez à la plage ou à la montagne, ce guide détaille les étapes essentielles pour voyager en toute sécurité. Suivez ces conseils pratiques pour éviter les pannes surprises et profiter pleinement de votre été.</p>
 
 
 
@@ -35,7 +35,7 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">De nombreux&nbsp;<strong>éléments mécaniques</strong>&nbsp;subissent des contraintes accrues lors des fortes chaleurs. Une&nbsp;<strong>vérification approfondie</strong>&nbsp;permet d’anticiper les désagréments et de garantir la sécurité des passagers comme celle du conducteur.</p>
+<p class="wp-block-paragraph">De nombreux&nbsp;<strong>éléments mécaniques</strong>&nbsp;subissent des contraintes accrues lors des fortes chaleurs. Une&nbsp;vérification approfondie&nbsp;permet d’anticiper les désagréments et de garantir la sécurité des passagers comme celle du conducteur.</p>
 
 
 
@@ -43,11 +43,11 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">Pensez à la&nbsp;<strong>vérification des niveaux</strong>&nbsp;et fluides :&nbsp;<strong>huile moteur</strong>,&nbsp;<strong>liquide de frein</strong>, lave-glace mais aussi liquide de refroidissement. L’huile moteur doit rester à un niveau optimal afin d’éviter la surchauffe, très fréquente par temps chaud.</p>
+<p class="wp-block-paragraph">Pensez à la&nbsp;vérification des niveaux&nbsp;et fluides :&nbsp;huile moteur,&nbsp;liquide de frein, lave-glace mais aussi liquide de refroidissement. L’huile moteur doit rester à un niveau optimal afin d’éviter la surchauffe, très fréquente par temps chaud.</p>
 
 
 
-<p class="wp-block-paragraph">Le&nbsp;<strong>liquide de frein</strong>&nbsp;conserve son efficacité même sous de fortes températures. Un niveau trop bas nuit au bon fonctionnement du système, surtout lors de la conduite sur routes escarpées en montagne. Un simple contrôle visuel suffit souvent, mais n’hésitez pas à compléter si nécessaire.</p>
+<p class="wp-block-paragraph">Le&nbsp;liquide de frein&nbsp;conserve son efficacité même sous de fortes températures. Un niveau trop bas nuit au bon fonctionnement du système, surtout lors de la conduite sur routes escarpées en montagne. Un simple contrôle visuel suffit souvent, mais n’hésitez pas à compléter si nécessaire.</p>
 
 
 
@@ -55,7 +55,7 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">Planifiez une&nbsp;<strong>révision complète</strong>&nbsp;quelques semaines avant votre trajet. Outre le&nbsp;<strong>contrôle technique périodique obligatoire</strong>, une visite chez votre mécanicien reste utile : il saura détecter tout problème latent, comme une faiblesse de la batterie ou l’usure avancée des plaquettes de frein.</p>
+<p class="wp-block-paragraph">Planifiez une&nbsp;<strong>révision complète</strong>&nbsp;quelques semaines avant votre trajet. Outre le&nbsp;contrôle technique périodique obligatoire, une visite chez votre mécanicien reste utile : il saura détecter tout problème latent, comme une faiblesse de la batterie ou l’usure avancée des plaquettes de frein.</p>
 
 
 
@@ -71,11 +71,11 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">L’<strong>entretien voiture été</strong>&nbsp;ne se limite pas uniquement aux points moteurs ou techniques. Plusieurs interventions rapides contribuent à améliorer le confort de tous les occupants et augmentent considérablement la longévité de certains équipements. Un&nbsp;<strong>intérieur propre et frais</strong>&nbsp;booste également le moral tout au long du voyage.</p>
+<p class="wp-block-paragraph">L’<strong>entretien voiture été</strong>&nbsp;ne se limite pas uniquement aux points moteurs ou techniques. Plusieurs interventions rapides contribuent à améliorer le confort de tous les occupants et augmentent considérablement la longévité de certains équipements. Un&nbsp;intérieur propre et frais&nbsp;booste également le moral tout au long du voyage.</p>
 
 
 
-<p class="wp-block-paragraph">Anticiper ces gestes évite la plupart des mauvaises surprises, y compris celles liées à des éléments pourtant simples comme la&nbsp;<strong>climatisation</strong>, les&nbsp;<strong>équipements de sécurité</strong>&nbsp;ou encore le nettoyage général du véhicule.</p>
+<p class="wp-block-paragraph">Anticiper ces gestes évite la plupart des mauvaises surprises, y compris celles liées à des éléments pourtant simples comme la&nbsp;climatisation, les&nbsp;équipements de sécurité&nbsp;ou encore le nettoyage général du véhicule.</p>
 
 
 
@@ -95,7 +95,7 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">La chaleur accélère le vieillissement de la&nbsp;<strong>batterie</strong>, pouvant entraîner des difficultés au démarrage. Une&nbsp;<strong>vérification de la tension</strong>&nbsp;et des cosses limite le risque de panne inopinée.</p>
+<p class="wp-block-paragraph">La chaleur accélère le vieillissement de la&nbsp;<strong>batterie</strong>, pouvant entraîner des difficultés au démarrage. Une&nbsp;vérification de la tension&nbsp;et des cosses limite le risque de panne inopinée.</p>
 
 
 
@@ -107,11 +107,11 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">Les hautes températures modifient la&nbsp;<strong>pression des pneus</strong>, rendant cette étape cruciale à l’approche des vacances. Une pression basse génère une usure prématurée, augmente la consommation et accroît le risque d’éclatement. Le&nbsp;<strong>contrôle des pneus et roues</strong>&nbsp;inclut aussi l’état de la roue de secours.</p>
+<p class="wp-block-paragraph">Les hautes températures modifient la&nbsp;pression des pneus, rendant cette étape cruciale à l’approche des vacances. Une pression basse génère une usure prématurée, augmente la consommation et accroît le risque d’éclatement. Le&nbsp;contrôle des pneus et roues&nbsp;inclut aussi l’état de la roue de secours.</p>
 
 
 
-<p class="wp-block-paragraph">Une préparation efficace inclut par ailleurs tous les accessoires nécessaires à la&nbsp;<strong>protection contre la chaleur</strong>. Cela englobe le&nbsp;<strong>pare-soleil</strong>&nbsp;pour les périodes de stationnement prolongé ou le choix de zones ombragées pour limiter la montée en température de l’habitacle.</p>
+<p class="wp-block-paragraph">Une préparation efficace inclut par ailleurs tous les accessoires nécessaires à la&nbsp;<strong>protection contre la chaleur</strong>. Cela englobe le&nbsp;pare-soleil&nbsp;pour les périodes de stationnement prolongé ou le choix de zones ombragées pour limiter la montée en température de l’habitacle.</p>
 
 
 
@@ -124,7 +124,7 @@ categories: ["conduite"]
 
 
 
-<li>S’assurer de l’absence de coupures ou déformations sur la&nbsp;<strong>bande de roulement</strong>&nbsp;et les flancs</li>
+<li>S’assurer de l’absence de coupures ou déformations sur la&nbsp;bande de roulement&nbsp;et les flancs</li>
 </ul>
 
 
@@ -133,7 +133,7 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">Préparer son véhicule en vue des vacances demande une attention accrue envers les&nbsp;<strong>équipements de sécurité</strong>&nbsp;et de&nbsp;<strong>confort</strong>. Certains demeurent obligatoires, d’autres participent tout simplement à la tranquillité du trajet. La check-list suivante regroupe l’essence même d’une préparation réussie pour cet été.</p>
+<p class="wp-block-paragraph">Préparer son véhicule en vue des vacances demande une attention accrue envers les&nbsp;équipements de sécurité&nbsp;et de&nbsp;confort. Certains demeurent obligatoires, d’autres participent tout simplement à la tranquillité du trajet. La check-list suivante regroupe l’essence même d’une préparation réussie pour cet été.</p>
 
 
 
@@ -150,7 +150,7 @@ categories: ["conduite"]
 
 
 
-<li><strong>Triangle de signalisation</strong></li>
+<li>Triangle de signalisation</li>
 
 
 
@@ -162,7 +162,7 @@ categories: ["conduite"]
 
 
 
-<li><strong>Pare-soleil</strong>&nbsp;et stores latéraux pour bébé</li>
+<li>Pare-soleil&nbsp;et stores latéraux pour bébé</li>
 </ul>
 
 
@@ -171,7 +171,7 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">Un&nbsp;<strong>entretien intérieur et extérieur</strong>&nbsp;permet non seulement d’améliorer le confort, mais également de mieux repérer d’éventuelles fissures ou impacts récents. Nettoyer les vitres garantit une&nbsp;<strong>visibilité optimale</strong>, tandis qu’un lavage intégral favorise le maintien de la carrosserie, vulnérable aux insectes et particules de poussière lors des longues étapes estivales.</p>
+<p class="wp-block-paragraph">Un&nbsp;<strong>entretien intérieur et extérieur</strong>&nbsp;permet non seulement d’améliorer le confort, mais également de mieux repérer d’éventuelles fissures ou impacts récents. Nettoyer les vitres garantit une&nbsp;visibilité optimale, tandis qu’un lavage intégral favorise le maintien de la carrosserie, vulnérable aux insectes et particules de poussière lors des longues étapes estivales.</p>
 
 
 
@@ -183,7 +183,7 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">Avant tout départ en vacances, prenez le temps de tester les&nbsp;<strong>ouvertures électriques</strong>&nbsp;– fenêtres, toits ouvrants – et le bon fonctionnement de tous les&nbsp;<strong>éclairages</strong>, intérieurs comme extérieurs. Prévoyez suffisamment d’ombre et assurez-vous que la ventilation atteint aisément l’arrière, surtout avec des enfants à bord.</p>
+<p class="wp-block-paragraph">Avant tout départ en vacances, prenez le temps de tester les&nbsp;ouvertures électriques&nbsp;– fenêtres, toits ouvrants – et le bon fonctionnement de tous les&nbsp;éclairages, intérieurs comme extérieurs. Prévoyez suffisamment d’ombre et assurez-vous que la ventilation atteint aisément l’arrière, surtout avec des enfants à bord.</p>
 
 
 
@@ -208,7 +208,7 @@ categories: ["conduite"]
 
 
 
-<li>Vérification des&nbsp;<strong>niveaux</strong>&nbsp;(huile, liquide de frein, lave-glace, refroidissement)</li>
+<li>Vérification des&nbsp;niveaux&nbsp;(huile, liquide de frein, lave-glace, refroidissement)</li>
 
 
 
@@ -216,11 +216,11 @@ categories: ["conduite"]
 
 
 
-<li>Mise à jour&nbsp;<strong>trousse de secours</strong>, triangle et gilet</li>
+<li>Mise à jour&nbsp;trousse de secours, triangle et gilet</li>
 
 
 
-<li>Protection contre la chaleur :&nbsp;<strong>pare-soleil</strong>, stores, parking à l’ombre</li>
+<li>Protection contre la chaleur :&nbsp;pare-soleil, stores, parking à l’ombre</li>
 
 
 
@@ -239,9 +239,9 @@ categories: ["conduite"]
 
 <p class="wp-block-paragraph">Pour planifier votre budget avant le départ, voici les tarifs moyens constatés pour les principales opérations d'entretien pré-vacances :</p>
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><th>Opération</th><th>Intervalle conseillé</th><th>Prix moyen (€)</th></tr><tr><td><strong>Vidange + filtre à huile</strong></td><td>10 000-15 000 km</td><td>70-150</td></tr><tr><td><strong>Remplacement filtre à air</strong></td><td>20 000-30 000 km</td><td>20-40</td></tr><tr><td><strong>Changement pneu</strong></td><td>En cas d'usure</td><td>60-120/pneu</td></tr><tr><td><strong>Recharge climatisation</strong></td><td>2 ans</td><td>70-100</td></tr><tr><td><strong>Contrôle général</strong></td><td>Avant départ</td><td>0-30 (offert parfois lors de la révision)</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><th>Opération</th><th>Intervalle conseillé</th><th>Prix moyen (€)</th></tr><tr><td><strong>Vidange + filtre à huile</strong></td><td>10 000-15 000 km</td><td>70-150</td></tr><tr><td>Remplacement filtre à air</td><td>20 000-30 000 km</td><td>20-40</td></tr><tr><td><strong>Changement pneu</strong></td><td>En cas d'usure</td><td>60-120/pneu</td></tr><tr><td><strong>Recharge climatisation</strong></td><td>2 ans</td><td>70-100</td></tr><tr><td><strong>Contrôle général</strong></td><td>Avant départ</td><td>0-30 (offert parfois lors de la révision)</td></tr></tbody></table></figure>
 
-<p class="wp-block-paragraph">De nombreux garages proposent des <strong>forfaits "pré-vacances"</strong> à partir de 49 €. N'hésitez pas à demander un devis personnalisé selon le modèle de votre véhicule. Pensez aussi à vérifier vos <strong>documents administratifs</strong> : carte grise, assurance valide et contrôle technique à jour, indispensables pour circuler en toute légalité.</p>
+<p class="wp-block-paragraph">De nombreux garages proposent des forfaits "pré-vacances" à partir de 49 €. N'hésitez pas à demander un devis personnalisé selon le modèle de votre véhicule. Pensez aussi à vérifier vos documents administratifs : carte grise, assurance valide et contrôle technique à jour, indispensables pour circuler en toute légalité.</p>
 
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2026/06/Design-sans-titre-9-1024x576.png" alt="Inspection voiture avant départ vacances" title=""></figure>
 
@@ -273,7 +273,7 @@ categories: ["conduite"]
 
 
 
-<li>Demandez une&nbsp;<strong>détection de fuites</strong>&nbsp;si la performance baisse.</li>
+<li>Demandez une&nbsp;détection de fuites&nbsp;si la performance baisse.</li>
 </ul>
 
 
@@ -299,7 +299,7 @@ categories: ["conduite"]
 
 
 
-<li>N’oubliez pas la&nbsp;<strong>roue de secours</strong>&nbsp;et le kit de réparation.</li>
+<li>N’oubliez pas la&nbsp;roue de secours&nbsp;et le kit de réparation.</li>
 </ul>
 
 
@@ -317,7 +317,7 @@ categories: ["conduite"]
 
 
 <ul class="wp-block-list">
-<li>Utilisez un&nbsp;<strong>pare-soleil</strong>&nbsp;pour le pare-brise.</li>
+<li>Utilisez un&nbsp;pare-soleil&nbsp;pour le pare-brise.</li>
 
 
 
@@ -339,7 +339,7 @@ categories: ["conduite"]
 
 
 <ul class="wp-block-list">
-<li><strong>Trousse de secours</strong>&nbsp;et roue de secours fonctionnelle</li>
+<li>Trousse de secours&nbsp;et roue de secours fonctionnelle</li>
 
 
 
@@ -347,7 +347,7 @@ categories: ["conduite"]
 
 
 
-<li><strong>Pare-soleil</strong>&nbsp;et stores latéraux pour enfants</li>
+<li>Pare-soleil&nbsp;et stores latéraux pour enfants</li>
 
 
 
@@ -356,6 +356,6 @@ categories: ["conduite"]
 
 
 
-<p class="wp-block-paragraph">Prendre le temps de&nbsp;<strong>préparer sa voiture pour l’été</strong>&nbsp;est le meilleur moyen d’aborder les vacances en toute sérénité. Chaque point de contrôle, du&nbsp;<strong>contrôle technique</strong>&nbsp;à l’<strong>entretien des équipements de sécurité</strong>, participe à la réussite de vos trajets. Un véhicule fiable, propre et bien équipé permet de voyager confortablement, d’éviter les imprévus et d’assurer la sécurité de toute la famille. N’attendez pas la veille du départ : anticipez, cochez chaque étape de votre checklist, et profitez pleinement de vos escapades estivales en toute confiance.</p>
+<p class="wp-block-paragraph">Prendre le temps de&nbsp;<strong>préparer sa voiture pour l’été</strong>&nbsp;est le meilleur moyen d’aborder les vacances en toute sérénité. Chaque point de contrôle, du&nbsp;contrôle technique&nbsp;à l’entretien des équipements de sécurité, participe à la réussite de vos trajets. Un véhicule fiable, propre et bien équipé permet de voyager confortablement, d’éviter les imprévus et d’assurer la sécurité de toute la famille. N’attendez pas la veille du départ : anticipez, cochez chaque étape de votre checklist, et profitez pleinement de vos escapades estivales en toute confiance.</p>
 
 <p class="wp-block-paragraph">👉 Autre geste simple avant le départ : adopter des pratiques efficaces pour réduire sa consommation d'essence sur la route des vacances.</p>

@@ -19,7 +19,7 @@ categories: ["Achat & Occasion"]
 ---
 
 
-<p class="wp-block-paragraph">Avant d&rsquo;acheter une voiture d&rsquo;occasion, le kilométrage est l&rsquo;un des premiers chiffres que l&rsquo;on regarde — mais aussi l&rsquo;un des plus mal interprétés. Est-ce qu&rsquo;un <strong>diesel à 250 000 km</strong> est forcément à fuir? Un <strong>essence à 80 000 km</strong> est-il toujours une valeur sûre? Ce guide complet 2026 répond à toutes vos questions: seuils par motorisation, impact sur la valeur, coûts d&rsquo;entretien, pièces à surveiller et stratégies pour acheter sans mauvaise surprise. Que vous passiez par un mandataire auto, un concessionnaire ou une plateforme de vente entre particuliers, bien évaluer ce paramètre vous permettra de comparer les offres sur toutes les marques et d&rsquo;éviter les vices cachés.</p>
+<p class="wp-block-paragraph">Avant d&rsquo;acheter une voiture d&rsquo;occasion, le kilométrage est l&rsquo;un des premiers chiffres que l&rsquo;on regarde — mais aussi l&rsquo;un des plus mal interprétés. Est-ce qu&rsquo;un diesel à 250 000 km est forcément à fuir? Un essence à 80 000 km est-il toujours une valeur sûre? Ce guide complet 2026 répond à toutes vos questions: seuils par motorisation, impact sur la valeur, coûts d&rsquo;entretien, pièces à surveiller et stratégies pour acheter sans mauvaise surprise. Que vous passiez par un mandataire auto, un concessionnaire ou une plateforme de vente entre particuliers, bien évaluer ce paramètre vous permettra de comparer les offres sur toutes les marques et d&rsquo;éviter les vices cachés.</p>
 
 
 
@@ -31,7 +31,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Le&nbsp;<strong>kilométrage</strong>&nbsp;— affiché sur l&rsquo;odomètre&nbsp;— indique le nombre total de kilomètres parcourus depuis la mise en circulation. C&rsquo;est un&nbsp;<strong>indicateur d&rsquo;usure</strong>, mais certainement pas le seul. Une voiture ayant fait 180 000 km sur autoroute peut être en bien meilleur état mécanique qu&rsquo;un modèle à 70 000 km utilisé uniquement en ville, soumis à des arrêts fréquents et des démarrages à froid répétés.</p>
+<p class="wp-block-paragraph">Le&nbsp;<strong>kilométrage</strong>&nbsp;— affiché sur l&rsquo;odomètre&nbsp;— indique le nombre total de kilomètres parcourus depuis la mise en circulation. C&rsquo;est un&nbsp;indicateur d&rsquo;usure, mais certainement pas le seul. Une voiture ayant fait 180 000 km sur autoroute peut être en bien meilleur état mécanique qu&rsquo;un modèle à 70 000 km utilisé uniquement en ville, soumis à des arrêts fréquents et des démarrages à froid répétés.</p>
 
 
 
@@ -40,7 +40,7 @@ categories: ["Achat & Occasion"]
 
 
 <ul class="wp-block-list">
-<li>L&rsquo;<strong>historique d&rsquo;entretien</strong> : un carnet complet et à jour est la preuve la plus fiable d&rsquo;un suivi rigoureux</li>
+<li>L&rsquo;historique d&rsquo;entretien : un carnet complet et à jour est la preuve la plus fiable d&rsquo;un suivi rigoureux</li>
 
 
 
@@ -52,11 +52,11 @@ categories: ["Achat & Occasion"]
 
 
 
-<li>L&rsquo;<strong>âge du véhicule</strong> : un faible kilométrage sur un modèle âgé de 10 ans peut masquer des problèmes liés au temps (joints, corrosion, caoutchoucs)</li>
+<li>L&rsquo;âge du véhicule : un faible kilométrage sur un modèle âgé de 10 ans peut masquer des problèmes liés au temps (joints, corrosion, caoutchoucs)</li>
 
 
 
-<li>La <strong>certification du kilométrage</strong> : méfiez-vous des compteurs manipulés — la <strong>fraude kilométrique</strong> reste fréquente entre particuliers</li>
+<li>La <strong>certification du kilométrage</strong> : méfiez-vous des compteurs manipulés — la fraude kilométrique reste fréquente entre particuliers</li>
 
 
 
@@ -73,11 +73,11 @@ categories: ["Achat & Occasion"]
 
 
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Type de moteur</strong></td><td><strong>Km moyen / an</strong></td><td><strong>Km max recommandé</strong></td><td><strong>Longévité estimée</strong></td></tr><tr><td><strong>Essence</strong></td><td>12 000 km</td><td>100 000 – 150 000 km</td><td>Jusqu&rsquo;à 200 000 km</td></tr><tr><td><strong>Diesel</strong></td><td>18 000 km</td><td>150 000 – 250 000 km</td><td>300 000 km avec entretien</td></tr><tr><td><strong>Électrique</strong></td><td>Variable</td><td>Selon état batterie</td><td>150 000 – 200 000+ km</td></tr><tr><td><strong>Hybride</strong></td><td>15 000 km</td><td>120 000 – 180 000 km</td><td>200 000 km+ possible</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>Type de moteur</td><td><strong>Km moyen / an</strong></td><td><strong>Km max recommandé</strong></td><td>Longévité estimée</td></tr><tr><td><strong>Essence</strong></td><td>12 000 km</td><td>100 000 – 150 000 km</td><td>Jusqu&rsquo;à 200 000 km</td></tr><tr><td>Diesel</td><td>18 000 km</td><td>150 000 – 250 000 km</td><td>300 000 km avec entretien</td></tr><tr><td><strong>Électrique</strong></td><td>Variable</td><td>Selon état batterie</td><td>150 000 – 200 000+ km</td></tr><tr><td><strong>Hybride</strong></td><td>15 000 km</td><td>120 000 – 180 000 km</td><td>200 000 km+ possible</td></tr></tbody></table></figure>
 
 
 
-<p class="wp-block-paragraph">Selon le type de véhicule, les kilométrages annuels varient également: une <strong>citadine</strong> parcourt en moyenne 10 000 à 18 000 km/an, tandis qu&rsquo;une <strong>routière ou un SUV</strong> peut atteindre 20 000 à 30 000 km/an. Ces données sont essentielles pour évaluer si le kilométrage affiché est cohérent avec l&rsquo;usage déclaré du véhicule.</p>
+<p class="wp-block-paragraph">Selon le type de véhicule, les kilométrages annuels varient également: une citadine parcourt en moyenne 10 000 à 18 000 km/an, tandis qu&rsquo;une routière ou un SUV peut atteindre 20 000 à 30 000 km/an. Ces données sont essentielles pour évaluer si le kilométrage affiché est cohérent avec l&rsquo;usage déclaré du véhicule.</p>
 
 
 
@@ -89,7 +89,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Les&nbsp;<strong>moteurs essence</strong>&nbsp;sont généralement moins robustes sur la durée que les diesels. Les pièces internes — pistons, soupapes, segments — s&rsquo;usent plus vite en usage intensif. La plupart des professionnels recommandent de rester sous la barre des&nbsp;<strong>120 000 à 150 000 km</strong>&nbsp;pour limiter les risques. Au-delà, les prix chutent fortement et les interventions d&rsquo;entretien se multiplient.</p>
+<p class="wp-block-paragraph">Les&nbsp;<strong>moteurs essence</strong>&nbsp;sont généralement moins robustes sur la durée que les diesels. Les pièces internes — pistons, soupapes, segments — s&rsquo;usent plus vite en usage intensif. La plupart des professionnels recommandent de rester sous la barre des&nbsp;120 000 à 150 000 km&nbsp;pour limiter les risques. Au-delà, les prix chutent fortement et les interventions d&rsquo;entretien se multiplient.</p>
 
 
 
@@ -97,7 +97,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Le&nbsp;diesel&nbsp;est historiquement réputé pour sa robustesse sur les longs trajets. Un véhicule diesel bien entretenu peut dépasser les&nbsp;<strong>300 000 km</strong>&nbsp;sans défaillance majeure. La limite raisonnable pour un achat se situe autour de&nbsp;<strong>150 000 à 250 000 km</strong>&nbsp;— à condition d&rsquo;avoir un&nbsp;carnet d&rsquo;entretien&nbsp;irréprochable, notamment sur les vidanges, la&nbsp;courroie de distribution&nbsp;et le filtre à particules.</p>
+<p class="wp-block-paragraph">Le&nbsp;diesel&nbsp;est historiquement réputé pour sa robustesse sur les longs trajets. Un véhicule diesel bien entretenu peut dépasser les&nbsp;<strong>300 000 km</strong>&nbsp;sans défaillance majeure. La limite raisonnable pour un achat se situe autour de&nbsp;150 000 à 250 000 km&nbsp;— à condition d&rsquo;avoir un&nbsp;carnet d&rsquo;entretien&nbsp;irréprochable, notamment sur les vidanges, la&nbsp;courroie de distribution&nbsp;et le filtre à particules.</p>
 
 
 
@@ -105,7 +105,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Pour un&nbsp;<strong>véhicule électrique d&rsquo;occasion</strong>, le kilométrage total est moins déterminant que l&rsquo;état de la batterie. Celle-ci conserve généralement plus de 70 % de sa capacité après 8 à 10 ans d&rsquo;utilisation. Demandez systématiquement un&nbsp;<strong>diagnostic électronique de la batterie</strong>&nbsp;avant tout achat, et vérifiez le nombre de cycles de charge rapide effectués. Les modèles hybrides et électriques séduisent de plus en plus d&rsquo;acheteurs soucieux des&nbsp;coûts de réparation&nbsp;et du&nbsp;malus écologique.</p>
+<p class="wp-block-paragraph">Pour un&nbsp;véhicule électrique d&rsquo;occasion, le kilométrage total est moins déterminant que l&rsquo;état de la batterie. Celle-ci conserve généralement plus de 70 % de sa capacité après 8 à 10 ans d&rsquo;utilisation. Demandez systématiquement un&nbsp;diagnostic électronique de la batterie&nbsp;avant tout achat, et vérifiez le nombre de cycles de charge rapide effectués. Les modèles hybrides et électriques séduisent de plus en plus d&rsquo;acheteurs soucieux des&nbsp;coûts de réparation&nbsp;et du&nbsp;malus écologique.</p>
 
 
 
@@ -113,7 +113,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Les&nbsp;modèles hybrides&nbsp;combinent moteur thermique et électrique, ce qui réduit l&rsquo;usure du bloc essence. Ils se positionnent entre l&rsquo;essence et le diesel en termes de longévité, avec un seuil raisonnable autour de&nbsp;<strong>120 000 à 180 000 km</strong>&nbsp;selon les modèles et constructeurs. Notez également que la&nbsp;<strong>cote d&rsquo;un véhicule hybride</strong>&nbsp;baisse moins rapidement que celle d&rsquo;un diesel ou d&rsquo;un essence, ce qui en fait un choix intéressant pour la revente.</p>
+<p class="wp-block-paragraph">Les&nbsp;modèles hybrides&nbsp;combinent moteur thermique et électrique, ce qui réduit l&rsquo;usure du bloc essence. Ils se positionnent entre l&rsquo;essence et le diesel en termes de longévité, avec un seuil raisonnable autour de&nbsp;<strong>120 000 à 180 000 km</strong>&nbsp;selon les modèles et constructeurs. Notez également que la&nbsp;cote d&rsquo;un véhicule hybride&nbsp;baisse moins rapidement que celle d&rsquo;un diesel ou d&rsquo;un essence, ce qui en fait un choix intéressant pour la revente.</p>
 
 
 
@@ -125,20 +125,20 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Pour évaluer si le kilométrage affiché est cohérent avec l&rsquo;âge du véhicule, comparez-le aux&nbsp;<strong>moyennes annuelles de référence</strong>&nbsp;actualisées en 2026:</p>
+<p class="wp-block-paragraph">Pour évaluer si le kilométrage affiché est cohérent avec l&rsquo;âge du véhicule, comparez-le aux&nbsp;moyennes annuelles de référence&nbsp;actualisées en 2026:</p>
 
 
 
 <ul class="wp-block-list">
-<li><strong>Essence</strong> : environ <strong>12 000 km/an</strong> (seuil revu à la baisse par rapport aux années précédentes)</li>
+<li>Essence : environ <strong>12 000 km/an</strong> (seuil revu à la baisse par rapport aux années précédentes)</li>
 
 
 
-<li><strong>Diesel</strong> : environ <strong>18 000 km/an</strong> (contre 25 000 km il y a quelques années)</li>
+<li>Diesel : environ <strong>18 000 km/an</strong> (contre 25 000 km il y a quelques années)</li>
 
 
 
-<li><strong>SUV et routières</strong> : jusqu&rsquo;à 20 000 – 30 000 km/an selon l&rsquo;usage professionnel ou personnel</li>
+<li>SUV et routières : jusqu&rsquo;à 20 000 – 30 000 km/an selon l&rsquo;usage professionnel ou personnel</li>
 
 
 
@@ -147,11 +147,11 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Un véhicule affichant un kilométrage bien inférieur à ces moyennes peut sembler attractif — mais méfiez-vous: un&nbsp;<strong>faible kilométrage</strong>&nbsp;sur un modèle âgé de 10 ans peut masquer une&nbsp;fraude&nbsp;ou une utilisation en conditions difficiles (nombreux démarrages à froid, moteur jamais monté en température). À l&rsquo;inverse, un kilométrage anormalement bas peut également témoigner d&rsquo;une&nbsp;<strong>falsification des données au niveau du compteur</strong>.</p>
+<p class="wp-block-paragraph">Un véhicule affichant un kilométrage bien inférieur à ces moyennes peut sembler attractif — mais méfiez-vous: un&nbsp;<strong>faible kilométrage</strong>&nbsp;sur un modèle âgé de 10 ans peut masquer une&nbsp;fraude&nbsp;ou une utilisation en conditions difficiles (nombreux démarrages à froid, moteur jamais monté en température). À l&rsquo;inverse, un kilométrage anormalement bas peut également témoigner d&rsquo;une&nbsp;falsification des données au niveau du compteur.</p>
 
 
 
-<p class="wp-block-paragraph">Avant l&rsquo;achat, il est également essentiel de considérer la&nbsp;<strong>distance annuelle que vous parcourez</strong>&nbsp;et la&nbsp;durée de conservation souhaitée. En fonction de ces critères, vous pourrez estimer le kilométrage maximum idéal et le confronter à la durée de vie moyenne des véhicules, qui atteint aujourd&rsquo;hui jusqu&rsquo;à&nbsp;<strong>12 ans</strong>.</p>
+<p class="wp-block-paragraph">Avant l&rsquo;achat, il est également essentiel de considérer la&nbsp;distance annuelle que vous parcourez&nbsp;et la&nbsp;durée de conservation souhaitée. En fonction de ces critères, vous pourrez estimer le kilométrage maximum idéal et le confronter à la durée de vie moyenne des véhicules, qui atteint aujourd&rsquo;hui jusqu&rsquo;à&nbsp;12 ans.</p>
 
 
 
@@ -159,15 +159,15 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">La&nbsp;décote kilométrique&nbsp;est réelle et mécanique. Un véhicule neuf perd&nbsp;<strong>25 à 30 % de sa valeur</strong>&nbsp;dès la première année, puis environ&nbsp;<strong>10 % par an</strong>. Concrètement: une voiture achetée neuve à 25 000 € ne vaudra plus que 17 500 à 18 750 € au bout de 12 mois. Sur un modèle premium à 45 000 €, la perte atteint 11 000 à 13 500 € en un an seulement.</p>
+<p class="wp-block-paragraph">La&nbsp;décote kilométrique&nbsp;est réelle et mécanique. Un véhicule neuf perd&nbsp;<strong>25 à 30 % de sa valeur</strong>&nbsp;dès la première année, puis environ&nbsp;10 % par an. Concrètement: une voiture achetée neuve à 25 000 € ne vaudra plus que 17 500 à 18 750 € au bout de 12 mois. Sur un modèle premium à 45 000 €, la perte atteint 11 000 à 13 500 € en un an seulement.</p>
 
 
 
-<p class="wp-block-paragraph">Cette dépréciation profite à l&rsquo;acheteur de&nbsp;<strong>véhicule d&rsquo;occasion</strong>, qui peut accéder à des modèles récents — SUV, hybrides, citadines — à des prix bien inférieurs. Plus le kilométrage augmente, plus la décote s&rsquo;accentue, en particulier pour les modèles essence. C&rsquo;est pourquoi&nbsp;<strong>âge, kilométrage et motorisation</strong>&nbsp;doivent toujours être analysés ensemble, que vous achetiez via un&nbsp;mandataire auto, un&nbsp;concessionnaire&nbsp;ou en&nbsp;vente entre particuliers.</p>
+<p class="wp-block-paragraph">Cette dépréciation profite à l&rsquo;acheteur de&nbsp;véhicule d&rsquo;occasion, qui peut accéder à des modèles récents — SUV, hybrides, citadines — à des prix bien inférieurs. Plus le kilométrage augmente, plus la décote s&rsquo;accentue, en particulier pour les modèles essence. C&rsquo;est pourquoi&nbsp;âge, kilométrage et motorisation&nbsp;doivent toujours être analysés ensemble, que vous achetiez via un&nbsp;mandataire auto, un&nbsp;concessionnaire&nbsp;ou en&nbsp;vente entre particuliers.</p>
 
 
 
-<p class="wp-block-paragraph">Si vous envisagez un&nbsp;<strong>véhicule neuf</strong>, sachez que le&nbsp;leasing&nbsp;peut être une alternative intéressante pour optimiser votre investissement et éviter l&rsquo;exposition au risque de kilométrage. Pensez également à comparer les offres de&nbsp;crédit auto&nbsp;et les conditions de&nbsp;<strong>garantie constructeur</strong>&nbsp;avant de vous décider.</p>
+<p class="wp-block-paragraph">Si vous envisagez un&nbsp;<strong>véhicule neuf</strong>, sachez que le&nbsp;leasing&nbsp;peut être une alternative intéressante pour optimiser votre investissement et éviter l&rsquo;exposition au risque de kilométrage. Pensez également à comparer les offres de&nbsp;crédit auto&nbsp;et les conditions de&nbsp;garantie constructeur&nbsp;avant de vous décider.</p>
 
 
 
@@ -179,7 +179,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Seuil kilométrique</strong></td><td><strong>Interventions recommandées</strong></td></tr><tr><td><strong>30 000 km</strong></td><td>Filtre à huile, filtre à air, vérification des fluides (frein, refroidissement)</td></tr><tr><td><strong>60 000 km</strong></td><td>Bougies, roulements, équilibrage pneumatiques, vitres électriques</td></tr><tr><td><strong>100 000 km</strong></td><td>Grande révision: courroie de distribution, pompe à eau, rotules de direction, système d&rsquo;échappement</td></tr><tr><td><strong>150 000 km+</strong></td><td>Embrayage, boîte de vitesse, turbo, éléments de carrosserie (corrosion)</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>Seuil kilométrique</td><td><strong>Interventions recommandées</strong></td></tr><tr><td><strong>30 000 km</strong></td><td>Filtre à huile, filtre à air, vérification des fluides (frein, refroidissement)</td></tr><tr><td>60 000 km</td><td>Bougies, roulements, équilibrage pneumatiques, vitres électriques</td></tr><tr><td><strong>100 000 km</strong></td><td>Grande révision: courroie de distribution, pompe à eau, rotules de direction, système d&rsquo;échappement</td></tr><tr><td>150 000 km+</td><td>Embrayage, boîte de vitesse, turbo, éléments de carrosserie (corrosion)</td></tr></tbody></table></figure>
 
 
 
@@ -196,7 +196,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<li><strong>Freinage</strong> : disques, tambours, plaquettes — remplacement régulier indispensable pour la sécurité active</li>
+<li>Freinage : disques, tambours, plaquettes — remplacement régulier indispensable pour la sécurité active</li>
 
 
 
@@ -208,7 +208,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<li><strong>Système d&rsquo;échappement</strong> : exposé à la corrosion sur les véhicules fortement kilométrés</li>
+<li>Système d&rsquo;échappement : exposé à la corrosion sur les véhicules fortement kilométrés</li>
 
 
 
@@ -216,7 +216,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<li><strong>Embrayage</strong> (boîtes manuelles): souvent à remplacer autour de 150 000 km selon le style de conduite</li>
+<li>Embrayage (boîtes manuelles): souvent à remplacer autour de 150 000 km selon le style de conduite</li>
 </ul>
 
 
@@ -225,7 +225,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Lorsque vous envisagez d&rsquo;acheter un véhicule à kilométrage élevé, l&rsquo;état du&nbsp;<strong>moteur</strong>&nbsp;est une priorité absolue. Il représente le cœur du véhicule et son état peut avoir un impact direct sur les performances, la fiabilité et les&nbsp;<strong>coûts d&rsquo;entretien à long terme</strong>. Soyez attentif aux signaux suivants lors de l&rsquo;inspection:</p>
+<p class="wp-block-paragraph">Lorsque vous envisagez d&rsquo;acheter un véhicule à kilométrage élevé, l&rsquo;état du&nbsp;moteur&nbsp;est une priorité absolue. Il représente le cœur du véhicule et son état peut avoir un impact direct sur les performances, la fiabilité et les&nbsp;<strong>coûts d&rsquo;entretien à long terme</strong>. Soyez attentif aux signaux suivants lors de l&rsquo;inspection:</p>
 
 
 
@@ -234,7 +234,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<li><strong>Bruits inhabituels</strong> au ralenti ou en accélération: claquements, cognements ou sifflements peuvent indiquer une usure avancée des pièces internes</li>
+<li>Bruits inhabituels au ralenti ou en accélération: claquements, cognements ou sifflements peuvent indiquer une usure avancée des pièces internes</li>
 
 
 
@@ -242,7 +242,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<li><strong>Puissance réduite</strong> ou à-coups à l&rsquo;accélération: signe possible d&rsquo;usure du turbo, des injecteurs ou des segments</li>
+<li>Puissance réduite ou à-coups à l&rsquo;accélération: signe possible d&rsquo;usure du turbo, des injecteurs ou des segments</li>
 
 
 
@@ -251,7 +251,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Une&nbsp;inspection sous le capot&nbsp;par un mécanicien indépendant avant tout achat est vivement recommandée. Elle comprend idéalement un&nbsp;<strong>test de compression moteur</strong>, une&nbsp;analyse des fluides&nbsp;(huile moteur, liquide de refroidissement, liquide de frein) et un&nbsp;<strong>contrôle de la corrosion sous châssis</strong>.</p>
+<p class="wp-block-paragraph">Une&nbsp;inspection sous le capot&nbsp;par un mécanicien indépendant avant tout achat est vivement recommandée. Elle comprend idéalement un&nbsp;<strong>test de compression moteur</strong>, une&nbsp;analyse des fluides&nbsp;(huile moteur, liquide de refroidissement, liquide de frein) et un&nbsp;contrôle de la corrosion sous châssis.</p>
 
 
 
@@ -259,7 +259,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">La&nbsp;<strong>fraude kilométrique</strong>&nbsp;reste une réalité du marché de l&rsquo;occasion entre particuliers. Certains vendeurs manipulent l&rsquo;<strong>odomètre</strong>&nbsp;pour afficher un chiffre inférieur à la réalité. Voici comment vous protéger efficacement.</p>
+<p class="wp-block-paragraph">La&nbsp;fraude kilométrique&nbsp;reste une réalité du marché de l&rsquo;occasion entre particuliers. Certains vendeurs manipulent l&rsquo;odomètre&nbsp;pour afficher un chiffre inférieur à la réalité. Voici comment vous protéger efficacement.</p>
 
 
 
@@ -290,7 +290,7 @@ categories: ["Achat & Occasion"]
 
 
 <ul class="wp-block-list">
-<li>Consultez l&rsquo;historique via <strong>HistoVec</strong> (service public gratuit du ministère de l&rsquo;Intérieur): caractéristiques, situation administrative, historique des cessions</li>
+<li>Consultez l&rsquo;historique via HistoVec (service public gratuit du ministère de l&rsquo;Intérieur): caractéristiques, situation administrative, historique des cessions</li>
 
 
 
@@ -298,7 +298,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<li>Vérifiez le dernier <strong>PV de contrôle technique</strong> — le kilométrage y est systématiquement noté</li>
+<li>Vérifiez le dernier PV de contrôle technique — le kilométrage y est systématiquement noté</li>
 
 
 
@@ -306,7 +306,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<li>Faites inspecter le véhicule par un <strong>mécanicien indépendant</strong> avant tout achat important</li>
+<li>Faites inspecter le véhicule par un mécanicien indépendant avant tout achat important</li>
 </ul>
 
 
@@ -315,7 +315,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Un principe fondamental: il vaut toujours mieux acheter un véhicule très kilométré mais&nbsp;<strong>parfaitement entretenu</strong>&nbsp;qu&rsquo;un modèle avec peu de kilomètres mais mal suivi. L&rsquo;<strong>historique d&rsquo;entretien</strong>&nbsp;est le vrai baromètre de fiabilité d&rsquo;un véhicule d&rsquo;occasion.</p>
+<p class="wp-block-paragraph">Un principe fondamental: il vaut toujours mieux acheter un véhicule très kilométré mais&nbsp;<strong>parfaitement entretenu</strong>&nbsp;qu&rsquo;un modèle avec peu de kilomètres mais mal suivi. L&rsquo;historique d&rsquo;entretien&nbsp;est le vrai baromètre de fiabilité d&rsquo;un véhicule d&rsquo;occasion.</p>
 
 
 
@@ -328,11 +328,11 @@ categories: ["Achat & Occasion"]
 
 
 
-<li>Remplacement du <strong>filtre à huile</strong> et du <strong>filtre à air</strong> à chaque révision</li>
+<li>Remplacement du filtre à huile et du <strong>filtre à air</strong> à chaque révision</li>
 
 
 
-<li>Maintien du <strong>système de refroidissement</strong> (liquide, joints, durites)</li>
+<li>Maintien du système de refroidissement (liquide, joints, durites)</li>
 
 
 
@@ -344,7 +344,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<li>Vérification de la <strong>transmission</strong> et de l&#8217;embrayage selon les kilomètres parcourus</li>
+<li>Vérification de la transmission et de l&#8217;embrayage selon les kilomètres parcourus</li>
 
 
 
@@ -353,11 +353,11 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Si vous achetez un véhicule neuf, vérifiez que la&nbsp;<strong>garantie constructeur</strong>&nbsp;couvre les principaux éléments: climatisation, pneus, bougies et autres composants essentiels. Pour les véhicules d&rsquo;occasion récents encore sous garantie, cet élément peut faire la différence entre deux offres similaires en kilométrage.</p>
+<p class="wp-block-paragraph">Si vous achetez un véhicule neuf, vérifiez que la&nbsp;garantie constructeur&nbsp;couvre les principaux éléments: climatisation, pneus, bougies et autres composants essentiels. Pour les véhicules d&rsquo;occasion récents encore sous garantie, cet élément peut faire la différence entre deux offres similaires en kilométrage.</p>
 
 
 
-<p class="wp-block-paragraph">Grâce aux avancées technologiques, les véhicules modernes — y compris les petites cylindrées comme chez Dacia ou Ford — peuvent aujourd&rsquo;hui dépasser les&nbsp;<strong>200 000 km</strong>&nbsp;sans incident majeur, à condition d&rsquo;un&nbsp;entretien rigoureux. La durée de vie moyenne d&rsquo;un véhicule atteint désormais&nbsp;<strong>12 ans</strong>.</p>
+<p class="wp-block-paragraph">Grâce aux avancées technologiques, les véhicules modernes — y compris les petites cylindrées comme chez Dacia ou Ford — peuvent aujourd&rsquo;hui dépasser les&nbsp;<strong>200 000 km</strong>&nbsp;sans incident majeur, à condition d&rsquo;un&nbsp;entretien rigoureux. La durée de vie moyenne d&rsquo;un véhicule atteint désormais&nbsp;12 ans.</p>
 
 
 
@@ -365,7 +365,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Un véhicule principalement utilisé sur&nbsp;<strong>autoroute</strong>&nbsp;à vitesse stabilisée subit bien moins d&rsquo;usure qu&rsquo;une citadine soumise à des arrêts et redémarrages constants. Un&nbsp;SUV&nbsp;ou une berline ayant parcouru 150 000 km sur routes nationales peut être en meilleur état qu&rsquo;une citadine affichant 80 000 km d&rsquo;<strong>usage exclusivement urbain</strong>. Les trajets courts répétés à froid sont particulièrement néfastes pour le moteur et doivent être pris en compte dans l&rsquo;évaluation globale du véhicule.</p>
+<p class="wp-block-paragraph">Un véhicule principalement utilisé sur&nbsp;autoroute&nbsp;à vitesse stabilisée subit bien moins d&rsquo;usure qu&rsquo;une citadine soumise à des arrêts et redémarrages constants. Un&nbsp;SUV&nbsp;ou une berline ayant parcouru 150 000 km sur routes nationales peut être en meilleur état qu&rsquo;une citadine affichant 80 000 km d&rsquo;usage exclusivement urbain. Les trajets courts répétés à froid sont particulièrement néfastes pour le moteur et doivent être pris en compte dans l&rsquo;évaluation globale du véhicule.</p>
 
 
 
@@ -378,7 +378,7 @@ categories: ["Achat & Occasion"]
 
 
 <ul class="wp-block-list">
-<li>Vous roulez <strong>peu (moins de 10 000 km/an)</strong> : un kilométrage élevé vous offre un meilleur <strong>rapport qualité/prix</strong></li>
+<li>Vous roulez <strong>peu (moins de 10 000 km/an)</strong> : un kilométrage élevé vous offre un meilleur rapport qualité/prix</li>
 
 
 
@@ -390,7 +390,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<li>Tenez compte de la <strong>durée de conservation souhaitée</strong> : plus vous comptez garder le véhicule longtemps, plus le kilométrage de départ doit être faible</li>
+<li>Tenez compte de la durée de conservation souhaitée : plus vous comptez garder le véhicule longtemps, plus le kilométrage de départ doit être faible</li>
 </ul>
 
 
@@ -399,7 +399,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Les&nbsp;concessionnaires&nbsp;et&nbsp;<strong>mandataires automobiles</strong>&nbsp;reconditionnent les véhicules avant la mise en vente: contrôle du compteur, remplacement des pièces d&rsquo;usure,&nbsp;<strong>garantie de 12 mois minimum</strong>. Ce passage professionnel réduit considérablement les risques de&nbsp;fraude kilométrique&nbsp;et de&nbsp;vices cachés. Les pièces coûteuses — embrayage, catalyseur, batterie — ont souvent déjà été remplacées sur les véhicules très kilométrés vendus par des professionnels, ce qui représente un avantage réel pour l&rsquo;acheteur.</p>
+<p class="wp-block-paragraph">Les&nbsp;concessionnaires&nbsp;et&nbsp;mandataires automobiles&nbsp;reconditionnent les véhicules avant la mise en vente: contrôle du compteur, remplacement des pièces d&rsquo;usure,&nbsp;garantie de 12 mois minimum. Ce passage professionnel réduit considérablement les risques de&nbsp;fraude kilométrique&nbsp;et de&nbsp;vices cachés. Les pièces coûteuses — embrayage, catalyseur, batterie — ont souvent déjà été remplacées sur les véhicules très kilométrés vendus par des professionnels, ce qui représente un avantage réel pour l&rsquo;acheteur.</p>
 
 
 
@@ -416,7 +416,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<li>Utilisez des <strong>pièces d&rsquo;origine</strong> ou des pièces de rechange certifiées pour garantir la longévité</li>
+<li>Utilisez des pièces d&rsquo;origine ou des pièces de rechange certifiées pour garantir la longévité</li>
 
 
 
@@ -424,7 +424,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<li>Comparez les offres d&rsquo;<strong>assurance auto</strong> et anticipez leur impact sur votre budget global avant l&rsquo;achat</li>
+<li>Comparez les offres d&rsquo;assurance auto et anticipez leur impact sur votre budget global avant l&rsquo;achat</li>
 </ul>
 
 
@@ -450,7 +450,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">En règle générale, les acheteurs se limitent à&nbsp;<strong>100 000 – 120 000 km</strong>&nbsp;pour les modèles essence. Au-delà de&nbsp;<strong>150 000 km</strong>, les risques de coûts d&rsquo;entretien importants augmentent significativement. Un modèle bien entretenu peut toutefois offrir 80 000 km supplémentaires sans panne majeure.</p>
+<p class="wp-block-paragraph">En règle générale, les acheteurs se limitent à&nbsp;<strong>100 000 – 120 000 km</strong>&nbsp;pour les modèles essence. Au-delà de&nbsp;150 000 km, les risques de coûts d&rsquo;entretien importants augmentent significativement. Un modèle bien entretenu peut toutefois offrir 80 000 km supplémentaires sans panne majeure.</p>
 
 
 
@@ -458,7 +458,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Un&nbsp;moteur diesel&nbsp;bien entretenu peut atteindre&nbsp;<strong>300 000 km</strong>. La limite communément admise pour un achat sans risque excessif se situe entre&nbsp;<strong>150 000 et 250 000 km</strong>. L&rsquo;essentiel reste de vérifier l&rsquo;historique d&rsquo;entretien, notamment les vidanges et le remplacement de la&nbsp;courroie de distribution.</p>
+<p class="wp-block-paragraph">Un&nbsp;moteur diesel&nbsp;bien entretenu peut atteindre&nbsp;300 000 km. La limite communément admise pour un achat sans risque excessif se situe entre&nbsp;<strong>150 000 et 250 000 km</strong>. L&rsquo;essentiel reste de vérifier l&rsquo;historique d&rsquo;entretien, notamment les vidanges et le remplacement de la&nbsp;courroie de distribution.</p>
 
 
 
@@ -466,7 +466,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Oui, sans hésitation. Un véhicule à&nbsp;<strong>kilométrage élevé</strong>&nbsp;avec un&nbsp;<strong>carnet d&rsquo;entretien complet</strong>&nbsp;est bien plus fiable qu&rsquo;un modèle peu kilométré mais mal suivi. Sur les véhicules fortement kilométrés, les pièces coûteuses ont souvent déjà été remplacées, ce qui limite les frais futurs.</p>
+<p class="wp-block-paragraph">Oui, sans hésitation. Un véhicule à&nbsp;kilométrage élevé&nbsp;avec un&nbsp;carnet d&rsquo;entretien complet&nbsp;est bien plus fiable qu&rsquo;un modèle peu kilométré mais mal suivi. Sur les véhicules fortement kilométrés, les pièces coûteuses ont souvent déjà été remplacées, ce qui limite les frais futurs.</p>
 
 
 
@@ -474,7 +474,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Consultez l&rsquo;historique via&nbsp;HistoVec&nbsp;(service public gratuit), vérifiez les factures d&rsquo;entretien et le dernier&nbsp;<strong>PV de contrôle technique</strong>&nbsp;— chacun indique le kilométrage au moment de l&rsquo;intervention. En cas de doute, faites inspecter le véhicule par un&nbsp;<strong>mécanicien indépendant</strong>&nbsp;ou achetez auprès d&rsquo;un professionnel.</p>
+<p class="wp-block-paragraph">Consultez l&rsquo;historique via&nbsp;HistoVec&nbsp;(service public gratuit), vérifiez les factures d&rsquo;entretien et le dernier&nbsp;PV de contrôle technique&nbsp;— chacun indique le kilométrage au moment de l&rsquo;intervention. En cas de doute, faites inspecter le véhicule par un&nbsp;mécanicien indépendant&nbsp;ou achetez auprès d&rsquo;un professionnel.</p>
 
 
 
@@ -482,7 +482,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Pas nécessairement, surtout pour les&nbsp;diesels. Un véhicule à plus de&nbsp;<strong>200 000 km</strong>&nbsp;avec un entretien documenté peut représenter une excellente affaire: les pièces les plus coûteuses ont souvent déjà été changées. L&rsquo;analyse du&nbsp;<strong>carnet d&rsquo;entretien</strong>&nbsp;reste la démarche indispensable avant toute décision.</p>
+<p class="wp-block-paragraph">Pas nécessairement, surtout pour les&nbsp;diesels. Un véhicule à plus de&nbsp;200 000 km&nbsp;avec un entretien documenté peut représenter une excellente affaire: les pièces les plus coûteuses ont souvent déjà été changées. L&rsquo;analyse du&nbsp;carnet d&rsquo;entretien&nbsp;reste la démarche indispensable avant toute décision.</p>
 
 
 
@@ -490,7 +490,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Soyez attentif aux&nbsp;<strong>fumées anormales à l&rsquo;échappement</strong>, aux&nbsp;bruits inhabituels&nbsp;(claquements, sifflements), aux&nbsp;difficultés de démarrage, à une&nbsp;puissance réduite&nbsp;et à une&nbsp;<strong>consommation de carburant anormalement élevée</strong>. Ces signaux peuvent indiquer une usure avancée du moteur, indépendamment du kilométrage affiché.</p>
+<p class="wp-block-paragraph">Soyez attentif aux&nbsp;fumées anormales à l&rsquo;échappement, aux&nbsp;bruits inhabituels&nbsp;(claquements, sifflements), aux&nbsp;difficultés de démarrage, à une&nbsp;puissance réduite&nbsp;et à une&nbsp;consommation de carburant anormalement élevée. Ces signaux peuvent indiquer une usure avancée du moteur, indépendamment du kilométrage affiché.</p>
 
 
 
@@ -498,11 +498,11 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Le&nbsp;<strong>kilométrage d&rsquo;une voiture d&rsquo;occasion</strong>&nbsp;reste un indicateur important, mais il ne doit jamais être analysé isolément.&nbsp;<strong>Motorisation, historique d&rsquo;entretien, type de trajets, âge du véhicule, durée de conservation souhaitée</strong>&nbsp;et certification du kilométrage forment un ensemble indissociable pour évaluer la fiabilité réelle d&rsquo;un véhicule.</p>
+<p class="wp-block-paragraph">Le&nbsp;<strong>kilométrage d&rsquo;une voiture d&rsquo;occasion</strong>&nbsp;reste un indicateur important, mais il ne doit jamais être analysé isolément.&nbsp;Motorisation, historique d&rsquo;entretien, type de trajets, âge du véhicule, durée de conservation souhaitée&nbsp;et certification du kilométrage forment un ensemble indissociable pour évaluer la fiabilité réelle d&rsquo;un véhicule.</p>
 
 
 
-<p class="wp-block-paragraph">Pour les&nbsp;<strong>moteurs essence</strong>, restez sous 120 000 – 150 000 km. Pour les&nbsp;diesel, vous pouvez aller jusqu&rsquo;à 250 000 km avec un bon carnet. Pour l&rsquo;électrique, vérifiez la batterie en priorité. Et dans tous les cas: exigez le&nbsp;<strong>carnet d&rsquo;entretien complet</strong>, consultez&nbsp;HistoVec, vérifiez la&nbsp;carte grise, et faites inspecter le véhicule sous le capot par un professionnel si le moindre doute subsiste.</p>
+<p class="wp-block-paragraph">Pour les&nbsp;moteurs essence, restez sous 120 000 – 150 000 km. Pour les&nbsp;diesel, vous pouvez aller jusqu&rsquo;à 250 000 km avec un bon carnet. Pour l&rsquo;électrique, vérifiez la batterie en priorité. Et dans tous les cas: exigez le&nbsp;carnet d&rsquo;entretien complet, consultez&nbsp;HistoVec, vérifiez la&nbsp;carte grise, et faites inspecter le véhicule sous le capot par un professionnel si le moindre doute subsiste.</p>
 
 
 

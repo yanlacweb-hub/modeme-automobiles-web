@@ -19,7 +19,7 @@ categories: ["Achat & Occasion"]
 ---
 
 
-<p class="wp-block-paragraph">Chaque année, de nombreux Français se tournent vers le marché automobile allemand pour acheter un véhicule. L&rsquo;attrait des prix compétitifs et la diversité des modèles disponibles font de l&rsquo;<strong>achat d&rsquo;un véhicule</strong> en Allemagne une option séduisante. Cependant, importer un véhicule neuf ou un <strong>véhicule d&rsquo;occasion</strong> n&rsquo;est pas sans défis. Ce guide complet vous aide à naviguer dans ce processus, de la recherche jusqu&rsquo;à l&rsquo;obtention de votre carte grise.</p>
+<p class="wp-block-paragraph">Chaque année, de nombreux Français se tournent vers le marché automobile allemand pour acheter un véhicule. L&rsquo;attrait des prix compétitifs et la diversité des modèles disponibles font de l&rsquo;achat d&rsquo;un véhicule en Allemagne une option séduisante. Cependant, importer un véhicule neuf ou un véhicule d&rsquo;occasion n&rsquo;est pas sans défis. Ce guide complet vous aide à naviguer dans ce processus, de la recherche jusqu&rsquo;à l&rsquo;obtention de votre carte grise.</p>
 
 
 
@@ -31,20 +31,20 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Plusieurs raisons expliquent pourquoi les acheteurs français choisissent ce pays pour leur <strong>achat d&rsquo;un véhicule</strong>, qu&rsquo;il s&rsquo;agisse d&rsquo;un véhicule neuf ou d&rsquo;un <strong>véhicule d&rsquo;occasion</strong>:</p>
+<p class="wp-block-paragraph">Plusieurs raisons expliquent pourquoi les acheteurs français choisissent ce pays pour leur achat d&rsquo;un véhicule, qu&rsquo;il s&rsquo;agisse d&rsquo;un véhicule neuf ou d&rsquo;un véhicule d&rsquo;occasion:</p>
 
 
 
 <ul class="wp-block-list">
-<li>Prix compétitifs: les tarifs proposés par les vendeurs allemands sont souvent plus attractifs qu&rsquo;en France, même après les coûts additionnels de transport, <strong>certificat d&rsquo;immatriculation</strong> et <strong>mise en circulation</strong>.</li>
+<li>Prix compétitifs: les tarifs proposés par les vendeurs allemands sont souvent plus attractifs qu&rsquo;en France, même après les coûts additionnels de transport, certificat d&rsquo;immatriculation et mise en circulation.</li>
 
 
 
-<li>Large choix: une vaste gamme de <strong>véhicules neufs</strong> et <strong>véhicules d&rsquo;occasion</strong> — berline, SUV, citadine, monospace — incluant des modèles haut de gamme difficiles à trouver en France.</li>
+<li>Large choix: une vaste gamme de véhicules neufs et <strong>véhicules d&rsquo;occasion</strong> — berline, SUV, citadine, monospace — incluant des modèles haut de gamme difficiles à trouver en France.</li>
 
 
 
-<li><strong>Qualité: </strong>les Allemands appliquent une rigueur particulière à l&rsquo;entretien de leurs véhicules, réduisant les risques de <strong>vices cachés</strong>.</li>
+<li>Qualité: les Allemands appliquent une rigueur particulière à l&rsquo;entretien de leurs véhicules, réduisant les risques de vices cachés.</li>
 </ul>
 
 
@@ -57,7 +57,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">En début d&rsquo;année, les <strong>concessionnaires</strong> cherchent à écouler les stocks de l&rsquo;année précédente pour faire place aux nouveaux véhicules. La faible fréquentation hivernale des concessions joue en votre faveur: les vendeurs sont plus enclins à négocier. Comparez les offres en vérifiant les conditions de <strong>garantie constructeur</strong> et l&rsquo;absence de vices cachés.</p>
+<p class="wp-block-paragraph">En début d&rsquo;année, les concessionnaires cherchent à écouler les stocks de l&rsquo;année précédente pour faire place aux nouveaux véhicules. La faible fréquentation hivernale des concessions joue en votre faveur: les vendeurs sont plus enclins à négocier. Comparez les offres en vérifiant les conditions de garantie constructeur et l&rsquo;absence de vices cachés.</p>
 
 
 
@@ -65,7 +65,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">La demande pour les <strong>voitures d&rsquo;occasion</strong> et voitures neuves diminue, ce qui conduit à des baisses de prix temporaires. Les concessionnaires et mandataires automobiles compensent par des promotions. Le choix peut être plus limité: commencez votre recherche tôt. L&rsquo;été offre aussi des démarches administratives plus rapides — <strong>certificat d&rsquo;immatriculation</strong>, mise en circulation, certificat de non-gage — et des arrivages récents à faible kilométrage.</p>
+<p class="wp-block-paragraph">La demande pour les voitures d&rsquo;occasion et voitures neuves diminue, ce qui conduit à des baisses de prix temporaires. Les concessionnaires et mandataires automobiles compensent par des promotions. Le choix peut être plus limité: commencez votre recherche tôt. L&rsquo;été offre aussi des démarches administratives plus rapides — certificat d&rsquo;immatriculation, mise en circulation, certificat de non-gage — et des arrivages récents à faible kilométrage.</p>
 
 
 
@@ -73,7 +73,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Les <strong>concessionnaires</strong> souhaitent atteindre leurs objectifs annuels de vente de voiture et proposent des remises substantielles. De nombreuses banques allemandes offrent des taux réduits pour faciliter votre crédit auto avant la fin de l&rsquo;année, notamment si vous envisagez une option d&rsquo;achat comme la LOA ou une <strong>prime à la conversion</strong>.</p>
+<p class="wp-block-paragraph">Les concessionnaires souhaitent atteindre leurs objectifs annuels de vente de voiture et proposent des remises substantielles. De nombreuses banques allemandes offrent des taux réduits pour faciliter votre crédit auto avant la fin de l&rsquo;année, notamment si vous envisagez une option d&rsquo;achat comme la LOA ou une <strong>prime à la conversion</strong>.</p>
 
 
 
@@ -81,7 +81,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Les salons automobiles — comme l&rsquo;<strong>IAA (Internationale Automobil-Ausstellung)</strong> — permettent de tester plusieurs véhicules en un seul lieu et d&rsquo;accéder à des offres exclusives. Préparez-vous en consultant les listes des exposants, comparez les prix en ligne avant le salon et négociez directement avec les représentants des marques présentes, qu&rsquo;ils soient <strong>concessionnaires</strong> ou mandataires auto.Le Black Friday et le Cyber Monday ont également gagné en popularité en Allemagne. Surveillez les annonces des grandes concessions et inscrivez-vous à leurs newsletters pour ne pas rater ces offres limitées.</p>
+<p class="wp-block-paragraph">Les salons automobiles — comme l&rsquo;IAA (Internationale Automobil-Ausstellung) — permettent de tester plusieurs véhicules en un seul lieu et d&rsquo;accéder à des offres exclusives. Préparez-vous en consultant les listes des exposants, comparez les prix en ligne avant le salon et négociez directement avec les représentants des marques présentes, qu&rsquo;ils soient concessionnaires ou mandataires auto.Le Black Friday et le Cyber Monday ont également gagné en popularité en Allemagne. Surveillez les annonces des grandes concessions et inscrivez-vous à leurs newsletters pour ne pas rater ces offres limitées.</p>
 
 
 
@@ -95,11 +95,11 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Avant de se lancer dans l&rsquo;<strong>achat d&rsquo;un véhicule</strong>, des sites spécialisés comme mobile.de sont une bonne source d&rsquo;information pour trouver un véhicule neuf ou un véhicule d&rsquo;occasion. Évaluez ensuite le budget total: non seulement le prix d&rsquo;achat, mais aussi les frais de déplacement, les coûts de transport pour le rapatriement, et les frais liés aux formalités administratives — <strong>certificat d&rsquo;immatriculation</strong>, mise en circulation, certificat de non-gage.</p>
+<p class="wp-block-paragraph">Avant de se lancer dans l&rsquo;achat d&rsquo;un véhicule, des sites spécialisés comme mobile.de sont une bonne source d&rsquo;information pour trouver un véhicule neuf ou un véhicule d&rsquo;occasion. Évaluez ensuite le budget total: non seulement le prix d&rsquo;achat, mais aussi les frais de déplacement, les coûts de transport pour le rapatriement, et les frais liés aux formalités administratives — certificat d&rsquo;immatriculation, mise en circulation, certificat de non-gage.</p>
 
 
 
-<p class="wp-block-paragraph"><strong>Essence ou diesel: quelle motorisation choisir? — </strong>Avant de sélectionner votre véhicule sur le marché allemand, faites le bon choix de motorisation selon votre usage: <strong>Essence ou diesel: quelle voiture acheter?</strong></p>
+<p class="wp-block-paragraph">Essence ou diesel: quelle motorisation choisir? — Avant de sélectionner votre véhicule sur le marché allemand, faites le bon choix de motorisation selon votre usage: Essence ou diesel: quelle voiture acheter?</p>
 
 
 
@@ -107,7 +107,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Avant d&rsquo;acheter un véhicule en Allemagne, cette étape est incontournable pour éviter toute arnaque ou vice caché. Elle vous permet de connaître les <strong>anciens propriétaires</strong>, les accidents éventuels et l&rsquo;entretien régulier, garantissant une transparence totale sur la <strong>situation administrative</strong>.</p>
+<p class="wp-block-paragraph">Avant d&rsquo;acheter un véhicule en Allemagne, cette étape est incontournable pour éviter toute arnaque ou vice caché. Elle vous permet de connaître les anciens propriétaires, les accidents éventuels et l&rsquo;entretien régulier, garantissant une transparence totale sur la situation administrative.</p>
 
 
 
@@ -115,7 +115,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Le <strong>numéro d&rsquo;identification du véhicule (VIN)</strong> est fondamental pour obtenir un rapport d&rsquo;historique précis. Il se trouve sur le pare-brise, la portière conductrice ou dans le carnet d&rsquo;entretien et le <strong>certificat d&rsquo;immatriculation</strong>. Obtenez-le dès que vous envisagez un achat d&rsquo;un véhicule, que ce soit chez un concessionnaire, un garagiste ou un vendeur entre particuliers.</p>
+<p class="wp-block-paragraph">Le numéro d&rsquo;identification du véhicule (VIN) est fondamental pour obtenir un rapport d&rsquo;historique précis. Il se trouve sur le pare-brise, la portière conductrice ou dans le carnet d&rsquo;entretien et le certificat d&rsquo;immatriculation. Obtenez-le dès que vous envisagez un achat d&rsquo;un véhicule, que ce soit chez un concessionnaire, un garagiste ou un vendeur entre particuliers.</p>
 
 
 
@@ -128,7 +128,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<li>Entrer le <strong>numéro d&rsquo;identification du véhicule (VIN)</strong>.</li>
+<li>Entrer le numéro d&rsquo;identification du véhicule (VIN).</li>
 
 
 
@@ -137,7 +137,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Ces rapports incluent le kilométrage, les vices cachés, l&rsquo;historique des réparations et la <strong>situation administrative</strong>, notamment la présence d&rsquo;un <strong>certificat de non-gage</strong> ou d&rsquo;une éventuelle contre-visite lors du dernier contrôle technique.</p>
+<p class="wp-block-paragraph">Ces rapports incluent le kilométrage, les vices cachés, l&rsquo;historique des réparations et la situation administrative, notamment la présence d&rsquo;un <strong>certificat de non-gage</strong> ou d&rsquo;une éventuelle contre-visite lors du dernier contrôle technique.</p>
 
 
 
@@ -149,7 +149,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Le <strong>carnet d&rsquo;entretien</strong> est indispensable pour comprendre l&rsquo;entretien préalable du <strong>véhicule d&rsquo;occasion</strong>. Prêtez attention à la fréquence des révisions, aux pièces changées et à leur état, ainsi qu&rsquo;aux mentions concernant le contrôle technique et la contre-visite. Un entretien régulier validé par un garagiste ou un concessionnaire garantit une bonne santé mécanique.</p>
+<p class="wp-block-paragraph">Le carnet d&rsquo;entretien est indispensable pour comprendre l&rsquo;entretien préalable du véhicule d&rsquo;occasion. Prêtez attention à la fréquence des révisions, aux pièces changées et à leur état, ainsi qu&rsquo;aux mentions concernant le contrôle technique et la contre-visite. Un entretien régulier validé par un garagiste ou un concessionnaire garantit une bonne santé mécanique.</p>
 
 
 
@@ -157,7 +157,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Vérifiez les données inscrites sur les <strong>certificats d&rsquo;immatriculation</strong> et la <strong>carte grise</strong> pour confirmer que le vendeur est bien le titulaire légal. Les factures des travaux fournissent une preuve tangible des réparations: contrôlez leur authenticité, leur conformité avec la cote du véhicule et la cohérence des dates.</p>
+<p class="wp-block-paragraph">Vérifiez les données inscrites sur les certificats d&rsquo;immatriculation et la carte grise pour confirmer que le vendeur est bien le titulaire légal. Les factures des travaux fournissent une preuve tangible des réparations: contrôlez leur authenticité, leur conformité avec la cote du véhicule et la cohérence des dates.</p>
 
 
 
@@ -170,20 +170,20 @@ categories: ["Achat & Occasion"]
 
 
 <ul class="wp-block-list">
-<li>Combien de fois le <strong>véhicule</strong> a-t-il été accidenté?</li>
+<li>Combien de fois le véhicule a-t-il été accidenté?</li>
 
 
 
-<li>Quels types de réparations ont été signalés dans le <strong>carnet d&rsquo;entretien</strong> ou sur les factures?</li>
+<li>Quels types de réparations ont été signalés dans le carnet d&rsquo;entretien ou sur les factures?</li>
 
 
 
-<li>Y a-t-il des incohérences dans le kilométrage, pouvant indiquer un problème de <strong>certificat de situation administrative</strong>?</li>
+<li>Y a-t-il des incohérences dans le kilométrage, pouvant indiquer un problème de certificat de situation administrative?</li>
 </ul>
 
 
 
-<p class="wp-block-paragraph">Un historique trop compliqué peut être révélateur d&rsquo;un <strong>véhicule d&rsquo;occasion</strong> problématique. Tous ces éléments doivent conduire à une <strong>décision d&rsquo;achat</strong> éclairée.</p>
+<p class="wp-block-paragraph">Un historique trop compliqué peut être révélateur d&rsquo;un véhicule d&rsquo;occasion problématique. Tous ces éléments doivent conduire à une <strong>décision d&rsquo;achat</strong> éclairée.</p>
 
 
 
@@ -192,23 +192,23 @@ categories: ["Achat & Occasion"]
 
 
 <ul class="wp-block-list">
-<li><strong>Certificat de conformité européen (COC): </strong>atteste que le <strong>nouveau véhicule</strong> respecte les normes européennes et facilite son immatriculation en France.</li>
+<li>Certificat de conformité européen (COC): atteste que le nouveau véhicule respecte les normes européennes et facilite son immatriculation en France.</li>
 
 
 
-<li><strong>Kaufvertrag (contrat de vente): </strong>officialise la vente entre le vendeur et l&rsquo;<strong>acquéreur</strong>.</li>
+<li>Kaufvertrag (contrat de vente): officialise la vente entre le vendeur et l&rsquo;<strong>acquéreur</strong>.</li>
 
 
 
-<li><strong>Zulassungsbescheinigung Teil I et II: </strong>équivalents de notre carte grise, ils démontrent que le <strong>véhicule acheté</strong> peut être conduit légalement.</li>
+<li>Zulassungsbescheinigung Teil I et II: équivalents de notre carte grise, ils démontrent que le véhicule acheté peut être conduit légalement.</li>
 
 
 
-<li><strong>Certificat de non-gage: </strong>prouve l&rsquo;absence de gage ou d&rsquo;opposition à l&rsquo;<strong>immatriculation</strong>.</li>
+<li>Certificat de non-gage: prouve l&rsquo;absence de gage ou d&rsquo;opposition à l&rsquo;immatriculation.</li>
 
 
 
-<li><strong>Cerfa 13750*07: </strong>formulaire officiel de demande de <strong>certificat d&rsquo;immatriculation</strong>, à compléter par l&rsquo;acquéreur. Une traduction certifiée peut être exigée (~40 € par document).</li>
+<li><strong>Cerfa 13750*07: </strong>formulaire officiel de demande de certificat d&rsquo;immatriculation, à compléter par l&rsquo;acquéreur. Une traduction certifiée peut être exigée (~40 € par document).</li>
 </ul>
 
 
@@ -217,7 +217,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Faire appel à un mandataire peut grandement faciliter le processus. Ce professionnel spécialisé dans l&rsquo;<strong>achat d&rsquo;un véhicule</strong> à l&rsquo;étranger prend en charge toutes les démarches, depuis la recherche du véhicule neuf ou d&rsquo;occasion jusqu&rsquo;à sa livraison en France. Un bon mandataire dispose d&rsquo;un réseau étendu de contacts auprès des concessionnaires et concessions, lui permettant de négocier des <strong>prix d&rsquo;achat</strong> compétitifs et de réduire les risques de vices cachés.</p>
+<p class="wp-block-paragraph">Faire appel à un mandataire peut grandement faciliter le processus. Ce professionnel spécialisé dans l&rsquo;achat d&rsquo;un véhicule à l&rsquo;étranger prend en charge toutes les démarches, depuis la recherche du véhicule neuf ou d&rsquo;occasion jusqu&rsquo;à sa livraison en France. Un bon mandataire dispose d&rsquo;un réseau étendu de contacts auprès des concessionnaires et concessions, lui permettant de négocier des prix d&rsquo;achat compétitifs et de réduire les risques de vices cachés.</p>
 
 
 
@@ -229,7 +229,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Deux options: conduire le véhicule soi-même — en s&rsquo;assurant que les documents sont en règle et que le véhicule neuf ou <strong>d&rsquo;occasion</strong> est couvert par une <strong>assurance temporaire</strong> pendant le trajet — ou engager une société de transport spécialisée.</p>
+<p class="wp-block-paragraph">Deux options: conduire le véhicule soi-même — en s&rsquo;assurant que les documents sont en règle et que le véhicule neuf ou d&rsquo;occasion est couvert par une assurance temporaire pendant le trajet — ou engager une société de transport spécialisée.</p>
 
 
 
@@ -237,24 +237,24 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Depuis la réforme PPNG, toute demande de <strong>carte grise</strong> pour un <strong>véhicule importé</strong> d&rsquo;Allemagne s&rsquo;effectue exclusivement en ligne, via l&rsquo;ANTS ou un prestataire habilité.</p>
+<p class="wp-block-paragraph">Depuis la réforme PPNG, toute demande de carte grise pour un véhicule importé d&rsquo;Allemagne s&rsquo;effectue exclusivement en ligne, via l&rsquo;ANTS ou un prestataire habilité.</p>
 
 
 
 <ol start="4" class="wp-block-list">
-<li><strong>Quitus fiscal (délai: 15 jours): </strong>gratuit pour un <strong>véhicule d&rsquo;occasion</strong> qualifié (plus de 6 mois ET plus de 6 000 km). Sinon, TVA de 20 % sur le prix d&rsquo;achat.</li>
+<li>Quitus fiscal (délai: 15 jours): gratuit pour un véhicule d&rsquo;occasion qualifié (plus de 6 mois ET plus de 6 000 km). Sinon, TVA de 20 % sur le prix d&rsquo;achat.</li>
 
 
 
-<li><strong>Immatriculation provisoire WW: </strong>plaques de transit jaunes (3–5 jours, 120–150 €) ou rouges (5–8 jours, 150–180 €) pour rapatrier le véhicule. La WW est ensuite demandée en ligne (valable 4 mois). Passé un mois sans <strong>carte grise</strong> définitive: amende de 4e catégorie (135 € minimum).</li>
+<li><strong>Immatriculation provisoire WW: </strong>plaques de transit jaunes (3–5 jours, 120–150 €) ou rouges (5–8 jours, 150–180 €) pour rapatrier le véhicule. La WW est ensuite demandée en ligne (valable 4 mois). Passé un mois sans carte grise définitive: amende de 4e catégorie (135 € minimum).</li>
 
 
 
-<li><strong>Contrôle technique: </strong>obligatoire si le <strong>véhicule</strong> a plus de 4 ans et que le dernier TÜV allemand date de plus de 6 mois.</li>
+<li>Contrôle technique: obligatoire si le véhicule a plus de 4 ans et que le dernier TÜV allemand date de plus de 6 mois.</li>
 
 
 
-<li><strong>Demande de carte grise définitive (ANTS): </strong>quitus fiscal, COC, <strong>certificats d&rsquo;immatriculation</strong> (Teil I et II), Cerfa 13750*07, justificatif de domicile, pièce d&rsquo;identité.</li>
+<li>Demande de carte grise définitive (ANTS): quitus fiscal, COC, certificats d&rsquo;immatriculation (Teil I et II), Cerfa 13750*07, justificatif de domicile, pièce d&rsquo;identité.</li>
 </ol>
 
 
@@ -263,11 +263,11 @@ categories: ["Achat & Occasion"]
 
 
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Poste</strong></td><td><strong>Montant estimé</strong></td></tr><tr><td>Plaques de transit</td><td>120 – 200 €</td></tr><tr><td>Transport (conduite soi-même)</td><td>~150 € (carburant)</td></tr><tr><td>Transport (convoyeur / plateau)</td><td>400 – 950 €</td></tr><tr><td>Quitus fiscal</td><td>Gratuit (VO qualifié) ou TVA 20 %</td></tr><tr><td>COC (si non fourni)</td><td>~300 € (variable selon marque)</td></tr><tr><td>Carte grise</td><td>Variable (région, puissance fiscale, CO₂)</td></tr><tr><td>Malus écologique</td><td>0 € (&lt;118 g/km) à 60 000 €</td></tr><tr><td>Frais de mandataire (si recours)</td><td>800 – 1 500 €</td></tr><tr><td>Total frais annexes estimés</td><td>1 500 – 3 000 € (hors malus)</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>Poste</td><td>Montant estimé</td></tr><tr><td>Plaques de transit</td><td>120 – 200 €</td></tr><tr><td>Transport (conduite soi-même)</td><td>~150 € (carburant)</td></tr><tr><td>Transport (convoyeur / plateau)</td><td>400 – 950 €</td></tr><tr><td>Quitus fiscal</td><td>Gratuit (VO qualifié) ou TVA 20 %</td></tr><tr><td>COC (si non fourni)</td><td>~300 € (variable selon marque)</td></tr><tr><td>Carte grise</td><td>Variable (région, puissance fiscale, CO₂)</td></tr><tr><td>Malus écologique</td><td>0 € (&lt;118 g/km) à 60 000 €</td></tr><tr><td>Frais de mandataire (si recours)</td><td>800 – 1 500 €</td></tr><tr><td>Total frais annexes estimés</td><td>1 500 – 3 000 € (hors malus)</td></tr></tbody></table></figure>
 
 
 
-<p class="wp-block-paragraph">Le malus écologique s&rsquo;applique dès la première immatriculation en France, y compris pour les <strong>véhicules importés</strong>. Pour les <strong>véhicules d&rsquo;occasion</strong> de plus de 10 ans, il ne s&rsquo;applique pas. Le seuil de déclenchement est fixé à 118 g/km de CO₂.</p>
+<p class="wp-block-paragraph">Le malus écologique s&rsquo;applique dès la première immatriculation en France, y compris pour les <strong>véhicules importés</strong>. Pour les véhicules d&rsquo;occasion de plus de 10 ans, il ne s&rsquo;applique pas. Le seuil de déclenchement est fixé à 118 g/km de CO₂.</p>
 
 
 
@@ -276,16 +276,16 @@ categories: ["Achat & Occasion"]
 
 
 <ul class="wp-block-list">
-<li><strong>Réalisez une étude de marché approfondie: </strong>comparez les prix entre différents concessionnaires, <strong>mandataires automobiles</strong> et plateformes en ligne. Ne vous limitez pas à une seule source.</li>
+<li>Réalisez une étude de marché approfondie: comparez les prix entre différents concessionnaires, mandataires automobiles et plateformes en ligne. Ne vous limitez pas à une seule source.</li>
 
 
 
-<li><strong>Planifiez une visite en personne: </strong>inspecter physiquement le véhicule reste la meilleure protection contre les vices cachés. Si impossible, demandez photos détaillées, rapport complet et vérifiez la présence du <strong>certificat de cession</strong> et de la garantie constructeur.</li>
+<li>Planifiez une visite en personne: inspecter physiquement le véhicule reste la meilleure protection contre les vices cachés. Si impossible, demandez photos détaillées, rapport complet et vérifiez la présence du certificat de cession et de la garantie constructeur.</li>
 </ul>
 
 
 
-<p class="wp-block-paragraph"><strong>Consultez les avis des autres acheteurs: </strong>les forums spécialisés et réseaux sociaux regorgent d&rsquo;informations utiles. Profitez-en pour optimiser votre option d&rsquo;achat et vérifier les conditions de crédit auto, de <strong>prime à la conversion</strong> ou de LOA.</p>
+<p class="wp-block-paragraph"><strong>Consultez les avis des autres acheteurs: </strong>les forums spécialisés et réseaux sociaux regorgent d&rsquo;informations utiles. Profitez-en pour optimiser votre option d&rsquo;achat et vérifier les conditions de crédit auto, de prime à la conversion ou de LOA.</p>
 
 
 <div class="wp-block-image">
@@ -308,7 +308,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Un rapport d&rsquo;historique fournit le kilométrage parcouru, les accidents antérieurs, l&rsquo;état mécanique et les entretiens réalisés — une transparence essentielle pour l&rsquo;<strong>achat d&rsquo;un véhicule</strong>, qu&rsquo;il s&rsquo;agisse d&rsquo;une <strong>vente entre particuliers</strong> ou via un mandataire.</p>
+<p class="wp-block-paragraph">Un rapport d&rsquo;historique fournit le kilométrage parcouru, les accidents antérieurs, l&rsquo;état mécanique et les entretiens réalisés — une transparence essentielle pour l&rsquo;achat d&rsquo;un véhicule, qu&rsquo;il s&rsquo;agisse d&rsquo;une vente entre particuliers ou via un mandataire.</p>
 
 
 
@@ -316,7 +316,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Oui, le VIN est l&rsquo;élément clé pour accéder à l&rsquo;historique complet: vices cachés, <strong>certificat de non-gage</strong>, changement de mise en circulation et d&rsquo;immatriculation. Il doit toutefois être complété par l&rsquo;examen du <strong>carnet d&rsquo;entretien</strong> et des factures de réparation.</p>
+<p class="wp-block-paragraph">Oui, le VIN est l&rsquo;élément clé pour accéder à l&rsquo;historique complet: vices cachés, certificat de non-gage, changement de mise en circulation et d&rsquo;immatriculation. Il doit toutefois être complété par l&rsquo;examen du carnet d&rsquo;entretien et des factures de réparation.</p>
 
 
 
@@ -324,7 +324,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">En plus du VIN: le carnet d&rsquo;entretien, les <strong>certificats d&rsquo;immatriculation</strong> actuels et précédents, les factures de réparations. Vérifiez également le <strong>certificat de situation administrative</strong> et le certificat de cession pour assurer la conformité du véhicule.</p>
+<p class="wp-block-paragraph">En plus du VIN: le carnet d&rsquo;entretien, les certificats d&rsquo;immatriculation actuels et précédents, les factures de réparations. Vérifiez également le certificat de situation administrative et le certificat de cession pour assurer la conformité du véhicule.</p>
 
 
 
@@ -332,7 +332,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Les meilleures périodes sont janvier-février (liquidation des anciens stocks) et novembre-décembre (objectifs annuels). Les <strong>concessionnaires</strong> proposent alors des promotions et de meilleures conditions de <strong>crédit auto</strong>.</p>
+<p class="wp-block-paragraph">Les meilleures périodes sont janvier-février (liquidation des anciens stocks) et novembre-décembre (objectifs annuels). Les concessionnaires proposent alors des promotions et de meilleures conditions de crédit auto.</p>
 
 
 
@@ -340,7 +340,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">La facture d&rsquo;achat, le <strong>certificat de conformité européen (COC)</strong>, la carte grise originale (Fahrzeugbrief), un <strong>certificat de cession</strong>, un certificat de radiation de l&rsquo;immatriculation allemande, et les justificatifs du contrôle technique. Vérifiez l&rsquo;absence de vices cachés et la présence d&rsquo;une garantie constructeur.</p>
+<p class="wp-block-paragraph">La facture d&rsquo;achat, le certificat de conformité européen (COC), la carte grise originale (Fahrzeugbrief), un certificat de cession, un certificat de radiation de l&rsquo;immatriculation allemande, et les justificatifs du contrôle technique. Vérifiez l&rsquo;absence de vices cachés et la présence d&rsquo;une garantie constructeur.</p>
 
 
 
@@ -348,6 +348,6 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">Le <strong>mandataire automobile</strong> sert d&rsquo;intermédiaire entre l&rsquo;acquéreur et les concessionnaires ou vendeurs en Allemagne. Il prend en charge les démarches administratives, la négociation des <strong>prix d&rsquo;achat</strong> avec les concessions, et parfois le transport du véhicule neuf ou d&rsquo;occasion vers la France. Ses honoraires se situent entre 800 et 1 500 €.</p>
+<p class="wp-block-paragraph">Le <strong>mandataire automobile</strong> sert d&rsquo;intermédiaire entre l&rsquo;acquéreur et les concessionnaires ou vendeurs en Allemagne. Il prend en charge les démarches administratives, la négociation des prix d&rsquo;achat avec les concessions, et parfois le transport du véhicule neuf ou d&rsquo;occasion vers la France. Ses honoraires se situent entre 800 et 1 500 €.</p>
 
 <p class="wp-block-paragraph">👉 Une fois le véhicule importé, pensez aussi à anticiper <a href="/quel-est-le-cout-de-limmatriculation-de-votre-nouvelle-voiture/">le coût de l'immatriculation de votre nouvelle voiture</a>.</p>

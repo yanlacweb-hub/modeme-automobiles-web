@@ -19,7 +19,7 @@ categories: ["2 roues"]
 ---
 
 
-<p class="wp-block-paragraph">L’entretien régulier de votre moto Yamaha est <strong>essentiel</strong> pour garantir sa longévité et son bon fonctionnement. Que vous soyez adepte des longs voyages ou des trajets urbains quotidiens, certaines vérifications doivent être effectuées <strong>fréquemment</strong> pour assurer une conduite sûre et agréable.</p>
+<p class="wp-block-paragraph">L’entretien régulier de votre moto Yamaha est <strong>essentiel</strong> pour garantir sa longévité et son bon fonctionnement. Que vous soyez adepte des longs voyages ou des trajets urbains quotidiens, certaines vérifications doivent être effectuées fréquemment pour assurer une conduite sûre et agréable.</p>
 
 
 
@@ -31,7 +31,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Prendre soin de votre Yamaha permet non seulement d’optimiser ses performances, mais aussi de prévenir les <strong>fuites</strong>, éviter des pannes coûteuses et assurer une meilleure <strong>étanchéité</strong> des différents circuits mécaniques et <strong>hydrauliques</strong>. Une moto bien entretenue conserve également sa valeur, ce qui est un atout en cas de revente.</p>
+<p class="wp-block-paragraph">Prendre soin de votre Yamaha permet non seulement d’optimiser ses performances, mais aussi de prévenir les <strong>fuites</strong>, éviter des pannes coûteuses et assurer une meilleure étanchéité des différents circuits mécaniques et hydrauliques. Une moto bien entretenue conserve également sa valeur, ce qui est un atout en cas de revente.</p>
 
 
 
@@ -73,11 +73,11 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Avant chaque grand trajet, il est recommandé de <strong>vérifier le niveau d’huile</strong>. Positionnez la moto à plat, laissez refroidir quelques minutes, puis utilisez la jauge. Si nécessaire, ajoutez de l’huile via le <strong>bouchon de remplissage</strong>, avec un <strong>bidon</strong> adapté. Une <strong>viscosité</strong> correcte assure une <strong>lubrification</strong> efficace et protège le moteur.</p>
+<p class="wp-block-paragraph">Avant chaque grand trajet, il est recommandé de <strong>vérifier le niveau d’huile</strong>. Positionnez la moto à plat, laissez refroidir quelques minutes, puis utilisez la jauge. Si nécessaire, ajoutez de l’huile via le bouchon de remplissage, avec un bidon adapté. Une viscosité correcte assure une lubrification efficace et protège le moteur.</p>
 
 
 
-<p class="wp-block-paragraph">N&rsquo;oubliez pas la <strong>vidange d’huile</strong> régulière ainsi que le remplacement du <strong>filtre à huile</strong> pour éviter d’<strong>endommager</strong> des pièces comme le <strong>piston</strong> ou le <strong>cylindre</strong>. Cette opération inclut le retrait du <strong>bouchon de vidange</strong>, le recueil dans une <strong>cuve</strong>, et le nettoyage à l’aide d’un <strong>chiffon</strong> propre.</p>
+<p class="wp-block-paragraph">N&rsquo;oubliez pas la <strong>vidange d’huile</strong> régulière ainsi que le remplacement du filtre à huile pour éviter d’endommager des pièces comme le piston ou le cylindre. Cette opération inclut le retrait du bouchon de vidange, le recueil dans une cuve, et le nettoyage à l’aide d’un chiffon propre.</p>
 
 
 
@@ -109,7 +109,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Un système de freinage fiable repose sur des <strong>plaquettes en bon état</strong> et un <strong>liquide de freins</strong> propre. Si les freins deviennent moins réactifs, pensez à <strong>purger</strong> le circuit. <strong>Vérifier le niveau</strong> et l’apparence du liquide (qui ne doit pas être trop foncé) est crucial.</p>
+<p class="wp-block-paragraph">Un système de freinage fiable repose sur des <strong>plaquettes en bon état</strong> et un liquide de freins propre. Si les freins deviennent moins réactifs, pensez à purger le circuit. Vérifier le niveau et l’apparence du liquide (qui ne doit pas être trop foncé) est crucial.</p>
 
 
 
@@ -137,7 +137,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Une <strong>chaîne</strong> mal <strong>lubrifiée</strong> ou mal tendue nuit au bon passage des <strong>vitesses</strong>. Nettoyez-la régulièrement et appliquez un lubrifiant adapté. Vérifiez aussi la <strong>tension</strong> : trop lâche, elle claque ; trop tendue, elle force sur les pignons.</p>
+<p class="wp-block-paragraph">Une <strong>chaîne</strong> mal lubrifiée ou mal tendue nuit au bon passage des vitesses. Nettoyez-la régulièrement et appliquez un lubrifiant adapté. Vérifiez aussi la tension : trop lâche, elle claque ; trop tendue, elle force sur les pignons.</p>
 
 
 
@@ -223,7 +223,7 @@ categories: ["2 roues"]
 
 
 
-<p class="wp-block-paragraph">Un entretien rigoureux, incluant les opérations de <strong>vidange</strong>, les contrôles de <strong>niveaux</strong>, la surveillance des <strong>joints</strong> et des <strong>fuites</strong>, vous assure une conduite plus fluide et sécurisée. Une moto bien suivie, avec les bons réflexes d’entretien, consommera moins, sera plus fiable, et durera plus longtemps – pour quelques <strong>litres</strong> d’huile bien choisis, vous évitez bien des tracas. Pour aller plus loin, consultez ce guide d’achat pour choisir votre première moto Yamaha selon votre style de conduite.</p>
+<p class="wp-block-paragraph">Un entretien rigoureux, incluant les opérations de <strong>vidange</strong>, les contrôles de niveaux, la surveillance des joints et des fuites, vous assure une conduite plus fluide et sécurisée. Une moto bien suivie, avec les bons réflexes d’entretien, consommera moins, sera plus fiable, et durera plus longtemps – pour quelques litres d’huile bien choisis, vous évitez bien des tracas. Pour aller plus loin, consultez ce guide d’achat pour choisir votre première moto Yamaha selon votre style de conduite.</p>
 
 
 

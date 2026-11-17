@@ -19,7 +19,7 @@ categories: ["Entretien & Mecanique"]
 ---
 
 
-<p class="wp-block-paragraph">L&rsquo;entretien de votre véhicule est essentiel pour garantir votre sécurité sur la route. Parmi les composants vitaux, le système de freinage joue un rôle primordial. La sécurité d&rsquo;un véhicule dépend largement de l&rsquo;état de ses <strong>plaquettes de frein</strong>, de ses <strong>disques de frein</strong>, de ses étriers et de son liquide de frein. Pourtant, beaucoup d&rsquo;automobilistes se demandent à quel moment procéder au remplacement des plaquettes de frein et comment identifier les premiers signaux d&rsquo;alerte.</p>
+<p class="wp-block-paragraph">L&rsquo;entretien de votre véhicule est essentiel pour garantir votre sécurité sur la route. Parmi les composants vitaux, le système de freinage joue un rôle primordial. La sécurité d&rsquo;un véhicule dépend largement de l&rsquo;état de ses plaquettes de frein, de ses disques de frein, de ses étriers et de son liquide de frein. Pourtant, beaucoup d&rsquo;automobilistes se demandent à quel moment procéder au remplacement des plaquettes de frein et comment identifier les premiers signaux d&rsquo;alerte.</p>
 
 
 
@@ -35,7 +35,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Le système de freinage d&rsquo;un véhicule ne se limite pas à la pédale de frein que vous actionnez depuis votre siège. Il comprend plusieurs pièces détachées essentielles: les <strong>plaquettes de frein</strong>, le liquide de frein, les disques de frein, les étriers de frein, les pistons, les <strong>flexibles de freinage</strong>, ainsi que les freins à tambour sur de nombreux modèles. Chacun de ces éléments joue un rôle clé pour garantir un arrêt en toute sécurité et limiter l&rsquo;usure prématurée des composants.</p>
+<p class="wp-block-paragraph">Le système de freinage d&rsquo;un véhicule ne se limite pas à la pédale de frein que vous actionnez depuis votre siège. Il comprend plusieurs pièces détachées essentielles: les plaquettes de frein, le liquide de frein, les disques de frein, les étriers de frein, les pistons, les <strong>flexibles de freinage</strong>, ainsi que les freins à tambour sur de nombreux modèles. Chacun de ces éléments joue un rôle clé pour garantir un arrêt en toute sécurité et limiter l&rsquo;usure prématurée des composants.</p>
 
 
 
@@ -43,7 +43,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Une plaquette de frein neuve présente une épaisseur de garniture comprise entre <strong>10 et 12 mm</strong>. Les <strong>plaquettes avant</strong> supportent environ 70 à 75 % de l&rsquo;effort de freinage et s&rsquo;usent en moyenne deux fois plus vite que les plaquettes arrière. Il est donc fréquent de les remplacer de façon différenciée selon l&rsquo;essieu.</p>
+<p class="wp-block-paragraph">Une plaquette de frein neuve présente une épaisseur de garniture comprise entre 10 et 12 mm. Les plaquettes avant supportent environ 70 à 75 % de l&rsquo;effort de freinage et s&rsquo;usent en moyenne deux fois plus vite que les plaquettes arrière. Il est donc fréquent de les remplacer de façon différenciée selon l&rsquo;essieu.</p>
 
 
 
@@ -51,7 +51,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Le <strong>liquide de frein</strong> joue un rôle primordial dans le bon fonctionnement du système de freinage hydraulique. Sa mission principale consiste à transmettre la force exercée sur la pédale de frein jusqu&rsquo;aux roues via les étriers et les pistons, permettant ainsi un freinage efficace. Cependant, étant <strong>hygroscopique</strong>, ce liquide absorbe progressivement l&rsquo;humidité de l&rsquo;air. Cette absorption altère ses performances et peut provoquer une usure prématurée des pièces détachées telles que les étriers, les pistons et les composants des freins à tambour, en favorisant la corrosion interne.</p>
+<p class="wp-block-paragraph">Le <strong>liquide de frein</strong> joue un rôle primordial dans le bon fonctionnement du système de freinage hydraulique. Sa mission principale consiste à transmettre la force exercée sur la pédale de frein jusqu&rsquo;aux roues via les étriers et les pistons, permettant ainsi un freinage efficace. Cependant, étant hygroscopique, ce liquide absorbe progressivement l&rsquo;humidité de l&rsquo;air. Cette absorption altère ses performances et peut provoquer une usure prématurée des pièces détachées telles que les étriers, les pistons et les composants des freins à tambour, en favorisant la corrosion interne.</p>
 
 
 
@@ -63,7 +63,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Bon à savoir: un niveau de liquide de frein qui baisse régulièrement sans fuite visible est souvent un signal indirect que les <strong>plaquettes de frein</strong> s&rsquo;usent et que les <strong>pistons d&rsquo;étrier</strong> reculent davantage dans leur logement. C&rsquo;est un indicateur à ne jamais ignorer.</p>
+<p class="wp-block-paragraph">Bon à savoir: un niveau de liquide de frein qui baisse régulièrement sans fuite visible est souvent un signal indirect que les plaquettes de frein s&rsquo;usent et que les <strong>pistons d&rsquo;étrier</strong> reculent davantage dans leur logement. C&rsquo;est un indicateur à ne jamais ignorer.</p>
 
 
 <div class="wp-block-image">
@@ -75,7 +75,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Même sans être expert en mécanique, plusieurs <strong>signes d&rsquo;usure</strong> peuvent alerter un conducteur d&rsquo;une potentielle défaillance du système de freinage. Une attention particulière aux bruits, aux sensations ressenties à la conduite et aux indicateurs visuels ou électroniques permet d&rsquo;anticiper les problèmes avant qu&rsquo;ils ne deviennent dangereux ou coûteux.</p>
+<p class="wp-block-paragraph">Même sans être expert en mécanique, plusieurs signes d&rsquo;usure peuvent alerter un conducteur d&rsquo;une potentielle défaillance du système de freinage. Une attention particulière aux bruits, aux sensations ressenties à la conduite et aux indicateurs visuels ou électroniques permet d&rsquo;anticiper les problèmes avant qu&rsquo;ils ne deviennent dangereux ou coûteux.</p>
 
 
 
@@ -83,11 +83,11 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Le <strong>bruit de freinage</strong> est souvent le premier signal d&rsquo;alerte. Des <strong>grincements métalliques</strong>, des couinements aigus ou des cliquetis inhabituels lors du freinage sont des indicateurs caractéristiques d&rsquo;usure des plaquettes de frein, des garnitures ou des freins à tambour. Ces sons apparaissent généralement quand la garniture est trop mince ou absente, ce qui entraîne un frottement direct du support métallique contre le disque de frein ou le moyeu.</p>
+<p class="wp-block-paragraph">Le <strong>bruit de freinage</strong> est souvent le premier signal d&rsquo;alerte. Des grincements métalliques, des couinements aigus ou des cliquetis inhabituels lors du freinage sont des indicateurs caractéristiques d&rsquo;usure des plaquettes de frein, des garnitures ou des freins à tambour. Ces sons apparaissent généralement quand la garniture est trop mince ou absente, ce qui entraîne un frottement direct du support métallique contre le disque de frein ou le moyeu.</p>
 
 
 
-<p class="wp-block-paragraph">Un <strong>cliquetis pendant la décélération</strong>, notamment sur route irrégulière, peut révéler des plaquettes mal fixées, des <strong>pistons grippés</strong> ou un problème avec l&rsquo;étrier de frein. Dans ce cas, il est crucial de procéder rapidement à un démontage pour vérifier l&rsquo;état des composants et envisager de changer les plaquettes de frein si elles sont usées ou mal positionnées.</p>
+<p class="wp-block-paragraph">Un <strong>cliquetis pendant la décélération</strong>, notamment sur route irrégulière, peut révéler des plaquettes mal fixées, des pistons grippés ou un problème avec l&rsquo;étrier de frein. Dans ce cas, il est crucial de procéder rapidement à un démontage pour vérifier l&rsquo;état des composants et envisager de changer les plaquettes de frein si elles sont usées ou mal positionnées.</p>
 
 
 
@@ -95,11 +95,11 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Un freinage inefficace ou une pédale de frein qui s&rsquo;enfonce plus que d&rsquo;habitude peut révéler une usure avancée des plaquettes, une fuite du liquide de frein ou un problème avec les <strong>étriers de frein</strong>. Une pédale molle ou un besoin de l&rsquo;enfoncer plus profondément qu&rsquo;à l&rsquo;habitude peut également révéler une anomalie au niveau du <strong>maître-cylindre</strong> ou du circuit hydraulique.</p>
+<p class="wp-block-paragraph">Un freinage inefficace ou une pédale de frein qui s&rsquo;enfonce plus que d&rsquo;habitude peut révéler une usure avancée des plaquettes, une fuite du liquide de frein ou un problème avec les <strong>étriers de frein</strong>. Une pédale molle ou un besoin de l&rsquo;enfoncer plus profondément qu&rsquo;à l&rsquo;habitude peut également révéler une anomalie au niveau du maître-cylindre ou du circuit hydraulique.</p>
 
 
 
-<p class="wp-block-paragraph">Des vibrations ressenties dans le volant ou dans la pédale au freinage indiquent généralement une usure irrégulière des disques de frein ou des disques déformés. Un <strong>temps de réponse allongé</strong>, une <strong>perte d&rsquo;efficacité au frein avant</strong> ou au frein arrière, ou encore des distances d&rsquo;arrêt plus longues que d&rsquo;habitude sont autant de symptômes à prendre au sérieux immédiatement.</p>
+<p class="wp-block-paragraph">Des vibrations ressenties dans le volant ou dans la pédale au freinage indiquent généralement une usure irrégulière des disques de frein ou des disques déformés. Un temps de réponse allongé, une perte d&rsquo;efficacité au frein avant ou au frein arrière, ou encore des distances d&rsquo;arrêt plus longues que d&rsquo;habitude sont autant de symptômes à prendre au sérieux immédiatement.</p>
 
 
 
@@ -107,7 +107,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">De nombreux véhicules récents sont équipés d&rsquo;un <strong>témoin d&rsquo;usure électronique</strong> qui s&rsquo;illumine sur le tableau de bord dès que les plaquettes atteignent leur seuil critique. Sur d&rsquo;autres modèles, un <strong>témoin d&rsquo;usure mécanique</strong> intégré à la plaquette produit un sifflement caractéristique à l&rsquo;approche de l&rsquo;usure limite. Une inspection visuelle à travers les jantes permet d&rsquo;estimer l&rsquo;épaisseur résiduelle de la garniture sans démontage. Un contrôle préventif et régulier du niveau de liquide, des plaquettes, des étriers et du système ABS permet d&rsquo;anticiper ces problèmes avant qu&rsquo;ils ne s&rsquo;aggravent.</p>
+<p class="wp-block-paragraph">De nombreux véhicules récents sont équipés d&rsquo;un <strong>témoin d&rsquo;usure électronique</strong> qui s&rsquo;illumine sur le tableau de bord dès que les plaquettes atteignent leur seuil critique. Sur d&rsquo;autres modèles, un témoin d&rsquo;usure mécanique intégré à la plaquette produit un sifflement caractéristique à l&rsquo;approche de l&rsquo;usure limite. Une inspection visuelle à travers les jantes permet d&rsquo;estimer l&rsquo;épaisseur résiduelle de la garniture sans démontage. Un contrôle préventif et régulier du niveau de liquide, des plaquettes, des étriers et du système ABS permet d&rsquo;anticiper ces problèmes avant qu&rsquo;ils ne s&rsquo;aggravent.</p>
 
 
 
@@ -115,7 +115,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">La fréquence de remplacement des plaquettes de frein n&rsquo;est pas universelle. Elle dépend du style de conduite, des conditions rencontrées (ville, montagne, autoroute) et du type de véhicule utilisé, qu&rsquo;il soit équipé de freins à disque, de <strong>freins à tambour</strong> ou d&rsquo;un <strong>système hydraulique</strong> mixte. Il est important de respecter un calendrier de maintenance basé sur le kilométrage, mais aussi d&rsquo;être attentif aux bruits inhabituels et à l&rsquo;état général du système.</p>
+<p class="wp-block-paragraph">La fréquence de remplacement des plaquettes de frein n&rsquo;est pas universelle. Elle dépend du style de conduite, des conditions rencontrées (ville, montagne, autoroute) et du type de véhicule utilisé, qu&rsquo;il soit équipé de freins à disque, de <strong>freins à tambour</strong> ou d&rsquo;un système hydraulique mixte. Il est important de respecter un calendrier de maintenance basé sur le kilométrage, mais aussi d&rsquo;être attentif aux bruits inhabituels et à l&rsquo;état général du système.</p>
 
 
 
@@ -127,7 +127,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Une plaquette de frein neuve présente une épaisseur de garniture comprise entre <strong>10 et 12 mm</strong>. Dès que cette valeur descend sous <strong>3 mm</strong>, il devient impératif de changer les plaquettes pour éviter des dommages au disque de frein, à l&rsquo;étrier de frein ou au piston. Certains constructeurs recommandent même une intervention dès 4 mm, en particulier sur le frein avant, très sollicité en conduite urbaine ou en descente. Une usure trop avancée peut également affecter le fonctionnement du frein à main ou des freins arrière à tambour (mâchoires, cylindre, tambour), rendant le freinage moins réactif et moins sécurisé.</p>
+<p class="wp-block-paragraph">Une plaquette de frein neuve présente une épaisseur de garniture comprise entre 10 et 12 mm. Dès que cette valeur descend sous 3 mm, il devient impératif de changer les plaquettes pour éviter des dommages au disque de frein, à l&rsquo;étrier de frein ou au piston. Certains constructeurs recommandent même une intervention dès 4 mm, en particulier sur le frein avant, très sollicité en conduite urbaine ou en descente. Une usure trop avancée peut également affecter le fonctionnement du frein à main ou des freins arrière à tambour (mâchoires, cylindre, tambour), rendant le freinage moins réactif et moins sécurisé.</p>
 
 
 
@@ -135,15 +135,15 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Le&nbsp;<strong>remplacement des plaquettes de frein</strong>&nbsp;dépend de plusieurs facteurs: le type de freinage pratiqué, la charge transportée, le type de véhicule (utilitaire, citadine, VTT&#8230;) et l&rsquo;environnement de conduite (ville, autoroute, montagne).</p>
+<p class="wp-block-paragraph">Le&nbsp;remplacement des plaquettes de frein&nbsp;dépend de plusieurs facteurs: le type de freinage pratiqué, la charge transportée, le type de véhicule (utilitaire, citadine, VTT&#8230;) et l&rsquo;environnement de conduite (ville, autoroute, montagne).</p>
 
 
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Type de plaquettes</th><th>Kilométrage de contrôle</th><th>Kilométrage de remplacement courant</th><th>Épaisseur minimale</th><th>Fréquence de vérification</th></tr></thead><tbody><tr><td><strong>Plaquettes avant</strong></td><td>Entre 30 000 et 50 000 km</td><td>En général avant 50 000 km</td><td>3 à 4 mm</td><td>Tous les 20 000 km ou à chaque révision</td></tr><tr><td><strong>Plaquettes arrière</strong></td><td>Entre 40 000 et 80 000 km</td><td>Jusqu&rsquo;à 80 000 km</td><td>3 à 4 mm</td><td>Tous les 20 000 km ou à chaque révision</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Type de plaquettes</th><th>Kilométrage de contrôle</th><th>Kilométrage de remplacement courant</th><th>Épaisseur minimale</th><th>Fréquence de vérification</th></tr></thead><tbody><tr><td>Plaquettes avant</td><td>Entre 30 000 et 50 000 km</td><td>En général avant 50 000 km</td><td>3 à 4 mm</td><td>Tous les 20 000 km ou à chaque révision</td></tr><tr><td><strong>Plaquettes arrière</strong></td><td>Entre 40 000 et 80 000 km</td><td>Jusqu&rsquo;à 80 000 km</td><td>3 à 4 mm</td><td>Tous les 20 000 km ou à chaque révision</td></tr></tbody></table></figure>
 
 
 
-<p class="wp-block-paragraph">Bon à savoir: une <strong>conduite sportive</strong> ou en zone urbaine accentue fortement l&rsquo;usure des plaquettes et des disques. Une inspection visuelle peut révéler un témoin d&rsquo;usure intégré à la plaquette ou la présence d&rsquo;un frottement excessif au niveau du moyeu ou de la jante. Ne négligez pas non plus le rôle du levier de frein (notamment sur VTT ou petits véhicules) ni la nécessité de purger régulièrement le circuit hydraulique pour maintenir une pression optimale. Consultez toujours le <strong>carnet d&rsquo;entretien constructeur</strong> avant de remplacer ou de démonter les pièces.</p>
+<p class="wp-block-paragraph">Bon à savoir: une <strong>conduite sportive</strong> ou en zone urbaine accentue fortement l&rsquo;usure des plaquettes et des disques. Une inspection visuelle peut révéler un témoin d&rsquo;usure intégré à la plaquette ou la présence d&rsquo;un frottement excessif au niveau du moyeu ou de la jante. Ne négligez pas non plus le rôle du levier de frein (notamment sur VTT ou petits véhicules) ni la nécessité de purger régulièrement le circuit hydraulique pour maintenir une pression optimale. Consultez toujours le carnet d&rsquo;entretien constructeur avant de remplacer ou de démonter les pièces.</p>
 
 
 <div class="wp-block-image">
@@ -155,11 +155,11 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Le rythme d&rsquo;usure des plaquettes de frein n&rsquo;est pas uniforme. Il dépend fortement du style de conduite, de l&rsquo;environnement et du type de freinage. Une conduite souple et anticipative permet de ralentir efficacement sans trop solliciter les freins à disque ou les <strong>freins à tambour</strong>, prolongeant ainsi la durée de vie de tous les composants: <strong>disques de frein</strong>, étriers, cylindre ou piston.</p>
+<p class="wp-block-paragraph">Le rythme d&rsquo;usure des plaquettes de frein n&rsquo;est pas uniforme. Il dépend fortement du style de conduite, de l&rsquo;environnement et du type de freinage. Une conduite souple et anticipative permet de ralentir efficacement sans trop solliciter les freins à disque ou les freins à tambour, prolongeant ainsi la durée de vie de tous les composants: disques de frein, étriers, cylindre ou piston.</p>
 
 
 
-<p class="wp-block-paragraph">En revanche, les freinages brusques, répétitifs ou en descente augmentent la température, intensifient le frottement et accélèrent l&rsquo;usure. Le niveau de liquide de frein peut aussi être affecté si les pistons ou le <strong>maître-cylindre</strong> sont sollicités de façon excessive.</p>
+<p class="wp-block-paragraph">En revanche, les freinages brusques, répétitifs ou en descente augmentent la température, intensifient le frottement et accélèrent l&rsquo;usure. Le niveau de liquide de frein peut aussi être affecté si les pistons ou le maître-cylindre sont sollicités de façon excessive.</p>
 
 
 
@@ -168,11 +168,11 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<li><strong>Routes de montagne:</strong>&nbsp;usure accentuée des&nbsp;mâchoires, des&nbsp;tambours&nbsp;ou des&nbsp;<strong>disques de frein</strong>&nbsp;lors des longues descentes. Vérification à chaque révision recommandée.</li>
+<li>Routes de montagne:&nbsp;usure accentuée des&nbsp;mâchoires, des&nbsp;tambours&nbsp;ou des&nbsp;disques de frein&nbsp;lors des longues descentes. Vérification à chaque révision recommandée.</li>
 
 
 
-<li><strong>Style sportif:</strong> sollicitation excessive des freins à disques, risque de glaçage ou de surchauffe du <strong>système hydraulique</strong>.</li>
+<li><strong>Style sportif:</strong> sollicitation excessive des freins à disques, risque de glaçage ou de surchauffe du système hydraulique.</li>
 
 
 
@@ -181,7 +181,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Type de conduite</th><th>Usure des plaquettes</th><th>Fréquence de vérification</th></tr></thead><tbody><tr><td><strong>Urbaine intensive</strong></td><td>Rapide</td><td>Tous les 15 000 à 20 000 km</td></tr><tr><td><strong>Mixte / périurbaine</strong></td><td>Modérée</td><td>Tous les 20 000 km</td></tr><tr><td><strong>Autoroutière</strong></td><td>Lente</td><td>Tous les 25 000 à 30 000 km</td></tr><tr><td><strong>Montagne / sportive</strong></td><td>Très rapide</td><td>À chaque révision</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Type de conduite</th><th>Usure des plaquettes</th><th>Fréquence de vérification</th></tr></thead><tbody><tr><td><strong>Urbaine intensive</strong></td><td>Rapide</td><td>Tous les 15 000 à 20 000 km</td></tr><tr><td><strong>Mixte / périurbaine</strong></td><td>Modérée</td><td>Tous les 20 000 km</td></tr><tr><td>Autoroutière</td><td>Lente</td><td>Tous les 25 000 à 30 000 km</td></tr><tr><td><strong>Montagne / sportive</strong></td><td>Très rapide</td><td>À chaque révision</td></tr></tbody></table></figure>
 
 
 
@@ -198,11 +198,11 @@ categories: ["Entretien & Mecanique"]
 
 
 <ul class="wp-block-list">
-<li><strong>Épaisseur des plaquettes de frein:</strong>&nbsp;si leur épaisseur est inférieure à&nbsp;<strong>3 mm</strong>, remplacez-les par des plaquettes neuves pour éviter une perte d&rsquo;efficacité et un excès de frottement sur les&nbsp;disques de frein.</li>
+<li><strong>Épaisseur des plaquettes de frein:</strong>&nbsp;si leur épaisseur est inférieure à&nbsp;3 mm, remplacez-les par des plaquettes neuves pour éviter une perte d&rsquo;efficacité et un excès de frottement sur les&nbsp;disques de frein.</li>
 
 
 
-<li><strong>Inspection des disques de frein:</strong> vérifiez l&rsquo;absence de rayures profondes, de fissures ou d&rsquo;<strong>usure irrégulière</strong>. Des disques de frein endommagés affectent le freinage avant et la répartition de la pression sur l&rsquo;essieu.</li>
+<li>Inspection des disques de frein: vérifiez l&rsquo;absence de rayures profondes, de fissures ou d&rsquo;<strong>usure irrégulière</strong>. Des disques de frein endommagés affectent le freinage avant et la répartition de la pression sur l&rsquo;essieu.</li>
 
 
 
@@ -210,7 +210,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<li><strong>Examen des flexibles et des freins à tambour:</strong> vérifiez les freins à tambour, les étriers, le tambour, ainsi que le <strong>cylindre de frein</strong> pour détecter toute fuite ou fissure. Une fuite peut perturber la pression hydraulique et compromettre la sécurité du véhicule.</li>
+<li><strong>Examen des flexibles et des freins à tambour:</strong> vérifiez les freins à tambour, les étriers, le tambour, ainsi que le cylindre de frein pour détecter toute fuite ou fissure. Une fuite peut perturber la pression hydraulique et compromettre la sécurité du véhicule.</li>
 
 
 
@@ -219,7 +219,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Une fois ces inspections réalisées, faites tourner doucement les roues: elles doivent tourner sans bruit anormal ni résistance excessive. Un entretien régulier des <strong>pneumatiques</strong>, des jantes et des <strong>plaquettes de frein</strong> est essentiel pour passer le contrôle technique en toute sécurité.</p>
+<p class="wp-block-paragraph">Une fois ces inspections réalisées, faites tourner doucement les roues: elles doivent tourner sans bruit anormal ni résistance excessive. Un entretien régulier des <strong>pneumatiques</strong>, des jantes et des plaquettes de frein est essentiel pour passer le contrôle technique en toute sécurité.</p>
 
 
 
@@ -227,7 +227,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Composant</th><th>Fréquence de vérification</th><th>Action recommandée</th></tr></thead><tbody><tr><td><strong>Plaquettes de frein</strong></td><td>Tous les 10 000 à 20 000 km</td><td>Remplacement si épaisseur inférieure à 3 mm</td></tr><tr><td><strong>Liquide de frein</strong></td><td>Tous les 2 ans</td><td>Vidange et remplacement complet</td></tr><tr><td><strong>Disques de frein</strong></td><td>Tous les 30 000 à 40 000 km</td><td>Vérification de l&rsquo;état général; remplacement si endommagés</td></tr><tr><td><strong>Flexibles de freinage</strong></td><td>À chaque vidange de liquide de frein</td><td>Vérification des fuites et craquelures</td></tr><tr><td><strong>Étriers et pistons</strong></td><td>À chaque révision</td><td>Vérification du fonctionnement hydraulique et absence de grippage</td></tr><tr><td><strong>Freins à tambour (mâchoires, cylindre)</strong></td><td>Tous les 30 000 km</td><td>Contrôle de l&rsquo;usure et de l&rsquo;étanchéité</td></tr><tr><td><strong>Frein à main / ABS</strong></td><td>Tous les 20 000 km</td><td>Test fonctionnel et réglage si nécessaire</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Composant</th><th>Fréquence de vérification</th><th>Action recommandée</th></tr></thead><tbody><tr><td>Plaquettes de frein</td><td>Tous les 10 000 à 20 000 km</td><td>Remplacement si épaisseur inférieure à 3 mm</td></tr><tr><td>Liquide de frein</td><td>Tous les 2 ans</td><td>Vidange et remplacement complet</td></tr><tr><td>Disques de frein</td><td>Tous les 30 000 à 40 000 km</td><td>Vérification de l&rsquo;état général; remplacement si endommagés</td></tr><tr><td>Flexibles de freinage</td><td>À chaque vidange de liquide de frein</td><td>Vérification des fuites et craquelures</td></tr><tr><td><strong>Étriers et pistons</strong></td><td>À chaque révision</td><td>Vérification du fonctionnement hydraulique et absence de grippage</td></tr><tr><td>Freins à tambour (mâchoires, cylindre)</td><td>Tous les 30 000 km</td><td>Contrôle de l&rsquo;usure et de l&rsquo;étanchéité</td></tr><tr><td><strong>Frein à main / ABS</strong></td><td>Tous les 20 000 km</td><td>Test fonctionnel et réglage si nécessaire</td></tr></tbody></table></figure>
 
 
 
@@ -235,7 +235,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Un entretien rigoureux du système de freinage améliore la sécurité et prolonge la durée de vie des disques, des <strong>plaquettes</strong>, des patins et du <strong>frein à main</strong>. Lors de chaque révision, il est judicieux de changer les plaquettes de frein si nécessaire, et de faire inspecter l&rsquo;état général des freins à disque, des disques de frein ainsi que des jantes, afin d&rsquo;éviter toute détérioration prématurée.</p>
+<p class="wp-block-paragraph">Un entretien rigoureux du système de freinage améliore la sécurité et prolonge la durée de vie des disques, des <strong>plaquettes</strong>, des patins et du frein à main. Lors de chaque révision, il est judicieux de changer les plaquettes de frein si nécessaire, et de faire inspecter l&rsquo;état général des freins à disque, des disques de frein ainsi que des jantes, afin d&rsquo;éviter toute détérioration prématurée.</p>
 
 
 
@@ -248,11 +248,11 @@ categories: ["Entretien & Mecanique"]
 
 
 <ul class="wp-block-list">
-<li>L&rsquo;absence de fuite au niveau du&nbsp;<strong>réservoir de liquide de frein</strong></li>
+<li>L&rsquo;absence de fuite au niveau du&nbsp;réservoir de liquide de frein</li>
 
 
 
-<li>L&rsquo;état général des&nbsp;<strong>étriers de frein</strong>, des flexibles, des pistons et des cylindres</li>
+<li>L&rsquo;état général des&nbsp;étriers de frein, des flexibles, des pistons et des cylindres</li>
 
 
 
@@ -260,12 +260,12 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<li>Le bon fonctionnement du&nbsp;<strong>frein à main</strong>&nbsp;et du&nbsp;<strong>levier de frein</strong>&nbsp;(surtout sur VTT ou petits véhicules)</li>
+<li>Le bon fonctionnement du&nbsp;frein à main&nbsp;et du&nbsp;<strong>levier de frein</strong>&nbsp;(surtout sur VTT ou petits véhicules)</li>
 </ul>
 
 
 
-<p class="wp-block-paragraph">Un nettoyage régulier du système élimine les poussières et résidus qui accélèrent l&rsquo;usure des <strong>plaquettes</strong>, des <strong>tambours</strong> ou des jantes, et permet de conserver un bon mordant sur plusieurs milliers de kilomètres.</p>
+<p class="wp-block-paragraph">Un nettoyage régulier du système élimine les poussières et résidus qui accélèrent l&rsquo;usure des plaquettes, des <strong>tambours</strong> ou des jantes, et permet de conserver un bon mordant sur plusieurs milliers de kilomètres.</p>
 
 
 
@@ -273,7 +273,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Après avoir remplacé les plaquettes de frein, il est crucial de freiner en douceur pendant environ <strong>100 à 200 kilomètres</strong>. Cette phase de rodage permet d&rsquo;éviter la formation de points de surchauffe ou de frottement excessif entre le disque de frein et la garniture neuve, ainsi que le phénomène de <strong>glaçage</strong> qui réduirait l&rsquo;adhérence et l&rsquo;efficacité du freinage.</p>
+<p class="wp-block-paragraph">Après avoir remplacé les plaquettes de frein, il est crucial de freiner en douceur pendant environ 100 à 200 kilomètres. Cette phase de rodage permet d&rsquo;éviter la formation de points de surchauffe ou de frottement excessif entre le disque de frein et la garniture neuve, ainsi que le phénomène de glaçage qui réduirait l&rsquo;adhérence et l&rsquo;efficacité du freinage.</p>
 
 
 
@@ -303,7 +303,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Ce comportement permet non seulement d&rsquo;assurer une usure régulière des freins à disques ou des freins à tambour, mais aussi de protéger les jantes contre les <strong>dépôts de poussières métalliques</strong> qui peuvent s&rsquo;y accumuler lors des premières utilisations de plaquettes neuves. Suivre ce protocole maximise la durée de vie et l&rsquo;efficacité des freins sur le long terme.</p>
+<p class="wp-block-paragraph">Ce comportement permet non seulement d&rsquo;assurer une usure régulière des freins à disques ou des freins à tambour, mais aussi de protéger les jantes contre les dépôts de poussières métalliques qui peuvent s&rsquo;y accumuler lors des premières utilisations de plaquettes neuves. Suivre ce protocole maximise la durée de vie et l&rsquo;efficacité des freins sur le long terme.</p>
 
 
 
@@ -315,7 +315,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Contactez un spécialiste ou rendez-vous chez votre garagiste pour une analyse approfondie. Certaines interventions — comme le&nbsp;<strong>remplacement des plaquettes de frein</strong>, la&nbsp;purge du liquide de frein, la vérification des&nbsp;étriers&nbsp;et des&nbsp;disques de frein&nbsp;— nécessitent un équipement spécifique que seuls les professionnels possèdent. Une&nbsp;<strong>usure avancée des freins à tambour</strong>, des&nbsp;mâchoires&nbsp;ou du&nbsp;cylindre&nbsp;peut affecter l&rsquo;efficacité du freinage et entraîner une pression anormale sur l&rsquo;essieu.</p>
+<p class="wp-block-paragraph">Contactez un spécialiste ou rendez-vous chez votre garagiste pour une analyse approfondie. Certaines interventions — comme le&nbsp;remplacement des plaquettes de frein, la&nbsp;purge du liquide de frein, la vérification des&nbsp;étriers&nbsp;et des&nbsp;disques de frein&nbsp;— nécessitent un équipement spécifique que seuls les professionnels possèdent. Une&nbsp;<strong>usure avancée des freins à tambour</strong>, des&nbsp;mâchoires&nbsp;ou du&nbsp;cylindre&nbsp;peut affecter l&rsquo;efficacité du freinage et entraîner une pression anormale sur l&rsquo;essieu.</p>
 
 
 
@@ -331,11 +331,11 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Une conduite modérée et anticipatrice limite le frottement excessif sur les garnitures, prolongeant ainsi la durée de vie de vos pneumatiques et de votre pédale de frein. Surveiller régulièrement le <strong>niveau de liquide de frein</strong> et effectuer une <strong>purge périodique du circuit hydraulique</strong> garantissent un freinage optimal en toute sécurité.</p>
+<p class="wp-block-paragraph">Une conduite modérée et anticipatrice limite le frottement excessif sur les garnitures, prolongeant ainsi la durée de vie de vos pneumatiques et de votre pédale de frein. Surveiller régulièrement le niveau de liquide de frein et effectuer une purge périodique du circuit hydraulique garantissent un freinage optimal en toute sécurité.</p>
 
 
 
-<p class="wp-block-paragraph">Enfin, tenir un suivi strict des entretiens effectués est vital. Cela permet de savoir quand exécuter la prochaine vérification ou le remplacement des pièces détachées conformément aux préconisations du constructeur automobile. Une attention particulière aux éléments comme les <strong>pistons</strong>, le <strong>cylindre</strong>, l&rsquo;essieu et les jantes contribue à maintenir votre véhicule en état de rouler en toute sécurité.</p>
+<p class="wp-block-paragraph">Enfin, tenir un suivi strict des entretiens effectués est vital. Cela permet de savoir quand exécuter la prochaine vérification ou le remplacement des pièces détachées conformément aux préconisations du constructeur automobile. Une attention particulière aux éléments comme les <strong>pistons</strong>, le cylindre, l&rsquo;essieu et les jantes contribue à maintenir votre véhicule en état de rouler en toute sécurité.</p>
 
 
 
@@ -343,7 +343,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Un bon <strong>système de freinage</strong> ne suffit pas à garantir une conduite sécurisée. Il est tout aussi crucial de veiller au bon état des autres composants du véhicule: les pneus, la batterie, le moteur et les fluides essentiels. Pour une approche complète de l&rsquo;entretien automobile, retrouvez des conseils détaillés sur la gestion des révisions, la vidange, le contrôle des niveaux de liquide ainsi que d&rsquo;autres astuces pour maximiser la durée de vie de votre véhicule. Assurez-vous également que les plaquettes de frein, les disques de frein et les flexibles de freinage soient en bon état afin de garantir votre sécurité à chaque trajet.</p>
+<p class="wp-block-paragraph">Un bon système de freinage ne suffit pas à garantir une conduite sécurisée. Il est tout aussi crucial de veiller au bon état des autres composants du véhicule: les pneus, la batterie, le moteur et les fluides essentiels. Pour une approche complète de l&rsquo;entretien automobile, retrouvez des conseils détaillés sur la gestion des révisions, la vidange, le contrôle des niveaux de liquide ainsi que d&rsquo;autres astuces pour maximiser la durée de vie de votre véhicule. Assurez-vous également que les plaquettes de frein, les disques de frein et les flexibles de freinage soient en bon état afin de garantir votre sécurité à chaque trajet.</p>
 
 
 
@@ -351,7 +351,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Le bon fonctionnement du système de freinage ne dépend pas seulement de l&rsquo;état des plaquettes de frein ou du liquide de frein. Un moteur bien entretenu joue également un rôle crucial dans la performance globale de votre véhicule. Un moteur encrassé peut entraîner une <strong>combustion inefficace</strong> et générer des dépôts qui affectent les freins et d&rsquo;autres composants mécaniques essentiels comme les pneus, les disques de frein ou même les <strong>flexibles de freinage</strong>.</p>
+<p class="wp-block-paragraph">Le bon fonctionnement du système de freinage ne dépend pas seulement de l&rsquo;état des plaquettes de frein ou du liquide de frein. Un moteur bien entretenu joue également un rôle crucial dans la performance globale de votre véhicule. Un moteur encrassé peut entraîner une <strong>combustion inefficace</strong> et générer des dépôts qui affectent les freins et d&rsquo;autres composants mécaniques essentiels comme les pneus, les disques de frein ou même les flexibles de freinage.</p>
 
 
 
@@ -369,7 +369,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">En résumé, <strong>remplacer les plaquettes de frein au bon moment</strong> garantit votre sécurité et celle de vos proches. Surveillez les bruits inhabituels, contrôlez régulièrement l&rsquo;épaisseur de la garniture et adaptez la fréquence de vérification à votre style de conduite et à votre environnement. N&rsquo;oubliez pas le rodage après remplacement et faites systématiquement vérifier les disques de frein lors du changement de plaquettes. Privilegiez une <strong>conduite souple</strong> pour espacer le renouvellement et réduire les frais d&rsquo;entretien.</p>
+<p class="wp-block-paragraph">En résumé, remplacer les plaquettes de frein au bon moment garantit votre sécurité et celle de vos proches. Surveillez les bruits inhabituels, contrôlez régulièrement l&rsquo;épaisseur de la garniture et adaptez la fréquence de vérification à votre style de conduite et à votre environnement. N&rsquo;oubliez pas le rodage après remplacement et faites systématiquement vérifier les disques de frein lors du changement de plaquettes. Privilegiez une conduite souple pour espacer le renouvellement et réduire les frais d&rsquo;entretien.</p>
 
 
 
@@ -388,7 +388,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Les <strong>plaquettes de frein</strong> assurent le contact entre l&rsquo;étrier de frein et le disque de frein pour ralentir ou stopper le véhicule. Elles transforment l&rsquo;énergie cinétique en chaleur grâce au frottement, d&rsquo;où leur importance capitale pour la sécurité active du véhicule.</p>
+<p class="wp-block-paragraph">Les plaquettes de frein assurent le contact entre l&rsquo;étrier de frein et le disque de frein pour ralentir ou stopper le véhicule. Elles transforment l&rsquo;énergie cinétique en chaleur grâce au frottement, d&rsquo;où leur importance capitale pour la sécurité active du véhicule.</p>
 
 
 
@@ -396,7 +396,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Les principaux symptômes incluent un bruit métallique ou un couinement, une pédale molle, une distance d&rsquo;arrêt plus longue, ou encore un <strong>témoin lumineux</strong> sur le tableau de bord. Une inspection visuelle permet aussi de vérifier si la garniture est inférieure à <strong>3 mm</strong>.</p>
+<p class="wp-block-paragraph">Les principaux symptômes incluent un bruit métallique ou un couinement, une pédale molle, une distance d&rsquo;arrêt plus longue, ou encore un <strong>témoin lumineux</strong> sur le tableau de bord. Une inspection visuelle permet aussi de vérifier si la garniture est inférieure à 3 mm.</p>
 
 
 
@@ -404,7 +404,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">En règle générale, un contrôle est recommandé tous les&nbsp;<strong>20 000 km</strong>&nbsp;ou à chaque révision. Cette fréquence dépend du style de conduite, du type de trajet (ville, autoroute, montagne) et du modèle de véhicule. En conduite urbaine intensive, un contrôle tous les&nbsp;<strong>15 000 km</strong>&nbsp;est préférable.</p>
+<p class="wp-block-paragraph">En règle générale, un contrôle est recommandé tous les&nbsp;<strong>20 000 km</strong>&nbsp;ou à chaque révision. Cette fréquence dépend du style de conduite, du type de trajet (ville, autoroute, montagne) et du modèle de véhicule. En conduite urbaine intensive, un contrôle tous les&nbsp;15 000 km&nbsp;est préférable.</p>
 
 
 
@@ -412,11 +412,11 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Les plaquettes avant s&rsquo;usent en moyenne <strong>deux fois plus vite</strong> que les plaquettes arrière car elles supportent la majorité de l&rsquo;effort de freinage. On observe donc souvent une épaisseur réduite à l&rsquo;avant alors que celles de l&rsquo;arrière conservent encore une garniture correcte. Il est fréquent de remplacer uniquement les plaquettes avant à chaque révision, puis les arrière une fois sur deux.</p>
+<p class="wp-block-paragraph">Les plaquettes avant s&rsquo;usent en moyenne deux fois plus vite que les plaquettes arrière car elles supportent la majorité de l&rsquo;effort de freinage. On observe donc souvent une épaisseur réduite à l&rsquo;avant alors que celles de l&rsquo;arrière conservent encore une garniture correcte. Il est fréquent de remplacer uniquement les plaquettes avant à chaque révision, puis les arrière une fois sur deux.</p>
 
 
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Type</th><th>Kilométrage conseillé</th><th>Épaisseur minimale</th></tr></thead><tbody><tr><td><strong>Plaquettes avant</strong></td><td>30 000 à 50 000 km</td><td>3 à 4 mm</td></tr><tr><td><strong>Plaquettes arrière</strong></td><td>40 000 à 80 000 km</td><td>3 à 4 mm</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Type</th><th>Kilométrage conseillé</th><th>Épaisseur minimale</th></tr></thead><tbody><tr><td>Plaquettes avant</td><td>30 000 à 50 000 km</td><td>3 à 4 mm</td></tr><tr><td>Plaquettes arrière</td><td>40 000 à 80 000 km</td><td>3 à 4 mm</td></tr></tbody></table></figure>
 
 
 
@@ -437,11 +437,11 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<li><strong>Témoin lumineux</strong>&nbsp;activé sur le tableau de bord</li>
+<li>Témoin lumineux&nbsp;activé sur le tableau de bord</li>
 
 
 
-<li>Épaisseur de garniture inférieure à&nbsp;<strong>3 mm</strong></li>
+<li>Épaisseur de garniture inférieure à&nbsp;3 mm</li>
 
 
 
@@ -458,7 +458,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">C&rsquo;est fortement déconseillé. Des <strong>plaquettes trop minces</strong> peuvent endommager les disques de frein, réduire la puissance de freinage et augmenter significativement le risque d&rsquo;accident. En cas de doute, le remplacement immédiat s&rsquo;impose.</p>
+<p class="wp-block-paragraph">C&rsquo;est fortement déconseillé. Des plaquettes trop minces peuvent endommager les disques de frein, réduire la puissance de freinage et augmenter significativement le risque d&rsquo;accident. En cas de doute, le remplacement immédiat s&rsquo;impose.</p>
 
 
 
@@ -466,7 +466,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Les plaquettes avant s&rsquo;usent deux fois plus vite que celles de l&rsquo;arrière car elles supportent la majorité de l&rsquo;effort de freinage. Il est donc fréquent de changer uniquement les plaquettes avant à chaque révision, puis les arrière une fois sur deux. Sur certains véhicules, le <strong>frein arrière à tambour</strong> intègre également le mécanisme du <strong>frein à main</strong>, ce qui impose une vérification parallèle des mâchoires et du cylindre.</p>
+<p class="wp-block-paragraph">Les plaquettes avant s&rsquo;usent deux fois plus vite que celles de l&rsquo;arrière car elles supportent la majorité de l&rsquo;effort de freinage. Il est donc fréquent de changer uniquement les plaquettes avant à chaque révision, puis les arrière une fois sur deux. Sur certains véhicules, le <strong>frein arrière à tambour</strong> intègre également le mécanisme du frein à main, ce qui impose une vérification parallèle des mâchoires et du cylindre.</p>
 
 
 
@@ -474,7 +474,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Le <strong>liquide de frein</strong> absorbe l&rsquo;humidité au fil du temps (nature hygroscopique), ce qui réduit son efficacité, abaisse son point d&rsquo;ébullition et favorise la corrosion interne des étriers de frein et des pistons. Une vidange tous les deux ans maintient une bonne performance du système de freinage hydraulique et évite les défaillances prématurées.</p>
+<p class="wp-block-paragraph">Le liquide de frein absorbe l&rsquo;humidité au fil du temps (nature hygroscopique), ce qui réduit son efficacité, abaisse son point d&rsquo;ébullition et favorise la corrosion interne des étriers de frein et des pistons. Une vidange tous les deux ans maintient une bonne performance du système de freinage hydraulique et évite les défaillances prématurées.</p>
 
 
 
@@ -482,7 +482,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Les <strong>vibrations ressenties dans le volant</strong> ou dans la pédale au freinage indiquent des disques de frein déformés ou usés inégalement. Il est recommandé de consulter un professionnel pour inspecter et éventuellement remplacer les disques concernés avant que les dommages ne s&rsquo;étendent aux <strong>étriers</strong> et aux pistons.</p>
+<p class="wp-block-paragraph">Les <strong>vibrations ressenties dans le volant</strong> ou dans la pédale au freinage indiquent des disques de frein déformés ou usés inégalement. Il est recommandé de consulter un professionnel pour inspecter et éventuellement remplacer les disques concernés avant que les dommages ne s&rsquo;étendent aux étriers et aux pistons.</p>
 
 
 
@@ -490,7 +490,7 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Les <strong>plaquettes neuves</strong> ont une surface rugueuse destinée à s&rsquo;adapter progressivement au disque de frein. Un rodage inadéquat entraîne un glaçage de la garniture, diminue l&rsquo;adhérence et augmente le risque de surchauffe. Respectez des <strong>freinages doux pendant 100 à 200 km</strong>, évitez les arrêts violents et ne transportez pas de lourdes charges la première semaine.</p>
+<p class="wp-block-paragraph">Les <strong>plaquettes neuves</strong> ont une surface rugueuse destinée à s&rsquo;adapter progressivement au disque de frein. Un rodage inadéquat entraîne un glaçage de la garniture, diminue l&rsquo;adhérence et augmente le risque de surchauffe. Respectez des freinages doux pendant 100 à 200 km, évitez les arrêts violents et ne transportez pas de lourdes charges la première semaine.</p>
 
 
 
@@ -498,4 +498,4 @@ categories: ["Entretien & Mecanique"]
 
 
 
-<p class="wp-block-paragraph">Oui. La <strong>conduite urbaine</strong> accélère fortement l&rsquo;usure des plaquettes de frein à cause des nombreux arrêts et redémarrages aux feux et en bouchons. Sur <strong>autoroute</strong>, le freinage étant plus rare, la fréquence de remplacement s&rsquo;allonge nettement. L&rsquo;entretien doit donc être adapté à l&rsquo;environnement quotidien de votre véhicule.</p>
+<p class="wp-block-paragraph">Oui. La conduite urbaine accélère fortement l&rsquo;usure des plaquettes de frein à cause des nombreux arrêts et redémarrages aux feux et en bouchons. Sur autoroute, le freinage étant plus rare, la fréquence de remplacement s&rsquo;allonge nettement. L&rsquo;entretien doit donc être adapté à l&rsquo;environnement quotidien de votre véhicule.</p>
