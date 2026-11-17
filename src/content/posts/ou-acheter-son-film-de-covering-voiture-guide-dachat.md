@@ -109,3 +109,5 @@ categories: ["covering |racing"]
 <span style="color:#fff; font-size:15px;">Films covering, PPF, outils de pose et produits d'entretien : tout chez <strong>Fleasting</strong></span>
 <a href="https://fleasting.com/" target="_blank" rel="noopener nofollow" style="background:#e63946; color:#fff; padding:10px 22px; border-radius:3px; font-size:14px; font-weight:600; text-decoration:none; white-space:nowrap;">Voir Fleasting.com →</a>
 </div>
+
+<p class="wp-block-paragraph">👉 Retour au <a href="https://modeme-automobiles.com/quest-ce-que-le-covering-voiture/">guide complet du covering voiture</a> pour tout savoir sur cette technique.</p>
