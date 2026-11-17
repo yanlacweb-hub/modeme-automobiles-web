@@ -255,7 +255,7 @@ categories: ["voiture electrique"]
 
 <h3 class="wp-block-heading">Quelle différence entre borne rapide et ultra-rapide&nbsp;?</h3>
 
-<p class="wp-block-paragraph">👉 Pour installer votre propre borne à domicile, consultez aussi <a href="https://modeme-automobiles.com/guide-complet-pour-linstallation-dune-borne-de-recharge-a-domicile-pour-vehicule-electrique/">notre guide complet pour l'installation d'une borne de recharge à domicile</a>.</p>
+<p class="wp-block-paragraph">👉 Pour installer votre propre borne à domicile, consultez aussi notre guide complet pour l'installation d'une borne de recharge à domicile.</p>
 
 
 
@@ -274,3 +274,5 @@ categories: ["voiture electrique"]
 
 
 <p class="wp-block-paragraph">Pour aller plus loin et découvrir quel modèle vous correspond, consultez notre page dédiée à la&nbsp;<a href="/category/voiture-electrique/">voiture électrique</a>, et pour vos trajets longue distance, <a href="/voitures-electriques-et-long-trajets-conseils-pour-voyager-sereinement/">nos conseils pour voyager sereinement en électrique</a>.</p>
+
+<p class="wp-block-paragraph">Retrouvez notre <a href="https://modeme-automobiles.com/tout-savoir-sur-les-meilleures-voitures-electriques/">comparatif complet des meilleures voitures électriques 2026</a> pour choisir le bon modèle. Voir aussi  <a href="https://modeme-automobiles.com/carte-rfid-borne-de-recharge-comment-ca-marche-et-comment-lobtenir/">comment fonctionne la carte RFID de recharge</a>.</p>

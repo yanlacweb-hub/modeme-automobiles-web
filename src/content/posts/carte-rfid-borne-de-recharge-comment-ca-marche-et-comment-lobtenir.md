@@ -18,7 +18,7 @@ schema: {"@context": "https://schema.org", "@graph": [{"@type": ["Person", "Orga
 categories: ["voiture electrique"]
 ---
 
-<p class="wp-block-paragraph">Une borne publique peut être activée par une carte RFID, une application, un paiement par carte bancaire ou, sur certains réseaux, par QR code. La carte RFID reste pourtant le moyen le plus courant. Simple une fois comprise, elle reste source de confusion pour beaucoup de nouveaux conducteurs. Ce guide répond aux questions concrètes : comment ça marche, comment l'obtenir, et dans quels cas elle n'est pas le bon outil.</p>
+<p class="wp-block-paragraph">Comment fonctionne une carte RFID borne de recharge&nbsp;? Une borne publique peut être activée par une carte RFID, une application, un paiement par carte bancaire ou, sur certains réseaux, par QR code. La carte RFID reste pourtant le moyen le plus courant. Simple une fois comprise, elle reste source de confusion pour beaucoup de nouveaux conducteurs. Ce guide répond aux questions concrètes : comment ça marche, comment l'obtenir, et dans quels cas elle n'est pas le bon outil.</p>
 
 <div class="wp-block-image">
 <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1200" height="800" src="/images/articles/carte-rfid/carte-rfid-tap-borne.jpg" alt="Main approchant une carte RFID du lecteur sans contact d'une borne de recharge pour véhicule électrique" /></figure>
@@ -128,3 +128,5 @@ categories: ["voiture electrique"]
 
 <h3 class="wp-block-heading">Faut-il une carte RFID pour recharger chez soi ?</h3>
 <p class="wp-block-paragraph">Pas systématiquement. Certaines wallbox démarrent automatiquement au branchement, tandis que d'autres utilisent un badge local pour contrôler l'accès ou distinguer plusieurs utilisateurs (copropriété, parking partagé) — ce badge local n'a pas besoin d'être un badge eMSP compatible avec le réseau public.</p>
+
+<p class="wp-block-paragraph">Pour une vue d'ensemble sur l'achat d'une voiture électrique, consultez notre <a href="https://modeme-automobiles.com/tout-savoir-sur-les-meilleures-voitures-electriques/">guide complet des meilleures voitures électriques</a>. Voir aussi  <a href="https://modeme-automobiles.com/borne-de-recharge-rapide-en-france-ou-recharger-a-quel-prix-et-comment-optimiser-votre-mobilite-electrique-en-2026/">les bornes de recharge rapide en France</a>.</p>

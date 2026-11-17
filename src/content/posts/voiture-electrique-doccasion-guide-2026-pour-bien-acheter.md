@@ -197,7 +197,7 @@ categories: ["Achat & Occasion"]
 
 
 
-<p class="wp-block-paragraph">👉 Pour la checklist complète applicable à tout achat d'occasion (pas seulement électrique), consultez aussi <a href="https://modeme-automobiles.com/10-choses-a-verifier-lors-de-lachat-dune-voiture-doccasion/">notre guide des 10 choses à vérifier avant d'acheter une voiture d'occasion</a>.</p>
+<p class="wp-block-paragraph">👉 Pour la checklist complète applicable à tout achat d'occasion (pas seulement électrique), consultez aussi notre guide des 10 choses à vérifier avant d'acheter une voiture d'occasion.</p>
 
 <h2 class="wp-block-heading">Questions fréquentes sur la voiture électrique d’occasion</h2>
 
@@ -224,3 +224,5 @@ categories: ["Achat & Occasion"]
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p class="wp-block-paragraph"><strong>Quels sont les principaux coûts d’entretien sur une voiture électrique d’occasion&nbsp;?</strong><br>Les postes d’<strong>entretien voiture électrique</strong> concernent principalement les pneumatiques, les freins, la filtration d’air et les liquides spécifiques. La simplicité de la transmission réduit considérablement la fréquence des interventions. Une révision annuelle suffit généralement, sauf usure prématurée détectée.<br>• Remplacer le&nbsp;filtre d’habitacle&nbsp;et le liquide de refroidissement batterie selon la périodicité recommandée<br>• Contrôler régulièrement&nbsp;chargeur embarqué&nbsp;et câblages lors de chaque révision</p>
 </blockquote>
+
+<p class="wp-block-paragraph">Pour une vue d'ensemble sur l'achat d'une voiture électrique, consultez notre <a href="https://modeme-automobiles.com/tout-savoir-sur-les-meilleures-voitures-electriques/">guide complet des meilleures voitures électriques</a>. Voir aussi  <a href="https://modeme-automobiles.com/suv-electriques-et-berlines-comment-choisir-selon-son-usage-et-son-budget/">notre comparatif SUV vs berlines électriques</a>.</p>
