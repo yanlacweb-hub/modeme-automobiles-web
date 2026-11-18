@@ -17,4 +17,4 @@ categories: []
 ---
 
 
-<p>Le formulaire de contact du site d'origine (Contact Form 7) n'a pas d'équivalent fonctionnel sur ce nouveau site statique. Cette page est à compléter avec un vrai moyen de contact (email, formulaire branché à un service tiers, etc.) avant la mise en ligne.</p>
+<p>Cette page est en cours de mise à jour. Pour toute question, retrouvez-nous sur nos réseaux sociaux.</p>
