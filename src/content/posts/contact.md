@@ -17,4 +17,4 @@ categories: []
 ---
 
 
-<p>Cette page est en cours de mise à jour. Pour toute question, retrouvez-nous sur nos réseaux sociaux.</p>
+<p>Pour toute question sur nos articles, guides auto/moto ou une demande de partenariat, contactez-nous à <a href="mailto:contact@modeme-automobiles.com">contact@modeme-automobiles.com</a>.</p>
